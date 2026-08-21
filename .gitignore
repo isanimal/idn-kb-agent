@@ -1,0 +1,16 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+runtime/chrome-profile/
+runtime/screenshots/
+runtime/artifacts/
+runtime/*.lock
+
+logs/
+data/*.db
+data/*.db-*
+.vscode/
+
