@@ -129,7 +129,10 @@ def route_product(slug,settings,database,inventory=None):
     if identity.decision==IdentityDecision.UPDATE_EXISTING and not target:warnings.append("EDIT_ROUTE_NOT_DISCOVERED")
     diff=build_diff(payload,existing) if existing else {"policy":"CREATE","fields":[],"high_risk_conflict":False}
     if diff["high_risk_conflict"]:warnings.append("HIGH_RISK_CONFLICT")
-    checked=datetime.now(timezone.utc).isoformat();route={"schema_version":"publish-route-v1","slug":slug,"publish_readiness":quality["publish_readiness"],"identity_decision":identity.decision.value,"kb_product_id":(existing or {}).get("kb_product_id"),"target_url":target if identity.decision!=IdentityDecision.REVIEW_REQUIRED else None,"match_method":identity.match_method.value,"confidence":identity.confidence,"inventory_hash":inventory["inventory_hash"],"checked_against_live_kb_at":checked,"route_ttl_seconds":3600,"warnings":warnings,"candidate_matches":[x.model_dump() for x in identity.candidate_matches],"publisher_allowed":quality["publish_readiness"]=="READY" and identity.decision!=IdentityDecision.REVIEW_REQUIRED and bool(target) and not diff["high_risk_conflict"]}
+    dry_allowed=quality["publish_readiness"]=="READY" and identity.decision!=IdentityDecision.REVIEW_REQUIRED and bool(target)
+    blocking=[x["field"] for x in diff["fields"] if x["classification"]=="CONFLICT"]
+    live_allowed=dry_allowed and not blocking
+    checked=datetime.now(timezone.utc).isoformat();route={"schema_version":"publish-route-v2","slug":slug,"publish_readiness":quality["publish_readiness"],"identity_decision":identity.decision.value,"kb_product_id":(existing or {}).get("kb_product_id"),"target_url":target if identity.decision!=IdentityDecision.REVIEW_REQUIRED else None,"match_method":identity.match_method.value,"confidence":identity.confidence,"inventory_hash":inventory["inventory_hash"],"checked_against_live_kb_at":checked,"route_ttl_seconds":3600,"warnings":warnings,"candidate_matches":[x.model_dump() for x in identity.candidate_matches],"blocking_conflicts":blocking,"dry_run_allowed":dry_allowed,"live_publish_allowed":live_allowed,"publisher_allowed":live_allowed}
     out=ROUTES/slug;save(out/"route.json",route);save(out/"diff.json",diff);database.upsert_publish_route(slug=slug,decision=identity.decision.value,kb_product_id=route["kb_product_id"],match_method=route["match_method"],confidence=route["confidence"],inventory_hash=route["inventory_hash"],checked_at=checked,route_path=str(out/"route.json"));return route,identity,diff
 
 def route_is_fresh(route,inventory,max_age=3600):
@@ -141,8 +144,9 @@ def publisher_preflight(slug,inventory=None):
     if not path.exists():return {"allowed":False,"reason":"ROUTE_MISSING"}
     route=load(path)
     if not route_is_fresh(route,inventory,route.get("route_ttl_seconds",3600)):return {"allowed":False,"reason":"ROUTE_STALE"}
-    if route.get("publish_readiness")!="READY":return {"allowed":False,"reason":"QUALITY_NOT_READY"}
+    if route.get("publish_readiness")!="READY":return {"allowed":False,"dry_run_allowed":False,"live_publish_allowed":False,"reason":"QUALITY_NOT_READY"}
     if route.get("identity_decision")=="REVIEW_REQUIRED":return {"allowed":False,"reason":"IDENTITY_REVIEW_REQUIRED"}
     if not route.get("target_url"):return {"allowed":False,"reason":"TARGET_ROUTE_MISSING"}
-    if not route.get("publisher_allowed"):return {"allowed":False,"reason":"ROUTE_POLICY_BLOCKED"}
-    return {"allowed":True,"reason":"READY"}
+    dry=bool(route.get("dry_run_allowed",route.get("publisher_allowed")));live=bool(route.get("live_publish_allowed",route.get("publisher_allowed")))
+    if not dry:return {"allowed":False,"dry_run_allowed":False,"live_publish_allowed":live,"reason":"DRY_RUN_BLOCKED"}
+    return {"allowed":True,"dry_run_allowed":dry,"live_publish_allowed":live,"reason":"READY" if live else "HIGH_RISK_CONFLICT_PRESERVED"}

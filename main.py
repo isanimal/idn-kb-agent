@@ -19,6 +19,7 @@ from app.kb.reconnaissance import print_auth_test, run_kb_auth_test, run_kb_reco
 from app.resolver.service import build_report as build_resolver_report, preflight as resolver_preflight, run_batch as resolver_batch, run_one as resolve_one
 from app.quality.service import build_report as build_quality_report, run_batch as quality_batch, run_one as quality_one
 from app.identity.service import LIVE as KB_LIVE_INDEX, audit_duplicates, load as identity_load, refresh_live_index, route_product
+from app.publisher.service import PublishReadinessViolation, dry_run as publisher_dry_run, preflight as publisher_preflight_check, report as publisher_saved_report
 
 
 def command_health() -> int:
@@ -258,12 +259,31 @@ def command_dedup_batch(limit)->int:
     for r in rows:print(f"{r['slug']:40} {r['identity_decision']:16} {r['match_method']}")
     print(f"\nRouted {len(rows)} product(s); KB writes: 0");return 0
 
+def command_publisher_preflight(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    result=publisher_preflight_check(slug);route=result["route"]
+    print(f"PUBLISHER PREFLIGHT\n\nProduct................. {slug}\nIdentity route.......... {route['identity_decision']}\nRoute fresh............. {'YES' if result['route_fresh'] else 'NO'}\nBlocking conflicts...... {', '.join(route.get('blocking_conflicts',[])) or '-'}\n\nDRY RUN: {'READY' if result['dry_run_allowed'] else 'BLOCKED'}\nLIVE PUBLISH: {'READY' if result['live_publish_allowed'] else 'BLOCKED'}\nReason.................. {result['reason']}\nKB writes............... 0")
+    return 0 if result["dry_run_allowed"] else 2
+
+def command_publish_dry_run(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    try:r=publisher_dry_run(slug,get_settings())
+    except PublishReadinessViolation as exc:print(str(exc));return 2
+    print(f"PUBLISHER DRY RUN\n\nProduct................. {slug}\nRoute................... {r['mode']}\nTarget.................. {r['target_url']}\nFields evaluated........ {len(r['actions'])}\nConflicts detected...... {r['conflicts']['detected']}\nConflicts preserved..... {r['conflicts']['preserved']}\nConflicts overwritten... {r['conflicts']['overwritten']}\nReadback................ {r['validation']['readback']}\nSave clicked............ NO\nServer writes........... 0\n\nDRY RUN: PASS\nLIVE PUBLISH: {'READY' if r['live_publish_allowed'] else 'BLOCKED'}")
+    return 0
+
+def command_publisher_report(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    r=publisher_saved_report(slug);print(f"PUBLISHER REPORT\n\nProduct................. {slug}\nSystem Status........... {r['system_status']}\nRoute................... {r['mode']}\n\nConflicts:\nDetected................ {r['conflicts']['detected']}\nPreserved............... {r['conflicts']['preserved']}\nOverwritten............. {r['conflicts']['overwritten']}\n\nDry run allowed......... {'YES' if r['dry_run_allowed'] else 'NO'}\nLive publish allowed.... {'YES' if r['live_publish_allowed'] else 'NO'}\nDry run................. {r['dry_run']}\nServer writes........... 0\nSave clicked............ NO")
+    if r["blocking_conflicts"]:print("Reason.................. HIGH_RISK_CONFLICT: "+", ".join(r["blocking_conflicts"]))
+    return 0
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
@@ -290,6 +310,9 @@ def main() -> int:
         if args.command=="duplicate-audit":return command_duplicate_audit(args.refresh)
         if args.command=="dedup-check":return command_dedup_check(args.slug)
         if args.command=="dedup-batch":return command_dedup_batch(args.limit)
+        if args.command=="publisher-preflight":return command_publisher_preflight(args.slug)
+        if args.command=="publish-dry-run":return command_publish_dry_run(args.slug)
+        if args.command=="publisher-report":return command_publisher_report(args.slug)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
