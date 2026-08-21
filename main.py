@@ -20,6 +20,7 @@ from app.resolver.service import build_report as build_resolver_report, prefligh
 from app.quality.service import build_report as build_quality_report, run_batch as quality_batch, run_one as quality_one
 from app.identity.service import LIVE as KB_LIVE_INDEX, audit_duplicates, load as identity_load, refresh_live_index, route_product
 from app.publisher.service import PublishReadinessViolation, dry_run as publisher_dry_run, preflight as publisher_preflight_check, report as publisher_saved_report
+from app.merge.service import merge_batch, merge_check, merge_report
 
 
 def command_health() -> int:
@@ -278,12 +279,27 @@ def command_publisher_report(slug)->int:
     if r["blocking_conflicts"]:print("Reason.................. HIGH_RISK_CONFLICT: "+", ".join(r["blocking_conflicts"]))
     return 0
 
+def _print_merge(r)->None:
+    print(f"UPDATE MERGE REPORT\n\nProduct................ {r['slug']}\nIdentity............... {r['identity_decision']}\n\nFields:")
+    for x in r["fields"]:print(f"{x['field'] + '':27} {x['decision']}")
+    c=r["counts"];print(f"\nRegression prevented... {r['regressions_prevented']}\nNew fields added....... {c['FILL_EMPTY']}\nExisting preserved..... {c['KEEP_EXISTING']}\nReplaced............... {c['REPLACE_WITH_NEW']}\nAugmented.............. {c['AUGMENT_EXISTING']}\nUnchanged.............. {c['UNCHANGED']}\nReview required........ {c['REVIEW_REQUIRED']}\n\nMerge readiness........ {r['merge_readiness']}\nKB writes.............. 0")
+def command_merge_check(slug,local_ai)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    r,_=merge_check(slug,local_ai);_print_merge(r);return 0 if r["merge_readiness"]=="READY" else 2
+def command_merge_report(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    _print_merge(merge_report(slug));return 0
+def command_merge_batch(limit)->int:
+    rows=merge_batch(limit)
+    for r in rows:print(f"{r['slug']:40} {r['merge_readiness']:16} prevented={r['regressions_prevented']}")
+    print(f"\nMerged {len(rows)} product(s); KB writes: 0");return 0
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
@@ -313,6 +329,9 @@ def main() -> int:
         if args.command=="publisher-preflight":return command_publisher_preflight(args.slug)
         if args.command=="publish-dry-run":return command_publish_dry_run(args.slug)
         if args.command=="publisher-report":return command_publisher_report(args.slug)
+        if args.command=="merge-check":return command_merge_check(args.slug,args.local_ai)
+        if args.command=="merge-report":return command_merge_report(args.slug)
+        if args.command=="merge-batch":return command_merge_batch(args.limit)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")

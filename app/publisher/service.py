@@ -7,6 +7,7 @@ from app.identity.service import LIVE,load,publisher_preflight,route_is_fresh
 from app.kb.auth import classify_auth_page,wait_for_manual_auth
 from app.kb.guard import ReadOnlyGuard,ReadOnlyViolation
 from app.kb.models import AuthState
+from app.merge.service import norm,topics
 
 OUT=Path("data/publisher_dry_runs");SHOTS=Path("runtime/screenshots/publisher")
 STATIC={
@@ -45,12 +46,20 @@ def decide_action(field,current,proposed,conflicts):
     if proposed in (None,"",[]):return ("PRESERVE_EXISTING","PRESERVE_EXISTING") if current else ("UNCHANGED","UNCHANGED")
     if current==proposed:return "UNCHANGED","UNCHANGED"
     action="FILL_EMPTY" if not current else "UPDATE_VALUE";return action,"APPLIED_LOCALLY"
+def publisher_payload_path(slug,identity_decision):
+    path=(Path("data/merge_ready")/slug/"merged_payload.json") if identity_decision=="UPDATE_EXISTING" else (Path("data/publish_ready")/slug/"publish_payload.json")
+    if not path.exists():raise PublisherPreflightViolation("MERGE_ARTIFACT_REQUIRED" if identity_decision=="UPDATE_EXISTING" else "PUBLISH_PAYLOAD_REQUIRED")
+    return path
+def content_regression(before,after,field):
+    old_topics,new_topics=topics(before),topics(after);lost_ratio=len(old_topics-new_topics)/len(old_topics) if old_topics else 0
+    return (lost_ratio>.05 and field!="claims_to_avoid") or len(norm(after))<len(norm(before))*0.9
 
 def dry_run(slug,settings):
     check=preflight(slug);route=check["route"]
     if route["publish_readiness"]!="READY":raise PublishReadinessViolation(f"PublishReadinessViolation: {route['publish_readiness']}")
     if not check["dry_run_allowed"]:raise PublisherPreflightViolation(check["reason"])
-    payload=load(Path("data/publish_ready")/slug/"publish_payload.json");schema=load("data/kb_site_models/kb_training_form_schema.json")
+    payload_path=publisher_payload_path(slug,route["identity_decision"])
+    payload=load(payload_path);schema=load("data/kb_site_models/kb_training_form_schema.json")
     category_labels={x["label"] for f in schema["fields"] if f["label"]=="Kategori" for x in f["options"]};trainer_ids={x["value"] for x in schema.get("trainer_options",[])}
     if payload["category"] not in category_labels:raise PublisherPreflightViolation("SCHEMA_INCOMPATIBLE_CATEGORY")
     invalid_trainers=[x["kb_trainer_id"] for x in payload["trainer_references"] if x["kb_trainer_id"] not in trainer_ids]
@@ -85,8 +94,16 @@ def dry_run(slug,settings):
         actions.append(trainer_action)
         page.screenshot(path=str(SHOTS/f"{slug}-after-local.png"),full_page=True)
         if any(x["after"]!=_field_value(page.get_by_label(STATIC[x["field"]][0],exact=False).first,x["field"]) for x in actions if x["field"] in STATIC):raise PublisherPreflightViolation("READBACK_MISMATCH")
+        merge_report_path=Path("data/merge_ready")/slug/"merge_report.json";regressions=[]
+        if route["identity_decision"]=="UPDATE_EXISTING":
+            merge_report=load(merge_report_path)
+            protected={x["field"] for x in merge_report["fields"] if x["decision"] in {"KEEP_EXISTING","UNCHANGED"}}
+            for action in actions:
+                if action["field"] in protected and "before" in action and "after" in action:
+                    if content_regression(action["before"],action["after"],action["field"]):regressions.append(action["field"])
+            if regressions:raise PublisherPreflightViolation("CONTENT_REGRESSION:"+",".join(regressions))
         if guard.blocked:raise ReadOnlyViolation(f"Unexpected mutation request blocked: {guard.blocked}")
-        result={"schema_version":"publisher-dry-run-v1","slug":slug,"generated_at":datetime.now(timezone.utc).isoformat(),"system_status":"PASS","mode":route["identity_decision"],"target_url":route["target_url"],"dry_run":"PASS","dry_run_allowed":True,"live_publish_allowed":False if conflicts else check["live_publish_allowed"],"blocking_conflicts":sorted(conflicts),"conflicts":{"detected":len(conflicts),"preserved":sum(x["status"]=="CONFLICT_PRESERVED" for x in actions),"overwritten":0},"actions":actions,"validation":{"category":payload["category"],"category_valid":True,"trainer_exact_ids":not invalid_trainers,"observed_format":format_value,"readback":"PASS"},"screenshots":[str(SHOTS/f"{slug}-before.png"),str(SHOTS/f"{slug}-after-local.png")],"network":{"blocked_mutations":guard.blocked,"server_writes":0},"save_clicked":False}
+        result={"schema_version":"publisher-dry-run-v2","slug":slug,"generated_at":datetime.now(timezone.utc).isoformat(),"system_status":"PASS","mode":route["identity_decision"],"payload_source":str(payload_path),"target_url":route["target_url"],"dry_run":"PASS","dry_run_allowed":True,"live_publish_allowed":False if conflicts else check["live_publish_allowed"],"blocking_conflicts":sorted(conflicts),"conflicts":{"detected":len(conflicts),"preserved":sum(x["status"]=="CONFLICT_PRESERVED" for x in actions),"overwritten":0},"actions":actions,"validation":{"category":payload["category"],"category_valid":True,"trainer_exact_ids":not invalid_trainers,"observed_format":format_value,"readback":"PASS","content_regression":False,"regression_fields":regressions},"screenshots":[str(SHOTS/f"{slug}-before.png"),str(SHOTS/f"{slug}-after-local.png")],"network":{"blocked_mutations":guard.blocked,"server_writes":0},"save_clicked":False}
         save(OUT/slug/"dry_run_report.json",result);return result
     finally:manager.stop()
 
