@@ -1,0 +1,14 @@
+{
+  "training_source_id": 11,
+  "canonical_url": "https://www.idn.id/training/mtcwe/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "65652dbdf6efa90393a98cbf3b5708051cc8c6deb68e063de778f6698785157a",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:13.726744+00:00",
+  "facts_path": "data\\products\\mtcwe\\facts.json",
+  "evidence_path": "data\\products\\mtcwe\\evidence.json",
+  "raw_snapshot_path": "data\\products\\mtcwe\\raw.html",
+  "last_error": null
+}

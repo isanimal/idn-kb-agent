@@ -1,0 +1,495 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Certified Ethical Hacker (CEH)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ceh/",
+          "source_section": "Page title",
+          "source_text": "Certified Ethical Hacker (CEH)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Cyber Security",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ceh/",
+          "source_section": "Training registry",
+          "source_text": "Cyber Security",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ceh/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ceh/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ceh/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) . Pekerjaan ini juga sering menawarkan gaji yang menarik, dengan rata-rata gaji tahunan di Amerika Serikat sekitar $109,540 (Coursera ) . Gaji yang Kompetitif Profesional ethical hacker dihargai tinggi karena keahlian khusus mereka dalam keamanan siber. Gaji rata-rata untuk seorang ethical hacker di AS mencapai $121,875 per tahun ( Whizlabs ) . Bahkan bagi yang baru memulai karir, gaji entry-level bisa mencapai $112,000 per tahun ( Whizlabs ) . Meningkatnya Ancaman Siber Serangan siber semakin canggih dan beragam, mulai dari malware, ransomware, hingga serangan berbasis AI. Menguasai teknik ethical hacking memungkinkan seseorang untuk lebih siap menghadapi dan menangkal ancaman ini.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "Lantas, Apa Alasan Harus Menguasai CEH?",
+        "source_text": "Lantas, Apa Alasan Harus Menguasai CEH? Tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) . Pekerjaan ini juga sering menawarkan gaji yang menarik, dengan rata-rata gaji tahunan di Amerika Serikat sekitar $109,540 (Coursera ) . Gaji yang Kompetitif Profesional ethical hacker dihargai tinggi karena keahlian khusus mereka dalam keamanan siber. Gaji rata-rata untuk seorang ethical hacker di AS mencapai $121,875 per tahun ( Whizlabs ) . Bahkan bagi yang baru memulai karir, gaji entry-level bisa mencapai $112,000 per tahun ( Whizlabs ) . Meningkatnya Ancaman Siber Serangan siber semakin canggih dan beragam, mulai dari malware, ransomware, hingga serangan berbasis AI. Menguasai teknik ethical hacking memungkinkan seseorang untuk lebih siap menghadapi dan menangkal ancaman ini.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "FAQ Jawaban dari Pertanyaan-Pertanyaan Anda! Apa yang harus saya bawa saat pelatihan? Peserta diharapkan membawa laptop dengan sistem operasi Windows atau Linux. Semua alat dan materi pelatihan lainnya akan disediakan. Bagaimana jika saya tidak memiliki pengetahuan dasar tentang jaringan dan Linux? Kami menyediakan kursus dasar jaringan dan Linux di LMS yang bisa diakses gratis oleh peserta yang mendaftar untuk pelatihan CEH. Apa keuntungan mengikuti pelatihan CEH dibandingkan pelatihan lainnya? Pelatihan CEH memberikan pengetahuan dan keterampilan yang praktis, diakui secara internasional, dan memberikan akses ke komunitas profesional yang luas. Peserta juga mendapatkan akses gratis ke kursus dasar jaringan dan Linux, yang memperkuat fondasi pengetahuan mereka. Kapan dan di mana pelatihan akan diadakan? Pelatihan diadakan secara offline selama 5 hari, dari Senin hingga Jumat, jam 9:00 – 17:00 di Ruang Pelatihan IT, ID Networkers",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "9:00",
+        "end": "17:00",
+        "timezone": null
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "FAQ",
+        "source_text": "FAQ Jawaban dari Pertanyaan-Pertanyaan Anda! Apa yang harus saya bawa saat pelatihan? Peserta diharapkan membawa laptop dengan sistem operasi Windows atau Linux. Semua alat dan materi pelatihan lainnya akan disediakan. Bagaimana jika saya tidak memiliki pengetahuan dasar tentang jaringan dan Linux? Kami menyediakan kursus dasar jaringan dan Linux di LMS yang bisa diakses gratis oleh peserta yang mendaftar untuk pelatihan CEH. Apa keuntungan mengikuti pelatihan CEH dibandingkan pelatihan lainnya? Pelatihan CEH memberikan pengetahuan dan keterampilan yang praktis, diakui secara internasional, dan memberikan akses ke komunitas profesional yang luas. Peserta juga mendapatkan akses gratis ke kursus dasar jaringan dan Linux, yang memperkuat fondasi pengetahuan mereka. Kapan dan di mana pelatihan akan diadakan? Pelatihan diadakan secara offline selama 5 hari, dari Senin hingga Jumat, jam 9:00 – 17:00 di Ruang Pelatihan IT, ID Networkers",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+        ],
+        "raw": "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "Apa Saja Yang Akan Anda Pelajari di Training CEH ini? Berikut Kurikulumnya!",
+        "source_text": "Apa Saja Yang Akan Anda Pelajari di Training CEH ini? Berikut Kurikulumnya! Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffee Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "Fasilitas Lengkap",
+        "source_text": "Fasilitas Lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "Training Ini Sangat Direkomendasikan Untuk",
+        "source_text": "Training Ini Sangat Direkomendasikan Untuk Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "Trainer Tersertifikasi",
+        "source_text": "Trainer Tersertifikasi Trainer bersertifikasi tingkat internasional, praktisi dan berpengalaman lebih dari 5 tahun di bidang CEH",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "Kuasai CEH Bersama Instruktur Berpengalaman Dari ID-Networkers",
+        "source_text": "Kuasai CEH Bersama Instruktur Berpengalaman Dari ID-Networkers",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ceh/",
+        "source_section": "After sales yang baik",
+        "source_text": "After sales yang baik After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Daftar Training CEH (Certified Ethical hacker) by ID-Networkers! Sekarang Juga!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "PERHATIAN!!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Training ini Khusus Untuk Anda Yang Ingin Menjadi White Hat Hacker dan mendapatkan Penghasilan Fantastis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Ambil Kesempatan Ini Sekarang Juga!!",
+      "items": []
+    },
+    {
+      "heading": "Lantas, Apa Alasan Harus Menguasai CEH?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) . Pekerjaan ini juga sering menawarkan gaji yang menarik, dengan rata-rata gaji tahunan di Amerika Serikat sekitar $109,540 (Coursera ) . Gaji yang Kompetitif Profesional ethical hacker dihargai tinggi karena keahlian khusus mereka dalam keamanan siber. Gaji rata-rata untuk seorang ethical hacker di AS mencapai $121,875 per tahun ( Whizlabs ) . Bahkan bagi yang baru memulai karir, gaji entry-level bisa mencapai $112,000 per tahun ( Whizlabs ) . Meningkatnya Ancaman Siber Serangan siber semakin canggih dan beragam, mulai dari malware, ransomware, hingga serangan berbasis AI. Menguasai teknik ethical hacking memungkinkan seseorang untuk lebih siap menghadapi dan menangkal ancaman ini.",
+      "items": []
+    },
+    {
+      "heading": "Saatnya Anda Berhasil!!",
+      "semantic_type": "CTA",
+      "content": "Dapatkan Kemampuan Certified Ethical Hacker dan Gaji Paling Kompetitif dengan Metode Belajar Yang Sudah Terbukti! Dapatkan Kemampuan Certified Ethical Hacker dan Gaji Paling Kompetitif dengan Metode Belajar Yang Sudah Terbukti!",
+      "items": []
+    },
+    {
+      "heading": "STOP RAGU! Ini adalah waktu yang paling tepat. Upgrade skill anda SEKARANG! dan Kuasai Bidang Cyber Security!",
+      "semantic_type": "CTA",
+      "content": "Beberapa tahun yang lalu, di Indonesia, kata “HACKER” sering kali dihubungkan dengan tindakan ilegal dan aktivitas yang merugikan. Keahlian dalam meretas sistem keamanan dianggap berbahaya dan meresahkan. Namun, dalam dunia yang semakin digital, pandangan ini telah berubah. Saat ini, perusahaan sangat membutuhkan Certified Ethical Hackers untuk melindungi data dan sistem mereka. Dengan bergabung di kursus Certified Ethical Hacker (CEH) di ID Networkers, Anda akan dibimbing untuk memahami metodologi hacking yang efektif dan aplikatif untuk berbagai infrastruktur digital. Kursus ini juga mempersiapkan Anda untuk meraih sertifikasi CEH yang diakui secara internasional. Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "STOP RAGU! Ini adalah waktu yang paling tepat. Upgrade skill anda SEKARANG! dan Kuasai Bidang Cyber Security!",
+      "semantic_type": "CTA",
+      "content": "Beberapa tahun yang lalu, di Indonesia, kata “HACKER” sering kali dihubungkan dengan tindakan ilegal dan aktivitas yang merugikan. Keahlian dalam meretas sistem keamanan dianggap berbahaya dan meresahkan. Namun, dalam dunia yang semakin digital, pandangan ini telah berubah. Saat ini, perusahaan sangat membutuhkan Certified Ethical Hackers untuk melindungi data dan sistem mereka. Dengan bergabung di kursus Certified Ethical Hacker (CEH) di ID Networkers, Anda akan dibimbing untuk memahami metodologi hacking yang efektif dan aplikatif untuk berbagai infrastruktur digital. Kursus ini juga mempersiapkan Anda untuk meraih sertifikasi CEH yang diakui secara internasional. Gabung Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Keunggulan Utama Kami",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Instruktur Berpengalaman Kursus ini dipandu oleh instruktur yang memiliki pengalaman industri bertahun-tahun dalam bidang CEH / Cyber Security, memastikan peserta mendapatkan pengetahuan dan keterampilan praktis yang relevan dan up-to-date Kurikulum Komprehensif \"Materi kursus dirancang secara menyeluruh mencakup semua aspek CEH, mulai dari konsep dasar hingga teknik lanjutan Sertifikat Training Resmi Peserta yang menyelesaikan kursus akan mendapatkan sertifikat resmi dari ID Networkers, yang diakui dalam industri dan dapat meningkatkan kredibilitas profesional mereka. Dukungan Karir ID Networkers menawarkan bantuan penyaluran kerja dengan membangun jaringan alumni yang luas untuk membantu peserta dalam mengembangkan karir mereka di bidang CEH / Cyber Security. Pelatihan Khusus untuk Sertifikasi Selain sertifikat dari ID Networkers, kursus ini juga mempersiapkan peserta untuk ujian sertifikasi CEH internasional yaitu EC-Council meningkatkan peluang mereka untuk mendapatkan sertifikasi profesional yang diakui secara global. Testimoni dan Rekam Jejak ID Networkers memiliki rekam jejak yang terbukti dalam menghasilkan profesional CEH yang sukses, didukung oleh testimoni positif dari alumni yang telah menempuh kursus ini.",
+      "items": []
+    },
+    {
+      "heading": "berikut Kepuasan alumni kami",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "kami membantu puluhan ribu orang untuk mencapai karir impian mereka!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Beberapa Dari Mereka Ada yang Sudah Bekerja Perusahaan Multi Nasional hingga luar negeri!",
+      "items": []
+    },
+    {
+      "heading": "berikut Kepuasan alumni kami",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "kami membantu puluhan ribu orang untuk mencapai karir impian mereka!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Beberapa Dari Mereka Ada yang Sudah Bekerja Perusahaan Multi Nasional hingga luar negeri!",
+      "items": []
+    },
+    {
+      "heading": "Mirza Eka Putra",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Andries Siregar",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Gilbert",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "45000+ Orang Dari Level Mahasiswa, Professional Corporate, Manager, Hingga Business Owner Telah Bergabung Dengan Kami. Sekarang Giliran Anda!!",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Masih Ragu? Simak Benefit Berikut Karna Hanya di ID-Networkers Kamu Bisa Mendapatkan 8 Keuntungan Menarik Ini",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kesempatan Mengulang Exam",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Kesempatan Khusus mengulang exam, Biaya Re-Exam pertama Cukup Rp 6 Juta Per-Examnya)",
+      "items": []
+    },
+    {
+      "heading": "Menginap Gratis",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Peserta training diperbolehkan menginap di lokasi pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Materi terstruktur",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi training terstruktur, mudah dipahami, dan disesuaikan dengan kebutuhan industri",
+      "items": []
+    },
+    {
+      "heading": "Disediakan Quiz & Info Sertifikasi Gratis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah selesai training akan disediakan quiz dan pemberitahuan info sertifikasi gratis untuk mengevaluasi materi",
+      "items": []
+    },
+    {
+      "heading": "Hemat & Berkualitas",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi Berkualitas dan Harga Training Paling terjangkau untuk sekelas training CEH",
+      "items": []
+    },
+    {
+      "heading": "Trainer Tersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer bersertifikasi tingkat internasional, praktisi dan berpengalaman lebih dari 5 tahun di bidang CEH",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+      "items": []
+    },
+    {
+      "heading": "After sales yang baik",
+      "semantic_type": "SUPPORT",
+      "content": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "items": []
+    },
+    {
+      "heading": "Apa Saja Yang Akan Anda Pelajari di Training CEH ini? Berikut Kurikulumnya!",
+      "semantic_type": "CURRICULUM",
+      "content": "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice",
+      "items": []
+    },
+    {
+      "heading": "Training Ini Sangat Direkomendasikan Untuk",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+      "items": []
+    },
+    {
+      "heading": "Kuasai CEH Bersama Instruktur Berpengalaman Dari ID-Networkers",
+      "semantic_type": "TRAINERS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Booking Jadwal Terdekat Sekarang! Seat Terbatas!",
+      "semantic_type": "CTA",
+      "content": "Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Kuasai CEH untuk Upgrade Karir Mu Sekarang Juga!",
+      "semantic_type": "CTA",
+      "content": "Note : Jika masih awam dan belum punya basic sama sekali, bisa pelajari terlebih dahulu materi linux dasar secara Gratis melalui website berikut : https://lms.idn.id/courses/belajar-linux-dari-nol/",
+      "items": []
+    },
+    {
+      "heading": "FAQ",
+      "semantic_type": "FAQ",
+      "content": "Jawaban dari Pertanyaan-Pertanyaan Anda! Apa yang harus saya bawa saat pelatihan? Peserta diharapkan membawa laptop dengan sistem operasi Windows atau Linux. Semua alat dan materi pelatihan lainnya akan disediakan. Bagaimana jika saya tidak memiliki pengetahuan dasar tentang jaringan dan Linux? Kami menyediakan kursus dasar jaringan dan Linux di LMS yang bisa diakses gratis oleh peserta yang mendaftar untuk pelatihan CEH. Apa keuntungan mengikuti pelatihan CEH dibandingkan pelatihan lainnya? Pelatihan CEH memberikan pengetahuan dan keterampilan yang praktis, diakui secara internasional, dan memberikan akses ke komunitas profesional yang luas. Peserta juga mendapatkan akses gratis ke kursus dasar jaringan dan Linux, yang memperkuat fondasi pengetahuan mereka. Kapan dan di mana pelatihan akan diadakan? Pelatihan diadakan secara offline selama 5 hari, dari Senin hingga Jumat, jam 9:00 – 17:00 di Ruang Pelatihan IT, ID Networkers",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Daftar Training CEH (Certified Ethical hacker) by ID-Networkers! Sekarang Juga!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Training ini Khusus Untuk Anda Yang Ingin Menjadi White Hat Hacker dan mendapatkan Penghasilan Fantastis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Ambil Kesempatan Ini Sekarang Juga!!",
+      "items": []
+    },
+    {
+      "heading": "kami membantu puluhan ribu orang untuk mencapai karir impian mereka!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Beberapa Dari Mereka Ada yang Sudah Bekerja Perusahaan Multi Nasional hingga luar negeri!",
+      "items": []
+    },
+    {
+      "heading": "kami membantu puluhan ribu orang untuk mencapai karir impian mereka!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Beberapa Dari Mereka Ada yang Sudah Bekerja Perusahaan Multi Nasional hingga luar negeri!",
+      "items": []
+    },
+    {
+      "heading": "Mirza Eka Putra",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Andries Siregar",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Gilbert",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Masih Ragu? Simak Benefit Berikut Karna Hanya di ID-Networkers Kamu Bisa Mendapatkan 8 Keuntungan Menarik Ini",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Disediakan Quiz & Info Sertifikasi Gratis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah selesai training akan disediakan quiz dan pemberitahuan info sertifikasi gratis untuk mengevaluasi materi",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MISSING_PRICE",
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Certified Ethical Hacker (CEH)",
+    "content_hash": "d04e347933252cdb1664c0198ea5a7b46f174bbd9c5a8c0d46e3e882011be6f8",
+    "template_type": "ELEMENTOR"
+  }
+}

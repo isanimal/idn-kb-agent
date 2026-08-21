@@ -1,0 +1,433 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Palo Alto NGFW",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+          "source_section": "Page title",
+          "source_text": "Palo Alto NGFW",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Palo Alto",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+          "source_section": "Training registry",
+          "source_text": "Palo Alto",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/palo-alto-ngfw/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/palo-alto-ngfw/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kursus Palo Alto NGFW dirancang untuk memberikan pemahaman dan keterampilan teknis mendalam bagi para profesional IT yang ingin menguasai teknologi firewall generasi terbaru dari Palo Alto Networks. Melalui pendekatan teori dan praktik langsung, peserta akan mempelajari cara mengimplementasikan, mengonfigurasi, dan mengoptimalkan perangkat NGFW untuk melindungi infrastruktur jaringan dari berbagai ancaman siber. Program ini direkomendasikan untuk Network Engineer, Security Engineer, Administrator Jaringan , serta siapa pun yang bertanggung jawab atas keamanan dan manajemen jaringan pada berbagai skala organisasi. Dalam pelatihan ini, peserta akan dibimbing untuk memahami prinsip kerja NGFW, arsitektur sistem, serta fitur-fitur keamanan canggih yang menjadi keunggulan Palo Alto. Setelah menyelesaikan kursus, peserta akan memiliki keterampilan komprehensif untuk mengelola Palo Alto NGFW secara efektif dan mampu meningkatkan posture keamanan organisasi. Dengan pemahaman mendalam tentang fitur-fitur canggih Palo Alto, peserta dapat memastikan jaringan tetap terlindungi dari ancaman siber modern yang semakin kompleks. Jika Anda ingin meningkatkan keahlian keamanan jaringan dan memahami bagaimana NGFW bekerja dalam skenario nyata, pelatihan Palo Alto NGFW adalah pilihan terbaik untuk pengembangan karier Anda di bidang Network Security.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kursus Palo Alto NGFW dirancang untuk memberikan pemahaman dan keterampilan teknis mendalam bagi para profesional IT yang ingin menguasai teknologi firewall generasi terbaru dari Palo Alto Networks. Melalui pendekatan teori dan praktik langsung, peserta akan mempelajari cara mengimplementasikan, mengonfigurasi, dan mengoptimalkan perangkat NGFW untuk melindungi infrastruktur jaringan dari berbagai ancaman siber. Program ini direkomendasikan untuk Network Engineer, Security Engineer, Administrator Jaringan , serta siapa pun yang bertanggung jawab atas keamanan dan manajemen jaringan pada berbagai skala organisasi. Dalam pelatihan ini, peserta akan dibimbing untuk memahami prinsip kerja NGFW, arsitektur sistem, serta fitur-fitur keamanan canggih yang menjadi keunggulan Palo Alto. Setelah menyelesaikan kursus, peserta akan memiliki keterampilan komprehensif untuk mengelola Palo Alto NGFW secara efektif dan mampu meningkatkan posture keamanan organisasi. Dengan pemahaman mendalam tentang fitur-fitur canggih Palo Alto, peserta dapat memastikan jaringan tetap terlindungi dari ancaman siber modern yang semakin kompleks. Jika Anda ingin meningkatkan keahlian keamanan jaringan dan memahami bagaimana NGFW bekerja dalam skenario nyata, pelatihan Palo Alto NGFW adalah pilihan terbaik untuk pengembangan karier Anda di bidang Network Security.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 3.500.000",
+        "amount": 3500000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp. 3.000.000",
+        "amount": 3000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+        "source_section": "Biaya Investasi : Rp 3.500.000,- Rp. 3.000.000",
+        "source_text": "Biaya Investasi : Rp 3.500.000,- Rp. 3.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Introduction to Palo Alto Networks Security Platform",
+      "What is a Next-Generation Firewall",
+      "PAN-OS architecture and components",
+      "Control Plane vs Data Plane",
+      "Flow Logic (App-ID, User-ID, Content-ID)",
+      "Deployment options (Physical, VM-Series, CN-Series, Cloud NGFW)",
+      "Initial Configuration & Management",
+      "Management interfaces and access methods (GUI, CLI, API)",
+      "Device setup (hostname, timezone, DNS, NTP)",
+      "Licensing and updates (Dynamic Updates, PAN-DB, Threat DB)",
+      "Software upgrade path and best practices",
+      "Role-Based Administration (RBAC)",
+      "Network Configuration",
+      "Interface types (Layer 2, Layer 3, Tap, Virtual Wire)",
+      "Zones and Security concepts",
+      "Virtual Routers and routing configuration",
+      "VLANs, Subinterfaces, and Trunking",
+      "High Availability (Active/Passive, Active/Active)",
+      "Security Policies",
+      "Security policy structure and rule evaluation order",
+      "Application-based rules (App-ID)",
+      "User-based policies (User-ID, LDAP, SAML integration)",
+      "Security Profiles (AV, Anti-Spyware, URL Filtering, File Blocking, WildFire)",
+      "Best practices for rule optimization and shadow rule detection",
+      "NAT and Decryption",
+      "Source NAT, Destination NAT, and Twice NAT",
+      "SSL Decryption: Forward and Inbound Proxy modes",
+      "Certificate management and troubleshooting SSL decryption issues",
+      "Logging, Monitoring & Reporting",
+      "Log types: Traffic, Threat, URL, WildFire, System, Config",
+      "Log forwarding to Syslog/SIEM",
+      "Application Command Center (ACC)",
+      "Custom Reports and Scheduled Reports",
+      "Strata Cloud Manager / Cortex Data Lake Integration",
+      "Advanced Threat Prevention",
+      "Intrusion Prevention System (IPS)",
+      "File Blocking and WildFire analysis workflow",
+      "DNS Security and Advanced Threat Intelligence",
+      "Anti-Spyware and C2 Detection",
+      "Best practice: “Security Profile Groups”",
+      "Identity and Access Integration",
+      "User-ID Agents and Mapping",
+      "Integration with AD, Azure AD, Okta",
+      "Authentication Policies (Captive Portal, GlobalProtect, MFA)",
+      "Identity-based Security Policies",
+      "Troubleshooting & Operational Tools",
+      "CLI and GUI troubleshooting commands",
+      "Packet capture (PCAP), Session Browser, and Flow logic",
+      "Log correlation and ACC analysis",
+      "Common operational commands (show session all, debug dataplane)",
+      "Case Study: Analyzing real-world traffic issue",
+      "Next Step and Certification Path",
+      "PCNSA → PCNSE → PCSAE / PCCSE / PSE-Pro",
+      "Study references, labs, and real-world deployment exercises."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Palo Alto Networks NGFW – Syllabus Overview Introduction to Palo Alto Networks Security Platform What is a Next-Generation Firewall PAN-OS architecture and components Control Plane vs Data Plane Flow Logic (App-ID, User-ID, Content-ID) Deployment options (Physical, VM-Series, CN-Series, Cloud NGFW) Initial Configuration & Management Management interfaces and access methods (GUI, CLI, API) Device setup (hostname, timezone, DNS, NTP) Licensing and updates (Dynamic Updates, PAN-DB, Threat DB) Software upgrade path and best practices Role-Based Administration (RBAC) Network Configuration Interface types (Layer 2, Layer 3, Tap, Virtual Wire) Zones and Security concepts Virtual Routers and routing configuration VLANs, Subinterfaces, and Trunking High Availability (Active/Passive, Active/Active) Security Policies Security policy structure and rule evaluation order Application-based rules (App-ID) User-based policies (User-ID, LDAP, SAML integration) Security Profiles (AV, Anti-Spyware, URL Filtering, File Blocking, WildFire) Best practices for rule optimization and shadow rule detection NAT and Decryption Source NAT, Destination NAT, and Twice NAT SSL Decryption: Forward and Inbound Proxy modes Certificate management and troubleshooting SSL decryption issues Logging, Monitoring & Reporting Log types: Traffic, Threat, URL, WildFire, System, Config Log forwarding to Syslog/SIEM Application Command Center (ACC) Custom Reports and Scheduled Reports Strata Cloud Manager / Cortex Data Lake Integration Advanced Threat Prevention Intrusion Prevention System (IPS) File Blocking and WildFire analysis workflow DNS Security and Advanced Threat Intelligence Anti-Spyware and C2 Detection Best practice: “Security Profile Groups” Identity and Access Integration User-ID Agents and Mapping Integration with AD, Azure AD, Okta Authentication Policies (Captive Portal, GlobalProtect, MFA) Identity-based Security Policies Troubleshooting & Operational Tools CLI and GUI troubleshooting commands Packet capture (PCAP), Session Browser, and Flow logic Log correlation and ACC analysis Common operational commands (show session all, debug dataplane) Case Study: Analyzing real-world traffic issue Next Step and Certification Path PCNSA → PCNSE → PCSAE / PCCSE / PSE-Pro Study references, labs, and real-world deployment exercises.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Understanding Palo Alto NGFW architecture and core functionality",
+      "Mastering initial firewall setup and configuration",
+      "Developing and applying effective security policies",
+      "Implementing NAT techniques for improved traffic control",
+      "Identifying applications using App-ID for better visibility",
+      "Controlling content with Content-ID to block threats",
+      "Utilizing User-ID for granular access control",
+      "Learning and applying SSL Decryption concepts",
+      "Leveraging WildFire for advanced and zero-day threat detection",
+      "Gaining hands-on practice through labs and real-world exercises",
+      "Enhancing analytical and troubleshooting skills",
+      "Implementing DNS Security for malicious domain protection",
+      "Utilizing URL Filtering to block unsafe or inappropriate websites",
+      "Configuring Zone Protection to safeguard network zones"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+        "source_section": "Benefit",
+        "source_text": "Benefit After completing this course, you will be able to: Understanding Palo Alto NGFW architecture and core functionality Mastering initial firewall setup and configuration Developing and applying effective security policies Implementing NAT techniques for improved traffic control Identifying applications using App-ID for better visibility Controlling content with Content-ID to block threats Utilizing User-ID for granular access control Learning and applying SSL Decryption concepts Leveraging WildFire for advanced and zero-day threat detection Gaining hands-on practice through labs and real-world exercises Enhancing analytical and troubleshooting skills Implementing DNS Security for malicious domain protection Utilizing URL Filtering to block unsafe or inappropriate websites Configuring Zone Protection to safeguard network zones",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Pengetahuan dasar jaringan (Network Fundamental)",
+      "Pemahaman tentang firewall"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-ngfw/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar jaringan (Network Fundamental) Pemahaman tentang firewall",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Palo Alto NGFW?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Konsultasi Gratis Setelah Training (jika diperlukan, dapat dilanjutkan ke proyek). Fasilitas Lab yang Komprehensif untuk Praktik Langsung. Bergabung Gratis dengan Mailing List IDN, Mencari Informasi Kerja, dan Diskusi di Grup. Kebebasan Menggunakan Laboratorium di IDN di Luar Jam Training Khusus untuk Peserta Training. Gratis Menginap di Tempat Training untuk Peserta yang Berasal dari Luar Kota. Pembimbing oleh Trainer yang Bersertifikasi dan Berpengalaman di Bidang Palo Alto",
+      "items": [
+        "Konsultasi Gratis Setelah Training (jika diperlukan, dapat dilanjutkan ke proyek).",
+        "Fasilitas Lab yang Komprehensif untuk Praktik Langsung.",
+        "Bergabung Gratis dengan Mailing List IDN, Mencari Informasi Kerja, dan Diskusi di Grup.",
+        "Kebebasan Menggunakan Laboratorium di IDN di Luar Jam Training Khusus untuk Peserta Training.",
+        "Gratis Menginap di Tempat Training untuk Peserta yang Berasal dari Luar Kota.",
+        "Pembimbing oleh Trainer yang Bersertifikasi dan Berpengalaman di Bidang Palo Alto"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kursus Palo Alto NGFW dirancang untuk memberikan pemahaman dan keterampilan teknis mendalam bagi para profesional IT yang ingin menguasai teknologi firewall generasi terbaru dari Palo Alto Networks. Melalui pendekatan teori dan praktik langsung, peserta akan mempelajari cara mengimplementasikan, mengonfigurasi, dan mengoptimalkan perangkat NGFW untuk melindungi infrastruktur jaringan dari berbagai ancaman siber. Program ini direkomendasikan untuk Network Engineer, Security Engineer, Administrator Jaringan , serta siapa pun yang bertanggung jawab atas keamanan dan manajemen jaringan pada berbagai skala organisasi. Dalam pelatihan ini, peserta akan dibimbing untuk memahami prinsip kerja NGFW, arsitektur sistem, serta fitur-fitur keamanan canggih yang menjadi keunggulan Palo Alto. Setelah menyelesaikan kursus, peserta akan memiliki keterampilan komprehensif untuk mengelola Palo Alto NGFW secara efektif dan mampu meningkatkan posture keamanan organisasi. Dengan pemahaman mendalam tentang fitur-fitur canggih Palo Alto, peserta dapat memastikan jaringan tetap terlindungi dari ancaman siber modern yang semakin kompleks. Jika Anda ingin meningkatkan keahlian keamanan jaringan dan memahami bagaimana NGFW bekerja dalam skenario nyata, pelatihan Palo Alto NGFW adalah pilihan terbaik untuk pengembangan karier Anda di bidang Network Security.",
+      "items": []
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar jaringan (Network Fundamental) Pemahaman tentang firewall",
+      "items": [
+        "Pengetahuan dasar jaringan (Network Fundamental)",
+        "Pemahaman tentang firewall"
+      ]
+    },
+    {
+      "heading": "Benefit",
+      "semantic_type": "BENEFITS",
+      "content": "After completing this course, you will be able to: Understanding Palo Alto NGFW architecture and core functionality Mastering initial firewall setup and configuration Developing and applying effective security policies Implementing NAT techniques for improved traffic control Identifying applications using App-ID for better visibility Controlling content with Content-ID to block threats Utilizing User-ID for granular access control Learning and applying SSL Decryption concepts Leveraging WildFire for advanced and zero-day threat detection Gaining hands-on practice through labs and real-world exercises Enhancing analytical and troubleshooting skills Implementing DNS Security for malicious domain protection Utilizing URL Filtering to block unsafe or inappropriate websites Configuring Zone Protection to safeguard network zones",
+      "items": [
+        "Understanding Palo Alto NGFW architecture and core functionality",
+        "Mastering initial firewall setup and configuration",
+        "Developing and applying effective security policies",
+        "Implementing NAT techniques for improved traffic control",
+        "Identifying applications using App-ID for better visibility",
+        "Controlling content with Content-ID to block threats",
+        "Utilizing User-ID for granular access control",
+        "Learning and applying SSL Decryption concepts",
+        "Leveraging WildFire for advanced and zero-day threat detection",
+        "Gaining hands-on practice through labs and real-world exercises",
+        "Enhancing analytical and troubleshooting skills",
+        "Implementing DNS Security for malicious domain protection",
+        "Utilizing URL Filtering to block unsafe or inappropriate websites",
+        "Configuring Zone Protection to safeguard network zones"
+      ]
+    },
+    {
+      "heading": "Profile Trainer",
+      "semantic_type": "TRAINER_DETAIL",
+      "content": "Profil Trainer : Sebri Yanto Muhammad Azis ( PCNSA, PCNSE, PSE-Professional Strata Hardware, PCCP, CYBERFORECE:DEFENDER)",
+      "items": []
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Palo Alto Networks NGFW – Syllabus Overview Introduction to Palo Alto Networks Security Platform What is a Next-Generation Firewall PAN-OS architecture and components Control Plane vs Data Plane Flow Logic (App-ID, User-ID, Content-ID) Deployment options (Physical, VM-Series, CN-Series, Cloud NGFW) Initial Configuration & Management Management interfaces and access methods (GUI, CLI, API) Device setup (hostname, timezone, DNS, NTP) Licensing and updates (Dynamic Updates, PAN-DB, Threat DB) Software upgrade path and best practices Role-Based Administration (RBAC) Network Configuration Interface types (Layer 2, Layer 3, Tap, Virtual Wire) Zones and Security concepts Virtual Routers and routing configuration VLANs, Subinterfaces, and Trunking High Availability (Active/Passive, Active/Active) Security Policies Security policy structure and rule evaluation order Application-based rules (App-ID) User-based policies (User-ID, LDAP, SAML integration) Security Profiles (AV, Anti-Spyware, URL Filtering, File Blocking, WildFire) Best practices for rule optimization and shadow rule detection NAT and Decryption Source NAT, Destination NAT, and Twice NAT SSL Decryption: Forward and Inbound Proxy modes Certificate management and troubleshooting SSL decryption issues Logging, Monitoring & Reporting Log types: Traffic, Threat, URL, WildFire, System, Config Log forwarding to Syslog/SIEM Application Command Center (ACC) Custom Reports and Scheduled Reports Strata Cloud Manager / Cortex Data Lake Integration Advanced Threat Prevention Intrusion Prevention System (IPS) File Blocking and WildFire analysis workflow DNS Security and Advanced Threat Intelligence Anti-Spyware and C2 Detection Best practice: “Security Profile Groups” Identity and Access Integration User-ID Agents and Mapping Integration with AD, Azure AD, Okta Authentication Policies (Captive Portal, GlobalProtect, MFA) Identity-based Security Policies Troubleshooting & Operational Tools CLI and GUI troubleshooting commands Packet capture (PCAP), Session Browser, and Flow logic Log correlation and ACC analysis Common operational commands (show session all, debug dataplane) Case Study: Analyzing real-world traffic issue Next Step and Certification Path PCNSA → PCNSE → PCSAE / PCCSE / PSE-Pro Study references, labs, and real-world deployment exercises.",
+      "items": [
+        "Introduction to Palo Alto Networks Security Platform",
+        "What is a Next-Generation Firewall",
+        "PAN-OS architecture and components",
+        "Control Plane vs Data Plane",
+        "Flow Logic (App-ID, User-ID, Content-ID)",
+        "Deployment options (Physical, VM-Series, CN-Series, Cloud NGFW)",
+        "Initial Configuration & Management",
+        "Management interfaces and access methods (GUI, CLI, API)",
+        "Device setup (hostname, timezone, DNS, NTP)",
+        "Licensing and updates (Dynamic Updates, PAN-DB, Threat DB)",
+        "Software upgrade path and best practices",
+        "Role-Based Administration (RBAC)",
+        "Network Configuration",
+        "Interface types (Layer 2, Layer 3, Tap, Virtual Wire)",
+        "Zones and Security concepts",
+        "Virtual Routers and routing configuration",
+        "VLANs, Subinterfaces, and Trunking",
+        "High Availability (Active/Passive, Active/Active)",
+        "Security Policies",
+        "Security policy structure and rule evaluation order",
+        "Application-based rules (App-ID)",
+        "User-based policies (User-ID, LDAP, SAML integration)",
+        "Security Profiles (AV, Anti-Spyware, URL Filtering, File Blocking, WildFire)",
+        "Best practices for rule optimization and shadow rule detection",
+        "NAT and Decryption",
+        "Source NAT, Destination NAT, and Twice NAT",
+        "SSL Decryption: Forward and Inbound Proxy modes",
+        "Certificate management and troubleshooting SSL decryption issues",
+        "Logging, Monitoring & Reporting",
+        "Log types: Traffic, Threat, URL, WildFire, System, Config",
+        "Log forwarding to Syslog/SIEM",
+        "Application Command Center (ACC)",
+        "Custom Reports and Scheduled Reports",
+        "Strata Cloud Manager / Cortex Data Lake Integration",
+        "Advanced Threat Prevention",
+        "Intrusion Prevention System (IPS)",
+        "File Blocking and WildFire analysis workflow",
+        "DNS Security and Advanced Threat Intelligence",
+        "Anti-Spyware and C2 Detection",
+        "Best practice: “Security Profile Groups”",
+        "Identity and Access Integration",
+        "User-ID Agents and Mapping",
+        "Integration with AD, Azure AD, Okta",
+        "Authentication Policies (Captive Portal, GlobalProtect, MFA)",
+        "Identity-based Security Policies",
+        "Troubleshooting & Operational Tools",
+        "CLI and GUI troubleshooting commands",
+        "Packet capture (PCAP), Session Browser, and Flow logic",
+        "Log correlation and ACC analysis",
+        "Common operational commands (show session all, debug dataplane)",
+        "Case Study: Analyzing real-world traffic issue",
+        "Next Step and Certification Path",
+        "PCNSA → PCNSE → PCSAE / PCCSE / PSE-Pro",
+        "Study references, labs, and real-world deployment exercises."
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.500.000,- Rp. 3.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Palo Alto NGFW",
+    "content_hash": "4562c91d2198c43698f53eca7896345a98ab49d15923a42fa4c89323bf5569f2",
+    "template_type": "BETTERDOCS"
+  }
+}

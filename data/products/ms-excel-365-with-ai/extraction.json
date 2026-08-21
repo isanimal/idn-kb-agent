@@ -1,0 +1,14 @@
+{
+  "training_source_id": 89,
+  "canonical_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "b3104b6bed77c22730ead639e5661c342c7839e594ecfb70fcb2d7be59e113de",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:36:03.853833+00:00",
+  "facts_path": "data\\products\\ms-excel-365-with-ai\\facts.json",
+  "evidence_path": "data\\products\\ms-excel-365-with-ai\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ms-excel-365-with-ai\\raw.html",
+  "last_error": null
+}

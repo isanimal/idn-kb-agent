@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/windows-server-administration/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Microsoft Windows Server merupakan salah satu system operasi terkenal di dunia. Banyak sekali perusahaan yang menggunakan Windows Server sebagai system operasi utama, engineer dan sysadmin yang dibutuhkan oleh perusahaan pun terus meningkat permintaannya. Apabila anda memilih IDN sebagai training partner anda dalam menguasai windows server merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator windows server apabila telah selesai mengikuti training ini.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/windows-server-administration/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/windows-server-administration/",
+      "source_section": "Biaya Investasi : Rp 2.800.000,-",
+      "source_text": "Biaya Investasi : Rp 2.800.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/windows-server-administration/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Outline Introduction Windows Server Installation Windows Server 2019 User Authentication Management NIC Teaming Management Local Storage Configure Storage Pool Management Virtual Disk dan RAID Create Folder Share Remote Management Server Introduction Hyper-v Installation Hyper-v Create VM on Hyper-v Installation DHCP Server Installation Active Directory and DNS Server Configure Active Directory Domain Service and DNS Server Create User Object Create Organizational Unit (OU) Create Group Policy Object (GPO) Installation Windows Deployment Service Configure Windows Deployment Service Simulation WDS Instalaltion Windows Server Update Service Configure Windows Server Update Service Monitoring Windows Server With Event Viewer Monitoring Windows Server With Task Manager Monitoring Windows Server With Releability Monitor Installation DFS NameSpace and DFS Replication Management DFS NameSpace and DFS Replication Installation File Resource Server Manager Management Quota and File Screen Management Enkripsi With EFS Management Enkripsi With Bitlocker Introduction VPN Installation VPN Server Configure VPN Server Installation Active Directory Certificate Service (ADCS) Configure ADCS Introduction Hyper-V Manager Installation ISCSI Installation Failover Cluster Migration Storage VM Configure HA (Haigh availablity) VM Simulation HA on Hyper-v",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/windows-server-administration/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi server dengan system operasi Windows Server Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Windows Server. Peserta juga akan bergabung di grup WhatsApp Training Windows Server. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Windows Server. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/windows-server-administration/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Esa Nugraha (CKA, CKAD, CKS) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, CKS, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/windows-server-administration/",
+        "source_section": "Page title",
+        "source_text": "WINDOWS SERVER ADMIN 2019",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/windows-server-administration/",
+        "source_section": "Training registry",
+        "source_text": "System Admin",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/windows-server-administration/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/windows-server-administration/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

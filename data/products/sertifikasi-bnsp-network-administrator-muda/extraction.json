@@ -1,0 +1,14 @@
+{
+  "training_source_id": 93,
+  "canonical_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "be95f34961e0e007dd2f627c14a28da5e3494f03e2a5af808cebde0702c92444",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:05.741051+00:00",
+  "facts_path": "data\\products\\sertifikasi-bnsp-network-administrator-muda\\facts.json",
+  "evidence_path": "data\\products\\sertifikasi-bnsp-network-administrator-muda\\evidence.json",
+  "raw_snapshot_path": "data\\products\\sertifikasi-bnsp-network-administrator-muda\\raw.html",
+  "last_error": null
+}

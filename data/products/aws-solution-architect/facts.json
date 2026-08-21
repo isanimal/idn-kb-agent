@@ -1,0 +1,397 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "AWS Solution Architect",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/aws-solution-architect/",
+          "source_section": "Page title",
+          "source_text": "AWS Solution Architect",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Clouds",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/aws-solution-architect/",
+          "source_section": "Training registry",
+          "source_text": "Clouds",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/aws-solution-architect/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/aws-solution-architect/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/aws-solution-architect/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": [
+      "Mampu merancang sistem yang fault-tolerant dan highly available.",
+      "Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa.",
+      "Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud.",
+      "Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03)."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Di era cloud computing, kemampuan merancang arsitektur sistem yang scalable, secure, dan efisien menjadi salah satu skill paling dicari di industri IT. Salah satu platform cloud terbesar di dunia, Amazon Web Services, telah digunakan oleh jutaan perusahaan mulai dari startup hingga enterprise global. Training AWS Solution Architect dirancang untuk membantu kamu memahami bagaimana membangun, mengelola, dan mengoptimalkan infrastruktur cloud menggunakan layanan AWS secara profesional. Dalam program ini, kamu akan belajar mulai dari konsep dasar cloud hingga praktik langsung dalam mendesain arsitektur yang high availability, fault-tolerant, dan cost-efficient. Tidak hanya teori, kamu juga akan dibimbing melalui studi kasus nyata serta simulasi yang relevan dengan kebutuhan industri. Pelatihan ini dirancang khusus bagi para IT Professional yang ingin menguasai seni merancang infrastruktur cloud yang scalable, secure, dan cost-efficient menggunakan Amazon Web Services (AWS). Kurikulum kami disusun secara sistematis, mulai dari pemahaman dasar komputasi hingga implementasi arsitektur kompleks seperti Serverless dan Microservices. Target Kompetensi Akhir: Mampu merancang sistem yang fault-tolerant dan highly available. Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa. Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud. Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03).",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Biaya Investasi : Rp 3.000.000",
+        "source_text": "Biaya Investasi : Rp 3.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DAY 1",
+        "objective": null,
+        "items": [
+          "Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG)"
+        ],
+        "raw": "Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG)",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 2",
+        "objective": null,
+        "items": [
+          "AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras"
+        ],
+        "raw": "AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 3",
+        "objective": null,
+        "items": [
+          "Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services"
+        ],
+        "raw": "Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 4",
+        "objective": null,
+        "items": [
+          "Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF)"
+        ],
+        "raw": "Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF)",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 5",
+        "objective": null,
+        "items": [
+          "AWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)"
+        ],
+        "raw": "AWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)",
+        "structure_type": "DAY_BASED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Day 1 Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG) Day 2 AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras Day 3 Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services Day 4 Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF) Day 5 AWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+      "Siap menghadapi sertifikasi AWS Solution Architect",
+      "Skill cloud computing yang high-demand di industri",
+      "Bisa desain arsitektur sistem yang scalable & secure",
+      "Hands-on lab (praktek langsung, bukan teori saja)",
+      "Peluang karir lebih luas (Cloud Engineer, DevOps, dll)",
+      "Meningkatkan value diri & potensi gaji",
+      "Kesempatan kerja remote / global"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC) Siap menghadapi sertifikasi AWS Solution Architect Skill cloud computing yang high-demand di industri Bisa desain arsitektur sistem yang scalable & secure Hands-on lab (praktek langsung, bukan teori saja) Peluang karir lebih luas (Cloud Engineer, DevOps, dll) Meningkatkan value diri & potensi gaji Kesempatan kerja remote / global",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Mengapa harus training aWS solution architect di IDN ?",
+        "source_text": "Mengapa harus training aWS solution architect di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa harus training aWS solution architect di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung, peserta akan dipinjamkan akun AWS secara gratis Peserta juga akan bergabung di grup WhatsApp Training AWS. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan AWS. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Gratis mengulang training sebanyak 2x",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri",
+        "Selama training berlangsung, peserta akan dipinjamkan akun AWS secara gratis",
+        "Peserta juga akan bergabung di grup WhatsApp Training AWS. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan AWS.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Di era cloud computing, kemampuan merancang arsitektur sistem yang scalable, secure, dan efisien menjadi salah satu skill paling dicari di industri IT. Salah satu platform cloud terbesar di dunia, Amazon Web Services, telah digunakan oleh jutaan perusahaan mulai dari startup hingga enterprise global. Training AWS Solution Architect dirancang untuk membantu kamu memahami bagaimana membangun, mengelola, dan mengoptimalkan infrastruktur cloud menggunakan layanan AWS secara profesional. Dalam program ini, kamu akan belajar mulai dari konsep dasar cloud hingga praktik langsung dalam mendesain arsitektur yang high availability, fault-tolerant, dan cost-efficient. Tidak hanya teori, kamu juga akan dibimbing melalui studi kasus nyata serta simulasi yang relevan dengan kebutuhan industri. Pelatihan ini dirancang khusus bagi para IT Professional yang ingin menguasai seni merancang infrastruktur cloud yang scalable, secure, dan cost-efficient menggunakan Amazon Web Services (AWS). Kurikulum kami disusun secara sistematis, mulai dari pemahaman dasar komputasi hingga implementasi arsitektur kompleks seperti Serverless dan Microservices. Target Kompetensi Akhir: Mampu merancang sistem yang fault-tolerant dan highly available. Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa. Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud. Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03).",
+      "items": [
+        "Mampu merancang sistem yang fault-tolerant dan highly available.",
+        "Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa.",
+        "Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud.",
+        "Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03)."
+      ]
+    },
+    {
+      "heading": "Kenapa Training Ini Penting?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Permintaan tenaga profesional cloud engineer terus meningkat, dan sertifikasi AWS menjadi salah satu standar global yang diakui industri. Dengan menguasai AWS Solution Architect, kamu memiliki peluang lebih besar untuk: 📈 Mendapatkan pekerjaan di bidang cloud computing 💼 Naik level karir sebagai Cloud Engineer / Architect 🌍 Bersaing di pasar kerja global",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC) Siap menghadapi sertifikasi AWS Solution Architect Skill cloud computing yang high-demand di industri Bisa desain arsitektur sistem yang scalable & secure Hands-on lab (praktek langsung, bukan teori saja) Peluang karir lebih luas (Cloud Engineer, DevOps, dll) Meningkatkan value diri & potensi gaji Kesempatan kerja remote / global",
+      "items": [
+        "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+        "Siap menghadapi sertifikasi AWS Solution Architect",
+        "Skill cloud computing yang high-demand di industri",
+        "Bisa desain arsitektur sistem yang scalable & secure",
+        "Hands-on lab (praktek langsung, bukan teori saja)",
+        "Peluang karir lebih luas (Cloud Engineer, DevOps, dll)",
+        "Meningkatkan value diri & potensi gaji",
+        "Kesempatan kerja remote / global"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Day 1 Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG) Day 2 AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras Day 3 Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services Day 4 Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF) Day 5 AWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)",
+      "items": [
+        "Introduction – AWS Solution Architect",
+        "IAM & AWS CLI",
+        "EC2 Fundamentals & Solutions Architect",
+        "Instance Storage (EBS & EFS)",
+        "High Availability dan Scalability (ELB & ASG)",
+        "AWS RDS, Aurora, ElastiCache",
+        "AWS Route53",
+        "Solutions Architecture Cases",
+        "S3 Introduction, Advanced, and Security",
+        "CloudFront & Global Accelerator",
+        "AWS Storage Service Extras",
+        "Decoupling Application (SQS, SNS, Kinesis, ActiveMQ)",
+        "AWS Containers (ECS, Fargate, ECR, EKS)",
+        "Serverless Services",
+        "Databases in AWS",
+        "Data & Analytics Services",
+        "Machine Learning Services Overview",
+        "AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config)",
+        "IAM Advanced",
+        "AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF)",
+        "AWS Networking – VPC",
+        "Disaster Recovery & Migrations Services",
+        "Strategies as Solution Architect",
+        "Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "AWS Solution Architect",
+    "content_hash": "b999624264e04d7d26d1d090565f7cf662732304a72da4415a2c42a5c8fb5362",
+    "template_type": "BETTERDOCS"
+  }
+}

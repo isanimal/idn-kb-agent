@@ -1,0 +1,14 @@
+{
+  "training_source_id": 87,
+  "canonical_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "ef61659b444c87a4c6293aa40acff68809934ecd6a4f2a9cf73ce349e2bf9887",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:36:02.590643+00:00",
+  "facts_path": "data\\products\\practical-ai-agent-with-openclaw\\facts.json",
+  "evidence_path": "data\\products\\practical-ai-agent-with-openclaw\\evidence.json",
+  "raw_snapshot_path": "data\\products\\practical-ai-agent-with-openclaw\\raw.html",
+  "last_error": null
+}

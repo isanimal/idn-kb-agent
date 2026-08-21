@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/ekahau-training/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Ekahau adalah alat yang digunakan untuk mendesain dan mengelola jaringan Wi-Fi dengan misi untuk membersihkan dunia dari Wi-Fi yang buruk. seluruh dunia mengandalkan ekahau untuk membantu menjadikan bisnis mereka berkembang secara nirkabel, dalam misi mendesain Wi-Fi terbaik Suite kini telah dioptimalkan dan mampu menghitung redaman dinding secara otomatis dan menjalankan simulasi yang tak terhitung jumlahnya untuk membantu Anda menemukan penempatan AP terbaik mutlak untuk jaringan Anda selain itu ekahau telah menambahkan Mesin analisis kinerja Wi-Fi global dengan penampil peta berbasis browser dan menciptakan perangkat pengujian Wi-Fi tercepat dan paling akurat yang mungkin Anda impikan. Bergabunglah bersama kami dalam misi kami yang dirancang dengan tepat jumlah APS di lokasi yang tepat memvalidasi dengan akurasi luar biasa dan menjalankan pemeriksaan kesehatan berkelanjutan yang menjaga jaringan Anda tetap berkinerja tinggi seiring perubahan kebutuhan Anda seiring waktu. Semua dengan Echo Anda dapat mempercayai nama paling tepercaya di Alat Kinerja Wi-Fi",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/ekahau-training/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/ekahau-training/",
+      "source_section": "Biaya Investasi : Rp 6.000.000,-",
+      "source_text": "Biaya Investasi : Rp 6.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/ekahau-training/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum Module 1. Wireless Basics RF Fundamentals Wireless Channels Channel Interference Data Rates Antenna Basics Module 2. Cisco Wireless LAN AP and WLC Protocols Access Points Type Access Point Mode WLAN Authentication Method Authentication and Encryption WLC Deployments Radio Resource Management High Density Optimization Cisco WLC Best Practices Module 3. Wireless Site Survey Wireless Site Survey Overview Wireless site Survey Purpose Post-Deployment assessment Module 4. Ekahau AI Pro Overview Main Components of the User Interface Introducing Workspaces Introducing Map View Selecting Visualizations Access Point List Overview Working with the Access Point List Surveys-list Overview Building View Mini Status Views Menu Selections Software Preferences Module 5. How to get started with Ekahau AI Pro Adding Maps and Setting the Scale Saving your projects: Ekahau Cloud, Local or Sidekick Changing the Map Defining Network Requirements Defining Capacity Requirements Module 5. Conducting surveys on your network Configuring Predictive Survey Configuring On-site Survey (Passive and Active Surveys) Analyzing Wi-Fi Coverage & Performance Troubleshooting the Most Common Wi-Fi Problems",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/ekahau-training/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta mendapat sertifikat dari IDN untuk menunjang pekerjaan Peserta mendapat skill tentang Ekahau yang dapat dimanfaatkan & diimplementasikan di real case Peserta mendapat relasi dengan trainer dan peserta lain yang memiliki background berbeda Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/ekahau-training/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Athoriq Firdaus (CCNA, CCNP, MTCNA, MTCRE, MTCINE)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Page title",
+        "source_text": "Ekahau",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Training registry",
+        "source_text": "Ekahau",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/ekahau-training/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 60,
+  "canonical_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "edb273e36763df3ee831e7047e52de50c58a5f30ee23f839b8b890dd96c9f63b",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:45.399502+00:00",
+  "facts_path": "data\\products\\kubernetes-administration-cka\\facts.json",
+  "evidence_path": "data\\products\\kubernetes-administration-cka\\evidence.json",
+  "raw_snapshot_path": "data\\products\\kubernetes-administration-cka\\raw.html",
+  "last_error": null
+}

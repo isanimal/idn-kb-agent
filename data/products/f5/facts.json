@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "F5 BIG – IP LTM",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/f5/",
+          "source_section": "Page title",
+          "source_text": "F5 BIG – IP LTM",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "F5",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/f5/",
+          "source_section": "Training registry",
+          "source_text": "F5",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/f5/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/f5/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/f5/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kursus ini memberikan pemahaman fungsional kepada para profesional jaringan tentang pengelolaan lalu lintas lokal BIG-IP, memperkenalkan pada fitur dan fungsionalitas BIG-IP LTM yang umum digunakan dan lanjutan. Menggabungkan kuliah, laboratorium langsung yang ekstensif, dan diskusi kelas, kursus ini membantu siswa membangun keahlian menyeluruh yang diperlukan untuk mengelola sistem BIG-IP LTM sebagai bagian dari jaringan pengiriman aplikasi yang fleksibel dan berkinerja tinggi. BIG-IP Local Traffic Manager (LTM) adalah solusi load balancing dan manajemen trafik jaringan yang dikembangkan oleh perusahaan F5 Networks. Secara umum, BIG-IP LTM bertanggung jawab untuk mendistribusikan workloads atau trafik ke dalam jaringan komputer secara merata di antara beberapa server yang tersedia.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/f5/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kursus ini memberikan pemahaman fungsional kepada para profesional jaringan tentang pengelolaan lalu lintas lokal BIG-IP, memperkenalkan pada fitur dan fungsionalitas BIG-IP LTM yang umum digunakan dan lanjutan. Menggabungkan kuliah, laboratorium langsung yang ekstensif, dan diskusi kelas, kursus ini membantu siswa membangun keahlian menyeluruh yang diperlukan untuk mengelola sistem BIG-IP LTM sebagai bagian dari jaringan pengiriman aplikasi yang fleksibel dan berkinerja tinggi. BIG-IP Local Traffic Manager (LTM) adalah solusi load balancing dan manajemen trafik jaringan yang dikembangkan oleh perusahaan F5 Networks. Secara umum, BIG-IP LTM bertanggung jawab untuk mendistribusikan workloads atau trafik ke dalam jaringan komputer secara merata di antara beberapa server yang tersedia.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/f5/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/f5/",
+        "source_section": "Biaya Investasi : Rp 3.000.000,-",
+        "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Understanding features offered by F5",
+      "Implementation Strategy and Topology",
+      "Initial configuration + license activation",
+      "Setup Utility",
+      "Configuring Network Interface VLAN Self IP Floating IP",
+      "Understanding basic app delivery component Configure Nodes Configure Pool Member Configure Pool Configure Health Monitor",
+      "Configuring Virtual Server",
+      "Understanding Status Indicators",
+      "Virtual Server Order of Precedence",
+      "Understanding Static Load Balancing Configure Round Robin Configure Round Robin with Ratio Configure Priority Based",
+      "Understanding Dynamic Load Balancing Method Configure Least Connection Method",
+      "Configure DNAT",
+      "Configure SNAT Auto Map",
+      "Configure SNAT Pools SNAT on One Armed Topology SNAT on Two Armed Topology",
+      "Configure Profiles",
+      "Configure Persistance",
+      "Configure OneConnect",
+      "Configure SSL Profiles",
+      "Configure High Availability",
+      "Configure iRules",
+      "Configure Traffic Policy",
+      "Configure IP Forwarding Virtual Server",
+      "QKView for Analysis and Troubleshooting",
+      "Configure DNS Configure Listener Configure Data Center Configure Servers Configure Wide IP Pool Configure Wide IP",
+      "Configuration through TMOS",
+      "Software Update & Patch",
+      "Troubleshooting"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/f5/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Understanding features offered by F5 Implementation Strategy and Topology Initial configuration + license activation Setup Utility Configuring Network Interface VLAN Self IP Floating IP Understanding basic app delivery component Configure Nodes Configure Pool Member Configure Pool Configure Health Monitor Configuring Virtual Server Understanding Status Indicators Virtual Server Order of Precedence Understanding Static Load Balancing Configure Round Robin Configure Round Robin with Ratio Configure Priority Based Understanding Dynamic Load Balancing Method Configure Least Connection Method Configure DNAT Configure SNAT Auto Map Configure SNAT Pools SNAT on One Armed Topology SNAT on Two Armed Topology Configure Profiles Configure Persistance Configure OneConnect Configure SSL Profiles Configure High Availability Configure iRules Configure Traffic Policy Configure IP Forwarding Virtual Server QKView for Analysis and Troubleshooting Configure DNS Configure Listener Configure Data Center Configure Servers Configure Wide IP Pool Configure Wide IP Configuration through TMOS Software Update & Patch Troubleshooting",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training F5 BIG – IP LTM di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman implementasi F5 BIG – IP LTM di berbagai perusahaan",
+      "items": [
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup",
+        "Biaya training murah dibanding tempat-tempat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman implementasi F5 BIG – IP LTM di berbagai perusahaan"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kursus ini memberikan pemahaman fungsional kepada para profesional jaringan tentang pengelolaan lalu lintas lokal BIG-IP, memperkenalkan pada fitur dan fungsionalitas BIG-IP LTM yang umum digunakan dan lanjutan. Menggabungkan kuliah, laboratorium langsung yang ekstensif, dan diskusi kelas, kursus ini membantu siswa membangun keahlian menyeluruh yang diperlukan untuk mengelola sistem BIG-IP LTM sebagai bagian dari jaringan pengiriman aplikasi yang fleksibel dan berkinerja tinggi. BIG-IP Local Traffic Manager (LTM) adalah solusi load balancing dan manajemen trafik jaringan yang dikembangkan oleh perusahaan F5 Networks. Secara umum, BIG-IP LTM bertanggung jawab untuk mendistribusikan workloads atau trafik ke dalam jaringan komputer secara merata di antara beberapa server yang tersedia.",
+      "items": []
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Understanding features offered by F5 Implementation Strategy and Topology Initial configuration + license activation Setup Utility Configuring Network Interface VLAN Self IP Floating IP Understanding basic app delivery component Configure Nodes Configure Pool Member Configure Pool Configure Health Monitor Configuring Virtual Server Understanding Status Indicators Virtual Server Order of Precedence Understanding Static Load Balancing Configure Round Robin Configure Round Robin with Ratio Configure Priority Based Understanding Dynamic Load Balancing Method Configure Least Connection Method Configure DNAT Configure SNAT Auto Map Configure SNAT Pools SNAT on One Armed Topology SNAT on Two Armed Topology Configure Profiles Configure Persistance Configure OneConnect Configure SSL Profiles Configure High Availability Configure iRules Configure Traffic Policy Configure IP Forwarding Virtual Server QKView for Analysis and Troubleshooting Configure DNS Configure Listener Configure Data Center Configure Servers Configure Wide IP Pool Configure Wide IP Configuration through TMOS Software Update & Patch Troubleshooting",
+      "items": [
+        "Understanding features offered by F5",
+        "Implementation Strategy and Topology",
+        "Initial configuration + license activation",
+        "Setup Utility",
+        "Configuring Network Interface VLAN Self IP Floating IP",
+        "Understanding basic app delivery component Configure Nodes Configure Pool Member Configure Pool Configure Health Monitor",
+        "Configuring Virtual Server",
+        "Understanding Status Indicators",
+        "Virtual Server Order of Precedence",
+        "Understanding Static Load Balancing Configure Round Robin Configure Round Robin with Ratio Configure Priority Based",
+        "Understanding Dynamic Load Balancing Method Configure Least Connection Method",
+        "Configure DNAT",
+        "Configure SNAT Auto Map",
+        "Configure SNAT Pools SNAT on One Armed Topology SNAT on Two Armed Topology",
+        "Configure Profiles",
+        "Configure Persistance",
+        "Configure OneConnect",
+        "Configure SSL Profiles",
+        "Configure High Availability",
+        "Configure iRules",
+        "Configure Traffic Policy",
+        "Configure IP Forwarding Virtual Server",
+        "QKView for Analysis and Troubleshooting",
+        "Configure DNS Configure Listener Configure Data Center Configure Servers Configure Wide IP Pool Configure Wide IP",
+        "Configuration through TMOS",
+        "Software Update & Patch",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 6,
+    "fields_not_found": 10,
+    "coverage": 0.375
+  },
+  "metadata": {
+    "registry_name": "F5 BIG – IP LTM",
+    "content_hash": "2357748e58253b434b8016c706b096c41056c9ef7f3fa9f50f5ff320f3cfbb4d",
+    "template_type": "BETTERDOCS"
+  }
+}

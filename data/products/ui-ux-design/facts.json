@@ -1,0 +1,623 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "UI/UX Design",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ui-ux-design/",
+          "source_section": "Page title",
+          "source_text": "UI/UX Design",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Design",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ui-ux-design/",
+          "source_section": "Training registry",
+          "source_text": "Design",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ui-ux-design/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ui-ux-design/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ui-ux-design/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Bingung mulai belajar UI/UX dari mana 😕 Sudah nonton tutorial tapi tetap gak paham alurnya Tidak punya portfolio untuk melamar kerja Skill desain belum sesuai kebutuhan industri Takut kalah saing di dunia kerja digital Kalau iya, kamu gak sendirian.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Pernah ngerasain ini?",
+        "source_text": "Pernah ngerasain ini? Bingung mulai belajar UI/UX dari mana 😕 Sudah nonton tutorial tapi tetap gak paham alurnya Tidak punya portfolio untuk melamar kerja Skill desain belum sesuai kebutuhan industri Takut kalah saing di dunia kerja digital Kalau iya, kamu gak sendirian.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Biaya Investasi Training Digital Marketing Rp 3 Rp 2 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 4 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Training Digital Marketing Rp 3 Rp 2 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 4 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 3",
+        "amount": 3,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 2 JT",
+        "amount": 2000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Training Digital Marketing Rp 3 Rp 2 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 4 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "FOUND",
+    "value": "Offline Class",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Offline Class",
+        "source_text": "Offline Class",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Hari 1:",
+        "objective": null,
+        "items": [
+          "Pengenalan UI/UX & User Research",
+          "Apa itu UI & UX?",
+          "Studi kasus UI/UX yang baik & buruk",
+          "Dasar-dasar User Research",
+          "Membuat User Persona"
+        ],
+        "raw": "Pengenalan UI/UX & User Research Apa itu UI & UX? Studi kasus UI/UX yang baik & buruk Dasar-dasar User Research Membuat User Persona",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Hari 2:",
+        "objective": null,
+        "items": [
+          "Information Architecture & Wireframing",
+          "Menyusun navigasi aplikasi/website (User Flow)",
+          "Dasar Information Architecture (IA)",
+          "Wireframing: Dari sketsa hingga digital (Figma)"
+        ],
+        "raw": "Information Architecture & Wireframing Menyusun navigasi aplikasi/website (User Flow) Dasar Information Architecture (IA) Wireframing: Dari sketsa hingga digital (Figma)",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Hari 3:",
+        "objective": null,
+        "items": [
+          "UI Design & Prototyping",
+          "Prinsip dasar desain UI: Warna, Tipografi, Layout",
+          "Mendesain komponen UI (Tombol, Form, Navbar)",
+          "Membuat UI Design & Prototype Interaktif di Figma"
+        ],
+        "raw": "UI Design & Prototyping Prinsip dasar desain UI: Warna, Tipografi, Layout Mendesain komponen UI (Tombol, Form, Navbar) Membuat UI Design & Prototype Interaktif di Figma",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Hari 4:",
+        "objective": null,
+        "items": [
+          "Review, Testing",
+          "Dasar Usability Testing",
+          "Review & perbaikan desain",
+          "Feedback dari trainer"
+        ],
+        "raw": "Review, Testing Dasar Usability Testing Review & perbaikan desain Feedback dari trainer",
+        "structure_type": "MODULED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "[Kurikulum Training UI/UX Design] Materi Apa Saja Yang Akan Kamu Pelajari?",
+        "source_text": "[Kurikulum Training UI/UX Design] Materi Apa Saja Yang Akan Kamu Pelajari?",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffe Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Fasilitas Lengkap",
+        "source_text": "Fasilitas Lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Trainer Tersertifikasi",
+        "source_text": "Trainer Tersertifikasi Trainer bersertifikas, praktisi dan berpengalaman di bidang UI/UX Design",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Belajar UI/UX Design Langsung dari instruktur Berpengalaman",
+        "source_text": "Belajar UI/UX Design Langsung dari instruktur Berpengalaman",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "After sales yang baik",
+        "source_text": "After sales yang baik After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang Training 2 Kali tanpa syarat",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ui-ux-design/",
+        "source_section": "Free Mengulang",
+        "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Jadi UI/UX Designer Profesional dari Nol Hingga Siap Kerja!",
+      "semantic_type": "HERO",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Offline Class",
+      "semantic_type": "TRAINING_FORMAT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Expert Instructors",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Beginner Friendly",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Pernah ngerasain ini?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Bingung mulai belajar UI/UX dari mana 😕 Sudah nonton tutorial tapi tetap gak paham alurnya Tidak punya portfolio untuk melamar kerja Skill desain belum sesuai kebutuhan industri Takut kalah saing di dunia kerja digital Kalau iya, kamu gak sendirian.",
+      "items": [
+        "Bingung mulai belajar UI/UX dari mana 😕",
+        "Sudah nonton tutorial tapi tetap gak paham alurnya",
+        "Tidak punya portfolio untuk melamar kerja",
+        "Skill desain belum sesuai kebutuhan industri",
+        "Takut kalah saing di dunia kerja digital",
+        ""
+      ]
+    },
+    {
+      "heading": "Di training ini, kamu akan belajar UI/UX secara step-by-step & terstruktur, mulai dari dasar sampai bisa bikin project nyata.",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": [
+        "Bingung mulai belajar UI/UX dari mana 😕",
+        "Sudah nonton tutorial tapi tetap gak paham alurnya",
+        "Tidak punya portfolio untuk melamar kerja",
+        "Skill desain belum sesuai kebutuhan industri",
+        "Takut kalah saing di dunia kerja digital",
+        ""
+      ]
+    },
+    {
+      "heading": "Belajar dari nol (cocok untuk pemula)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Langsung praktik bikin desain aplikasi & website",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Dibimbing mentor profesional",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Dapat portfolio untuk melamar kerja",
+      "semantic_type": "DOCUMENTATION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Insight dunia kerja & freelance",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Beberapa Portfolio Training UI/UX Design",
+      "semantic_type": "DOCUMENTATION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa harus Belajar dan Menguasai UI/UX Design ?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Our Training Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Training UI/UX Design di ID-Networkers :",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training di ID-Networkers",
+      "items": []
+    },
+    {
+      "heading": "Materi terstruktur",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi training terstruktur, mudah dipahami, dan disesuaikan dengan kebutuhan industri",
+      "items": []
+    },
+    {
+      "heading": "Free Mengulang",
+      "semantic_type": "REPEAT_POLICY",
+      "content": "Gratis Mengulang Training 2 Kali tanpa syarat",
+      "items": []
+    },
+    {
+      "heading": "Terjangkau & Berkualitas",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi Berkualitas dan Harga Training Terjangkau untuk sekelas training Digital Marketing",
+      "items": []
+    },
+    {
+      "heading": "Menginap Gratis",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Peserta training diperbolehkan menginap di lokasi pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Trainer Tersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer bersertifikas, praktisi dan berpengalaman di bidang UI/UX Design",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+      "items": []
+    },
+    {
+      "heading": "After sales yang baik",
+      "semantic_type": "SUPPORT",
+      "content": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "items": []
+    },
+    {
+      "heading": "[Kurikulum Training UI/UX Design] Materi Apa Saja Yang Akan Kamu Pelajari?",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Hari 1:",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Pengenalan UI/UX & User Research Apa itu UI & UX? Studi kasus UI/UX yang baik & buruk Dasar-dasar User Research Membuat User Persona",
+      "items": [
+        "Pengenalan UI/UX & User Research",
+        "Apa itu UI & UX?",
+        "Studi kasus UI/UX yang baik & buruk",
+        "Dasar-dasar User Research",
+        "Membuat User Persona"
+      ]
+    },
+    {
+      "heading": "Hari 2:",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Information Architecture & Wireframing Menyusun navigasi aplikasi/website (User Flow) Dasar Information Architecture (IA) Wireframing: Dari sketsa hingga digital (Figma)",
+      "items": [
+        "Information Architecture & Wireframing",
+        "Menyusun navigasi aplikasi/website (User Flow)",
+        "Dasar Information Architecture (IA)",
+        "Wireframing: Dari sketsa hingga digital (Figma)"
+      ]
+    },
+    {
+      "heading": "Hari 3:",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "UI Design & Prototyping Prinsip dasar desain UI: Warna, Tipografi, Layout Mendesain komponen UI (Tombol, Form, Navbar) Membuat UI Design & Prototype Interaktif di Figma",
+      "items": [
+        "UI Design & Prototyping",
+        "Prinsip dasar desain UI: Warna, Tipografi, Layout",
+        "Mendesain komponen UI (Tombol, Form, Navbar)",
+        "Membuat UI Design & Prototype Interaktif di Figma"
+      ]
+    },
+    {
+      "heading": "Hari 4:",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Review, Testing Dasar Usability Testing Review & perbaikan desain Feedback dari trainer",
+      "items": [
+        "Review, Testing",
+        "Dasar Usability Testing",
+        "Review & perbaikan desain",
+        "Feedback dari trainer"
+      ]
+    },
+    {
+      "heading": "Belajar UI/UX Design Langsung dari instruktur Berpengalaman",
+      "semantic_type": "TRAINERS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fathi Farhat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "(UI/UX Designer)",
+      "items": []
+    },
+    {
+      "heading": "(UI/UX Designer)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Fathi Farhat (UI/UX Designer)",
+      "items": []
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya melalui Training ID-Networkers, dan terus bertambah!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Beberapa Dokumentasi Training UI/UX Design",
+      "semantic_type": "DOCUMENTATION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi, Kuota Peserta terbatas! Yuk daftar dan upgrade skillmu sekarang juga!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi",
+      "semantic_type": "PRICE",
+      "content": "Training Digital Marketing Rp 3 Rp 2 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 4 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+      "items": [
+        "Materi Terstruktur Disesuaikan dengan Kebutuhan Industri",
+        "Durasi Training 4 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya)",
+        "Sertifikat, Modul, Notebook, dll",
+        "Instruktur Expert dan Berpengalaman Di bidangnya",
+        "Gratis Mengulang Training Sebanyak 2x Jika Belum Paham"
+      ]
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Pernah ngerasain ini?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Bingung mulai belajar UI/UX dari mana 😕 Sudah nonton tutorial tapi tetap gak paham alurnya Tidak punya portfolio untuk melamar kerja Skill desain belum sesuai kebutuhan industri Takut kalah saing di dunia kerja digital Kalau iya, kamu gak sendirian.",
+      "items": [
+        "Bingung mulai belajar UI/UX dari mana 😕",
+        "Sudah nonton tutorial tapi tetap gak paham alurnya",
+        "Tidak punya portfolio untuk melamar kerja",
+        "Skill desain belum sesuai kebutuhan industri",
+        "Takut kalah saing di dunia kerja digital",
+        ""
+      ]
+    },
+    {
+      "heading": "Di training ini, kamu akan belajar UI/UX secara step-by-step & terstruktur, mulai dari dasar sampai bisa bikin project nyata.",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": [
+        "Bingung mulai belajar UI/UX dari mana 😕",
+        "Sudah nonton tutorial tapi tetap gak paham alurnya",
+        "Tidak punya portfolio untuk melamar kerja",
+        "Skill desain belum sesuai kebutuhan industri",
+        "Takut kalah saing di dunia kerja digital",
+        ""
+      ]
+    },
+    {
+      "heading": "Belajar dari nol (cocok untuk pemula)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Langsung praktik bikin desain aplikasi & website",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Insight dunia kerja & freelance",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fathi Farhat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "(UI/UX Designer)",
+      "items": []
+    },
+    {
+      "heading": "(UI/UX Designer)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Fathi Farhat (UI/UX Designer)",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "UI/UX Design",
+    "content_hash": "f4ae5b722e084bfd057fd8da42ac2d384c482831f6430a2a420e20a3025a3f16",
+    "template_type": "ELEMENTOR"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 62,
+  "canonical_url": "https://www.idn.id/training/kubernetes-security-specialist-cks/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "5437074e10f7fa5fed63be7dadcd6e4fda28dfc5897e45815c75fe3521a9ded1",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:46.745420+00:00",
+  "facts_path": "data\\products\\kubernetes-security-specialist-cks\\facts.json",
+  "evidence_path": "data\\products\\kubernetes-security-specialist-cks\\evidence.json",
+  "raw_snapshot_path": "data\\products\\kubernetes-security-specialist-cks\\raw.html",
+  "last_error": null
+}

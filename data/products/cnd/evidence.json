@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/cnd/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Certified Network Defender (CND) adalah program sertifikasi yang dirancang oleh EC-Council untuk memberikan pengetahuan dan keterampilan dalam melindungi jaringan dari ancaman dan serangan siber. Pelatihan ini berfokus pada pengembangan keterampilan yang diperlukan untuk membangun, mengelola, dan mempertahankan infrastruktur jaringan yang aman. CND dirancang untuk membangun keterampilan dalam melindungi, mendeteksi, dan merespons ancaman keamanan jaringan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/cnd/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/cnd/",
+      "source_section": "Biaya Investasi : Rp. 20.000.000 Rp. 17.000.000",
+      "source_text": "Biaya Investasi : Rp. 20.000.000 Rp. 17.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/cnd/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum Module 01: Network Attacks and Defense Strategies Module 02: Administrative Network Security Module 03: Technical Network Security Module 04: Network Perimeter Security Module 05: Endpoint Security – Windows Systems Module 06: Endpoint Security – Linux Systems Module 07: Endpoint Security – Mobile Devices Module 08: Endpoint Security – IoT Devices Module 09: Administrative Application Security Module 10: Data Security Module 11: Enterprise Virtual Network Security Module 12: Enterprise Cloud Security Module 13: Enterprise Wireless Network Security Module 14: Network Traffic Monitoring and Analysis Module 15: Network Logs Monitoring and Analysis Module 16: Incident Response and Forensics Investigation Module 17: Business Continuity and Disaster Recovery Module 18: Risk Anticipation with Risk Management Module 19: Threat Assessment with Attack Surface Analysis Module 20: Threat Prediction with Cyber Threat Intelligence",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/cnd/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Miftahul Huda, M.Kom (CND)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/cnd/",
+      "source_section": "Fasilitas Training",
+      "source_text": "Fasilitas Training Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Page title",
+        "source_text": "CND (Certified Network Defender)",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Training registry",
+        "source_text": "EC-Council",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/cnd/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

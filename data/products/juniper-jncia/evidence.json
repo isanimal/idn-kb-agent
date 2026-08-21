@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/juniper-jncia/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training JNCIA merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang pengenalan perangkat juniper dan JUNOS, Instalasi ataupun troubleshooting terhadap jaringan medium size enterprise network Adapun training JNCIA di IDN dilaksanakan selama 2 hari. Selama training peserta akan mendapat ilmu tentang bagaimana melakukan instalasi ataupun troubleshoot perangkat JUNIPER dan juga mendapat beberapa materi di luar JNCIA yaitu JNCIS Peserta juga akan mendapat ilmu tentang ujian JNCIA, sehingga peserta bisa lulus ujian JNCIA dan meningkatkan nilai jual diri dalam pekerjaan Persyaratan dasar untuk bisa mengikuti training adalah peserta minimal sudah paham dengan Network fundamental IP Address dan subnetting",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/juniper-jncia/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/juniper-jncia/",
+      "source_section": "Biaya Investasi : Rp 2.000.000,-",
+      "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/juniper-jncia/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum 1. Introduction to JNCIA-Junos Overview JNCIA-Junos certification Exam blueprint & study strategy Juniper device family overview Junos OS overview 2. Networking Fundamental Review (Refresh Only) Router vs switch IPv4 / IPv6 review Subnetting review Longest prefix match Layer 2 vs Layer 3 forwarding Connection-oriented vs connectionless protocol 3. Junos OS Fundamentals Junos software architecture Routing Engine (RE) & Packet Forwarding Engine (PFE) Control Plane vs Forwarding Plane Transit traffic vs exception traffic Packet processing overview 4. Junos User Interface (CLI) Operational mode vs configuration mode CLI navigation CLI help & shortcuts Filtering output | match | compare | display set | count Active vs candidate configuration Commit process Rollback & revert configuration Saving & loading configuration Viewing & comparing configurations J-Web overview 5. Initial System Configuration Factory-default configuration Hostname & system identity Root password User accounts Login classes Authentication methods Interface types & properties Basic interface configuration NTP SNMP basics System log (Syslog) Configuration archival Rescue configuration 6. Static Routing Routing fundamentals Routing table vs forwarding table Route preference Static routing concepts Configure static route Default route Floating static route Qualified next-hop Monitoring & troubleshooting static route 7. OSPF Fundamentals Dynamic routing overview OSPF concepts & operation OSPF packet types Neighbor adjacency Single-area OSPF configuration Multi-area OSPF configuration OSPF monitoring & troubleshooting 8. IS-IS Fundamentals (Bonus Value Added) Introduction to IS-IS IS-IS concepts & operation IS-IS packet types Level-1 IS-IS Level-2 IS-IS Level-1 / Level-2 IS-IS Basic IS-IS configuration IS-IS route verification & troubleshooting OSPF vs IS-IS comparison 9. Routing Policy Default routing policy Import & export policy Policy flow Policy structure & terms Match conditions Actions Forming routing policy Applying routing policy Monitoring routing policies 10. Firewall Filters Firewall filter concepts Filter structure & terms Match conditions Actions Packet filtering behavior Input & output filter Configure firewall filter Monitor filter counters 11. Operational Monitoring & Maintenance Show commands Monitor commands Interface statistics & errors Troubleshooting tools Ping Traceroute SSH Telnet Basic troubleshooting workflow Power on & shutdown procedure Junos OS installation & upgrade overview Root password recovery Logging & tracing",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/juniper-jncia/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS Memahami semua materi yang tersedia berdasarkan curriculum yang ada Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/juniper-jncia/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Aries Sadewa (JNCIP) Fernanda Adhipramana (JNCIP) Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Page title",
+        "source_text": "JNCIA Junos",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Training registry",
+        "source_text": "Juniper",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/juniper-jncia/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

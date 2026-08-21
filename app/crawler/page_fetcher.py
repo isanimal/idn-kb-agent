@@ -43,13 +43,18 @@ class PageFetcher:
             self.logger.warning("HTTP fetch failed/unusable for %s, using browser fallback: %s", url, exc)
             self.browser.start()
             page = self.browser.new_page()
-            page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-            page.wait_for_load_state("networkidle", timeout=30_000)
-            result = FetchResult(url, page.url, page.content(), "PLAYWRIGHT", "")
+            try:
+                page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+                try:
+                    page.wait_for_load_state("networkidle", timeout=10_000)
+                except Exception:
+                    self.logger.info("Browser network remained active for %s; validating current DOM", url)
+                result = FetchResult(url, page.url, page.content(), "PLAYWRIGHT", "")
+            finally:
+                page.close()
             if not usable(result.html):
                 raise RuntimeError(f"Rendered DOM is unusable for {url}")
         path = snapshot_dir / safe_snapshot_name(result.final_url)
         path.write_text(result.html, encoding="utf-8")
         result.snapshot_path = str(path)
         return result
-

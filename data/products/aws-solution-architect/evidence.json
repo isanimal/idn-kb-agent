@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Di era cloud computing, kemampuan merancang arsitektur sistem yang scalable, secure, dan efisien menjadi salah satu skill paling dicari di industri IT. Salah satu platform cloud terbesar di dunia, Amazon Web Services, telah digunakan oleh jutaan perusahaan mulai dari startup hingga enterprise global. Training AWS Solution Architect dirancang untuk membantu kamu memahami bagaimana membangun, mengelola, dan mengoptimalkan infrastruktur cloud menggunakan layanan AWS secara profesional. Dalam program ini, kamu akan belajar mulai dari konsep dasar cloud hingga praktik langsung dalam mendesain arsitektur yang high availability, fault-tolerant, dan cost-efficient. Tidak hanya teori, kamu juga akan dibimbing melalui studi kasus nyata serta simulasi yang relevan dengan kebutuhan industri. Pelatihan ini dirancang khusus bagi para IT Professional yang ingin menguasai seni merancang infrastruktur cloud yang scalable, secure, dan cost-efficient menggunakan Amazon Web Services (AWS). Kurikulum kami disusun secara sistematis, mulai dari pemahaman dasar komputasi hingga implementasi arsitektur kompleks seperti Serverless dan Microservices. Target Kompetensi Akhir: Mampu merancang sistem yang fault-tolerant dan highly available. Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa. Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud. Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03).",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Biaya Investasi : Rp 3.000.000",
+      "source_text": "Biaya Investasi : Rp 3.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum Day 1 Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG) Day 2 AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras Day 3 Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services Day 4 Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF) Day 5 AWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC) Siap menghadapi sertifikasi AWS Solution Architect Skill cloud computing yang high-demand di industri Bisa desain arsitektur sistem yang scalable & secure Hands-on lab (praktek langsung, bukan teori saja) Peluang karir lebih luas (Cloud Engineer, DevOps, dll) Meningkatkan value diri & potensi gaji Kesempatan kerja remote / global",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/aws-solution-architect/",
+      "source_section": "Mengapa harus training aWS solution architect di IDN ?",
+      "source_text": "Mengapa harus training aWS solution architect di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Page title",
+        "source_text": "AWS Solution Architect",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Training registry",
+        "source_text": "Clouds",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/aws-solution-architect/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/aws-solution-architect/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 32,
+  "canonical_url": "https://www.idn.id/training/network-management-system/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "2c85f635cad27fc56bf644cad8435750175f6ebf90e09755341df6353e2dff1b",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:27.887202+00:00",
+  "facts_path": "data\\products\\network-management-system\\facts.json",
+  "evidence_path": "data\\products\\network-management-system\\evidence.json",
+  "raw_snapshot_path": "data\\products\\network-management-system\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/postgresql-database-management/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training ini dirancang untuk memberikan pemahaman komprehensif dan praktikal mengenai konsep Database Management System (DBMS) serta implementasinya menggunakan PostgreSQL. Peserta akan mempelajari alur lengkap pengelolaan database, mulai dari konsep dasar , penulisan query SQL, pengolahan data, hingga teknik lanjutan seperti JOIN , transaksi, dan optimasi performa yang umum digunakan dalam pengembangan aplikasi di dunia kerja.Pendekatan training bersifat hands-on dan berbasis studi kasus , sehingga peserta tidak hanya memahami teori, tetapi juga mampu langsung mengimplementasikannya.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/postgresql-database-management/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya, termasuk sesi praktik, diskusi, dan studi kasus)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/postgresql-database-management/",
+      "source_section": "Biaya Investasi : Rp 3.300.000,-",
+      "source_text": "Biaya Investasi : Rp 3.300.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/postgresql-database-management/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum HARI 1 – FUNDAMENTAL & BASIC SQL 1. Pengenalan DBMS Konsep dasar DBMS Perbedaan Relational vs NoSQL Pengenalan PostgreSQL Struktur database: table, row, column 2. Setup, Basic SQL: Data Definition Language Instalasi & koneksi PostgreSQL CREATE DATABASE CREATE TABLE Data Types Constraint: PRIMARY KEY NOT NULL 3. Basic SQL: Data Manipulation Language INSERT SELECT UPDATE DELETE 4. Filtering, Sorting WHERE, AND, OR LIKE ORDER BY LIMIT HARI 2 – RELASI, ADVANCED & PERFORMANCE 5. Relasi Database Konsep relasi: One-to-One One-to-Many Many-to-Many FOREIGN KEY 6. JOIN & Aggregation JOIN: INNER JOIN LEFT JOIN Aggregation: COUNT, SUM, AVG GROUP BY & HAVING 7. Transaction & Indexing Transaction: Konsep ACID BEGIN, COMMIT, ROLLBACK Indexing: Konsep index CREATE INDEX Dampak index terhadap performa (read vs write) Optimasi query sederhana 8. Final Project & Database Design Normalisasi: 1NF, 2NF, 3NF ERD (Entity Relationship Diagram)",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/postgresql-database-management/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/postgresql-database-management/",
+      "source_section": "Mengapa Harus Training PostgreSQL: Database Management di IDN ?",
+      "source_text": "Mengapa Harus Training PostgreSQL: Database Management di IDN ? Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2X Disediakan penginapan untuk peserta dari luar kota Disediakan Snack dan makan siang T-Shirt",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Page title",
+        "source_text": "PostgreSQL: Database Management",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Training registry",
+        "source_text": "Database Admin",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/postgresql-database-management/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

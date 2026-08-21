@@ -1,0 +1,14 @@
+{
+  "training_source_id": 52,
+  "canonical_url": "https://www.idn.id/training/google-cloud-administrator/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "09a32102c1d1c9dfbbe1fbcc424b5ef0d2d4ebf5d84dd0da0dec2220c839e52e",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:40.007332+00:00",
+  "facts_path": "data\\products\\google-cloud-administrator\\facts.json",
+  "evidence_path": "data\\products\\google-cloud-administrator\\evidence.json",
+  "raw_snapshot_path": "data\\products\\google-cloud-administrator\\raw.html",
+  "last_error": null
+}

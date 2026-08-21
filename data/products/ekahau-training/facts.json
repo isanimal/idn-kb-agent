@@ -1,0 +1,431 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Ekahau",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ekahau-training/",
+          "source_section": "Page title",
+          "source_text": "Ekahau",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Ekahau",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ekahau-training/",
+          "source_section": "Training registry",
+          "source_text": "Ekahau",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ekahau-training/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ekahau-training/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ekahau-training/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Ekahau adalah alat yang digunakan untuk mendesain dan mengelola jaringan Wi-Fi dengan misi untuk membersihkan dunia dari Wi-Fi yang buruk. seluruh dunia mengandalkan ekahau untuk membantu menjadikan bisnis mereka berkembang secara nirkabel, dalam misi mendesain Wi-Fi terbaik Suite kini telah dioptimalkan dan mampu menghitung redaman dinding secara otomatis dan menjalankan simulasi yang tak terhitung jumlahnya untuk membantu Anda menemukan penempatan AP terbaik mutlak untuk jaringan Anda selain itu ekahau telah menambahkan Mesin analisis kinerja Wi-Fi global dengan penampil peta berbasis browser dan menciptakan perangkat pengujian Wi-Fi tercepat dan paling akurat yang mungkin Anda impikan. Bergabunglah bersama kami dalam misi kami yang dirancang dengan tepat jumlah APS di lokasi yang tepat memvalidasi dengan akurasi luar biasa dan menjalankan pemeriksaan kesehatan berkelanjutan yang menjaga jaringan Anda tetap berkinerja tinggi seiring perubahan kebutuhan Anda seiring waktu. Semua dengan Echo Anda dapat mempercayai nama paling tepercaya di Alat Kinerja Wi-Fi",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Ekahau adalah alat yang digunakan untuk mendesain dan mengelola jaringan Wi-Fi dengan misi untuk membersihkan dunia dari Wi-Fi yang buruk. seluruh dunia mengandalkan ekahau untuk membantu menjadikan bisnis mereka berkembang secara nirkabel, dalam misi mendesain Wi-Fi terbaik Suite kini telah dioptimalkan dan mampu menghitung redaman dinding secara otomatis dan menjalankan simulasi yang tak terhitung jumlahnya untuk membantu Anda menemukan penempatan AP terbaik mutlak untuk jaringan Anda selain itu ekahau telah menambahkan Mesin analisis kinerja Wi-Fi global dengan penampil peta berbasis browser dan menciptakan perangkat pengujian Wi-Fi tercepat dan paling akurat yang mungkin Anda impikan. Bergabunglah bersama kami dalam misi kami yang dirancang dengan tepat jumlah APS di lokasi yang tepat memvalidasi dengan akurasi luar biasa dan menjalankan pemeriksaan kesehatan berkelanjutan yang menjaga jaringan Anda tetap berkinerja tinggi seiring perubahan kebutuhan Anda seiring waktu. Semua dengan Echo Anda dapat mempercayai nama paling tepercaya di Alat Kinerja Wi-Fi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 6.000.000",
+      "amount": 6000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Biaya Investasi : Rp 6.000.000,-",
+        "source_text": "Biaya Investasi : Rp 6.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1. Wireless Basics",
+        "items": [
+          "RF Fundamentals",
+          "Wireless Channels",
+          "Channel Interference",
+          "Data Rates",
+          "Antenna Basics"
+        ]
+      },
+      {
+        "title": "Module 2. Cisco Wireless LAN",
+        "items": [
+          "AP and WLC Protocols",
+          "Access Points Type",
+          "Access Point Mode",
+          "WLAN Authentication Method",
+          "Authentication and Encryption",
+          "WLC Deployments",
+          "Radio Resource Management",
+          "High Density Optimization",
+          "Cisco WLC Best Practices"
+        ]
+      },
+      {
+        "title": "Module 3. Wireless Site Survey",
+        "items": [
+          "Wireless Site Survey Overview",
+          "Wireless site Survey Purpose",
+          "Post-Deployment assessment"
+        ]
+      },
+      {
+        "title": "Module 4. Ekahau AI Pro Overview",
+        "items": [
+          "Main Components of the User Interface",
+          "Introducing Workspaces",
+          "Introducing Map View",
+          "Selecting Visualizations",
+          "Access Point List Overview",
+          "Working with the Access Point List",
+          "Surveys-list Overview",
+          "Building View",
+          "Mini Status Views",
+          "Menu Selections",
+          "Software Preferences"
+        ]
+      },
+      {
+        "title": "Module 5. How to get started with Ekahau AI Pro",
+        "items": [
+          "Adding Maps and Setting the Scale",
+          "Saving your projects: Ekahau Cloud, Local or Sidekick",
+          "Changing the Map",
+          "Defining Network Requirements",
+          "Defining Capacity Requirements"
+        ]
+      },
+      {
+        "title": "Module 5. Conducting surveys on your network",
+        "items": [
+          "Configuring Predictive Survey",
+          "Configuring On-site Survey (Passive and Active Surveys)"
+        ]
+      },
+      {
+        "title": "Analyzing Wi-Fi Coverage & Performance",
+        "items": []
+      },
+      {
+        "title": "Troubleshooting the Most Common Wi-Fi Problems",
+        "items": []
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Module 1. Wireless Basics RF Fundamentals Wireless Channels Channel Interference Data Rates Antenna Basics Module 2. Cisco Wireless LAN AP and WLC Protocols Access Points Type Access Point Mode WLAN Authentication Method Authentication and Encryption WLC Deployments Radio Resource Management High Density Optimization Cisco WLC Best Practices Module 3. Wireless Site Survey Wireless Site Survey Overview Wireless site Survey Purpose Post-Deployment assessment Module 4. Ekahau AI Pro Overview Main Components of the User Interface Introducing Workspaces Introducing Map View Selecting Visualizations Access Point List Overview Working with the Access Point List Surveys-list Overview Building View Mini Status Views Menu Selections Software Preferences Module 5. How to get started with Ekahau AI Pro Adding Maps and Setting the Scale Saving your projects: Ekahau Cloud, Local or Sidekick Changing the Map Defining Network Requirements Defining Capacity Requirements Module 5. Conducting surveys on your network Configuring Predictive Survey Configuring On-site Survey (Passive and Active Surveys) Analyzing Wi-Fi Coverage & Performance Troubleshooting the Most Common Wi-Fi Problems",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta mendapat sertifikat dari IDN untuk menunjang pekerjaan",
+      "Peserta mendapat skill tentang Ekahau yang dapat dimanfaatkan & diimplementasikan di real case",
+      "Peserta mendapat relasi dengan trainer dan peserta lain yang memiliki background berbeda",
+      "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta mendapat sertifikat dari IDN untuk menunjang pekerjaan Peserta mendapat skill tentang Ekahau yang dapat dimanfaatkan & diimplementasikan di real case Peserta mendapat relasi dengan trainer dan peserta lain yang memiliki background berbeda Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Athoriq Firdaus (CCNA, CCNP, MTCNA, MTCRE, MTCINE)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ekahau-training/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Athoriq Firdaus (CCNA, CCNP, MTCNA, MTCRE, MTCINE)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Ekahau di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek. Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia.",
+      "items": [
+        "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek.",
+        "Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Ekahau adalah alat yang digunakan untuk mendesain dan mengelola jaringan Wi-Fi dengan misi untuk membersihkan dunia dari Wi-Fi yang buruk. seluruh dunia mengandalkan ekahau untuk membantu menjadikan bisnis mereka berkembang secara nirkabel, dalam misi mendesain Wi-Fi terbaik Suite kini telah dioptimalkan dan mampu menghitung redaman dinding secara otomatis dan menjalankan simulasi yang tak terhitung jumlahnya untuk membantu Anda menemukan penempatan AP terbaik mutlak untuk jaringan Anda selain itu ekahau telah menambahkan Mesin analisis kinerja Wi-Fi global dengan penampil peta berbasis browser dan menciptakan perangkat pengujian Wi-Fi tercepat dan paling akurat yang mungkin Anda impikan. Bergabunglah bersama kami dalam misi kami yang dirancang dengan tepat jumlah APS di lokasi yang tepat memvalidasi dengan akurasi luar biasa dan menjalankan pemeriksaan kesehatan berkelanjutan yang menjaga jaringan Anda tetap berkinerja tinggi seiring perubahan kebutuhan Anda seiring waktu. Semua dengan Echo Anda dapat mempercayai nama paling tepercaya di Alat Kinerja Wi-Fi",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta mendapat sertifikat dari IDN untuk menunjang pekerjaan Peserta mendapat skill tentang Ekahau yang dapat dimanfaatkan & diimplementasikan di real case Peserta mendapat relasi dengan trainer dan peserta lain yang memiliki background berbeda Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "items": [
+        "Peserta mendapat sertifikat dari IDN untuk menunjang pekerjaan",
+        "Peserta mendapat skill tentang Ekahau yang dapat dimanfaatkan & diimplementasikan di real case",
+        "Peserta mendapat relasi dengan trainer dan peserta lain yang memiliki background berbeda",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Athoriq Firdaus (CCNA, CCNP, MTCNA, MTCRE, MTCINE)",
+      "items": [
+        "Athoriq Firdaus (CCNA, CCNP, MTCNA, MTCRE, MTCINE)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1. Wireless Basics RF Fundamentals Wireless Channels Channel Interference Data Rates Antenna Basics Module 2. Cisco Wireless LAN AP and WLC Protocols Access Points Type Access Point Mode WLAN Authentication Method Authentication and Encryption WLC Deployments Radio Resource Management High Density Optimization Cisco WLC Best Practices Module 3. Wireless Site Survey Wireless Site Survey Overview Wireless site Survey Purpose Post-Deployment assessment Module 4. Ekahau AI Pro Overview Main Components of the User Interface Introducing Workspaces Introducing Map View Selecting Visualizations Access Point List Overview Working with the Access Point List Surveys-list Overview Building View Mini Status Views Menu Selections Software Preferences Module 5. How to get started with Ekahau AI Pro Adding Maps and Setting the Scale Saving your projects: Ekahau Cloud, Local or Sidekick Changing the Map Defining Network Requirements Defining Capacity Requirements Module 5. Conducting surveys on your network Configuring Predictive Survey Configuring On-site Survey (Passive and Active Surveys) Analyzing Wi-Fi Coverage & Performance Troubleshooting the Most Common Wi-Fi Problems",
+      "items": [
+        {
+          "title": "Module 1. Wireless Basics",
+          "items": [
+            "RF Fundamentals",
+            "Wireless Channels",
+            "Channel Interference",
+            "Data Rates",
+            "Antenna Basics"
+          ]
+        },
+        {
+          "title": "Module 2. Cisco Wireless LAN",
+          "items": [
+            "AP and WLC Protocols",
+            "Access Points Type",
+            "Access Point Mode",
+            "WLAN Authentication Method",
+            "Authentication and Encryption",
+            "WLC Deployments",
+            "Radio Resource Management",
+            "High Density Optimization",
+            "Cisco WLC Best Practices"
+          ]
+        },
+        {
+          "title": "Module 3. Wireless Site Survey",
+          "items": [
+            "Wireless Site Survey Overview",
+            "Wireless site Survey Purpose",
+            "Post-Deployment assessment"
+          ]
+        },
+        {
+          "title": "Module 4. Ekahau AI Pro Overview",
+          "items": [
+            "Main Components of the User Interface",
+            "Introducing Workspaces",
+            "Introducing Map View",
+            "Selecting Visualizations",
+            "Access Point List Overview",
+            "Working with the Access Point List",
+            "Surveys-list Overview",
+            "Building View",
+            "Mini Status Views",
+            "Menu Selections",
+            "Software Preferences"
+          ]
+        },
+        {
+          "title": "Module 5. How to get started with Ekahau AI Pro",
+          "items": [
+            "Adding Maps and Setting the Scale",
+            "Saving your projects: Ekahau Cloud, Local or Sidekick",
+            "Changing the Map",
+            "Defining Network Requirements",
+            "Defining Capacity Requirements"
+          ]
+        },
+        {
+          "title": "Module 5. Conducting surveys on your network",
+          "items": [
+            "Configuring Predictive Survey",
+            "Configuring On-site Survey (Passive and Active Surveys)"
+          ]
+        },
+        {
+          "title": "Analyzing Wi-Fi Coverage & Performance",
+          "items": []
+        },
+        {
+          "title": "Troubleshooting the Most Common Wi-Fi Problems",
+          "items": []
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 6.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Ekahau",
+    "content_hash": "fda0261c9b11c7ac111db7d46f41e1ffec18703d8a098057584a0424116cfcae",
+    "template_type": "BETTERDOCS"
+  }
+}

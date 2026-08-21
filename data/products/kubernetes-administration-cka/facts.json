@@ -1,0 +1,446 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Kubernetes Administration-CKA",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+          "source_section": "Page title",
+          "source_text": "Kubernetes Administration-CKA",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Orchestration",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+          "source_section": "Training registry",
+          "source_text": "Orchestration",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/kubernetes-administration-cka/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/kubernetes-administration-cka/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Kursus ini membantu Anda memperoleh pengetahuan yang diperlukan untuk merancang dan menerapkan aplikasi cloud native di cluster Kubernetes.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Kursus ini membantu Anda memperoleh pengetahuan yang diperlukan untuk merancang dan menerapkan aplikasi cloud native di cluster Kubernetes.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 4.000.000",
+      "amount": 4000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+        "source_section": "Biaya Investasi : Rp 4.000.000,-",
+        "source_text": "Biaya Investasi : Rp 4.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1. Basic Containerization",
+        "items": [
+          "Overview Containerization",
+          "Containerize an application",
+          "Update the application",
+          "Share the application",
+          "Multi-container apps"
+        ]
+      },
+      {
+        "title": "Module 2. Cluster Architecture, Installation & Configuration",
+        "items": [
+          "Provision underlying infrastructure to deploy a Kubernetes cluster",
+          "Use Kubeadm to install a basic cluster",
+          "Perform a version upgrade on a Kubernetes cluster using Kubeadm",
+          "Manage role based access control (RBAC)",
+          "Implement etcd backup and restore"
+        ]
+      },
+      {
+        "title": "Module 3. Workloads & Scheduling",
+        "items": [
+          "Understand deployments and how to perform rolling update and rollbacks",
+          "Use ConfigMaps and Secrets to configure applications",
+          "Know how to scale applications",
+          "Understand the primitives used to create robust, self-healing, application deployments",
+          "Understand how resource limits can affect Pod scheduling",
+          "Awareness of manifest management and common templating tools"
+        ]
+      },
+      {
+        "title": "Module 4. Services & Networking",
+        "items": [
+          "Understand host networking configuration on the cluster nodes",
+          "Understand conectivity between Pods",
+          "Undertand ClusterIP, NodePort, LoadBalancer service types and endpoints",
+          "Know how to use Ingress controllers and Ingress resources",
+          "Know how to configure and use CoreDNS",
+          "Choose an appropriate container network interface plugin"
+        ]
+      },
+      {
+        "title": "Module 5. Storage",
+        "items": [
+          "Understand storage classes, persistent volumes",
+          "Understand volume mode, access modes and reclaim policies for volumes",
+          "Understand persistent volume claims primitive",
+          "Know how to configure applications with persistent storage"
+        ]
+      },
+      {
+        "title": "Module 6. Troubleshooting",
+        "items": [
+          "Evaluate cluster and node logging",
+          "Understand how to monitor applications",
+          "Manage container stdout & stderr logs",
+          "Troubleshoot application failure",
+          "Troubleshoot cluster component failure",
+          "Troubleshoot networking"
+        ]
+      },
+      {
+        "title": "Module 7. Helm & Monitoring",
+        "items": [
+          "Deploy application on kubernetes with Helm",
+          "Monitoring Kubernetes Resource Cluster with Prometheus And Grafana"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Module 1. Basic Containerization Overview Containerization Containerize an application Update the application Share the application Multi-container apps Module 2. Cluster Architecture, Installation & Configuration Provision underlying infrastructure to deploy a Kubernetes cluster Use Kubeadm to install a basic cluster Perform a version upgrade on a Kubernetes cluster using Kubeadm Manage role based access control (RBAC) Implement etcd backup and restore Module 3. Workloads & Scheduling Understand deployments and how to perform rolling update and rollbacks Use ConfigMaps and Secrets to configure applications Know how to scale applications Understand the primitives used to create robust, self-healing, application deployments Understand how resource limits can affect Pod scheduling Awareness of manifest management and common templating tools Module 4. Services & Networking Understand host networking configuration on the cluster nodes Understand conectivity between Pods Undertand ClusterIP, NodePort, LoadBalancer service types and endpoints Know how to use Ingress controllers and Ingress resources Know how to configure and use CoreDNS Choose an appropriate container network interface plugin Module 5. Storage Understand storage classes, persistent volumes Understand volume mode, access modes and reclaim policies for volumes Understand persistent volume claims primitive Know how to configure applications with persistent storage Module 6. Troubleshooting Evaluate cluster and node logging Understand how to monitor applications Manage container stdout & stderr logs Troubleshoot application failure Troubleshoot cluster component failure Troubleshoot networking Module 7. Helm & Monitoring Deploy application on kubernetes with Helm Monitoring Kubernetes Resource Cluster with Prometheus And Grafana",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Networking Fundamentals",
+      "Linux Fundamentals",
+      "Linux Administration",
+      "Container Fundamentals"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Sebelum mengikuti training ini diharapkan peserta sudah menguasai terlabih dahulu materi-materi berikut: Networking Fundamentals Linux Fundamentals Linux Administration Container Fundamentals Jika belum punya basic, bisa pelajari materi-materi diatas secara gratis melalui link berikut >>> https://lms.idn.id/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "AJi Mufti Zakaria (COA, CKA)",
+      "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+        "source_section": "Trainer",
+        "source_text": "Trainer AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Kubernetes Administration di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup",
+        "Biaya training murah dibanding tempat-tempat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Kursus ini membantu Anda memperoleh pengetahuan yang diperlukan untuk merancang dan menerapkan aplikasi cloud native di cluster Kubernetes.",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)",
+      "items": [
+        "AJi Mufti Zakaria (COA, CKA)",
+        "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)"
+      ]
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Sebelum mengikuti training ini diharapkan peserta sudah menguasai terlabih dahulu materi-materi berikut: Networking Fundamentals Linux Fundamentals Linux Administration Container Fundamentals Jika belum punya basic, bisa pelajari materi-materi diatas secara gratis melalui link berikut >>> https://lms.idn.id/",
+      "items": [
+        "Networking Fundamentals",
+        "Linux Fundamentals",
+        "Linux Administration",
+        "Container Fundamentals"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1. Basic Containerization Overview Containerization Containerize an application Update the application Share the application Multi-container apps Module 2. Cluster Architecture, Installation & Configuration Provision underlying infrastructure to deploy a Kubernetes cluster Use Kubeadm to install a basic cluster Perform a version upgrade on a Kubernetes cluster using Kubeadm Manage role based access control (RBAC) Implement etcd backup and restore Module 3. Workloads & Scheduling Understand deployments and how to perform rolling update and rollbacks Use ConfigMaps and Secrets to configure applications Know how to scale applications Understand the primitives used to create robust, self-healing, application deployments Understand how resource limits can affect Pod scheduling Awareness of manifest management and common templating tools Module 4. Services & Networking Understand host networking configuration on the cluster nodes Understand conectivity between Pods Undertand ClusterIP, NodePort, LoadBalancer service types and endpoints Know how to use Ingress controllers and Ingress resources Know how to configure and use CoreDNS Choose an appropriate container network interface plugin Module 5. Storage Understand storage classes, persistent volumes Understand volume mode, access modes and reclaim policies for volumes Understand persistent volume claims primitive Know how to configure applications with persistent storage Module 6. Troubleshooting Evaluate cluster and node logging Understand how to monitor applications Manage container stdout & stderr logs Troubleshoot application failure Troubleshoot cluster component failure Troubleshoot networking Module 7. Helm & Monitoring Deploy application on kubernetes with Helm Monitoring Kubernetes Resource Cluster with Prometheus And Grafana",
+      "items": [
+        {
+          "title": "Module 1. Basic Containerization",
+          "items": [
+            "Overview Containerization",
+            "Containerize an application",
+            "Update the application",
+            "Share the application",
+            "Multi-container apps"
+          ]
+        },
+        {
+          "title": "Module 2. Cluster Architecture, Installation & Configuration",
+          "items": [
+            "Provision underlying infrastructure to deploy a Kubernetes cluster",
+            "Use Kubeadm to install a basic cluster",
+            "Perform a version upgrade on a Kubernetes cluster using Kubeadm",
+            "Manage role based access control (RBAC)",
+            "Implement etcd backup and restore"
+          ]
+        },
+        {
+          "title": "Module 3. Workloads & Scheduling",
+          "items": [
+            "Understand deployments and how to perform rolling update and rollbacks",
+            "Use ConfigMaps and Secrets to configure applications",
+            "Know how to scale applications",
+            "Understand the primitives used to create robust, self-healing, application deployments",
+            "Understand how resource limits can affect Pod scheduling",
+            "Awareness of manifest management and common templating tools"
+          ]
+        },
+        {
+          "title": "Module 4. Services & Networking",
+          "items": [
+            "Understand host networking configuration on the cluster nodes",
+            "Understand conectivity between Pods",
+            "Undertand ClusterIP, NodePort, LoadBalancer service types and endpoints",
+            "Know how to use Ingress controllers and Ingress resources",
+            "Know how to configure and use CoreDNS",
+            "Choose an appropriate container network interface plugin"
+          ]
+        },
+        {
+          "title": "Module 5. Storage",
+          "items": [
+            "Understand storage classes, persistent volumes",
+            "Understand volume mode, access modes and reclaim policies for volumes",
+            "Understand persistent volume claims primitive",
+            "Know how to configure applications with persistent storage"
+          ]
+        },
+        {
+          "title": "Module 6. Troubleshooting",
+          "items": [
+            "Evaluate cluster and node logging",
+            "Understand how to monitor applications",
+            "Manage container stdout & stderr logs",
+            "Troubleshoot application failure",
+            "Troubleshoot cluster component failure",
+            "Troubleshoot networking"
+          ]
+        },
+        {
+          "title": "Module 7. Helm & Monitoring",
+          "items": [
+            "Deploy application on kubernetes with Helm",
+            "Monitoring Kubernetes Resource Cluster with Prometheus And Grafana"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Jadwal Terdekat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 4.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Jadwal Terdekat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "UNKNOWN_SECTIONS"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Kubernetes Administration-CKA",
+    "content_hash": "edb273e36763df3ee831e7047e52de50c58a5f30ee23f839b8b890dd96c9f63b",
+    "template_type": "BETTERDOCS"
+  }
+}

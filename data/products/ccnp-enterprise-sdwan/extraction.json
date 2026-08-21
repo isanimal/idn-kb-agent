@@ -1,0 +1,14 @@
+{
+  "training_source_id": 4,
+  "canonical_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "fb61fc25de922dc0aae21c02e8be9030a9093e33d275a02bd115af94f59d0ab7",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:08.865957+00:00",
+  "facts_path": "data\\products\\ccnp-enterprise-sdwan\\facts.json",
+  "evidence_path": "data\\products\\ccnp-enterprise-sdwan\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ccnp-enterprise-sdwan\\raw.html",
+  "last_error": null
+}

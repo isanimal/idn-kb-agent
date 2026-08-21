@@ -1,0 +1,315 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Ansible Automation",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-ansible-automation/",
+          "source_section": "Page title",
+          "source_text": "Ansible Automation",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Automation",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-ansible-automation/",
+          "source_section": "Training registry",
+          "source_text": "Automation",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/training-ansible-automation/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-ansible-automation/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/training-ansible-automation/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Ansible adalah tool manajemen konfigurasi yang modern dan tidak memerlukan software agent pada Remote Nodes atau Hosts Node. Namun, kamu hanya perlu menggunakan SSH dan Python saja untuk berkomunikasi dan mengeksekusi perintah pada Hosts Node . Provisioning tool ini dikembangkan oleh salah satu perusahaan yang terkenal membuat software open source , RedHat . Perangkat lunak yang mengotomatiskan penyediaan perangkat lunak, manajemen konfigurasi, dan penerapan aplikasi dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang sistem otomatisasi dan server menggunakan ansible. Persyaratan mengikuti training ansible ini yaitu : Pengetahuan dan pengalaman administrasi sistem Linux dan Scripting Dasar",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-ansible-automation/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Ansible adalah tool manajemen konfigurasi yang modern dan tidak memerlukan software agent pada Remote Nodes atau Hosts Node. Namun, kamu hanya perlu menggunakan SSH dan Python saja untuk berkomunikasi dan mengeksekusi perintah pada Hosts Node . Provisioning tool ini dikembangkan oleh salah satu perusahaan yang terkenal membuat software open source , RedHat . Perangkat lunak yang mengotomatiskan penyediaan perangkat lunak, manajemen konfigurasi, dan penerapan aplikasi dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang sistem otomatisasi dan server menggunakan ansible. Persyaratan mengikuti training ansible ini yaitu : Pengetahuan dan pengalaman administrasi sistem Linux dan Scripting Dasar",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-ansible-automation/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-ansible-automation/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Course Introduction",
+      "Introduce Ansible",
+      "Deploy Ansible",
+      "Implement Playbooks",
+      "Manage variables and inclusions",
+      "Implement task control",
+      "Implement Jinja2 templates",
+      "Implement roles",
+      "Configure complex playbooks",
+      "Implement Ansible Vault",
+      "Troubleshoot Ansible",
+      "Implement Ansible Tower",
+      "Implement Ansible in a DevOps environment",
+      "Comprehensive Review"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-ansible-automation/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Course Introduction Introduce Ansible Deploy Ansible Implement Playbooks Manage variables and inclusions Implement task control Implement Jinja2 templates Implement roles Configure complex playbooks Implement Ansible Vault Troubleshoot Ansible Implement Ansible Tower Implement Ansible in a DevOps environment Comprehensive Review",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+      "AJi Mufti Zakaria (COA, CKA)",
+      "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer)",
+      "Deni Rismanto (RHCSA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-ansible-automation/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Ansible Automation di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training murah dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Biaya training murah dibanding tempat-tampat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Ansible adalah tool manajemen konfigurasi yang modern dan tidak memerlukan software agent pada Remote Nodes atau Hosts Node. Namun, kamu hanya perlu menggunakan SSH dan Python saja untuk berkomunikasi dan mengeksekusi perintah pada Hosts Node . Provisioning tool ini dikembangkan oleh salah satu perusahaan yang terkenal membuat software open source , RedHat . Perangkat lunak yang mengotomatiskan penyediaan perangkat lunak, manajemen konfigurasi, dan penerapan aplikasi dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang sistem otomatisasi dan server menggunakan ansible. Persyaratan mengikuti training ansible ini yaitu : Pengetahuan dan pengalaman administrasi sistem Linux dan Scripting Dasar",
+      "items": []
+    },
+    {
+      "heading": "Manfaat mempelajari Ansible automation",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Mengikuti dan mempelajari pelatihan Ansible Automation memiliki banyak manfaat, baik untuk pengembangan profesional maupun peningkatan kemampuan teknis. Berikut adalah beberapa manfaat utama: Automatisasi Proses : Ansible memungkinkan pengguna untuk mengotomatisasi berbagai tugas, mulai dari penyebaran perangkat lunak hingga manajemen konfigurasi. Ini mengurangi beban kerja manual dan meningkatkan efisiensi. Pengelolaan Infrastruktur yang Lebih Baik : Dengan kemampuan untuk mengelola infrastruktur sebagai kode, Ansible membantu dalam pengelolaan dan pemeliharaan server dan layanan dengan lebih efektif. Kemudahan Penggunaan : Ansible menggunakan bahasa deskripsi yang sederhana dan mudah dipahami (YAML), sehingga memudahkan pemula dan juga profesional untuk cepat mempelajari dan mengimplementasikannya. Kompatibilitas Tinggi : Ansible dapat digunakan untuk mengelola berbagai sistem operasi dan platform, termasuk Unix/Linux, Windows, dan cloud services, sehingga memberikan fleksibilitas dalam lingkungan multicloud dan multi-platform. Pengurangan Kesalahan Manusia : Dengan pengkodean proses otomatisasi, Ansible membantu mengurangi kemungkinan kesalahan yang disebabkan oleh intervensi manual. Peningkatan Kolaborasi Tim : Dengan dokumentasi dan pengaturan otomatisasi yang jelas, tim pengembangan dan operasi dapat berkolaborasi dengan lebih baik dan lebih terorganisir. Peningkatan Kemampuan Debugging : Ansible menyediakan alat dan fitur yang membantu dalam memecahkan masalah dengan cepat dan efisien, sehingga meminimalkan downtime. Kemandirian dalam Manajemen Infrastruktur : Dengan menggunakan Ansible, organisasi dapat mengurangi ketergantungan pada penyedia layanan pihak ketiga untuk manajemen infrastruktur. Pengembangan Karir : Keterampilan dalam Ansible sangat dicari dalam industri TI. Menguasai alat ini dapat meningkatkan prospek karir dan membuka peluang baru. Komunitas dan Dukungan : Ansible memiliki komunitas yang kuat dan banyak sumber daya online, termasuk dokumentasi, forum, dan tutorial, yang memudahkan belajar dan mendapatkan bantuan saat diperlukan. Dengan berbagai manfaat tersebut, pelatihan Ansible Automation bukan hanya meningkatkan keahlian teknis, tetapi juga memberikan keuntungan strategis bagi individu dan organisasi dalam mengelola dan mengoptimalkan infrastruktur TI mereka.",
+      "items": [
+        "Automatisasi Proses : Ansible memungkinkan pengguna untuk mengotomatisasi berbagai tugas, mulai dari penyebaran perangkat lunak hingga manajemen konfigurasi. Ini mengurangi beban kerja manual dan meningkatkan efisiensi.",
+        "Pengelolaan Infrastruktur yang Lebih Baik : Dengan kemampuan untuk mengelola infrastruktur sebagai kode, Ansible membantu dalam pengelolaan dan pemeliharaan server dan layanan dengan lebih efektif.",
+        "Kemudahan Penggunaan : Ansible menggunakan bahasa deskripsi yang sederhana dan mudah dipahami (YAML), sehingga memudahkan pemula dan juga profesional untuk cepat mempelajari dan mengimplementasikannya.",
+        "Kompatibilitas Tinggi : Ansible dapat digunakan untuk mengelola berbagai sistem operasi dan platform, termasuk Unix/Linux, Windows, dan cloud services, sehingga memberikan fleksibilitas dalam lingkungan multicloud dan multi-platform.",
+        "Pengurangan Kesalahan Manusia : Dengan pengkodean proses otomatisasi, Ansible membantu mengurangi kemungkinan kesalahan yang disebabkan oleh intervensi manual.",
+        "Peningkatan Kolaborasi Tim : Dengan dokumentasi dan pengaturan otomatisasi yang jelas, tim pengembangan dan operasi dapat berkolaborasi dengan lebih baik dan lebih terorganisir.",
+        "Peningkatan Kemampuan Debugging : Ansible menyediakan alat dan fitur yang membantu dalam memecahkan masalah dengan cepat dan efisien, sehingga meminimalkan downtime.",
+        "Kemandirian dalam Manajemen Infrastruktur : Dengan menggunakan Ansible, organisasi dapat mengurangi ketergantungan pada penyedia layanan pihak ketiga untuk manajemen infrastruktur.",
+        "Pengembangan Karir : Keterampilan dalam Ansible sangat dicari dalam industri TI. Menguasai alat ini dapat meningkatkan prospek karir dan membuka peluang baru.",
+        "Komunitas dan Dukungan : Ansible memiliki komunitas yang kuat dan banyak sumber daya online, termasuk dokumentasi, forum, dan tutorial, yang memudahkan belajar dan mendapatkan bantuan saat diperlukan."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA)",
+      "items": [
+        "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+        "AJi Mufti Zakaria (COA, CKA)",
+        "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer)",
+        "Deni Rismanto (RHCSA)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Course Introduction Introduce Ansible Deploy Ansible Implement Playbooks Manage variables and inclusions Implement task control Implement Jinja2 templates Implement roles Configure complex playbooks Implement Ansible Vault Troubleshoot Ansible Implement Ansible Tower Implement Ansible in a DevOps environment Comprehensive Review",
+      "items": [
+        "Course Introduction",
+        "Introduce Ansible",
+        "Deploy Ansible",
+        "Implement Playbooks",
+        "Manage variables and inclusions",
+        "Implement task control",
+        "Implement Jinja2 templates",
+        "Implement roles",
+        "Configure complex playbooks",
+        "Implement Ansible Vault",
+        "Troubleshoot Ansible",
+        "Implement Ansible Tower",
+        "Implement Ansible in a DevOps environment",
+        "Comprehensive Review"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Ansible Automation",
+    "content_hash": "7ac6d00f07ba2fa2abd82ee20e6e20ae2edc357d3b2805e610388dec2ac8ecc5",
+    "template_type": "BETTERDOCS"
+  }
+}

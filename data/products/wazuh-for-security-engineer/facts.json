@@ -1,0 +1,335 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Wazuh For Security Engineer",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+          "source_section": "Page title",
+          "source_text": "Wazuh For Security Engineer",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Cyber Security",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+          "source_section": "Training registry",
+          "source_text": "Cyber Security",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/wazuh-for-security-engineer/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/wazuh-for-security-engineer/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Pelatihan Wazuh for Security Engineer merupakan program intensif selama 4 hari yang dirancang khusus bagi para engineer keamanan, analis, maupun profesional IT yang bertanggung jawab dalam penerapan dan pengelolaan sistem keamanan informasi. Training ini akan membekali peserta dengan pemahaman mendalam mengenai Wazuh sebagai platform SIEM/HIDS open-source yang powerful. Melalui pendekatan kombinasi antara teori dan praktik langsung di lingkungan lab virtual, peserta akan mempelajari seluruh komponen inti dari Wazuh, mulai dari instalasi, konfigurasi, pembuatan custom rules dan decoders, hingga integrasi dengan berbagai sistem keamanan modern. Setiap peserta juga akan mendapatkan akses penuh ke lab hingga 24 jam setelah sesi pelatihan berakhir guna memperkuat pemahaman melalui eksplorasi mandiri.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Pelatihan Wazuh for Security Engineer merupakan program intensif selama 4 hari yang dirancang khusus bagi para engineer keamanan, analis, maupun profesional IT yang bertanggung jawab dalam penerapan dan pengelolaan sistem keamanan informasi. Training ini akan membekali peserta dengan pemahaman mendalam mengenai Wazuh sebagai platform SIEM/HIDS open-source yang powerful. Melalui pendekatan kombinasi antara teori dan praktik langsung di lingkungan lab virtual, peserta akan mempelajari seluruh komponen inti dari Wazuh, mulai dari instalasi, konfigurasi, pembuatan custom rules dan decoders, hingga integrasi dengan berbagai sistem keamanan modern. Setiap peserta juga akan mendapatkan akses penuh ke lab hingga 24 jam setelah sesi pelatihan berakhir guna memperkuat pemahaman melalui eksplorasi mandiri.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 5.000.000",
+        "amount": 5000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 3.500.000",
+        "amount": 3500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+        "source_section": "Biaya Investasi : Rp 5.000.000 Rp 3.500.000",
+        "source_text": "Biaya Investasi : Rp 5.000.000 Rp 3.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DAY 1",
+        "objective": null,
+        "items": [
+          "– Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration"
+        ],
+        "raw": "– Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 2",
+        "objective": null,
+        "items": [
+          "– Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration"
+        ],
+        "raw": "– Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 3",
+        "objective": null,
+        "items": [
+          "– File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment"
+        ],
+        "raw": "– File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 4",
+        "objective": null,
+        "items": [
+          "– MITRE ATT&CK Techniques – Docker Integration – Tour of Amazon CloudTrail Integration – Osquery Integration – Sysmon Integration – Touring the Wazuh Manager Cluster"
+        ],
+        "raw": "– MITRE ATT&CK Techniques – Docker Integration – Tour of Amazon CloudTrail Integration – Osquery Integration – Sysmon Integration – Touring the Wazuh Manager Cluster",
+        "structure_type": "DAY_BASED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Day 1 – Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration Day 2 – Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration Day 3 – File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment Day 4 – MITRE ATT&CK Techniques – Docker Integration – Tour of Amazon CloudTrail Integration – Osquery Integration – Sysmon Integration – Touring the Wazuh Manager Cluster",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+        "source_section": "Fasilitas Training",
+        "source_text": "Fasilitas Training Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Pelatihan Wazuh for Security Engineer merupakan program intensif selama 4 hari yang dirancang khusus bagi para engineer keamanan, analis, maupun profesional IT yang bertanggung jawab dalam penerapan dan pengelolaan sistem keamanan informasi. Training ini akan membekali peserta dengan pemahaman mendalam mengenai Wazuh sebagai platform SIEM/HIDS open-source yang powerful. Melalui pendekatan kombinasi antara teori dan praktik langsung di lingkungan lab virtual, peserta akan mempelajari seluruh komponen inti dari Wazuh, mulai dari instalasi, konfigurasi, pembuatan custom rules dan decoders, hingga integrasi dengan berbagai sistem keamanan modern. Setiap peserta juga akan mendapatkan akses penuh ke lab hingga 24 jam setelah sesi pelatihan berakhir guna memperkuat pemahaman melalui eksplorasi mandiri.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training dan mempelajari Wazuh For Security Engineer?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Wazuh saat ini menjadi salah satu solusi keamanan open-source yang paling banyak digunakan oleh perusahaan global karena kemampuannya dalam mendeteksi ancaman, memantau integritas sistem, dan memenuhi kebutuhan kepatuhan regulasi seperti PCI-DSS, HIPAA, GDPR, dan lainnya. Dengan menguasai Wazuh, seorang security engineer tidak hanya dapat meningkatkan kapabilitas pemantauan keamanan siber di lingkungan kerja mereka, tetapi juga mampu melakukan integrasi lanjutan dengan berbagai teknologi seperti Docker, AWS CloudTrail, Osquery, hingga MITRE ATT&CK framework. Belajar Wazuh berarti mempersiapkan diri menghadapi tantangan keamanan informasi modern dengan tools yang terbukti efektif, fleksibel, dan terus berkembang mengikuti dinamika ancaman siber global.",
+      "items": []
+    },
+    {
+      "heading": "Manfaat Mempelajari Pelatihan Wazuh",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Berikut adalah manfaat yang akan diperoleh peserta setelah mengikuti pelatihan Wazuh for Security Engineer: Pemahaman Mendalam Tentang SIEM Open-Source Peserta akan memperoleh wawasan teknis dan praktis mengenai Wazuh, mulai dari arsitektur dasar hingga konfigurasi lanjutan, termasuk pembuatan custom rules dan decoders untuk kebutuhan organisasi masing-masing. Kemampuan Implementasi dan Operasionalisasi Wazuh Pelatihan ini membekali peserta dengan keterampilan untuk menginstal, mengkonfigurasi, dan mengoperasikan Wazuh secara efisien di berbagai lingkungan, baik cloud maupun on-premises. Hands-on Experience dalam Lingkungan Lab Nyata Setiap peserta akan mendapatkan akses ke lingkungan lab virtual yang telah disiapkan secara profesional, dengan kesempatan untuk mengaplikasikan materi langsung melalui berbagai studi kasus dan simulasi insiden keamanan. Peningkatan Skill Deteksi Ancaman dan Respons Dengan modul seperti Active Response, MITRE ATT&CK, File Integrity Monitoring, dan Rootkit Detection, peserta akan mampu membangun sistem deteksi dan respon ancaman secara proaktif. Dukungan dalam Kepatuhan Regulasi Wazuh memiliki fitur compliance monitoring untuk berbagai standar seperti PCI-DSS, HIPAA, GDPR, dan lainnya. Pelatihan ini membantu peserta memahami bagaimana Wazuh dapat diintegrasikan dalam program kepatuhan organisasi. Sertifikat Pelatihan Setelah menyelesaikan pelatihan, peserta akan menerima sertifikat resmi yang menunjukkan keahlian teknis mereka dalam penggunaan dan pengelolaan Wazuh sebagai platform keamanan.",
+      "items": [
+        "Pemahaman Mendalam Tentang SIEM Open-Source Peserta akan memperoleh wawasan teknis dan praktis mengenai Wazuh, mulai dari arsitektur dasar hingga konfigurasi lanjutan, termasuk pembuatan custom rules dan decoders untuk kebutuhan organisasi masing-masing.",
+        "Kemampuan Implementasi dan Operasionalisasi Wazuh Pelatihan ini membekali peserta dengan keterampilan untuk menginstal, mengkonfigurasi, dan mengoperasikan Wazuh secara efisien di berbagai lingkungan, baik cloud maupun on-premises.",
+        "Hands-on Experience dalam Lingkungan Lab Nyata Setiap peserta akan mendapatkan akses ke lingkungan lab virtual yang telah disiapkan secara profesional, dengan kesempatan untuk mengaplikasikan materi langsung melalui berbagai studi kasus dan simulasi insiden keamanan.",
+        "Peningkatan Skill Deteksi Ancaman dan Respons Dengan modul seperti Active Response, MITRE ATT&CK, File Integrity Monitoring, dan Rootkit Detection, peserta akan mampu membangun sistem deteksi dan respon ancaman secara proaktif.",
+        "Dukungan dalam Kepatuhan Regulasi Wazuh memiliki fitur compliance monitoring untuk berbagai standar seperti PCI-DSS, HIPAA, GDPR, dan lainnya. Pelatihan ini membantu peserta memahami bagaimana Wazuh dapat diintegrasikan dalam program kepatuhan organisasi.",
+        "Sertifikat Pelatihan Setelah menyelesaikan pelatihan, peserta akan menerima sertifikat resmi yang menunjukkan keahlian teknis mereka dalam penggunaan dan pengelolaan Wazuh sebagai platform keamanan."
+      ]
+    },
+    {
+      "heading": "Fasilitas Training",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "items": [
+        "Gratis Mengulang training sebanyak 2x",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+      "items": [
+        "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Day 1 – Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration Day 2 – Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration Day 3 – File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment Day 4 – MITRE ATT&CK Techniques – Docker Integration – Tour of Amazon CloudTrail Integration – Osquery Integration – Sysmon Integration – Touring the Wazuh Manager Cluster",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 5.000.000 Rp 3.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Wazuh For Security Engineer",
+    "content_hash": "8d80e42a265f00bed1cb5315f5a3db2e055e3a69d54a7cfab47777a021b0ead7",
+    "template_type": "BETTERDOCS"
+  }
+}

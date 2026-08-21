@@ -1,0 +1,14 @@
+{
+  "training_source_id": 55,
+  "canonical_url": "https://www.idn.id/training/openstack-cloud-development/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "10da6e2c1159c29859407b5d832d566e5f34cc8d914a24987ef71f0a016df97a",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:41.938360+00:00",
+  "facts_path": "data\\products\\openstack-cloud-development\\facts.json",
+  "evidence_path": "data\\products\\openstack-cloud-development\\evidence.json",
+  "raw_snapshot_path": "data\\products\\openstack-cloud-development\\raw.html",
+  "last_error": null
+}

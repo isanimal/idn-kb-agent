@@ -1,0 +1,14 @@
+{
+  "training_source_id": 64,
+  "canonical_url": "https://www.idn.id/training/web-basic-programming/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "24e0aadd4485510e32279853ed4e2cc32a8f70155b3e101403a199970aa7aa18",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:48.163259+00:00",
+  "facts_path": "data\\products\\web-basic-programming\\facts.json",
+  "evidence_path": "data\\products\\web-basic-programming\\evidence.json",
+  "raw_snapshot_path": "data\\products\\web-basic-programming\\raw.html",
+  "last_error": null
+}

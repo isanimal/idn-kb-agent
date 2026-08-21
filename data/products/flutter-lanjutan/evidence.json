@@ -1,0 +1,109 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training Flutter merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Flutter adalah SDK untuk pengembangan aplikasi mobile yang dikembangkan oleh Google. Sama seperti react native, framework ini dapat digunakan untuk membuat atau mengembangkan aplikasi mobile yang dapat berjalan pada device iOS dan Android. Dibuat menggunakan bahasa C, C++, Dart and Skia membuat Flutter ini menjadi salah satu framework yang sangat menarik dan worth untuk kita pelajari. Hal yang menarik pada framework ini adalah semua kodenya di compile dalam kode native nya (Android NDK, LLVM, AOT-compiled) tanpa ada intrepeter pada prosesnya sehingga proses compile-nya menjadi lebih cepat. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android sampai bisa memahami materi hingga bisa membuat aplikasi android sendiri menggunakan flutter, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya,jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Biaya Investasi : Rp 3.000.000,-",
+      "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Curricullum :",
+      "source_text": "Curricullum : A. Responsive Layout Apa itu responsive layout? Mengenal resolusi device Mengenal widget flutter pendukung responsive layout Penerapan dasar responsive layout pada layout B. Provider State Management Apa itu state? Pengenalan State Management Apa itu provider? Konsep provider Mengapa memilih provider? Konfigurasi provider pada projek Penerapan provider dasar pada projek C. Firebase Apa itu firebase? Pengenalan produk firebase Pengenalan firebase authentication dan cloud firestore Konsep firebase authentication dan cloud firestore Konfigurasi firebase untuk aplikasi Penerapan firebase pada projek D. Networking Pengenalan konsep http protokol Pengenalan Networking/http protokol di Flutter Penggunaan HTTP Package Menangkap Data dari server – Get Request Mengirim data ke server – Post Request Parsing JSON Penerapan Networking dalam Aplikasi E. Shared preferences Pengenalan Shared Preferences Konfigurasi shared preferences Implementasi shared preferences untuk session di aplikasi flutter F. Database SQFLITE Mengenal apa itu database SQFLITE Mengenal cara kerja dan penggunaan database SQFLITE Membuat database SQFLITE dan menyambungkan Aplikasi Membuat fungsi create data Membuat fungsi read data Membuat fungsi delete data G. Networking Pengenalan Networking di Flutter Penggunaan HTTP Package Menangkap Data dari Internet Membuat Authenticated Requests Parsing JSON di background Penerapan Networking dalam Aplikasi H. Aplikasi Jokos (Responsive Layout) Penggunaan widget media query dan orientation Implementasi responsive layout I. Aplikasi Counter (Provider) Konfigurasi provider Penggunaan provider package Implementasi provider untuk pengelolaan state J. Aplikasi Chating (Firebase auth & firestore) Konfigurasi firebase pada projek Design UI Aplikasi chating Penggunaan firebase authetication Penggunaan firebase cloud firestore K. Aplikasi Resep Makanan (GET API & SQLITE) Konfigurasi package Http Konfigurasi package Sqflite Penerapan protokol http get pada aplikasi Penerapan sqlite untuk menyimpan resep favorite Menampilkan List dan Detail Resep dari API Generate Otomatis Model dari JSON Design UI Aplikasi L. Aplikasi Inventory (CRUD API) Konfigurasi package Http Konfigurasi package Shared Preferences Konfigurasi package Provider Penerapan protokol http get dan post pada aplikasi Penerapan sharef preferences untuk sesi login user pada aplikasi Penerapan provider untuk pengelolaan state pada aplikasi inventory Menampilkan data dari API dalam bentuk grid",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Menguasai materi yang tersedia di curriculum (Flutter) Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami dasar-dasar coding Peserta dapat membuat project aplikasi Android dan IOS sendiri menggunakan Flutter",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Akses Internet Gratis mengulang training sebanyak 2x Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "prerequisite",
+      "source_text": "prerequisite Minimal Spesifikasi Perangkat: Sistem Operasi : Windows, Linux, macOS Prosesor : Intel Dual Core (Rekomendasi Core i3 ke atas) RAM : 4GB (Rekomendasi 8GB)",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Asadullah Al Hamasy, S.Kom (ATC android certified application developer) Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer) Fahmi Nuradi, S.Kom (Google Certified & Web Developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "source_section": "Mengapa Harus Training Flutter Lanjutan di IDN ?",
+      "source_text": "Mengapa Harus Training Flutter Lanjutan di IDN ? Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training Flutter di Indonesia Gratis mengulang training sebanyak 2x Pemberitahuan lowongan kerja kepada peserta Join group whatsapp setelah training",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+        "source_section": "Page title",
+        "source_text": "Flutter Lanjutan",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+        "source_section": "Training registry",
+        "source_text": "Android",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/flutter-lanjutan/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/flutter-lanjutan/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

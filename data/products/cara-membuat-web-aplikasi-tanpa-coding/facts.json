@@ -1,0 +1,557 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Training AI – Cara Membuat Web Aplikasi Tanpa Coding",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+          "source_section": "Page title",
+          "source_text": "Training AI – Cara Membuat Web Aplikasi Tanpa Coding",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "AI & Automation",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+          "source_section": "Training registry",
+          "source_text": "AI & Automation",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Biaya Investasi Training AI - Cara Membuat Web Aplikasi Tanpa Coding Rp 2.5 Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Training AI - Cara Membuat Web Aplikasi Tanpa Coding Rp 2.5 Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 2.5",
+        "amount": 25,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 1,5 JT",
+        "amount": 1500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Training AI - Cara Membuat Web Aplikasi Tanpa Coding Rp 2.5 Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "FOUND",
+    "value": "Offline/Online Class",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Offline/Online Class",
+        "source_text": "Offline/Online Class",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "1. Pengenalan Website 2. Pengenalan AI 3. Memilih Tools AI 4. Teknik Prompting 5. Development Website company profile 6. Hosting Website ke cpanel 7. Development Website Portofolio pribadi 8. Development Frontend Website Aplikasi Gudang 9. Set up Backend dan Database 10. Integrasi Frontend Aplikasi Gudang dengan backend dan database 11. Testing dan Evaluasi Aplikasi 12. Integrasi dengan AI agent untuk mengecek stok gudang. 13. Development Website Aplikasi Menejeman Keuangan Pribadi. 14. Development Website Aplikasi Undangan. 15. Development Website Aplikasi Reservasi Tempat."
+        ],
+        "raw": "1. Pengenalan Website 2. Pengenalan AI 3. Memilih Tools AI 4. Teknik Prompting 5. Development Website company profile 6. Hosting Website ke cpanel 7. Development Website Portofolio pribadi 8. Development Frontend Website Aplikasi Gudang 9. Set up Backend dan Database 10. Integrasi Frontend Aplikasi Gudang dengan backend dan database 11. Testing dan Evaluasi Aplikasi 12. Integrasi dengan AI agent untuk mengecek stok gudang. 13. Development Website Aplikasi Menejeman Keuangan Pribadi. 14. Development Website Aplikasi Undangan. 15. Development Website Aplikasi Reservasi Tempat.",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Silabus Training",
+        "source_text": "Silabus Training 1. Pengenalan Website 2. Pengenalan AI 3. Memilih Tools AI 4. Teknik Prompting 5. Development Website company profile 6. Hosting Website ke cpanel 7. Development Website Portofolio pribadi 8. Development Frontend Website Aplikasi Gudang 9. Set up Backend dan Database 10. Integrasi Frontend Aplikasi Gudang dengan backend dan database 11. Testing dan Evaluasi Aplikasi 12. Integrasi dengan AI agent untuk mengecek stok gudang. 13. Development Website Aplikasi Menejeman Keuangan Pribadi. 14. Development Website Aplikasi Undangan. 15. Development Website Aplikasi Reservasi Tempat.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffe Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Fasilitas Lengkap",
+        "source_text": "Fasilitas Lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Trainer Tersertifikasi",
+        "source_text": "Trainer Tersertifikasi Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "After sales yang baik",
+        "source_text": "After sales yang baik After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang Training 2 Kali tanpa syarat",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+        "source_section": "Free Mengulang",
+        "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Training AI - Cara Membuat Web Aplikasi Tanpa Coding",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Offline/Online Class",
+      "semantic_type": "TRAINING_FORMAT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Expert Instructors",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Beginner Friendly",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Training Ini Wajib Anda Ikuti?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tidak Perlu Bisa Coding",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Semua orang bisa ikut! Cukup modal laptop, internet, dan kreativitas.",
+      "items": []
+    },
+    {
+      "heading": "Belajar 100% Praktik",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Langsung membuat aplikasi web yang bisa digunakan dan dipublikasikan.",
+      "items": []
+    },
+    {
+      "heading": "Memanfaatkan Teknologi AI Terbaru",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Menggunakan alat AI no-code terbaik tahun ini.",
+      "items": []
+    },
+    {
+      "heading": "Dari Nol Sampai Jadi",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Dampingi sampai menghasilkan aplikasi yang berfungsi bukan hanya teori.",
+      "items": []
+    },
+    {
+      "heading": "Dibimbing Mentor Berpengalaman",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Trainer dari ID-Networkers yang sudah membimbing ribuan peserta pelatihan IT.",
+      "items": []
+    },
+    {
+      "heading": "Dibimbing Mentor Berpengalaman",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Trainer dari ID-Networkers yang sudah membimbing ribuan peserta pelatihan IT. Dibimbing Mentor Berpengalaman Trainer dari ID-Networkers yang sudah membimbing ribuan peserta pelatihan IT.",
+      "items": []
+    },
+    {
+      "heading": "Our Training Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Training di IDNetworkers :",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training di IDN",
+      "items": []
+    },
+    {
+      "heading": "Free Mengulang",
+      "semantic_type": "REPEAT_POLICY",
+      "content": "Gratis Mengulang Training 2 Kali tanpa syarat",
+      "items": []
+    },
+    {
+      "heading": "Menginap Gratis",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Peserta training diperbolehkan menginap di lokasi pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Vue Authorized Partner",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "IDN sudah menjadi penyelenggara resmi ujian sertifikasi international.",
+      "items": []
+    },
+    {
+      "heading": "Lab Komplit",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Disediakan perangkat lab satu orang satu, agar lebih fokus dalam proses belajar",
+      "items": []
+    },
+    {
+      "heading": "Murah & Berkualitas",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi Berkualitas dan Harga Training Termurah untuk sekelas training IT",
+      "items": []
+    },
+    {
+      "heading": "Trainer Tersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+      "items": []
+    },
+    {
+      "heading": "After sales yang baik",
+      "semantic_type": "SUPPORT",
+      "content": "After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "items": []
+    },
+    {
+      "heading": "Setelah mengikuti training ini, peserta akan mampu membuat website Statis dan Web aplikasi modern secara mandiri bahkan tanpa skill coding sehingga bisa langsung digunakan untuk bisnis, portofolio, maupun proyek profesional Seperti:",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "WEB (STATIC)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Company profile",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Portfolio pribadi",
+      "semantic_type": "DOCUMENTATION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "WEB APLIKASI",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Manajemen keuangan pribadi",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Reservasi tempat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Gudang",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Undangan digital",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Silabus Training",
+      "semantic_type": "CURRICULUM",
+      "content": "1. Pengenalan Website 2. Pengenalan AI 3. Memilih Tools AI 4. Teknik Prompting 5. Development Website company profile 6. Hosting Website ke cpanel 7. Development Website Portofolio pribadi 8. Development Frontend Website Aplikasi Gudang 9. Set up Backend dan Database 10. Integrasi Frontend Aplikasi Gudang dengan backend dan database 11. Testing dan Evaluasi Aplikasi 12. Integrasi dengan AI agent untuk mengecek stok gudang. 13. Development Website Aplikasi Menejeman Keuangan Pribadi. 14. Development Website Aplikasi Undangan. 15. Development Website Aplikasi Reservasi Tempat.",
+      "items": []
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya melalui Training ID-Networkers, dan terus bertambah!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Cek Jadwal Trainingnya Sekarang!",
+      "semantic_type": "SCHEDULE_WIDGET",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi? Yuk daftar dan upgrade skillmu sekarang juga!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi",
+      "semantic_type": "PRICE",
+      "content": "Training AI - Cara Membuat Web Aplikasi Tanpa Coding Rp 2.5 Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+      "items": [
+        "Materi Terstruktur Disesuaikan dengan Kebutuhan Industri",
+        "Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya)",
+        "Sertifikat, Modul, Notebook, Goodie Bag, dll",
+        "Instruktur Expert dan Berpengalaman Di bidangnya",
+        "Gratis Mengulang Training Sebanyak 2x Jika Belum Paham"
+      ]
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Training AI - Cara Membuat Web Aplikasi Tanpa Coding",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Training Ini Wajib Anda Ikuti?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Memanfaatkan Teknologi AI Terbaru",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Menggunakan alat AI no-code terbaik tahun ini.",
+      "items": []
+    },
+    {
+      "heading": "Vue Authorized Partner",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "IDN sudah menjadi penyelenggara resmi ujian sertifikasi international.",
+      "items": []
+    },
+    {
+      "heading": "Setelah mengikuti training ini, peserta akan mampu membuat website Statis dan Web aplikasi modern secara mandiri bahkan tanpa skill coding sehingga bisa langsung digunakan untuk bisnis, portofolio, maupun proyek profesional Seperti:",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "WEB (STATIC)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Company profile",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "WEB APLIKASI",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Manajemen keuangan pribadi",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Reservasi tempat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Gudang",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "- Undangan digital",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Training AI – Cara Membuat Web Aplikasi Tanpa Coding",
+    "content_hash": "c2a26036602bd16d26f6095ef9152138dafa0a90b05df0740b9ca17c5197e9f1",
+    "template_type": "ELEMENTOR"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Sertifikasi BNSP – Network Administrator Muda",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+          "source_section": "Page title",
+          "source_text": "Sertifikasi BNSP – Network Administrator Muda",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "BNSP",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+          "source_section": "Training registry",
+          "source_text": "BNSP",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "duration": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 1.200.000",
+        "amount": 1200000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 600.000",
+        "amount": 600000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+        "source_section": "Biaya Investasi Sertifikasi BNSP Network Administrator Muda (Junior Network Administrator)",
+        "source_text": "Biaya Investasi Sertifikasi BNSP Network Administrator Muda (Junior Network Administrator) Rp 1.200.000 Rp 600.000 Sertifikat Resmi BNSP (Diakui Nasional) Dibutuhkan Perusahaan IT, ISP & NOC Cocok untuk Fresh Graduate & Profesional Daftar Sertifikasi BNSP Sekarang",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "FOUND",
+    "value": "Hanya Tersedia Offline di Kantor kami.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+        "source_section": "Online atau offline?",
+        "source_text": "Online atau offline? Hanya Tersedia Offline di Kantor kami.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "curriculum": {
+    "status": "PARSE_ERROR",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+        "source_section": "Unit Kompetensi yang diujikan",
+        "source_text": "Unit Kompetensi yang diujikan",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Program Ini Cocok Untuk :",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+        "source_section": "Program Ini Cocok Untuk :",
+        "source_text": "Program Ini Cocok Untuk :",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "FOUND",
+    "value": [
+      "Instalasi & konfigurasi jaringan",
+      "Administrasi sistem jaringan",
+      "Monitoring & troubleshooting",
+      "Pengelolaan keamanan jaringan dasar",
+      "Penerapan SOP & dokumentasi jaringan"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-network-administrator-muda/",
+        "source_section": "Apa Itu Sertifikasi Network Administrator Muda?",
+        "source_text": "Apa Itu Sertifikasi Network Administrator Muda? Sertifikasi ini menguji kemampuan Anda dalam: Instalasi & konfigurasi jaringan Administrasi sistem jaringan Monitoring & troubleshooting Pengelolaan keamanan jaringan dasar Penerapan SOP & dokumentasi jaringan 📌 Uji kompetensi dilakukan oleh Asesor Resmi BNSP.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Jadi Network Administrator Profesional dengan Sertifikasi Resmi BNSP",
+      "semantic_type": "HERO",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Punya Skill Jaringan, Tapi Karier Masih Jalan di Tempat?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Sertifikasi BNSP Network Administrator Muda Penting?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Legal & resmi dari BNSP",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Digunakan sebagai standar kompetensi nasional",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Meningkatkan daya saing CV & LinkedIn",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membuka peluang karier di NOC, ISP & corporate IT",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Apa Itu Sertifikasi Network Administrator Muda?",
+      "semantic_type": "CERTIFICATIONS",
+      "content": "Sertifikasi ini menguji kemampuan Anda dalam: Instalasi & konfigurasi jaringan Administrasi sistem jaringan Monitoring & troubleshooting Pengelolaan keamanan jaringan dasar Penerapan SOP & dokumentasi jaringan 📌 Uji kompetensi dilakukan oleh Asesor Resmi BNSP.",
+      "items": [
+        "Instalasi & konfigurasi jaringan",
+        "Administrasi sistem jaringan",
+        "Monitoring & troubleshooting",
+        "Pengelolaan keamanan jaringan dasar",
+        "Penerapan SOP & dokumentasi jaringan"
+      ]
+    },
+    {
+      "heading": "Unit Kompetensi yang diujikan",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Program Ini Cocok Untuk :",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Mahasiswa & Fresh Graduate IT",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Network Administrator Pemula",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Staf IT / NOC / Helpdesk",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Career switcher ke bidang jaringan",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Profesional IT yang ingin naik level",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Alur Sertifikasi BNSP di ID-Networkers",
+      "semantic_type": "CERTIFICATION_PROCESS",
+      "content": "Pendaftaran Uji Kompetensi Oleh Asesor BNSP Sertifikat BNSP Terbit",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Sertifikasi di ID-Networkers?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Ini alasan kamu harus sertifikasi BNSP di ID-Networkers",
+      "items": []
+    },
+    {
+      "heading": "Lembaga training IT & jaringan berpengalaman",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Asesor Resmi & praktisi lapangan",
+      "semantic_type": "TRAINER_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Materi sesuai SKKNI & kebutuhan industri",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Alumni tersebar di berbagai perusahaan IT",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya di IDN, dan Akan terus bertambah, sekarang giliran Anda!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi? Jangan Biarkan Skill Anda Tanpa Pengakuan Resmi",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi Sertifikasi BNSP Network Administrator Muda (Junior Network Administrator)",
+      "semantic_type": "PRICE",
+      "content": "Rp 1.200.000 Rp 600.000 Sertifikat Resmi BNSP (Diakui Nasional) Dibutuhkan Perusahaan IT, ISP & NOC Cocok untuk Fresh Graduate & Profesional Daftar Sertifikasi BNSP Sekarang",
+      "items": [
+        "Sertifikat Resmi BNSP (Diakui Nasional)",
+        "Dibutuhkan Perusahaan IT, ISP & NOC",
+        "Cocok untuk Fresh Graduate & Profesional"
+      ]
+    },
+    {
+      "heading": "FAQ",
+      "semantic_type": "FAQ",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Apakah harus sudah berpengalaman jaringan?",
+      "semantic_type": "FAQ",
+      "content": "Minimal memahami dasar jaringan.",
+      "items": []
+    },
+    {
+      "heading": "Sertifikat berlaku berapa lama?",
+      "semantic_type": "FAQ",
+      "content": "Masa berlaku Sertifikat BNSP Network Administrator umumnya adalah 3 tahun dan dapat diperpanjang melalui proses resertifikasi.",
+      "items": []
+    },
+    {
+      "heading": "Online atau offline?",
+      "semantic_type": "TRAINING_FORMAT",
+      "content": "Hanya Tersedia Offline di Kantor kami.",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Punya Skill Jaringan, Tapi Karier Masih Jalan di Tempat?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Lembaga training IT & jaringan berpengalaman",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MISSING_DURATION",
+    "NO_CURRICULUM",
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "PARSER_WARNING"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 6,
+    "fields_not_found": 9,
+    "coverage": 0.375
+  },
+  "metadata": {
+    "registry_name": "Sertifikasi BNSP – Network Administrator Muda",
+    "content_hash": "be95f34961e0e007dd2f627c14a28da5e3494f03e2a5af808cebde0702c92444",
+    "template_type": "ELEMENTOR"
+  }
+}

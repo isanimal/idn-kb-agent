@@ -1,0 +1,14 @@
+{
+  "training_source_id": 44,
+  "canonical_url": "https://www.idn.id/training/ceh/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "d04e347933252cdb1664c0198ea5a7b46f174bbd9c5a8c0d46e3e882011be6f8",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:35:35.512213+00:00",
+  "facts_path": "data\\products\\ceh\\facts.json",
+  "evidence_path": "data\\products\\ceh\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ceh\\raw.html",
+  "last_error": null
+}

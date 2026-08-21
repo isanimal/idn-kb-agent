@@ -1,0 +1,14 @@
+{
+  "training_source_id": 21,
+  "canonical_url": "https://www.idn.id/training/flutter/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "9419dd961092535c7feaf440decdc4f85afbdcb959c301281989d6e283ee5074",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:20.440244+00:00",
+  "facts_path": "data\\products\\flutter\\facts.json",
+  "evidence_path": "data\\products\\flutter\\evidence.json",
+  "raw_snapshot_path": "data\\products\\flutter\\raw.html",
+  "last_error": null
+}

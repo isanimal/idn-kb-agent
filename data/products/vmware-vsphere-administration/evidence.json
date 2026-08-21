@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Salah satu pengetahuan yang wajib dimiliki oleh seorang System Administrator adalah mampu melakukan administrasi virtualisasi server. VMware vSphere sendiri adalah produk yang dibuat oleh VMware dalam melakukan virtualisasi server berbasis bare-metal. Apabila anda memilih IDN sebagai training partner anda dalam menguasai VMware vSphere Administration merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator yang mampu melakukan implementasi dan manajemen jika telah selesai mengikuti training ini. Training VMware vSphere di IDN adalah training non-authorized, sehingga apabila peserta ingin melakukan ujian VCP-DCV makan peserta tetap wajib mengikuti training authorized terlebih dahulu. Akan tetapi materi yang disampaikan pada training tetap memiliki standard dan kualitas sama dengan training authorized.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "source_section": "Biaya Investasi : Rp 3.000.000,-",
+      "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Implementasi Vsphere Host Lab 1. Install ESXI Sever Lab 2. Manegement Configure Server ESXI Vsphere Client Lab 3. Management Storage Vsphere Lab 4. Install OS di Vsphere Host Lab 5. Deploy dan Eksport OVF Lab 6. Installasi menggunakan CD/DVD ROM Client Lab 7. install Vmtools Windows Lab 8. install Vmtools Linux Menejemen Vsphere Configuration Lab 9. Menambahakan Licensed Vspher host Lab 10. Automatic Start UP Vspher host Lab 11. Setting SSH Vspher host Lab 12. Virtual Switch Lab 13. Konfigurasi Vsphere Networking Lab 14. User Authentifikasi Manager Implementasi Vsphere Power CLI Lab 15. Install Power Cli Lab 16. Conect to Vsphere Host with Power CLI Lab 17. Menjalankan VM dengan Power CLI Lab 18. Mematikan VM dengan Power CLI Lab 19. Restart VM dengan Power CLI Implementasi Vcenter Lab 20. Deploying Vcenter Lab 21. Login Vcenter web Client Lab 21. Installasi Vsphere Plugin Lab 22. Login Vcenter menggunakan Vsphere Lab 23. User Authentification Lab 24. Adding Vsphere Host to Vcenter Lab 25. Memisahkan file kedalam folder di menu VMS and Template Lab 26. Menggunakan Schedule Task Vcenter Lab 27. Menggunakan Alarm pada Vcenter Menjemen Vcenter Lab 28. Backup dan Restore Lab 29. Snapshoot Backup System Lab 30. Konfigurasi PV (Phisical to Virtual) Lab 31. Backup Data VM Menggunakan SSH Lab 32. Backup Melalui Data Store Lab 33. Vmware Data Recovery dan Data Protection Vmware Storage Lab 34. Install FreeNas Lab 35. Konfigurasi FreeNAS NFS Share Lab 36. Konfigurasi FreeNAS ISCSI Share Lab 37. Konfigurasi ESXI dengan NFS dan ISCSI Vmware Vsphere Migration or Vmotion Lab 38. Konfigurasi Vmware Vsphere Vmotion Lab 39. Penggunaan Vmware Vsphere Vmotion Vmware Vsphere Cluster Lab 40. Vsphere OverView Lab 41. Vsphere Cluster Lab 42. Menambahkan Host di Cluster Lab 43. Aktivasi HA (haight Availability) Lab 44. Destrubuted Resource Schulder(DRS)",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi VMware vSphere dan VMware vCenter Peserta dapat memahami langkah-langkah troubleshooting pada VMware vSphere Peserta juga akan bergabung di grup WhatsApp Training VMware vSphere. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan VMware vSphere. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Esa Nugraha (CKA, CKAD) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Page title",
+        "source_text": "VMWARE VSPHERE ADMIN",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Training registry",
+        "source_text": "Virtualization",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. Pernah liat Mangle di Google ? Pernah liat Block Website pakai MikroTik di Google ? Pernah liat Block youtube menggunakan Layer 7 Protocol di Google ? Pernah liat kata “prerouting” “postrouting” di Google ? Yup, temen2 kalau searching di Internet akan menemukan banyak sekali tips dan trik MikroTik baik konfigurasi basic, maupun yang advance. Tapi apakah teman2 tahu maksud dan kenapa dibuatkan seperti itu ? Di Google biasa nya tutorial hanya konfig saja tanpa mengetahui apa teori nya. Nah, kalau temen2 mau belajar bareng sama kita di ID-Networkers, nanti kita akan sharing bagaimana cara MikroTik itu melakukan bandwith management, web proxy, dhcp, firewall, dan lain sebagai nya di track MTCTCE. Training akan berlangsung selama 2 hari, yang dimana kita akan mempelajari cara kerja DNS, dilanjutkan dengan DHCP secara detail, lalu Web Proxy, serta Firewall, sedangkan dihari kedua kita akan melanjutkan pembahasan Firewall, NAT, Mangle, dan QoS. Minimal sudah MTCNA untuk dapat mengikuti training+exam MTCTCE.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "CURICULUM",
+      "source_text": "CURICULUM Packet flow diagram Why this diagram is necessary? Full overview of all things covered by diagram Simple examples how packet travels through the diagram (routing, bridging, connection to router etc.) + LAB More complex examples of diagram usage + LAB Firewall filter/nat/mangle Connection tracking Filter + LAB NAT + LAB Mangle + LAB Some complicated rule “conditions” covered(“advanced”, “extra” tab) + LAB Quality of Services HTB Burst + LAB Queue types Simple queues + LAB Simple queue and queue tree interaction DNS client/cache Basic configuration + LAB Static DNS Entry + LAB DHCP client/relay/server DHCP communication analysis DHCP-client identification/ configuration + LAB DHCP server configuration + LAB DHCP relay configuration + LAB Web Proxy Basic configuration Proxy rule lists Regular expression + LAB",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta dapat terbiasa mengoperasikan perangkat MikroTik untuk keperluan memanagement traffic jaringan, bagaimana supaya bandwith yang diterima provider bisa diberikan secara merata dan menyeluruh atau prioritas terhadap service tertentu kepada computer client dan server Peserta dapat memahami tahapan troubleshooting jaringan khususnya DNS, DHCP, Web Proxy, Firewall, NAT, Mangle, QoS Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan Peserta juga akan bergabung di grup milis IDN yang sudah ada ribuan member. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan MTCTCE Peserta akan mendapat perangkat (1 peserta 1 Router MikroTik) selama training berlangsung. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara real Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung Jika peserta mendapatkan nilai 50-59, maka aka nada ujian yang kedua di hari itu juga, sedangkan kalau dibawah 50. Akan diadakan bulan depan secara FREE. Peserta mendapat sertifikat internasional MTCTCE untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, hususnya mikrotik Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "source_section": "Mengapa Harus Training MTCTCE di IDN ?",
+      "source_text": "Mengapa Harus Training MTCTCE di IDN ? gratis karena gagal exam. Modul kami susun sendiri dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCTCE. Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer. Bebas mengulang exam 1x gratis karena gagal exam",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+        "source_section": "Page title",
+        "source_text": "MIKROTIK MTCTCE + EXAM",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+        "source_section": "Training registry",
+        "source_text": "Mikrotik",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtctce/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/mikrotik-mtctce/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

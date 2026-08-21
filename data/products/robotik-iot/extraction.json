@@ -1,0 +1,14 @@
+{
+  "training_source_id": 38,
+  "canonical_url": "https://www.idn.id/training/robotik-iot/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "dd7530d379aad35d23644c42433c1d46f4b0dbe0cce1f79968db78a90247629d",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:31.992266+00:00",
+  "facts_path": "data\\products\\robotik-iot\\facts.json",
+  "evidence_path": "data\\products\\robotik-iot\\evidence.json",
+  "raw_snapshot_path": "data\\products\\robotik-iot\\raw.html",
+  "last_error": null
+}

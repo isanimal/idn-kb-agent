@@ -1,0 +1,14 @@
+{
+  "training_source_id": 67,
+  "canonical_url": "https://www.idn.id/training/web-developement-golang/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "42c5e4201ffce42e0c8ac9af5e4f330706cc2d338fb966a64026dedcc5b0051c",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:35:50.000769+00:00",
+  "facts_path": "data\\products\\web-developement-golang\\facts.json",
+  "evidence_path": "data\\products\\web-developement-golang\\evidence.json",
+  "raw_snapshot_path": "data\\products\\web-developement-golang\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 95,
+  "canonical_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "283f216039e618c184ac7bd28f1375e0fa573c719616db7eef502d466b8c6d1b",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:06.886213+00:00",
+  "facts_path": "data\\products\\sertifikasi-bnsp-junior-web-developer\\facts.json",
+  "evidence_path": "data\\products\\sertifikasi-bnsp-junior-web-developer\\evidence.json",
+  "raw_snapshot_path": "data\\products\\sertifikasi-bnsp-junior-web-developer\\raw.html",
+  "last_error": null
+}

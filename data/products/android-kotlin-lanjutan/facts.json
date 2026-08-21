@@ -1,0 +1,467 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Android Kotlin lanjutan",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+          "source_section": "Page title",
+          "source_text": "Android Kotlin lanjutan",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Android",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+          "source_section": "Training registry",
+          "source_text": "Android",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/android-kotlin-lanjutan/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/android-kotlin-lanjutan/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": [
+      "Sudah mengikuti kelas beginner atau kelas android dasar koltin",
+      "Sudah mengetahui fungsi-fungsi menu android studio",
+      "Sudah memahami xml untuk layouting android",
+      "Sudah memahami konsep oop."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kelas android kotlin lanjutan merupakan kelas lanjutan dari kelas android dasar kotlin, dimana dikelas ini peserta akan diajarkan lebih dalam lagi tentang kotlin, baik dalam pembuatan aplikasi anroidnya, dan diajarkan lagi mengenai problem solving ketika penggunaan bahasa pemograman kotlin. Syarat mengikuti kelas lanjutan : Sudah mengikuti kelas beginner atau kelas android dasar koltin Sudah mengetahui fungsi-fungsi menu android studio Sudah memahami xml untuk layouting android Sudah memahami konsep oop.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Androidx",
+        "items": [
+          "Introduction",
+          "Migrate to Androidx",
+          "Lib on Androidx"
+        ]
+      },
+      {
+        "title": "Design Pattern",
+        "items": [
+          "Introduction",
+          "Why using Design Pattern on Mobile App",
+          "MVC vs MVP vs MVVM",
+          "Implement MVP ( Model View Presenter )",
+          "Implement MVVM ( model View ViewModel )",
+          "Unit Testing"
+        ]
+      },
+      {
+        "title": "Android Jetpack",
+        "items": [
+          "Introduction",
+          "Android Architecture Components",
+          "Room",
+          "Data Binding",
+          "Live Data",
+          "Navigation",
+          "ViewModel",
+          "Pagging"
+        ]
+      },
+      {
+        "title": "DI ( Dependency Injection)",
+        "items": [
+          "Introduction",
+          "Why using DI on Mobile App",
+          "Libraries DI",
+          "Dagger 2",
+          "Annotation",
+          "Data Source",
+          "Implement Dagger 2 on App"
+        ]
+      },
+      {
+        "title": "Paged List Adapter",
+        "items": [
+          "Introduction",
+          "Library",
+          "Implement PagedListAdapter on App",
+          "Room Database",
+          "Infinite list with RecyclerView",
+          "JSON & API"
+        ]
+      },
+      {
+        "title": "Demo Publishing APK",
+        "items": [
+          "Introduction",
+          "Create a Google Play Developer Account",
+          "Flow & rules",
+          "Update Apk"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Androidx Introduction Migrate to Androidx Lib on Androidx Design Pattern Introduction Why using Design Pattern on Mobile App MVC vs MVP vs MVVM Implement MVP ( Model View Presenter ) Implement MVVM ( model View ViewModel ) Unit Testing Android Jetpack Introduction Android Architecture Components Room Data Binding Live Data Navigation ViewModel Pagging DI ( Dependency Injection) Introduction Why using DI on Mobile App Libraries DI Dagger 2 Annotation Data Source Implement Dagger 2 on App Paged List Adapter Introduction Library Implement PagedListAdapter on App Room Database Infinite list with RecyclerView JSON & API Demo Publishing APK Introduction Create a Google Play Developer Account Flow & rules Update Apk",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami dasar-dasar coding hingga level intermediate",
+      "Peserta dapat mengoperasikan android studio",
+      "Peserta dapat membuat project aplikasi sendiri secara mandiri menggunakan bahasa pemograman kotlin"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami dasar-dasar coding hingga level intermediate Peserta dapat mengoperasikan android studio Peserta dapat membuat project aplikasi sendiri secara mandiri menggunakan bahasa pemograman kotlin",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang kapanpun",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Kaos"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+      "Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer)",
+      "Fahmi Nuradi, S.Kom (Google Certified & Web Developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Asadullah Al Hamasy, S.Kom (ATC android certified application developer) Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer) Fahmi Nuradi, S.Kom (Google Certified & Web Developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Gratis mengulang training sebanyak 2x Biaya training termurah untuk sekelas training Kotlin di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "source_section": "Mengapa Harus Training Android (Kotlin) Lanjutan di IDN ?",
+        "source_text": "Mengapa Harus Training Android (Kotlin) Lanjutan di IDN ? Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Gratis mengulang training sebanyak 2x Biaya training termurah untuk sekelas training Kotlin di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Android (Kotlin) Lanjutan di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan secara mendalam dan lanjutan sehingga semua peserta diharapkan bisa menguasai kotlin dengan baik Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Gratis mengulang training sebanyak 2x Biaya training termurah untuk sekelas training Kotlin di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang Android Kotlin",
+      "items": [
+        "Materi akan diajarkan secara mendalam dan lanjutan sehingga semua peserta diharapkan bisa menguasai kotlin dengan baik",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Gratis mengulang training sebanyak 2x",
+        "Biaya training termurah untuk sekelas training Kotlin di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang Android Kotlin"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kelas android kotlin lanjutan merupakan kelas lanjutan dari kelas android dasar kotlin, dimana dikelas ini peserta akan diajarkan lebih dalam lagi tentang kotlin, baik dalam pembuatan aplikasi anroidnya, dan diajarkan lagi mengenai problem solving ketika penggunaan bahasa pemograman kotlin. Syarat mengikuti kelas lanjutan : Sudah mengikuti kelas beginner atau kelas android dasar koltin Sudah mengetahui fungsi-fungsi menu android studio Sudah memahami xml untuk layouting android Sudah memahami konsep oop.",
+      "items": [
+        "Sudah mengikuti kelas beginner atau kelas android dasar koltin",
+        "Sudah mengetahui fungsi-fungsi menu android studio",
+        "Sudah memahami xml untuk layouting android",
+        "Sudah memahami konsep oop."
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami dasar-dasar coding hingga level intermediate Peserta dapat mengoperasikan android studio Peserta dapat membuat project aplikasi sendiri secara mandiri menggunakan bahasa pemograman kotlin",
+      "items": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding hingga level intermediate",
+        "Peserta dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri menggunakan bahasa pemograman kotlin"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Asadullah Al Hamasy, S.Kom (ATC android certified application developer) Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer) Fahmi Nuradi, S.Kom (Google Certified & Web Developer)",
+      "items": [
+        "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+        "Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer)",
+        "Fahmi Nuradi, S.Kom (Google Certified & Web Developer)"
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang kapanpun",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Androidx Introduction Migrate to Androidx Lib on Androidx Design Pattern Introduction Why using Design Pattern on Mobile App MVC vs MVP vs MVVM Implement MVP ( Model View Presenter ) Implement MVVM ( model View ViewModel ) Unit Testing Android Jetpack Introduction Android Architecture Components Room Data Binding Live Data Navigation ViewModel Pagging DI ( Dependency Injection) Introduction Why using DI on Mobile App Libraries DI Dagger 2 Annotation Data Source Implement Dagger 2 on App Paged List Adapter Introduction Library Implement PagedListAdapter on App Room Database Infinite list with RecyclerView JSON & API Demo Publishing APK Introduction Create a Google Play Developer Account Flow & rules Update Apk",
+      "items": [
+        {
+          "title": "Androidx",
+          "items": [
+            "Introduction",
+            "Migrate to Androidx",
+            "Lib on Androidx"
+          ]
+        },
+        {
+          "title": "Design Pattern",
+          "items": [
+            "Introduction",
+            "Why using Design Pattern on Mobile App",
+            "MVC vs MVP vs MVVM",
+            "Implement MVP ( Model View Presenter )",
+            "Implement MVVM ( model View ViewModel )",
+            "Unit Testing"
+          ]
+        },
+        {
+          "title": "Android Jetpack",
+          "items": [
+            "Introduction",
+            "Android Architecture Components",
+            "Room",
+            "Data Binding",
+            "Live Data",
+            "Navigation",
+            "ViewModel",
+            "Pagging"
+          ]
+        },
+        {
+          "title": "DI ( Dependency Injection)",
+          "items": [
+            "Introduction",
+            "Why using DI on Mobile App",
+            "Libraries DI",
+            "Dagger 2",
+            "Annotation",
+            "Data Source",
+            "Implement Dagger 2 on App"
+          ]
+        },
+        {
+          "title": "Paged List Adapter",
+          "items": [
+            "Introduction",
+            "Library",
+            "Implement PagedListAdapter on App",
+            "Room Database",
+            "Infinite list with RecyclerView",
+            "JSON & API"
+          ]
+        },
+        {
+          "title": "Demo Publishing APK",
+          "items": [
+            "Introduction",
+            "Create a Google Play Developer Account",
+            "Flow & rules",
+            "Update Apk"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Android Kotlin lanjutan",
+    "content_hash": "a5f8a1457299cdf1dd3cc46ccf841d05214098ae56890e73131f8a76330a58be",
+    "template_type": "BETTERDOCS"
+  }
+}

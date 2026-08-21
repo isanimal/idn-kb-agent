@@ -1,0 +1,636 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "CCNP Enterprise",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+          "source_section": "Page title",
+          "source_text": "CCNP Enterprise",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Cisco",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+          "source_section": "Training registry",
+          "source_text": "Cisco",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ccnp-enterprise/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ccnp-enterprise/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA. Untuk saat ini CCNP sendiri terbagi menjadi 2 modul yaitu CCNP ENCOR (Enterprise Core) dengan kode ujian (350-401) dan CCNP ENARSI (Enterprise Advanced Routing and Services) dengan kode ujian (300-410), jika pada CCNP sebelumnya memiliki tiga modul yaitu Route, Switch dan TSHOOT (Troubleshooting) di track baru ini di kompres menjadi 2 modul saja. Dan di course ini 2 modul tersebut sudah include dalam 1 modul buku training ccnp idn Di IDN, kita tidak cuma belajar tentang konsep dan konfigurasi saja. Ada beberapa nilai tambah yang akan kita dapatkan di sini. Selain hard skill, kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Dengan begitu, harapannya ketika kita benar2 menghadapi trouble di real world, kita sudah punya gambarannya dulu, kira2 sikap dan action apa yg harus kita ambil untuk melakukan troubleshoot. Kelebihan lain dari mengikuti training ini di IDN adalah, ada materi tambahan yang sangat menarik, yaitu VXLAN. VXLAN ini merupakan teknologi yang pasti akan kita temui saat handle data center Network. Tidak menutup kemungkinan, kita akan dihadapkan untuk troubleshoot atau konfigurasi data center network. Dengan materi yg di dapat dari IDN, maka kita sudah siap. Syarat untuk bisa mengikuti kelas CCNP Enterprise ini adalah sudah pernah belajar Cisco CCNA 200-301 sebelumnya.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA. Untuk saat ini CCNP sendiri terbagi menjadi 2 modul yaitu CCNP ENCOR (Enterprise Core) dengan kode ujian (350-401) dan CCNP ENARSI (Enterprise Advanced Routing and Services) dengan kode ujian (300-410), jika pada CCNP sebelumnya memiliki tiga modul yaitu Route, Switch dan TSHOOT (Troubleshooting) di track baru ini di kompres menjadi 2 modul saja. Dan di course ini 2 modul tersebut sudah include dalam 1 modul buku training ccnp idn Di IDN, kita tidak cuma belajar tentang konsep dan konfigurasi saja. Ada beberapa nilai tambah yang akan kita dapatkan di sini. Selain hard skill, kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Dengan begitu, harapannya ketika kita benar2 menghadapi trouble di real world, kita sudah punya gambarannya dulu, kira2 sikap dan action apa yg harus kita ambil untuk melakukan troubleshoot. Kelebihan lain dari mengikuti training ini di IDN adalah, ada materi tambahan yang sangat menarik, yaitu VXLAN. VXLAN ini merupakan teknologi yang pasti akan kita temui saat handle data center Network. Tidak menutup kemungkinan, kita akan dihadapkan untuk troubleshoot atau konfigurasi data center network. Dengan materi yg di dapat dari IDN, maka kita sudah siap. Syarat untuk bisa mengikuti kelas CCNP Enterprise ini adalah sudah pernah belajar Cisco CCNA 200-301 sebelumnya.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 6 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 6.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 6 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 4.000.000",
+      "amount": 4000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+        "source_section": "Biaya Investasi : Rp 4.000.000,-",
+        "source_text": "Biaya Investasi : Rp 4.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "EIGRP",
+        "items": [
+          "Lab 1. Konfig Dasar",
+          "Lab 2. Filtering – Distribute List",
+          "Lab 3. Filtering – Prefix List – In",
+          "Lab 4. Filtering – Prefix List – Out",
+          "Lab 5. Filtering ACL (Ganjil & Genap)",
+          "Lab 6. Filtering AD",
+          "Lab 7. Authentication",
+          "Lab 8. Summarization",
+          "Lab 9. Unicast Update",
+          "Lab 10. Summary Address (Default Route)",
+          "Lab 11. Redistribution – RIP",
+          "Lab 12. Redistribution – OSPF",
+          "Lab 13. Mindah Jalur ( Delay )",
+          "Lab 14. Mindah Jalur ( Bandwidth)",
+          "Lab 15. Equal Load Balancing",
+          "Lab 16. Unequal Load Balancing",
+          "Lab 17. Stub Default ( Connected + Summary)",
+          "Lab 18. Stub Connected",
+          "Lab 19. Stub Summary",
+          "Lab 20. Stub Static",
+          "Lab 21. Stub Redistributed",
+          "Lab 22. Stub Receive-Only",
+          "Lab 23. Named Config",
+          "Lab 24. OTP (Over the Top) > Route Reflector"
+        ]
+      },
+      {
+        "title": "OSPF",
+        "items": [
+          "Lab 1. OSPF Virtual Link",
+          "Lab 2. OSPF Gre Tunnel",
+          "Lab 3. OSPF Standar Area",
+          "Lab 4. OSPF Stub Area",
+          "Lab 5. OSPF Totally Stub Area",
+          "Lab 6. NSSA Area ( + Totally NSSA didalamnya)",
+          "Lab 7. External Route Type 1",
+          "Lab 8. Filtering Distribute List",
+          "Lab 9. Sumarization – Internal Route",
+          "Lab 10. Summarization – External Route",
+          "Lab 11. Redistribution – Default route",
+          "Lab 12. Redistribution – Static",
+          "Lab 13. Redistribution – Connected",
+          "Lab 14. Redistribution – RIP",
+          "Lab 15. Redistribution – EIGRP",
+          "Lab 16. OSPF Mindah Jalur",
+          "Lab 17. OSPF Authentication",
+          "Lab 18. VRF Lite"
+        ]
+      },
+      {
+        "title": "IPv6",
+        "items": [
+          "Lab 1. Dasar IPv6",
+          "Lab 2. IPv6 Routing Static",
+          "Lab 3. IPv6 RIPnG",
+          "Lab 4. IPv6 OSPFv3 Dasar Konfig",
+          "Lab 5. EIGRP IPv6 Dasar Konfig",
+          "Lab 6. Redistribution RIPnG ke OSPFv3",
+          "Lab 7. Tunnel IPv6IP (Manual Tunnel)",
+          "Lab 8. IPv6 Tunnel GRE IP",
+          "Lab 9. IPv6 Tunnel 6to4",
+          "Lab 10. IPv6 Tunnel ISATAP",
+          "Lab 11. Tunnel Auto-tunnel"
+        ]
+      },
+      {
+        "title": "BGP",
+        "items": [
+          "Lab 1 iBGP Peering",
+          "Lab 2 iBGP Peering Loopback",
+          "Lab 3 eBGP Peering",
+          "Lab 4 BGP NextHopSelf",
+          "Lab 5 BGP Authentication",
+          "Lab 6 BGP Route Reflector",
+          "Lab 7. BGP Attribute ( Origin)",
+          "Lab 8. BGP Attribute (Community)",
+          "Lab 9. BGP Attribute (Communtiy List)",
+          "Lab 10. BGP Attribute (Aggregator)",
+          "Lab 11. BGP Attribute Weight",
+          "Lab 12. BGP Attribute Local Preference",
+          "Lab 13. BGP Attribute MED",
+          "Lab 14. BGP Attribute AS-Prepend",
+          "Lab 15. BGP Dualhoming – ISP sama",
+          "Lab 16. BGP Multihoming 2 ISP Berbeda",
+          "Lab 17. BGP Filtering"
+        ]
+      },
+      {
+        "title": "VPN Technologies",
+        "items": [
+          "Lab 1. GRE Tunnel",
+          "Lab 2. IPSec ( Tunnel Mode )"
+        ]
+      },
+      {
+        "title": "DMVPN",
+        "items": [
+          "Lab 1. Phase 1 Dynamic Mapping",
+          "Lab 2. Phase 1 With EIGRP",
+          "Lab 3. Phase 1 With OSPF",
+          "Lab 4. Phase 1 With IPSec",
+          "Lab 5. Phase 2 Dynamic Mapping",
+          "Lab 6. Phase 2 With EIGRP",
+          "Lab 7. Phase 2 With OSPF",
+          "Lab 8. Phase 3 Dynamic Mapping",
+          "Lab 9. Phase 3 With EIGRP",
+          "Lab 10. Phase 3 With OSPF"
+        ]
+      },
+      {
+        "title": "MPLS",
+        "items": [
+          "Lab 1. MPLS Backbone",
+          "Lab 2. MPLS VPN",
+          "Lab 3. MPLS VPN – PE CE Static Routing"
+        ]
+      },
+      {
+        "title": "Switching Technologies",
+        "items": [
+          "Lab 1. Vlan dan Trunk",
+          "Lab 2. InterVlan Routing",
+          "Lab 3. SPAN (Switch Port Analyzer)",
+          "Lab 4. RSPAN ( Remote SPAN)",
+          "Lab 5. Etherchannel Mode On",
+          "Lab 6. Etherchannel PagP",
+          "Lab 7. Etherchannel LACP",
+          "Lab 8. Etherchannel Layer 3",
+          "Lab 9. STP Tunning : Portfast",
+          "Lab 10. STP Tunning : UplinkFast",
+          "Lab 11. STP Tunning : BPDU Guard",
+          "Lab 12. STP Tunning : BPDU Filter",
+          "Lab 13. STP Tunning : Root Guard",
+          "Lab 14. MSTP (Multiple Spanning Tree)",
+          "Lab 15. RSTP (Rapid Spanning Tree Protocol)",
+          "Lab 16. Port Security Violation Default",
+          "Lab 17. Port Security Violation Recovery",
+          "Lab 18. Port Security Violation Action",
+          "Lab 19. HSRP Konfig Dasar",
+          "Lab 20. HSRP Track Route",
+          "Lab 21. HSRP With IP SLA",
+          "Lab 22. HSRP Load Balancing",
+          "Lab 23. VRRP Konfig Dasar",
+          "Lab 24. VRRP Track Route",
+          "Lab 25. VRRP With IP SLA",
+          "Lab 26. VRRP Load Balancing",
+          "Lab 27. GLBP Konfig Dasar"
+        ]
+      },
+      {
+        "title": "VXLAN",
+        "items": [
+          "Lab 1. Vxlan Static Peer",
+          "Lab 2. Vxlan Multicast Peer",
+          "Lab 3. Vxlan Multi Tenancy (BGP EVPN)"
+        ]
+      },
+      {
+        "title": "Automation",
+        "items": [
+          "Lab 1. Introduction Python",
+          "Lab 2. Python first use",
+          "Lab 3. Python Basic Operations",
+          "Lab 4. Automation With Paramiko",
+          "Lab 5. Embedded Event Manager (EEM)",
+          "Lab 6. IP SLA EEM Script",
+          "Lab 7. NETCONF Configure",
+          "Lab 8. RESTCONF Configure"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum EIGRP Lab 1. Konfig Dasar Lab 2. Filtering – Distribute List Lab 3. Filtering – Prefix List – In Lab 4. Filtering – Prefix List – Out Lab 5. Filtering ACL (Ganjil & Genap) Lab 6. Filtering AD Lab 7. Authentication Lab 8. Summarization Lab 9. Unicast Update Lab 10. Summary Address (Default Route) Lab 11. Redistribution – RIP Lab 12. Redistribution – OSPF Lab 13. Mindah Jalur ( Delay ) Lab 14. Mindah Jalur ( Bandwidth) Lab 15. Equal Load Balancing Lab 16. Unequal Load Balancing Lab 17. Stub Default ( Connected + Summary) Lab 18. Stub Connected Lab 19. Stub Summary Lab 20. Stub Static Lab 21. Stub Redistributed Lab 22. Stub Receive-Only Lab 23. Named Config Lab 24. OTP (Over the Top) > Route Reflector OSPF Lab 1. OSPF Virtual Link Lab 2. OSPF Gre Tunnel Lab 3. OSPF Standar Area Lab 4. OSPF Stub Area Lab 5. OSPF Totally Stub Area Lab 6. NSSA Area ( + Totally NSSA didalamnya) Lab 7. External Route Type 1 Lab 8. Filtering Distribute List Lab 9. Sumarization – Internal Route Lab 10. Summarization – External Route Lab 11. Redistribution – Default route Lab 12. Redistribution – Static Lab 13. Redistribution – Connected Lab 14. Redistribution – RIP Lab 15. Redistribution – EIGRP Lab 16. OSPF Mindah Jalur Lab 17. OSPF Authentication Lab 18. VRF Lite IPv6 Lab 1. Dasar IPv6 Lab 2. IPv6 Routing Static Lab 3. IPv6 RIPnG Lab 4. IPv6 OSPFv3 Dasar Konfig Lab 5. EIGRP IPv6 Dasar Konfig Lab 6. Redistribution RIPnG ke OSPFv3 Lab 7. Tunnel IPv6IP (Manual Tunnel) Lab 8. IPv6 Tunnel GRE IP Lab 9. IPv6 Tunnel 6to4 Lab 10. IPv6 Tunnel ISATAP Lab 11. Tunnel Auto-tunnel BGP Lab 1 iBGP Peering Lab 2 iBGP Peering Loopback Lab 3 eBGP Peering Lab 4 BGP NextHopSelf Lab 5 BGP Authentication Lab 6 BGP Route Reflector Lab 7. BGP Attribute ( Origin) Lab 8. BGP Attribute (Community) Lab 9. BGP Attribute (Communtiy List) Lab 10. BGP Attribute (Aggregator) Lab 11. BGP Attribute Weight Lab 12. BGP Attribute Local Preference Lab 13. BGP Attribute MED Lab 14. BGP Attribute AS-Prepend Lab 15. BGP Dualhoming – ISP sama Lab 16. BGP Multihoming 2 ISP Berbeda Lab 17. BGP Filtering VPN Technologies Lab 1. GRE Tunnel Lab 2. IPSec ( Tunnel Mode ) DMVPN Lab 1. Phase 1 Dynamic Mapping Lab 2. Phase 1 With EIGRP Lab 3. Phase 1 With OSPF Lab 4. Phase 1 With IPSec Lab 5. Phase 2 Dynamic Mapping Lab 6. Phase 2 With EIGRP Lab 7. Phase 2 With OSPF Lab 8. Phase 3 Dynamic Mapping Lab 9. Phase 3 With EIGRP Lab 10. Phase 3 With OSPF MPLS Lab 1. MPLS Backbone Lab 2. MPLS VPN Lab 3. MPLS VPN – PE CE Static Routing Switching Technologies Lab 1. Vlan dan Trunk Lab 2. InterVlan Routing Lab 3. SPAN (Switch Port Analyzer) Lab 4. RSPAN ( Remote SPAN) Lab 5. Etherchannel Mode On Lab 6. Etherchannel PagP Lab 7. Etherchannel LACP Lab 8. Etherchannel Layer 3 Lab 9. STP Tunning : Portfast Lab 10. STP Tunning : UplinkFast Lab 11. STP Tunning : BPDU Guard Lab 12. STP Tunning : BPDU Filter Lab 13. STP Tunning : Root Guard Lab 14. MSTP (Multiple Spanning Tree) Lab 15. RSTP (Rapid Spanning Tree Protocol) Lab 16. Port Security Violation Default Lab 17. Port Security Violation Recovery Lab 18. Port Security Violation Action Lab 19. HSRP Konfig Dasar Lab 20. HSRP Track Route Lab 21. HSRP With IP SLA Lab 22. HSRP Load Balancing Lab 23. VRRP Konfig Dasar Lab 24. VRRP Track Route Lab 25. VRRP With IP SLA Lab 26. VRRP Load Balancing Lab 27. GLBP Konfig Dasar VXLAN Lab 1. Vxlan Static Peer Lab 2. Vxlan Multicast Peer Lab 3. Vxlan Multi Tenancy (BGP EVPN) Automation Lab 1. Introduction Python Lab 2. Python first use Lab 3. Python Basic Operations Lab 4. Automation With Paramiko Lab 5. Embedded Event Manager (EEM) Lab 6. IP SLA EEM Script Lab 7. NETCONF Configure Lab 8. RESTCONF Configure",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Ikhwanul Kurnia Rahman, M.kom (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+      "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "Sahrul Hidayat (MTCNA, MTCRE, MTCTCE, MTCWE, MTCSE, MTCINE, CCNA, CCNP, JNCIA, UBWA)",
+      "Oka Prasetiyo (CCNP)",
+      "At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS)",
+      "Ferry Fajar Pratama (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Ikhwanul Kurnia Rahman, M.kom (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA) Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Sahrul Hidayat (MTCNA, MTCRE, MTCTCE, MTCWE, MTCSE, MTCINE, CCNA, CCNP, JNCIA, UBWA) Oka Prasetiyo (CCNP) At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS) Ferry Fajar Pratama (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Materi Full Lab, All Module, Pembahasan lebih dalam dan lanjutan dari training CCNA Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Bebas nge-lab di IDN di luar jam training khusus peserta training FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+        "source_section": "Mengapa Harus Training CISCO CCNP Enterprise di IDN ?",
+        "source_text": "Mengapa Harus Training CISCO CCNP Enterprise di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project). Materi Full Lab, All Module, Pembahasan lebih dalam dan lanjutan dari training CCNA Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Bebas nge-lab di IDN di luar jam training khusus peserta training FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training CISCO CCNP Enterprise di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Training CCNP Enterprise (Pertama di Indonesia) Free konsultasi after training (kalo perlu tindak lanjut, ke project). Materi Full Lab, All Module, Pembahasan lebih dalam dan lanjutan dari training CCNA Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Bebas nge-lab di IDN di luar jam training khusus peserta training FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Taining center dengan jumlah trainer tercertified CCIE terbanyak.",
+      "items": [
+        "Training CCNP Enterprise (Pertama di Indonesia)",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Materi Full Lab, All Module, Pembahasan lebih dalam dan lanjutan dari training CCNA",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "FREE Mengulang Training Sebanyak 2 kali",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri.",
+        "Taining center dengan jumlah trainer tercertified CCIE terbanyak."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA. Untuk saat ini CCNP sendiri terbagi menjadi 2 modul yaitu CCNP ENCOR (Enterprise Core) dengan kode ujian (350-401) dan CCNP ENARSI (Enterprise Advanced Routing and Services) dengan kode ujian (300-410), jika pada CCNP sebelumnya memiliki tiga modul yaitu Route, Switch dan TSHOOT (Troubleshooting) di track baru ini di kompres menjadi 2 modul saja. Dan di course ini 2 modul tersebut sudah include dalam 1 modul buku training ccnp idn Di IDN, kita tidak cuma belajar tentang konsep dan konfigurasi saja. Ada beberapa nilai tambah yang akan kita dapatkan di sini. Selain hard skill, kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Dengan begitu, harapannya ketika kita benar2 menghadapi trouble di real world, kita sudah punya gambarannya dulu, kira2 sikap dan action apa yg harus kita ambil untuk melakukan troubleshoot. Kelebihan lain dari mengikuti training ini di IDN adalah, ada materi tambahan yang sangat menarik, yaitu VXLAN. VXLAN ini merupakan teknologi yang pasti akan kita temui saat handle data center Network. Tidak menutup kemungkinan, kita akan dihadapkan untuk troubleshoot atau konfigurasi data center network. Dengan materi yg di dapat dari IDN, maka kita sudah siap. Syarat untuk bisa mengikuti kelas CCNP Enterprise ini adalah sudah pernah belajar Cisco CCNA 200-301 sebelumnya.",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Ikhwanul Kurnia Rahman, M.kom (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA) Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Sahrul Hidayat (MTCNA, MTCRE, MTCTCE, MTCWE, MTCSE, MTCINE, CCNA, CCNP, JNCIA, UBWA) Oka Prasetiyo (CCNP) At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS) Ferry Fajar Pratama (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE)",
+      "items": [
+        "Ikhwanul Kurnia Rahman, M.kom (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+        "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+        "Sahrul Hidayat (MTCNA, MTCRE, MTCTCE, MTCWE, MTCSE, MTCINE, CCNA, CCNP, JNCIA, UBWA)",
+        "Oka Prasetiyo (CCNP)",
+        "At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS)",
+        "Ferry Fajar Pratama (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE)"
+      ]
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Suasana mendukung untuk belajar, merangkum inti dari keseluruhan materi, jelas dalam menjelaskan dan tidak hanya sharing tentang teknikal tetapi juga sharing tentang non-teknikal yang diperlukan di dunia kerja”, Alexandrina R “Materi dikupas tuntas dalam waktu yang singkat, Penjabaran serta penjelasan materi cukup jelas, Materi sangat membantu dalam menjalani pekerjaan sebagai engineer”, Dananto S “tempat nya nyaman dan sangat kondusif – makan siang selalu variatif sehingga tidak membosankan – snack juga lumayan enak – suasana di dalam ruangan kondusif dilengkapi dengan full AC serta sarana belajar, mengajar nya juga sangat mendukung, Trainer nya mantap sangat menginspirasi tidak hanya untuk hard skill, tetapi juga soft skill. Untuk pemahaman konsep sangat sangat lah matang. Untuk troubleshooting ticket diberikan kerangka berpikir yang sangat tepat. Selalu memberikan motivasi sehingga sangat inspiratif. Sukses terus IDN”, Saleh Affif",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "EIGRP Lab 1. Konfig Dasar Lab 2. Filtering – Distribute List Lab 3. Filtering – Prefix List – In Lab 4. Filtering – Prefix List – Out Lab 5. Filtering ACL (Ganjil & Genap) Lab 6. Filtering AD Lab 7. Authentication Lab 8. Summarization Lab 9. Unicast Update Lab 10. Summary Address (Default Route) Lab 11. Redistribution – RIP Lab 12. Redistribution – OSPF Lab 13. Mindah Jalur ( Delay ) Lab 14. Mindah Jalur ( Bandwidth) Lab 15. Equal Load Balancing Lab 16. Unequal Load Balancing Lab 17. Stub Default ( Connected + Summary) Lab 18. Stub Connected Lab 19. Stub Summary Lab 20. Stub Static Lab 21. Stub Redistributed Lab 22. Stub Receive-Only Lab 23. Named Config Lab 24. OTP (Over the Top) > Route Reflector OSPF Lab 1. OSPF Virtual Link Lab 2. OSPF Gre Tunnel Lab 3. OSPF Standar Area Lab 4. OSPF Stub Area Lab 5. OSPF Totally Stub Area Lab 6. NSSA Area ( + Totally NSSA didalamnya) Lab 7. External Route Type 1 Lab 8. Filtering Distribute List Lab 9. Sumarization – Internal Route Lab 10. Summarization – External Route Lab 11. Redistribution – Default route Lab 12. Redistribution – Static Lab 13. Redistribution – Connected Lab 14. Redistribution – RIP Lab 15. Redistribution – EIGRP Lab 16. OSPF Mindah Jalur Lab 17. OSPF Authentication Lab 18. VRF Lite IPv6 Lab 1. Dasar IPv6 Lab 2. IPv6 Routing Static Lab 3. IPv6 RIPnG Lab 4. IPv6 OSPFv3 Dasar Konfig Lab 5. EIGRP IPv6 Dasar Konfig Lab 6. Redistribution RIPnG ke OSPFv3 Lab 7. Tunnel IPv6IP (Manual Tunnel) Lab 8. IPv6 Tunnel GRE IP Lab 9. IPv6 Tunnel 6to4 Lab 10. IPv6 Tunnel ISATAP Lab 11. Tunnel Auto-tunnel BGP Lab 1 iBGP Peering Lab 2 iBGP Peering Loopback Lab 3 eBGP Peering Lab 4 BGP NextHopSelf Lab 5 BGP Authentication Lab 6 BGP Route Reflector Lab 7. BGP Attribute ( Origin) Lab 8. BGP Attribute (Community) Lab 9. BGP Attribute (Communtiy List) Lab 10. BGP Attribute (Aggregator) Lab 11. BGP Attribute Weight Lab 12. BGP Attribute Local Preference Lab 13. BGP Attribute MED Lab 14. BGP Attribute AS-Prepend Lab 15. BGP Dualhoming – ISP sama Lab 16. BGP Multihoming 2 ISP Berbeda Lab 17. BGP Filtering VPN Technologies Lab 1. GRE Tunnel Lab 2. IPSec ( Tunnel Mode ) DMVPN Lab 1. Phase 1 Dynamic Mapping Lab 2. Phase 1 With EIGRP Lab 3. Phase 1 With OSPF Lab 4. Phase 1 With IPSec Lab 5. Phase 2 Dynamic Mapping Lab 6. Phase 2 With EIGRP Lab 7. Phase 2 With OSPF Lab 8. Phase 3 Dynamic Mapping Lab 9. Phase 3 With EIGRP Lab 10. Phase 3 With OSPF MPLS Lab 1. MPLS Backbone Lab 2. MPLS VPN Lab 3. MPLS VPN – PE CE Static Routing Switching Technologies Lab 1. Vlan dan Trunk Lab 2. InterVlan Routing Lab 3. SPAN (Switch Port Analyzer) Lab 4. RSPAN ( Remote SPAN) Lab 5. Etherchannel Mode On Lab 6. Etherchannel PagP Lab 7. Etherchannel LACP Lab 8. Etherchannel Layer 3 Lab 9. STP Tunning : Portfast Lab 10. STP Tunning : UplinkFast Lab 11. STP Tunning : BPDU Guard Lab 12. STP Tunning : BPDU Filter Lab 13. STP Tunning : Root Guard Lab 14. MSTP (Multiple Spanning Tree) Lab 15. RSTP (Rapid Spanning Tree Protocol) Lab 16. Port Security Violation Default Lab 17. Port Security Violation Recovery Lab 18. Port Security Violation Action Lab 19. HSRP Konfig Dasar Lab 20. HSRP Track Route Lab 21. HSRP With IP SLA Lab 22. HSRP Load Balancing Lab 23. VRRP Konfig Dasar Lab 24. VRRP Track Route Lab 25. VRRP With IP SLA Lab 26. VRRP Load Balancing Lab 27. GLBP Konfig Dasar VXLAN Lab 1. Vxlan Static Peer Lab 2. Vxlan Multicast Peer Lab 3. Vxlan Multi Tenancy (BGP EVPN) Automation Lab 1. Introduction Python Lab 2. Python first use Lab 3. Python Basic Operations Lab 4. Automation With Paramiko Lab 5. Embedded Event Manager (EEM) Lab 6. IP SLA EEM Script Lab 7. NETCONF Configure Lab 8. RESTCONF Configure",
+      "items": [
+        {
+          "title": "EIGRP",
+          "items": [
+            "Lab 1. Konfig Dasar",
+            "Lab 2. Filtering – Distribute List",
+            "Lab 3. Filtering – Prefix List – In",
+            "Lab 4. Filtering – Prefix List – Out",
+            "Lab 5. Filtering ACL (Ganjil & Genap)",
+            "Lab 6. Filtering AD",
+            "Lab 7. Authentication",
+            "Lab 8. Summarization",
+            "Lab 9. Unicast Update",
+            "Lab 10. Summary Address (Default Route)",
+            "Lab 11. Redistribution – RIP",
+            "Lab 12. Redistribution – OSPF",
+            "Lab 13. Mindah Jalur ( Delay )",
+            "Lab 14. Mindah Jalur ( Bandwidth)",
+            "Lab 15. Equal Load Balancing",
+            "Lab 16. Unequal Load Balancing",
+            "Lab 17. Stub Default ( Connected + Summary)",
+            "Lab 18. Stub Connected",
+            "Lab 19. Stub Summary",
+            "Lab 20. Stub Static",
+            "Lab 21. Stub Redistributed",
+            "Lab 22. Stub Receive-Only",
+            "Lab 23. Named Config",
+            "Lab 24. OTP (Over the Top) > Route Reflector"
+          ]
+        },
+        {
+          "title": "OSPF",
+          "items": [
+            "Lab 1. OSPF Virtual Link",
+            "Lab 2. OSPF Gre Tunnel",
+            "Lab 3. OSPF Standar Area",
+            "Lab 4. OSPF Stub Area",
+            "Lab 5. OSPF Totally Stub Area",
+            "Lab 6. NSSA Area ( + Totally NSSA didalamnya)",
+            "Lab 7. External Route Type 1",
+            "Lab 8. Filtering Distribute List",
+            "Lab 9. Sumarization – Internal Route",
+            "Lab 10. Summarization – External Route",
+            "Lab 11. Redistribution – Default route",
+            "Lab 12. Redistribution – Static",
+            "Lab 13. Redistribution – Connected",
+            "Lab 14. Redistribution – RIP",
+            "Lab 15. Redistribution – EIGRP",
+            "Lab 16. OSPF Mindah Jalur",
+            "Lab 17. OSPF Authentication",
+            "Lab 18. VRF Lite"
+          ]
+        },
+        {
+          "title": "IPv6",
+          "items": [
+            "Lab 1. Dasar IPv6",
+            "Lab 2. IPv6 Routing Static",
+            "Lab 3. IPv6 RIPnG",
+            "Lab 4. IPv6 OSPFv3 Dasar Konfig",
+            "Lab 5. EIGRP IPv6 Dasar Konfig",
+            "Lab 6. Redistribution RIPnG ke OSPFv3",
+            "Lab 7. Tunnel IPv6IP (Manual Tunnel)",
+            "Lab 8. IPv6 Tunnel GRE IP",
+            "Lab 9. IPv6 Tunnel 6to4",
+            "Lab 10. IPv6 Tunnel ISATAP",
+            "Lab 11. Tunnel Auto-tunnel"
+          ]
+        },
+        {
+          "title": "BGP",
+          "items": [
+            "Lab 1 iBGP Peering",
+            "Lab 2 iBGP Peering Loopback",
+            "Lab 3 eBGP Peering",
+            "Lab 4 BGP NextHopSelf",
+            "Lab 5 BGP Authentication",
+            "Lab 6 BGP Route Reflector",
+            "Lab 7. BGP Attribute ( Origin)",
+            "Lab 8. BGP Attribute (Community)",
+            "Lab 9. BGP Attribute (Communtiy List)",
+            "Lab 10. BGP Attribute (Aggregator)",
+            "Lab 11. BGP Attribute Weight",
+            "Lab 12. BGP Attribute Local Preference",
+            "Lab 13. BGP Attribute MED",
+            "Lab 14. BGP Attribute AS-Prepend",
+            "Lab 15. BGP Dualhoming – ISP sama",
+            "Lab 16. BGP Multihoming 2 ISP Berbeda",
+            "Lab 17. BGP Filtering"
+          ]
+        },
+        {
+          "title": "VPN Technologies",
+          "items": [
+            "Lab 1. GRE Tunnel",
+            "Lab 2. IPSec ( Tunnel Mode )"
+          ]
+        },
+        {
+          "title": "DMVPN",
+          "items": [
+            "Lab 1. Phase 1 Dynamic Mapping",
+            "Lab 2. Phase 1 With EIGRP",
+            "Lab 3. Phase 1 With OSPF",
+            "Lab 4. Phase 1 With IPSec",
+            "Lab 5. Phase 2 Dynamic Mapping",
+            "Lab 6. Phase 2 With EIGRP",
+            "Lab 7. Phase 2 With OSPF",
+            "Lab 8. Phase 3 Dynamic Mapping",
+            "Lab 9. Phase 3 With EIGRP",
+            "Lab 10. Phase 3 With OSPF"
+          ]
+        },
+        {
+          "title": "MPLS",
+          "items": [
+            "Lab 1. MPLS Backbone",
+            "Lab 2. MPLS VPN",
+            "Lab 3. MPLS VPN – PE CE Static Routing"
+          ]
+        },
+        {
+          "title": "Switching Technologies",
+          "items": [
+            "Lab 1. Vlan dan Trunk",
+            "Lab 2. InterVlan Routing",
+            "Lab 3. SPAN (Switch Port Analyzer)",
+            "Lab 4. RSPAN ( Remote SPAN)",
+            "Lab 5. Etherchannel Mode On",
+            "Lab 6. Etherchannel PagP",
+            "Lab 7. Etherchannel LACP",
+            "Lab 8. Etherchannel Layer 3",
+            "Lab 9. STP Tunning : Portfast",
+            "Lab 10. STP Tunning : UplinkFast",
+            "Lab 11. STP Tunning : BPDU Guard",
+            "Lab 12. STP Tunning : BPDU Filter",
+            "Lab 13. STP Tunning : Root Guard",
+            "Lab 14. MSTP (Multiple Spanning Tree)",
+            "Lab 15. RSTP (Rapid Spanning Tree Protocol)",
+            "Lab 16. Port Security Violation Default",
+            "Lab 17. Port Security Violation Recovery",
+            "Lab 18. Port Security Violation Action",
+            "Lab 19. HSRP Konfig Dasar",
+            "Lab 20. HSRP Track Route",
+            "Lab 21. HSRP With IP SLA",
+            "Lab 22. HSRP Load Balancing",
+            "Lab 23. VRRP Konfig Dasar",
+            "Lab 24. VRRP Track Route",
+            "Lab 25. VRRP With IP SLA",
+            "Lab 26. VRRP Load Balancing",
+            "Lab 27. GLBP Konfig Dasar"
+          ]
+        },
+        {
+          "title": "VXLAN",
+          "items": [
+            "Lab 1. Vxlan Static Peer",
+            "Lab 2. Vxlan Multicast Peer",
+            "Lab 3. Vxlan Multi Tenancy (BGP EVPN)"
+          ]
+        },
+        {
+          "title": "Automation",
+          "items": [
+            "Lab 1. Introduction Python",
+            "Lab 2. Python first use",
+            "Lab 3. Python Basic Operations",
+            "Lab 4. Automation With Paramiko",
+            "Lab 5. Embedded Event Manager (EEM)",
+            "Lab 6. IP SLA EEM Script",
+            "Lab 7. NETCONF Configure",
+            "Lab 8. RESTCONF Configure"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "6 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 4.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "CCNP Enterprise",
+    "content_hash": "5be133c01f30540683b51d7d6fd138e585b6682290d0bc0d2a55354e77f6595f",
+    "template_type": "BETTERDOCS"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 90,
+  "canonical_url": "https://www.idn.id/training/ai-automation-tools/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "d394bbea04e3198c5bc1cdb6c0f92dc171391263ea27b4ac9fefa348b3c54e6f",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:04.080420+00:00",
+  "facts_path": "data\\products\\ai-automation-tools\\facts.json",
+  "evidence_path": "data\\products\\ai-automation-tools\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ai-automation-tools\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,304 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Huawei HCIA Datacom",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+          "source_section": "Page title",
+          "source_text": "Huawei HCIA Datacom",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Huawei",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+          "source_section": "Training registry",
+          "source_text": "Huawei",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/huawei-hcia-datacom/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah. Training HCIA (Huawei Certified ICT Associate) Datacom ini adalah langkah pertama atau level dasar dari sertifikasi Huawei HCIA-Datacom. Dalam training ini, Anda akan mempelajari konsep-konsep dasar jaringan, termasuk routing dan switching, instalasi dan konfigurasi perangkat Huawei, hingga troubleshooting perangkat Huawei. Di IDN, kami tidak hanya fokus pada teori, tetapi juga memberikan pelatihan praktis yang mendalam sehingga Anda siap untuk menghadapi tantangan di dunia nyata. Dengan mengikuti training ini, Anda akan mendapatkan fondasi yang kuat untuk karier yang sukses di dunia jaringan, serta membuka peluang untuk melanjutkan ke level sertifikasi yang lebih tinggi seperti HCIP dan HCIE.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah. Training HCIA (Huawei Certified ICT Associate) Datacom ini adalah langkah pertama atau level dasar dari sertifikasi Huawei HCIA-Datacom. Dalam training ini, Anda akan mempelajari konsep-konsep dasar jaringan, termasuk routing dan switching, instalasi dan konfigurasi perangkat Huawei, hingga troubleshooting perangkat Huawei. Di IDN, kami tidak hanya fokus pada teori, tetapi juga memberikan pelatihan praktis yang mendalam sehingga Anda siap untuk menghadapi tantangan di dunia nyata. Dengan mengikuti training ini, Anda akan mendapatkan fondasi yang kuat untuk karier yang sukses di dunia jaringan, serta membuka peluang untuk melanjutkan ke level sertifikasi yang lebih tinggi seperti HCIP dan HCIE.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.800.000",
+      "amount": 2800000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Biaya Investasi : Rp 2.800.000",
+        "source_text": "Biaya Investasi : Rp 2.800.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Huawei VRP Introduction",
+      "Network Access & Network Services FTP/TFTP DHCP Telnet / STelnet Local AAA",
+      "Ethernet Technology VLAN Spanning-tree Link Aggregation",
+      "IP Connectivity for small-sized routing networks InterVLAN Router InterVLAN MLS Static Route IPv4 & IPv6 OSPFv2 Single Area",
+      "Basic Principles and Configuration Methods of ACLs",
+      "Basic NAT Principle, Application Scenarios and Configuration Methods",
+      "Basic WLAN Configuration for small-sized networks"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "kurikulum",
+        "source_text": "kurikulum Huawei VRP Introduction Network Access & Network Services FTP/TFTP DHCP Telnet / STelnet Local AAA Ethernet Technology VLAN Spanning-tree Link Aggregation IP Connectivity for small-sized routing networks InterVLAN Router InterVLAN MLS Static Route IPv4 & IPv6 OSPFv2 Single Area Basic Principles and Configuration Methods of ACLs Basic NAT Principle, Application Scenarios and Configuration Methods Basic WLAN Configuration for small-sized networks",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+      "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+      "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+      "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Ferry Pratama (HCIA-Datacom, Comptia Network+, CCNP Enterprise, CCNA, JNCIA, JNCIS-SP, ITIL4-Foundation, UEWA, UBWA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Ferry Pratama (HCIA-Datacom, Comptia Network+, CCNP Enterprise, CCNA, JNCIA, JNCIS-SP, ITIL4-Foundation, UEWA, UBWA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Huawei HCIA Datacom di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Ada kelas network fundamental FREE!, orang awam pun bisa ikut training. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Perangkat lengkap sehingga praktik secara langsung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Ada kelas network fundamental FREE!, orang awam pun bisa ikut training.",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Perangkat lengkap sehingga praktik secara langsung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah. Training HCIA (Huawei Certified ICT Associate) Datacom ini adalah langkah pertama atau level dasar dari sertifikasi Huawei HCIA-Datacom. Dalam training ini, Anda akan mempelajari konsep-konsep dasar jaringan, termasuk routing dan switching, instalasi dan konfigurasi perangkat Huawei, hingga troubleshooting perangkat Huawei. Di IDN, kami tidak hanya fokus pada teori, tetapi juga memberikan pelatihan praktis yang mendalam sehingga Anda siap untuk menghadapi tantangan di dunia nyata. Dengan mengikuti training ini, Anda akan mendapatkan fondasi yang kuat untuk karier yang sukses di dunia jaringan, serta membuka peluang untuk melanjutkan ke level sertifikasi yang lebih tinggi seperti HCIP dan HCIE.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom",
+      "items": [
+        "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+        "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Ferry Pratama (HCIA-Datacom, Comptia Network+, CCNP Enterprise, CCNA, JNCIA, JNCIS-SP, ITIL4-Foundation, UEWA, UBWA)",
+      "items": [
+        "Ferry Pratama (HCIA-Datacom, Comptia Network+, CCNP Enterprise, CCNA, JNCIA, JNCIS-SP, ITIL4-Foundation, UEWA, UBWA)"
+      ]
+    },
+    {
+      "heading": "kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Huawei VRP Introduction Network Access & Network Services FTP/TFTP DHCP Telnet / STelnet Local AAA Ethernet Technology VLAN Spanning-tree Link Aggregation IP Connectivity for small-sized routing networks InterVLAN Router InterVLAN MLS Static Route IPv4 & IPv6 OSPFv2 Single Area Basic Principles and Configuration Methods of ACLs Basic NAT Principle, Application Scenarios and Configuration Methods Basic WLAN Configuration for small-sized networks",
+      "items": [
+        "Huawei VRP Introduction",
+        "Network Access & Network Services FTP/TFTP DHCP Telnet / STelnet Local AAA",
+        "Ethernet Technology VLAN Spanning-tree Link Aggregation",
+        "IP Connectivity for small-sized routing networks InterVLAN Router InterVLAN MLS Static Route IPv4 & IPv6 OSPFv2 Single Area",
+        "Basic Principles and Configuration Methods of ACLs",
+        "Basic NAT Principle, Application Scenarios and Configuration Methods",
+        "Basic WLAN Configuration for small-sized networks"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.800.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Huawei HCIA Datacom",
+    "content_hash": "049f99f3cc221ef8c8024993e56e810043ecc55afe0305b4a37a60e5aed970cb",
+    "template_type": "BETTERDOCS"
+  }
+}

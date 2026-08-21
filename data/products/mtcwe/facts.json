@@ -1,0 +1,553 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "MIKROTIK MTCWE + EXAM",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcwe/",
+          "source_section": "Page title",
+          "source_text": "MIKROTIK MTCWE + EXAM",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Mikrotik",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcwe/",
+          "source_section": "Training registry",
+          "source_text": "Mikrotik",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/mtcwe/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcwe/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/mtcwe/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MTCWE adalah salah satu sertifikasi lanjutan setelah MTCNA yang focus di bagian Wireless. Pada Training yang diadakan selama 2 hari ini, akan belajar focus bagaimana cara Wireless Bekerja, Apa itu Frekuensi, Bagaimana pemilihan Band dan Channel Width, membuat Security di Wireless, dan Authentikasi Wireless menggunakan Radius. Serta membangun jaringan WDS dan Mesh.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MTCWE adalah salah satu sertifikasi lanjutan setelah MTCNA yang focus di bagian Wireless. Pada Training yang diadakan selama 2 hari ini, akan belajar focus bagaimana cara Wireless Bekerja, Apa itu Frekuensi, Bagaimana pemilihan Band dan Channel Width, membuat Security di Wireless, dan Authentikasi Wireless menggunakan Radius. Serta membangun jaringan WDS dan Mesh.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Wireless Installations",
+        "items": [
+          "Wireless Routers",
+          "RouterBoard Hardware",
+          "Wireless Cards",
+          "Antenna Types"
+        ]
+      },
+      {
+        "title": "Wireless Standard",
+        "items": [
+          "802.11 a/b/g/n",
+          "Bands and Channel Width",
+          "Frequencies"
+        ]
+      },
+      {
+        "title": "wireless Tools",
+        "items": [
+          "Wireless Tools",
+          "Wireless Tools + LAB",
+          "Scan",
+          "Frequency Usage",
+          "Spectral Scan/History",
+          "Snooper",
+          "Align",
+          "Sniffer"
+        ]
+      },
+      {
+        "title": "Wireless Troubleshooting",
+        "items": [
+          "Troubleshooting wireless client + LAB",
+          "Registration table analysis",
+          "Ack-Timeout/Distance",
+          "TX/RX Signal Strength",
+          "Frames and HW-frames",
+          "Data – rates"
+        ]
+      },
+      {
+        "title": "Wireless Advanced Settings",
+        "items": [
+          "Advanced Wireless Tab Settings + LAB",
+          "HW-retries",
+          "HW-protection",
+          "Adaptive-noise-immunity",
+          "WMM",
+          "Country regulation settings",
+          "TX-power + LAB",
+          "Virtual-AP"
+        ]
+      },
+      {
+        "title": "802.11n",
+        "items": [
+          "802.11n wireless protocol + LAB",
+          "Features",
+          "Data Rates",
+          "Channel bonding",
+          "Frame Aggregation",
+          "TX-power for N cards",
+          "Chain settings",
+          "Wireless link debugging"
+        ]
+      },
+      {
+        "title": "Wireless Security",
+        "items": [
+          "Wireless Security Measures + LAB",
+          "Access Management",
+          "Access-List/Connect-List",
+          "RADIUS",
+          "Authentication",
+          "Encryption",
+          "EAP",
+          "Management Frame Protection"
+        ]
+      },
+      {
+        "title": "WDS and MESH",
+        "items": [
+          "Wireless WDS protocol + LAB",
+          "Dynamic/Static WDS",
+          "RSTP Bridge",
+          "Wireless MESH + LAB",
+          "HWMP+ Mesh"
+        ]
+      },
+      {
+        "title": "Wireless Bridging",
+        "items": [
+          "Wireless Transparent Bridge + LAB",
+          "WDS bridging",
+          "AP/Station-WDS",
+          "Pseudobridge",
+          "MPLS/VPLS tunnel"
+        ]
+      },
+      {
+        "title": "Nstreme Protocol",
+        "items": [
+          "MikroTik Wireless Nstreme Protocol + LAB",
+          "Features",
+          "Configuration options",
+          "Nstreme Dual",
+          "Troubleshooting"
+        ]
+      },
+      {
+        "title": "Nv2 Protocol",
+        "items": [
+          "MikroTik Wireless Nv2 Protocol + LAB",
+          "Features",
+          "Configuration options",
+          "Troubleshooting"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Wireless Installations Wireless Routers RouterBoard Hardware Wireless Cards Antenna Types Wireless Standard 802.11 a/b/g/n Bands and Channel Width Frequencies wireless Tools Wireless Tools Wireless Tools + LAB Scan Frequency Usage Spectral Scan/History Snooper Align Sniffer Wireless Troubleshooting Troubleshooting wireless client + LAB Registration table analysis Ack-Timeout/Distance TX/RX Signal Strength Frames and HW-frames Data – rates Wireless Advanced Settings Advanced Wireless Tab Settings + LAB HW-retries HW-protection Adaptive-noise-immunity WMM Country regulation settings TX-power + LAB Virtual-AP 802.11n 802.11n wireless protocol + LAB Features Data Rates Channel bonding Frame Aggregation TX-power for N cards Chain settings Wireless link debugging Wireless Security Wireless Security Measures + LAB Access Management Access-List/Connect-List RADIUS Authentication Encryption EAP Management Frame Protection WDS and MESH Wireless WDS protocol + LAB Dynamic/Static WDS RSTP Bridge Wireless MESH + LAB HWMP+ Mesh Wireless Bridging Wireless Transparent Bridge + LAB WDS bridging AP/Station-WDS Pseudobridge MPLS/VPLS tunnel Nstreme Protocol MikroTik Wireless Nstreme Protocol + LAB Features Configuration options Nstreme Dual Troubleshooting Nv2 Protocol MikroTik Wireless Nv2 Protocol + LAB Features Configuration options Troubleshooting",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta dapat memahami apa mode wireless di MikroTik, Pemilihan Band, Frekuensi, Channel Width, dan teori lain nya dalam Wireless",
+      "Peserta dapat memahami dan menggunakan Tools dalam Wireless seperti Frequency Usage, Alignment, Spectral Scan, Spectral History, Scan List, dan lain sebagai nya",
+      "Peserta dapat memahami dan menganalisa sebuah jaringan wireless yang kualitas nya kurang baik, sehingga bisa di optimisasi.",
+      "Peserta dapat memahami dan mengkonfigurasi Wireless Protocol Proprietary yaitu Nstreme dan Nv2",
+      "Peserta dapat memahami dan implementasi untuk Security pada Wireless Seperti WPA PreSharedKey, Wired Equivalent Privacy, dan Extensible Authentication Protocol",
+      "Peserta dapat memahami dan implementasi Access Management pada Wireless seperti Access List, Connect List, dan lain sebagai nya",
+      "Peserta dapat memahami dan implementasi bagaimana cara membuat jaringan WDS dan MESH pada MikroTik Wireless.",
+      "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+      "Peserta juga akan bergabung di grup milis IDN yang sudah ada ribuan member. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan MTCWE",
+      "Peserta akan mendapat perangkat (1 peserta 1 Router MikroTik) selama training berlangsung. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara real",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+      "Jika peserta mendapatkan nilai 50-59, maka aka nada ujian yang kedua di hari itu juga, sedangkan kalau dibawah 50. Akan diadakan bulan depan secara FREE."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta dapat memahami apa mode wireless di MikroTik, Pemilihan Band, Frekuensi, Channel Width, dan teori lain nya dalam Wireless Peserta dapat memahami dan menggunakan Tools dalam Wireless seperti Frequency Usage, Alignment, Spectral Scan, Spectral History, Scan List, dan lain sebagai nya Peserta dapat memahami dan menganalisa sebuah jaringan wireless yang kualitas nya kurang baik, sehingga bisa di optimisasi. Peserta dapat memahami dan mengkonfigurasi Wireless Protocol Proprietary yaitu Nstreme dan Nv2 Peserta dapat memahami dan implementasi untuk Security pada Wireless Seperti WPA PreSharedKey, Wired Equivalent Privacy, dan Extensible Authentication Protocol Peserta dapat memahami dan implementasi Access Management pada Wireless seperti Access List, Connect List, dan lain sebagai nya Peserta dapat memahami dan implementasi bagaimana cara membuat jaringan WDS dan MESH pada MikroTik Wireless. Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan Peserta juga akan bergabung di grup milis IDN yang sudah ada ribuan member. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan MTCWE Peserta akan mendapat perangkat (1 peserta 1 Router MikroTik) selama training berlangsung. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara real Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung Jika peserta mendapatkan nilai 50-59, maka aka nada ujian yang kedua di hari itu juga, sedangkan kalau dibawah 50. Akan diadakan bulan depan secara FREE.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+      "Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "gratis jika gagal exam. Modul kami susun dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCWE. Bebas mengulang exam 1x gratis jika gagal exam",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcwe/",
+        "source_section": "Mengapa harus training MTCWE di IDN ?",
+        "source_text": "Mengapa harus training MTCWE di IDN ? gratis jika gagal exam. Modul kami susun dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCWE. Bebas mengulang exam 1x gratis jika gagal exam",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa harus training MTCWE di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCWE. Bebas mengulang exam 1x gratis jika gagal exam. Modul kami susun dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+      "items": [
+        "Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung.",
+        "Biaya TERMURAH, sudah termasuk Exam MTCWE.",
+        "Bebas mengulang exam 1x gratis jika gagal exam.",
+        "Modul kami susun dalam Bahasa Indonesia.",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MTCWE adalah salah satu sertifikasi lanjutan setelah MTCNA yang focus di bagian Wireless. Pada Training yang diadakan selama 2 hari ini, akan belajar focus bagaimana cara Wireless Bekerja, Apa itu Frekuensi, Bagaimana pemilihan Band dan Channel Width, membuat Security di Wireless, dan Authentikasi Wireless menggunakan Radius. Serta membangun jaringan WDS dan Mesh.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta dapat memahami apa mode wireless di MikroTik, Pemilihan Band, Frekuensi, Channel Width, dan teori lain nya dalam Wireless Peserta dapat memahami dan menggunakan Tools dalam Wireless seperti Frequency Usage, Alignment, Spectral Scan, Spectral History, Scan List, dan lain sebagai nya Peserta dapat memahami dan menganalisa sebuah jaringan wireless yang kualitas nya kurang baik, sehingga bisa di optimisasi. Peserta dapat memahami dan mengkonfigurasi Wireless Protocol Proprietary yaitu Nstreme dan Nv2 Peserta dapat memahami dan implementasi untuk Security pada Wireless Seperti WPA PreSharedKey, Wired Equivalent Privacy, dan Extensible Authentication Protocol Peserta dapat memahami dan implementasi Access Management pada Wireless seperti Access List, Connect List, dan lain sebagai nya Peserta dapat memahami dan implementasi bagaimana cara membuat jaringan WDS dan MESH pada MikroTik Wireless. Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan Peserta juga akan bergabung di grup milis IDN yang sudah ada ribuan member. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan MTCWE Peserta akan mendapat perangkat (1 peserta 1 Router MikroTik) selama training berlangsung. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara real Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung Jika peserta mendapatkan nilai 50-59, maka aka nada ujian yang kedua di hari itu juga, sedangkan kalau dibawah 50. Akan diadakan bulan depan secara FREE.",
+      "items": [
+        "Peserta dapat memahami apa mode wireless di MikroTik, Pemilihan Band, Frekuensi, Channel Width, dan teori lain nya dalam Wireless",
+        "Peserta dapat memahami dan menggunakan Tools dalam Wireless seperti Frequency Usage, Alignment, Spectral Scan, Spectral History, Scan List, dan lain sebagai nya",
+        "Peserta dapat memahami dan menganalisa sebuah jaringan wireless yang kualitas nya kurang baik, sehingga bisa di optimisasi.",
+        "Peserta dapat memahami dan mengkonfigurasi Wireless Protocol Proprietary yaitu Nstreme dan Nv2",
+        "Peserta dapat memahami dan implementasi untuk Security pada Wireless Seperti WPA PreSharedKey, Wired Equivalent Privacy, dan Extensible Authentication Protocol",
+        "Peserta dapat memahami dan implementasi Access Management pada Wireless seperti Access List, Connect List, dan lain sebagai nya",
+        "Peserta dapat memahami dan implementasi bagaimana cara membuat jaringan WDS dan MESH pada MikroTik Wireless.",
+        "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+        "Peserta juga akan bergabung di grup milis IDN yang sudah ada ribuan member. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan MTCWE",
+        "Peserta akan mendapat perangkat (1 peserta 1 Router MikroTik) selama training berlangsung. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara real",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+        "Jika peserta mendapatkan nilai 50-59, maka aka nada ujian yang kedua di hari itu juga, sedangkan kalau dibawah 50. Akan diadakan bulan depan secara FREE."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+      "items": [
+        "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+        "Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Wireless Installations Wireless Routers RouterBoard Hardware Wireless Cards Antenna Types Wireless Standard 802.11 a/b/g/n Bands and Channel Width Frequencies wireless Tools Wireless Tools Wireless Tools + LAB Scan Frequency Usage Spectral Scan/History Snooper Align Sniffer Wireless Troubleshooting Troubleshooting wireless client + LAB Registration table analysis Ack-Timeout/Distance TX/RX Signal Strength Frames and HW-frames Data – rates Wireless Advanced Settings Advanced Wireless Tab Settings + LAB HW-retries HW-protection Adaptive-noise-immunity WMM Country regulation settings TX-power + LAB Virtual-AP 802.11n 802.11n wireless protocol + LAB Features Data Rates Channel bonding Frame Aggregation TX-power for N cards Chain settings Wireless link debugging Wireless Security Wireless Security Measures + LAB Access Management Access-List/Connect-List RADIUS Authentication Encryption EAP Management Frame Protection WDS and MESH Wireless WDS protocol + LAB Dynamic/Static WDS RSTP Bridge Wireless MESH + LAB HWMP+ Mesh Wireless Bridging Wireless Transparent Bridge + LAB WDS bridging AP/Station-WDS Pseudobridge MPLS/VPLS tunnel Nstreme Protocol MikroTik Wireless Nstreme Protocol + LAB Features Configuration options Nstreme Dual Troubleshooting Nv2 Protocol MikroTik Wireless Nv2 Protocol + LAB Features Configuration options Troubleshooting",
+      "items": [
+        {
+          "title": "Wireless Installations",
+          "items": [
+            "Wireless Routers",
+            "RouterBoard Hardware",
+            "Wireless Cards",
+            "Antenna Types"
+          ]
+        },
+        {
+          "title": "Wireless Standard",
+          "items": [
+            "802.11 a/b/g/n",
+            "Bands and Channel Width",
+            "Frequencies"
+          ]
+        },
+        {
+          "title": "wireless Tools",
+          "items": [
+            "Wireless Tools",
+            "Wireless Tools + LAB",
+            "Scan",
+            "Frequency Usage",
+            "Spectral Scan/History",
+            "Snooper",
+            "Align",
+            "Sniffer"
+          ]
+        },
+        {
+          "title": "Wireless Troubleshooting",
+          "items": [
+            "Troubleshooting wireless client + LAB",
+            "Registration table analysis",
+            "Ack-Timeout/Distance",
+            "TX/RX Signal Strength",
+            "Frames and HW-frames",
+            "Data – rates"
+          ]
+        },
+        {
+          "title": "Wireless Advanced Settings",
+          "items": [
+            "Advanced Wireless Tab Settings + LAB",
+            "HW-retries",
+            "HW-protection",
+            "Adaptive-noise-immunity",
+            "WMM",
+            "Country regulation settings",
+            "TX-power + LAB",
+            "Virtual-AP"
+          ]
+        },
+        {
+          "title": "802.11n",
+          "items": [
+            "802.11n wireless protocol + LAB",
+            "Features",
+            "Data Rates",
+            "Channel bonding",
+            "Frame Aggregation",
+            "TX-power for N cards",
+            "Chain settings",
+            "Wireless link debugging"
+          ]
+        },
+        {
+          "title": "Wireless Security",
+          "items": [
+            "Wireless Security Measures + LAB",
+            "Access Management",
+            "Access-List/Connect-List",
+            "RADIUS",
+            "Authentication",
+            "Encryption",
+            "EAP",
+            "Management Frame Protection"
+          ]
+        },
+        {
+          "title": "WDS and MESH",
+          "items": [
+            "Wireless WDS protocol + LAB",
+            "Dynamic/Static WDS",
+            "RSTP Bridge",
+            "Wireless MESH + LAB",
+            "HWMP+ Mesh"
+          ]
+        },
+        {
+          "title": "Wireless Bridging",
+          "items": [
+            "Wireless Transparent Bridge + LAB",
+            "WDS bridging",
+            "AP/Station-WDS",
+            "Pseudobridge",
+            "MPLS/VPLS tunnel"
+          ]
+        },
+        {
+          "title": "Nstreme Protocol",
+          "items": [
+            "MikroTik Wireless Nstreme Protocol + LAB",
+            "Features",
+            "Configuration options",
+            "Nstreme Dual",
+            "Troubleshooting"
+          ]
+        },
+        {
+          "title": "Nv2 Protocol",
+          "items": [
+            "MikroTik Wireless Nv2 Protocol + LAB",
+            "Features",
+            "Configuration options",
+            "Troubleshooting"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "MIKROTIK MTCWE + EXAM",
+    "content_hash": "65652dbdf6efa90393a98cbf3b5708051cc8c6deb68e063de778f6698785157a",
+    "template_type": "BETTERDOCS"
+  }
+}

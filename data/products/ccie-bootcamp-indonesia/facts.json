@@ -1,0 +1,660 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "CISCO CCIE BOOTCAMP INDONESIA",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+          "source_section": "Page title",
+          "source_text": "CISCO CCIE BOOTCAMP INDONESIA",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Cisco",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+          "source_section": "Training registry",
+          "source_text": "Cisco",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training CCIE Bootcamp ID-Networkers",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Fasilitas Training CCIE bootcamp IDN",
+        "source_text": "Fasilitas Training CCIE bootcamp IDN Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training CCIE Bootcamp ID-Networkers",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+        "days": 6.0,
+        "hours": 16.0,
+        "daily_schedule": null
+      },
+      {
+        "raw": "Biaya Training Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+        "days": 6.0,
+        "hours": 16.0,
+        "daily_schedule": null
+      },
+      {
+        "raw": "Tempat Pelaksanaan Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+        "days": 6.0,
+        "hours": 16.0,
+        "daily_schedule": null
+      },
+      {
+        "raw": "Rp. 8,1 JT Diskon ini berlaku hingga 8 Desember 2024. Setelahnya , investasi kembali ke harga normal. Tetapi investasi ini hanya untuk 25 pendaftar pertama. Setelahnya , investasi kembali ke harga normal. 00 Days 00 Hours 00 Minutes 00 Seconds Gunakan Kode Diskon “ bootcamp ” Pada Saat Pendaftaran untuk Dapatkan Potongan Biaya Diatas. DAFTAR SEKARANG",
+        "days": 0.0,
+        "hours": 0.0,
+        "daily_schedule": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Jadwal Training CCIE Bootcamp IDN",
+        "source_text": "Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Biaya Training",
+        "source_text": "Biaya Training Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Tempat Pelaksanaan",
+        "source_text": "Tempat Pelaksanaan Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Rp. 8,1 JT",
+        "source_text": "Rp. 8,1 JT Diskon ini berlaku hingga 8 Desember 2024. Setelahnya , investasi kembali ke harga normal. Tetapi investasi ini hanya untuk 25 pendaftar pertama. Setelahnya , investasi kembali ke harga normal. 00 Days 00 Hours 00 Minutes 00 Seconds Gunakan Kode Diskon “ bootcamp ” Pada Saat Pendaftaran untuk Dapatkan Potongan Biaya Diatas. DAFTAR SEKARANG",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp. 8,1 JT",
+      "amount": 8100000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Rp. 8,1 JT",
+        "source_text": "Rp. 8,1 JT Diskon ini berlaku hingga 8 Desember 2024. Setelahnya , investasi kembali ke harga normal. Tetapi investasi ini hanya untuk 25 pendaftar pertama. Setelahnya , investasi kembali ke harga normal. 00 Days 00 Hours 00 Minutes 00 Seconds Gunakan Kode Diskon “ bootcamp ” Pada Saat Pendaftaran untuk Dapatkan Potongan Biaya Diatas. DAFTAR SEKARANG",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "FOUND",
+    "value": "Offline Class",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Offline Class",
+        "source_text": "Offline Class",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "curriculum": {
+    "status": "PARSE_ERROR",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Materi Training CCIE Bootcamp IDN Enterprise Infrastructure",
+        "source_text": "Materi Training CCIE Bootcamp IDN Enterprise Infrastructure",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+        "source_section": "Belajar materi CCIE Langsung dari instruktur Berpengalaman",
+        "source_text": "Belajar materi CCIE Langsung dari instruktur Berpengalaman",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Cisco CCIE Bootcamp Enterprise Infrastructure",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Offline Class",
+      "semantic_type": "TRAINING_FORMAT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Expert Level Training",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa harus ambil kelas CCIE Bootcamp?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Our Training Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Training CCIE bootcamp IDN",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training CCIE Bootcamp ID-Networkers",
+      "items": []
+    },
+    {
+      "heading": "Sudah termasuk penginapan",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sudah termasuk makan 3x perhari",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sudah termasuk snack 3x perhari",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sudah termasuk file CCIE lab eve-ng",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Modul buku CCIE IDN Berbahasa Indonesia",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "T-shirt CCIE IDN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Souvenir IDN",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sertifikat CCIE Bootcamp IDN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Materi Training CCIE Bootcamp IDN Enterprise Infrastructure",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Layer 2 Technologies",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Redundancy Protocol",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "OSPF EIGRP",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "IPv6 EIGRP/OSPF",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "BGP MPLS",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "MPLS VPNv4/VPNv6",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "DMVPN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Multicast",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Cisco DNA Center",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Virtual Network DNA Center",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "SD-WAN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "SD-WAN VPN Route Leaking",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Network Programming",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Python",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Automated Configuration Backup Script",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Jadwal Pelaksanaan",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Jadwal Training CCIE Bootcamp IDN",
+      "semantic_type": "SCHEDULE_WIDGET",
+      "content": "• Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+      "items": []
+    },
+    {
+      "heading": "Biaya Training",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+      "items": []
+    },
+    {
+      "heading": "Tempat Pelaksanaan",
+      "semantic_type": "LOGISTICS",
+      "content": "Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+      "items": []
+    },
+    {
+      "heading": "Belajar materi CCIE Langsung dari instruktur Berpengalaman",
+      "semantic_type": "TRAINERS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Dedi Gunawan",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "CCIE",
+      "items": []
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya melalui Training ID-Networkers, dan terus bertambah!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi? Yuk daftar dan upgrade skillmu sekarang juga!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": [
+        "00 Days",
+        "00 Hours",
+        "00 Minutes",
+        "00 Seconds"
+      ]
+    },
+    {
+      "heading": "Anda cukup investasi sebesar :",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Rp. 8.500.000,- (Harga Normal)",
+      "items": [
+        "00 Days",
+        "00 Hours",
+        "00 Minutes",
+        "00 Seconds"
+      ]
+    },
+    {
+      "heading": "Rp. 8,1 JT",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Diskon ini berlaku hingga 8 Desember 2024. Setelahnya , investasi kembali ke harga normal. Tetapi investasi ini hanya untuk 25 pendaftar pertama. Setelahnya , investasi kembali ke harga normal. 00 Days 00 Hours 00 Minutes 00 Seconds Gunakan Kode Diskon “ bootcamp ” Pada Saat Pendaftaran untuk Dapatkan Potongan Biaya Diatas. DAFTAR SEKARANG",
+      "items": [
+        "00 Days",
+        "00 Hours",
+        "00 Minutes",
+        "00 Seconds"
+      ]
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Cisco CCIE Bootcamp Enterprise Infrastructure",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Modul buku CCIE IDN Berbahasa Indonesia",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "T-shirt CCIE IDN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sertifikat CCIE Bootcamp IDN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Layer 2 Technologies",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Redundancy Protocol",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "OSPF EIGRP",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "IPv6 EIGRP/OSPF",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "BGP MPLS",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "MPLS VPNv4/VPNv6",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "DMVPN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Multicast",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Cisco DNA Center",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Virtual Network DNA Center",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "SD-WAN",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "SD-WAN VPN Route Leaking",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Network Programming",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Python",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Automated Configuration Backup Script",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Jadwal Pelaksanaan",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Training",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Jadwal Training CCIE Bootcamp IDN • Tanggal 3 - 8 Januari 2025 (6 Hari, Jumat-Rabu) • 16 Jam sehari full lab • Jam 8 pagi – 12 malam setiap hari Biaya Training • Peserta Baru : 8.5 juta • Peserta Ngulang : 4 Juta (peserta sudah pernah mengikuti ccie bootcamp idn sebelumnya) Tempat Pelaksanaan Kelas Bootcamp Juli : IDN Bogor Pamijahan Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor https://goo.gl/maps/YafR93s7SgbW5Mzm8",
+      "items": []
+    },
+    {
+      "heading": "Dedi Gunawan",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "CCIE",
+      "items": []
+    },
+    {
+      "heading": "Anda cukup investasi sebesar :",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Rp. 8.500.000,- (Harga Normal)",
+      "items": [
+        "00 Days",
+        "00 Hours",
+        "00 Minutes",
+        "00 Seconds"
+      ]
+    }
+  ],
+  "quality_flags": [
+    "NO_CURRICULUM",
+    "UNKNOWN_SECTIONS",
+    "PARSER_WARNING",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 6,
+    "fields_not_found": 9,
+    "coverage": 0.375
+  },
+  "metadata": {
+    "registry_name": "CISCO CCIE BOOTCAMP INDONESIA",
+    "content_hash": "f7c291b90a8ef758c69c0f3a15176e1f7ac28d362f67151d20f81f511a4f3227",
+    "template_type": "ELEMENTOR"
+  }
+}

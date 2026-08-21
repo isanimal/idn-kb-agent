@@ -1,0 +1,14 @@
+{
+  "training_source_id": 41,
+  "canonical_url": "https://www.idn.id/training/ufsp-uwa/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "999c3c9c500d42efcf287592c30d21e0d6d55b834918e45c3e0567e5aa7dbe3e",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:33.480699+00:00",
+  "facts_path": "data\\products\\ufsp-uwa\\facts.json",
+  "evidence_path": "data\\products\\ufsp-uwa\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ufsp-uwa\\raw.html",
+  "last_error": null
+}

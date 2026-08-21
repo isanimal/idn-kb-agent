@@ -1,0 +1,14 @@
+{
+  "training_source_id": 7,
+  "canonical_url": "https://www.idn.id/training/mikrotik-mtcna/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "5d6a991211f0b27b2723c78890c0bfdce1e077c3bafc838a38f101a196c01624",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:10.910626+00:00",
+  "facts_path": "data\\products\\mikrotik-mtcna\\facts.json",
+  "evidence_path": "data\\products\\mikrotik-mtcna\\evidence.json",
+  "raw_snapshot_path": "data\\products\\mikrotik-mtcna\\raw.html",
+  "last_error": null
+}

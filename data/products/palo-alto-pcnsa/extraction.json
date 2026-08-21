@@ -1,0 +1,14 @@
+{
+  "training_source_id": 73,
+  "canonical_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "a422e4353690f2ab1f1ead56947ba8ac64105b596914fcb13bc679b5a68588f4",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:53.877364+00:00",
+  "facts_path": "data\\products\\palo-alto-pcnsa\\facts.json",
+  "evidence_path": "data\\products\\palo-alto-pcnsa\\evidence.json",
+  "raw_snapshot_path": "data\\products\\palo-alto-pcnsa\\raw.html",
+  "last_error": null
+}

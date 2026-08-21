@@ -1,0 +1,14 @@
+{
+  "training_source_id": 85,
+  "canonical_url": "https://www.idn.id/training/rcna-wlan-exam/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "8b553ebe44db729917f95c1df2143c7bade41c46f4ce663ef62a3324b7bee5e0",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:36:01.314911+00:00",
+  "facts_path": "data\\products\\rcna-wlan-exam\\facts.json",
+  "evidence_path": "data\\products\\rcna-wlan-exam\\evidence.json",
+  "raw_snapshot_path": "data\\products\\rcna-wlan-exam\\raw.html",
+  "last_error": null
+}

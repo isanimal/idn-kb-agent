@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training ID-Networkers (IDN.ID) saat ini tercatat sebagai salah satu Mikrotik Training partner terbaik bukan hanya di Indonesia bahkan di Asia dengan Rating saat ini 5/5 (1293 votes) dengan average student result 74%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training sekaligus berhak menyelenggarakan ujian sertifikasi internasional resmi dari MikroTik. MikroTik Certified Network Associate (MTCNA) merupakan sebuah program sertifikasi dari MikroTik untuk para Network Engineer pada tingkatan entry-level. Sertifikasi ini membantu Network Engineer untuk memahami dasar-dasar networking dan meningkatkan atau memberi nilai tambah pada Network Engineer tersebut. Training ini diperuntukkan bagi mereka yang ingin mempelajari dasar-dasar dan fungsi-fungsi yang terdapat pada MikroTik Routerboard, serta feature, implementasi dan troubleshoot secara umum. Training ini berisi teori dan praktek simulasi lab. Untuk mengikuti training dan ujian sertifikasi, peserta harus sudah memiliki dasar pengetahuan TCP/IP. MTCNA merupakan sertifikat tingkat dasar pada Mikrotik. Pada track ini, peserta akan belajar melakukan konfigurasi Mikrotik RouterOS untuk deliver internet ke client, juga belajar me manage , dan basic troubleshooting . Adapun training MTCNA IDN ini dilaksanakan selama 3 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana melakukan konfigurasi mikrotik untuk keperluan jaringan small size hingga medium size. Dihari terahir, peserta akan melakukan ujian sertifikasi dan akan langsung mendapat sertifikasi internasional jika lulus ujian. *(untuk kelas online teknis ujiannya tetap harus datang ke kantor ID-Networkers dan jadwal ujiannya bisa disesuaikan dengan jadwal yang tersedia). NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Biaya Investasi : Rp 2.000.000,-",
+      "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum Module 1 MikroTik RouterOS Introduction First time accessing the router + lab Setup internet connection via router + LAB TCP/IP Basics Upgrade RouterOS logins + LAB Manage routerOS services Backup and export/import configuration + LAB RouterOS license NTP client configuration Netinstall + LAB Module 2 MikroTik RouterOS firewall Firewall principles Firewall filter in action RouterOS connection tracking Basic address list + LAB Source NAT Destination NAT Module 3 MikroTik RouterOS QoS Simpe Queue + LAB Bandwidth test + LAB Interface traffic monitor PCQ Queueing Module 4 MikroTik RouterOS Network Management ARP modes RouterOS ARP table DHCP server and client + LAB Module 5 MikroTik RouterOS Wireless Setup simple wireless link + LAB MAC address filtering + LAB MAC address filtering + LAB MikroTik wireless protocols + LAB Module 6 MikroTik RouterOS Bridging Bridging concepts + Lab Bridge wireless networks + LAB Bridge wireless and remote networks + LAB Module 7 MikroTik RouterOS Routing Routing overview Static routing Module 8 MikroTik RouterOS Tunnels Tunnel Overview PPPoE PPTP L2TP EoIP",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta mendapat sertifikat internasional MTCNA untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya mikrotik Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Oky Tria Saputra, M.Kom ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman, M.Kom (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA) Mahesa Yudha Pratama (CCNP, MTCNA, MTCRE, MTCTCE, MTCWE, MTCINE, MTCSE, Mikrotik Certified Trainer) Muhammad Ghaniyu Dzaky Ali (MTCNA, MTCRE, NSE4, MTCTCE, MTCSE, MTCINE) At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS) Fathur Rizky Arrosid (MTCNA, MTCRE, MTCINE, MTCWE, MTCIPv6E, MTCSE, NSE4, NSE 7, RCNA, CCNP)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "source_section": "Mengapa Harus Training MTCNA di IDN ?",
+      "source_text": "Mengapa Harus Training MTCNA di IDN ? Gratis mengulang training sebanyak 2x Free join mailing list IDN",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+        "source_section": "Page title",
+        "source_text": "MIKROTIK MTCNA + EXAM",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+        "source_section": "Training registry",
+        "source_text": "Mikrotik",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcna/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/mikrotik-mtcna/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

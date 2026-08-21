@@ -1,0 +1,383 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "INDUSTRIAL IoT & AUTOMATION",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+          "source_section": "Page title",
+          "source_text": "INDUSTRIAL IoT & AUTOMATION",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "IOT & Robotik",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+          "source_section": "Training registry",
+          "source_text": "IOT & Robotik",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/industrial-iot-automation/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/industrial-iot-automation/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Internet of things merupakan sebuah konsep di mana suatu benda atau objek ditanamkan teknologi-teknologi seperti sensor dan software dengan tujuan untuk berkomunikasi, mengendalikan, menghubungkan, dan bertukar data melalui perangkat lain selama masih terhubung ke internet. IoT memiliki hubungan yang erat dengan istilah machine-to-machine atau M2M. Seluruh alat yang memiliki kemampuan komunikasi M2M ini sering disebut dengan perangkat cerdas atau smart devices. Perangkat cerdas ini diharapkan dapat membantu kerja manusia dalam menyelesaikan berbagai urusan atau tugas yang ada. IoT dalam otomasi industri memungkinkan pemantauan dan pengendalian mesin dan proses dari jarak jauh. Artinya, operator dapat mengawasi operasional dari mana saja di dunia, menggunakan perangkat yang terhubung ke internet. Hal ini meningkatkan fleksibilitas dan memungkinkan respons cepat terhadap masalah apa pun.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Internet of things merupakan sebuah konsep di mana suatu benda atau objek ditanamkan teknologi-teknologi seperti sensor dan software dengan tujuan untuk berkomunikasi, mengendalikan, menghubungkan, dan bertukar data melalui perangkat lain selama masih terhubung ke internet. IoT memiliki hubungan yang erat dengan istilah machine-to-machine atau M2M. Seluruh alat yang memiliki kemampuan komunikasi M2M ini sering disebut dengan perangkat cerdas atau smart devices. Perangkat cerdas ini diharapkan dapat membantu kerja manusia dalam menyelesaikan berbagai urusan atau tugas yang ada. IoT dalam otomasi industri memungkinkan pemantauan dan pengendalian mesin dan proses dari jarak jauh. Artinya, operator dapat mengawasi operasional dari mana saja di dunia, menggunakan perangkat yang terhubung ke internet. Hal ini meningkatkan fleksibilitas dan memungkinkan respons cepat terhadap masalah apa pun.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.500.000",
+      "amount": 3500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+        "source_section": "Biaya Investasi : Rp 3.500.000,-",
+        "source_text": "Biaya Investasi : Rp 3.500.000,- Gunakan kode diskon oktober untuk mendapatkan diskon 500ribu, berlaku jika daftar sebelum tanggal 6 Oktober 2023. Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "[PLC – HMI – SCADA – MODBUS – IOT – INDUSTRIAL PROJECT]",
+        "items": []
+      },
+      {
+        "title": "Drawing & wiring",
+        "items": [
+          "Electrical Drawing a. Mengenal Symbol Standard Electrical Drawing b. Membaca Electrical Drawing",
+          "Wiring a. Mendesign Wiring diagram b. Mengaplikasikan Design wiring diagram c. Wiring dengan symbol, Labeling & Numbering"
+        ]
+      },
+      {
+        "title": "Pemograman PLC Dasar",
+        "items": [
+          "Pengenalan PLC (Brand, Input, Output, CPU, Interface)",
+          "Logika Pemrograman PLC Dasar (Flow Chart, Decision, Alternate Program, & Option)",
+          "Mode dalam PLC a. Write / Program Mode b. Read Only Mode c. Edit Online Mode d. Online Monitoring Mode",
+          "Download & Upload Program"
+        ]
+      },
+      {
+        "title": "Pemrograman PLC lanjutan",
+        "items": []
+      },
+      {
+        "title": "Komunikasi PLC dan Instrument",
+        "items": []
+      },
+      {
+        "title": "Internet of Things",
+        "items": []
+      },
+      {
+        "title": "IoT Project",
+        "items": []
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+        "source_section": "Materi Training All In One",
+        "source_text": "Materi Training All In One [PLC – HMI – SCADA – MODBUS – IOT – INDUSTRIAL PROJECT] Drawing & wiring Electrical Drawing a. Mengenal Symbol Standard Electrical Drawing b. Membaca Electrical Drawing Wiring a. Mendesign Wiring diagram b. Mengaplikasikan Design wiring diagram c. Wiring dengan symbol, Labeling & Numbering Pemograman PLC Dasar Pengenalan PLC (Brand, Input, Output, CPU, Interface) Logika Pemrograman PLC Dasar (Flow Chart, Decision, Alternate Program, & Option) Mode dalam PLC a. Write / Program Mode b. Read Only Mode c. Edit Online Mode d. Online Monitoring Mode Download & Upload Program Pemrograman PLC lanjutan a. Compare Instruction b. Arithmathic Instruction c. Move Instruction d. Converstion Word Data e. Program Analog Input & Output f. Scalling data Input dan Output (Analog) g. Communication port (RS232, RS485, Ethernet, CC-Link, Profibus dsb) Komunikasi PLC dan Instrument a. Mengenal Berbagai Interface PLC dan HMI b. Pemrograman Dasar HMI (Bit Lamp, Bit Switch, Bit Word, dsb) c. Menampilkan Data Bit & Data Word dalam HMII d. Membuat Program HMII e. Mengkomunikasikan HMI dan PLCI Internet of Things a. Pengenalan IoT b. Elemen Utama Pendukung IoT c. Implementasi IoT d. Pengenalan Mode Data Communication serial e. Konfigurasi dan Converter ModBus RTU ke ModBus TCP atau Sebaliknya f. Pengorganisasian data ModBus g. Frame Data ModBus h. Konfigurasi Module Modbus RTU i. Hardware Pendukung IoT Gateway j. Cloud Platform Connection Configuration k. Scada Web, atau Display IoT IoT Project a. Monitoring & Control Lampu & Penerangan Jalan Umum b. Monitoring & Control AC c. Monitoring & Control Fan or Blower d. Monitoring Temperature & Humidity e. Monitoring Power Meter (Voltage, Currnet, kWH, Harmonic etc) f. Monitoring & Control Induction Motor (for Conveyor, Agitator, & Pump) g. Monitoring & Control Pneumatic System ( Valve & Air Pressure) h. Monitoring & Control Hydraulic System ( Valve & Hydro Pressure) i. Monitoring & Control System Start Delta Motor j. Monitoring Run & Stop Machine k. Monitoring Effectivity Machine (Compare of Production Plan & Actual) l. Monitoring Data Logging pada sebuah Mesin Produksi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "FOUND",
+    "value": [
+      "PLC A Series Haiwell",
+      "PLC CJ1M Omron",
+      "PLC FX3S Mitsubishi",
+      "Servo Motor Panasonic",
+      "Digital Power Meter Schneider",
+      "Relay MY2N Omron",
+      "Circuit Protector 2P 5A Fuji Electric",
+      "Circuit Protector 2P 3A Mitsubishi",
+      "MCB 3P 6A Chint",
+      "Power Supplay 24VDC 5A Weidmuller",
+      "HUB Switch 5 Port Contact Phoenix",
+      "PLC s7-1200 CPU 1212 Siemens",
+      "HMI 10″ TOP",
+      "Fuse MCB TnT",
+      "Temp. Control Autonics",
+      "Sensor Suhu & Kelembaban DH100",
+      "Inverter AC220V 0.75 kW Delta",
+      "EMG Stop",
+      "Selector SW",
+      "Push Button",
+      "Pilot Lamp"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/industrial-iot-automation/",
+        "source_section": "Perangkat Lab Hands-On",
+        "source_text": "Perangkat Lab Hands-On “Explorasi Praktis dengan Perangkat Lab Terdepan” PLC A Series Haiwell PLC CJ1M Omron PLC FX3S Mitsubishi Servo Motor Panasonic Digital Power Meter Schneider Relay MY2N Omron Circuit Protector 2P 5A Fuji Electric Circuit Protector 2P 3A Mitsubishi MCB 3P 6A Chint Power Supplay 24VDC 5A Weidmuller HUB Switch 5 Port Contact Phoenix PLC s7-1200 CPU 1212 Siemens HMI 10″ TOP Fuse MCB TnT Temp. Control Autonics Sensor Suhu & Kelembaban DH100 Inverter AC220V 0.75 kW Delta EMG Stop Selector SW Push Button Pilot Lamp",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training IoT Industrial Automation di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi All in one (PLC-HMI-IOT) Based on real industry project Hands-On Perangkat Konsultasi Teknis Gratis Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek. Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung. Free join mailing list, Gorup Telegram dan WhatsApp IDN, bisa cari info kerja dan diskusi di grup.",
+      "items": [
+        "Materi All in one (PLC-HMI-IOT)",
+        "Based on real industry project",
+        "Hands-On Perangkat",
+        "Konsultasi Teknis Gratis",
+        "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek.",
+        "Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung.",
+        "Free join mailing list, Gorup Telegram dan WhatsApp IDN, bisa cari info kerja dan diskusi di grup."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Internet of things merupakan sebuah konsep di mana suatu benda atau objek ditanamkan teknologi-teknologi seperti sensor dan software dengan tujuan untuk berkomunikasi, mengendalikan, menghubungkan, dan bertukar data melalui perangkat lain selama masih terhubung ke internet. IoT memiliki hubungan yang erat dengan istilah machine-to-machine atau M2M. Seluruh alat yang memiliki kemampuan komunikasi M2M ini sering disebut dengan perangkat cerdas atau smart devices. Perangkat cerdas ini diharapkan dapat membantu kerja manusia dalam menyelesaikan berbagai urusan atau tugas yang ada. IoT dalam otomasi industri memungkinkan pemantauan dan pengendalian mesin dan proses dari jarak jauh. Artinya, operator dapat mengawasi operasional dari mana saja di dunia, menggunakan perangkat yang terhubung ke internet. Hal ini meningkatkan fleksibilitas dan memungkinkan respons cepat terhadap masalah apa pun.",
+      "items": []
+    },
+    {
+      "heading": "Dokumentasi Training",
+      "semantic_type": "DOCUMENTATION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Materi Training All In One",
+      "semantic_type": "CURRICULUM",
+      "content": "[PLC – HMI – SCADA – MODBUS – IOT – INDUSTRIAL PROJECT] Drawing & wiring Electrical Drawing a. Mengenal Symbol Standard Electrical Drawing b. Membaca Electrical Drawing Wiring a. Mendesign Wiring diagram b. Mengaplikasikan Design wiring diagram c. Wiring dengan symbol, Labeling & Numbering Pemograman PLC Dasar Pengenalan PLC (Brand, Input, Output, CPU, Interface) Logika Pemrograman PLC Dasar (Flow Chart, Decision, Alternate Program, & Option) Mode dalam PLC a. Write / Program Mode b. Read Only Mode c. Edit Online Mode d. Online Monitoring Mode Download & Upload Program Pemrograman PLC lanjutan a. Compare Instruction b. Arithmathic Instruction c. Move Instruction d. Converstion Word Data e. Program Analog Input & Output f. Scalling data Input dan Output (Analog) g. Communication port (RS232, RS485, Ethernet, CC-Link, Profibus dsb) Komunikasi PLC dan Instrument a. Mengenal Berbagai Interface PLC dan HMI b. Pemrograman Dasar HMI (Bit Lamp, Bit Switch, Bit Word, dsb) c. Menampilkan Data Bit & Data Word dalam HMII d. Membuat Program HMII e. Mengkomunikasikan HMI dan PLCI Internet of Things a. Pengenalan IoT b. Elemen Utama Pendukung IoT c. Implementasi IoT d. Pengenalan Mode Data Communication serial e. Konfigurasi dan Converter ModBus RTU ke ModBus TCP atau Sebaliknya f. Pengorganisasian data ModBus g. Frame Data ModBus h. Konfigurasi Module Modbus RTU i. Hardware Pendukung IoT Gateway j. Cloud Platform Connection Configuration k. Scada Web, atau Display IoT IoT Project a. Monitoring & Control Lampu & Penerangan Jalan Umum b. Monitoring & Control AC c. Monitoring & Control Fan or Blower d. Monitoring Temperature & Humidity e. Monitoring Power Meter (Voltage, Currnet, kWH, Harmonic etc) f. Monitoring & Control Induction Motor (for Conveyor, Agitator, & Pump) g. Monitoring & Control Pneumatic System ( Valve & Air Pressure) h. Monitoring & Control Hydraulic System ( Valve & Hydro Pressure) i. Monitoring & Control System Start Delta Motor j. Monitoring Run & Stop Machine k. Monitoring Effectivity Machine (Compare of Production Plan & Actual) l. Monitoring Data Logging pada sebuah Mesin Produksi",
+      "items": [
+        {
+          "title": "[PLC – HMI – SCADA – MODBUS – IOT – INDUSTRIAL PROJECT]",
+          "items": []
+        },
+        {
+          "title": "Drawing & wiring",
+          "items": [
+            "Electrical Drawing a. Mengenal Symbol Standard Electrical Drawing b. Membaca Electrical Drawing",
+            "Wiring a. Mendesign Wiring diagram b. Mengaplikasikan Design wiring diagram c. Wiring dengan symbol, Labeling & Numbering"
+          ]
+        },
+        {
+          "title": "Pemograman PLC Dasar",
+          "items": [
+            "Pengenalan PLC (Brand, Input, Output, CPU, Interface)",
+            "Logika Pemrograman PLC Dasar (Flow Chart, Decision, Alternate Program, & Option)",
+            "Mode dalam PLC a. Write / Program Mode b. Read Only Mode c. Edit Online Mode d. Online Monitoring Mode",
+            "Download & Upload Program"
+          ]
+        },
+        {
+          "title": "Pemrograman PLC lanjutan",
+          "items": []
+        },
+        {
+          "title": "Komunikasi PLC dan Instrument",
+          "items": []
+        },
+        {
+          "title": "Internet of Things",
+          "items": []
+        },
+        {
+          "title": "IoT Project",
+          "items": []
+        }
+      ]
+    },
+    {
+      "heading": "Perangkat Lab Hands-On",
+      "semantic_type": "TOOLS",
+      "content": "“Explorasi Praktis dengan Perangkat Lab Terdepan” PLC A Series Haiwell PLC CJ1M Omron PLC FX3S Mitsubishi Servo Motor Panasonic Digital Power Meter Schneider Relay MY2N Omron Circuit Protector 2P 5A Fuji Electric Circuit Protector 2P 3A Mitsubishi MCB 3P 6A Chint Power Supplay 24VDC 5A Weidmuller HUB Switch 5 Port Contact Phoenix PLC s7-1200 CPU 1212 Siemens HMI 10″ TOP Fuse MCB TnT Temp. Control Autonics Sensor Suhu & Kelembaban DH100 Inverter AC220V 0.75 kW Delta EMG Stop Selector SW Push Button Pilot Lamp",
+      "items": [
+        "PLC A Series Haiwell",
+        "PLC CJ1M Omron",
+        "PLC FX3S Mitsubishi",
+        "Servo Motor Panasonic",
+        "Digital Power Meter Schneider",
+        "Relay MY2N Omron",
+        "Circuit Protector 2P 5A Fuji Electric",
+        "Circuit Protector 2P 3A Mitsubishi",
+        "MCB 3P 6A Chint",
+        "Power Supplay 24VDC 5A Weidmuller",
+        "HUB Switch 5 Port Contact Phoenix",
+        "PLC s7-1200 CPU 1212 Siemens",
+        "HMI 10″ TOP",
+        "Fuse MCB TnT",
+        "Temp. Control Autonics",
+        "Sensor Suhu & Kelembaban DH100",
+        "Inverter AC220V 0.75 kW Delta",
+        "EMG Stop",
+        "Selector SW",
+        "Push Button",
+        "Pilot Lamp"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Gunakan kode diskon oktober untuk mendapatkan diskon 500ribu, berlaku jika daftar sebelum tanggal 6 Oktober 2023. Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "INDUSTRIAL IoT & AUTOMATION",
+    "content_hash": "83d8ad53f447e931280e2b84ba2ff5dea82401ca67a899327f21b0203f4156ff",
+    "template_type": "BETTERDOCS"
+  }
+}

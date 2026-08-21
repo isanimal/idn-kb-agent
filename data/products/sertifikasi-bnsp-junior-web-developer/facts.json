@@ -1,0 +1,441 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Sertifikasi BNSP – Junior Web Developer",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+          "source_section": "Page title",
+          "source_text": "Sertifikasi BNSP – Junior Web Developer",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "BNSP",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+          "source_section": "Training registry",
+          "source_text": "BNSP",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "duration": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 1.200.000",
+        "amount": 1200000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 600.000",
+        "amount": 600000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+        "source_section": "Biaya Investasi Sertifikasi BNSP Junior Web Developer",
+        "source_text": "Biaya Investasi Sertifikasi BNSP Junior Web Developer Rp 1.200.000 Rp 600.000 Dapatkan Sertifikasi BNSP Tingkatkan Karier Web Developer Anda Lebih Percaya Diri Hadapi Dunia Kerja Daftar Sertifikasi BNSP Sekarang",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "FOUND",
+    "value": "Hanya Tersedia Offline di Kantor kami.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+        "source_section": "Online atau offline?",
+        "source_text": "Online atau offline? Hanya Tersedia Offline di Kantor kami.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "curriculum": {
+    "status": "PARSE_ERROR",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+        "source_section": "Unit Kompetensi yang diujikan",
+        "source_text": "Unit Kompetensi yang diujikan",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Program Ini Cocok Untuk :",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+        "source_section": "Program Ini Cocok Untuk :",
+        "source_text": "Program Ini Cocok Untuk :",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "FOUND",
+    "value": [
+      "Membuat dan mengelola website",
+      "Menggunakan HTML, CSS, JavaScript",
+      "Dasar pemrograman backend",
+      "Mengimplementasikan standar pengembangan web",
+      "Menerapkan best practice & keamanan dasar"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-web-developer/",
+        "source_section": "Apa Itu Sertifikasi BNSP Junior Web Developer?",
+        "source_text": "Apa Itu Sertifikasi BNSP Junior Web Developer? Sertifikasi ini menguji dan memvalidasi kemampuan Anda dalam: Membuat dan mengelola website Menggunakan HTML, CSS, JavaScript Dasar pemrograman backend Mengimplementasikan standar pengembangan web Menerapkan best practice & keamanan dasar",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Saatnya Jadi Junior Web Developer Bersertifikat BNSP Resmi Diakui Nasional",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sudah Bisa Ngoding, Tapi Karier Masih Stuck?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Sertifikasi BNSP Junior Web Developer Penting?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Legal & Resmi dari Badan Nasional Sertifikasi Profesi",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Diakui oleh industri, perusahaan & instansi pemerintah",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Meningkatkan nilai jual CV & LinkedIn",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membantu percepatan karier di bidang Web Development",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Apa Itu Sertifikasi BNSP Junior Web Developer?",
+      "semantic_type": "CERTIFICATIONS",
+      "content": "Sertifikasi ini menguji dan memvalidasi kemampuan Anda dalam: Membuat dan mengelola website Menggunakan HTML, CSS, JavaScript Dasar pemrograman backend Mengimplementasikan standar pengembangan web Menerapkan best practice & keamanan dasar",
+      "items": [
+        "Membuat dan mengelola website",
+        "Menggunakan HTML, CSS, JavaScript",
+        "Dasar pemrograman backend",
+        "Mengimplementasikan standar pengembangan web",
+        "Menerapkan best practice & keamanan dasar"
+      ]
+    },
+    {
+      "heading": "Unit Kompetensi yang diujikan",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Program Ini Cocok Untuk :",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Mahasiswa IT / Informatika",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fresh Graduate",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Web Developer Pemula",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Career Switcher ke IT",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Profesional yang ingin naik level karier",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Alur Sertifikasi BNSP di ID-Networkers",
+      "semantic_type": "CERTIFICATION_PROCESS",
+      "content": "Pendaftaran Uji Kompetensi Oleh Asesor BNSP Sertifikat BNSP Terbit",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Sertifikasi di ID-Networkers?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Ini alasan kamu harus sertifikasi BNSP di ID-Networkers",
+      "items": []
+    },
+    {
+      "heading": "Lembaga Training IT Berpengalaman",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Trainer Praktisi & Asesor Profesional",
+      "semantic_type": "TRAINER_DETAIL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Pendampingan sampai LULUS",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Materi sesuai standar industri",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Banyak Alumni Tersertifikasi",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya di IDN, dan Akan terus bertambah, sekarang giliran Anda!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi? Jangan Biarkan Skill Anda Tanpa Pengakuan Resmi",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi Sertifikasi BNSP Junior Web Developer",
+      "semantic_type": "PRICE",
+      "content": "Rp 1.200.000 Rp 600.000 Dapatkan Sertifikasi BNSP Tingkatkan Karier Web Developer Anda Lebih Percaya Diri Hadapi Dunia Kerja Daftar Sertifikasi BNSP Sekarang",
+      "items": [
+        "Dapatkan Sertifikasi BNSP",
+        "Tingkatkan Karier Web Developer Anda",
+        "Lebih Percaya Diri Hadapi Dunia Kerja"
+      ]
+    },
+    {
+      "heading": "FAQ",
+      "semantic_type": "FAQ",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Apakah harus jago coding?",
+      "semantic_type": "FAQ",
+      "content": "Minimal memahami dasar web development.",
+      "items": []
+    },
+    {
+      "heading": "Sertifikat berlaku berapa lama?",
+      "semantic_type": "FAQ",
+      "content": "Masa berlaku Sertifikat BNSP Web Programmer Junior (Junior Web programer) umumnya adalah 3 tahun dan dapat diperpanjang melalui proses resertifikasi.",
+      "items": []
+    },
+    {
+      "heading": "Online atau offline?",
+      "semantic_type": "TRAINING_FORMAT",
+      "content": "Hanya Tersedia Offline di Kantor kami.",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Saatnya Jadi Junior Web Developer Bersertifikat BNSP Resmi Diakui Nasional",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Sudah Bisa Ngoding, Tapi Karier Masih Stuck?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membantu percepatan karier di bidang Web Development",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Profesional yang ingin naik level karier",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Lembaga Training IT Berpengalaman",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MISSING_DURATION",
+    "NO_CURRICULUM",
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "PARSER_WARNING"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 6,
+    "fields_not_found": 9,
+    "coverage": 0.375
+  },
+  "metadata": {
+    "registry_name": "Sertifikasi BNSP – Junior Web Developer",
+    "content_hash": "283f216039e618c184ac7bd28f1375e0fa573c719616db7eef502d466b8c6d1b",
+    "template_type": "ELEMENTOR"
+  }
+}

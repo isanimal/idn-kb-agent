@@ -1,0 +1,14 @@
+{
+  "training_source_id": 39,
+  "canonical_url": "https://www.idn.id/training/training-unifi-ufsp/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "1d727e2697102d7e080686a965e812e0937845f1ccecb3b2c1986b89329ed882",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:32.639728+00:00",
+  "facts_path": "data\\products\\training-unifi-ufsp\\facts.json",
+  "evidence_path": "data\\products\\training-unifi-ufsp\\evidence.json",
+  "raw_snapshot_path": "data\\products\\training-unifi-ufsp\\raw.html",
+  "last_error": null
+}

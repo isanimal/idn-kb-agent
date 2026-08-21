@@ -1,0 +1,14 @@
+{
+  "training_source_id": 77,
+  "canonical_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "9a6fd7b75cb95fe106dc8ae3b6953328628f18756616f93cee6b4b29f4f30665",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:56.559560+00:00",
+  "facts_path": "data\\products\\vmware-vsphere-administration\\facts.json",
+  "evidence_path": "data\\products\\vmware-vsphere-administration\\evidence.json",
+  "raw_snapshot_path": "data\\products\\vmware-vsphere-administration\\raw.html",
+  "last_error": null
+}

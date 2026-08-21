@@ -1,0 +1,14 @@
+{
+  "training_source_id": 58,
+  "canonical_url": "https://www.idn.id/training/f5-asm-awaf/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "5a6ee5629c10060ba3f2d3eb93d21081a5a2c64d1f07ed782e5c788fcb277079",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:44.054546+00:00",
+  "facts_path": "data\\products\\f5-asm-awaf\\facts.json",
+  "evidence_path": "data\\products\\f5-asm-awaf\\evidence.json",
+  "raw_snapshot_path": "data\\products\\f5-asm-awaf\\raw.html",
+  "last_error": null
+}

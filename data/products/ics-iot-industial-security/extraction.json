@@ -1,0 +1,14 @@
+{
+  "training_source_id": 48,
+  "canonical_url": "https://www.idn.id/training/ics-iot-industial-security/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "88f2d7e36f6b20eeeb47a6a7da5f4353b15482215c5c1f1f5f9328c7810ad193",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:35:38.059290+00:00",
+  "facts_path": "data\\products\\ics-iot-industial-security\\facts.json",
+  "evidence_path": "data\\products\\ics-iot-industial-security\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ics-iot-industial-security\\raw.html",
+  "last_error": null
+}

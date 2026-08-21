@@ -1,0 +1,397 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "DevSecOps (Development Security Operations)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "source_section": "Page title",
+          "source_text": "DevSecOps (Development Security Operations)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Devops",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "source_section": "Training registry",
+          "source_text": "Devops",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/devsecops-development-security-operations/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training DevSecOps adalah program pelatihan yang dirancang untuk membantu peserta memahami cara mengintegrasikan aspek keamanan ke dalam setiap tahapan pengembangan aplikasi, mulai dari perencanaan, coding, testing, deployment, hingga monitoring. Melalui pendekatan DevSecOps, tim IT tidak hanya fokus pada kecepatan rilis aplikasi, tetapi juga memastikan bahwa keamanan menjadi bagian penting sejak awal proses development. Dalam training ini, peserta akan mempelajari konsep, tools, dan praktik terbaik dalam menerapkan keamanan pada pipeline DevOps, seperti secure coding, vulnerability scanning, automation security testing, container security, CI/CD security, hingga monitoring risiko keamanan. Setelah mengikuti training ini, peserta diharapkan mampu membangun proses pengembangan aplikasi yang lebih aman, efisien, dan sesuai dengan kebutuhan industri modern.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training DevSecOps adalah program pelatihan yang dirancang untuk membantu peserta memahami cara mengintegrasikan aspek keamanan ke dalam setiap tahapan pengembangan aplikasi, mulai dari perencanaan, coding, testing, deployment, hingga monitoring. Melalui pendekatan DevSecOps, tim IT tidak hanya fokus pada kecepatan rilis aplikasi, tetapi juga memastikan bahwa keamanan menjadi bagian penting sejak awal proses development. Dalam training ini, peserta akan mempelajari konsep, tools, dan praktik terbaik dalam menerapkan keamanan pada pipeline DevOps, seperti secure coding, vulnerability scanning, automation security testing, container security, CI/CD security, hingga monitoring risiko keamanan. Setelah mengikuti training ini, peserta diharapkan mampu membangun proses pengembangan aplikasi yang lebih aman, efisien, dan sesuai dengan kebutuhan industri modern.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 17.000.000",
+      "amount": 17000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Biaya Investasi : Rp 17.000.000",
+        "source_text": "Biaya Investasi : Rp 17.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DAY 1",
+        "objective": null,
+        "items": [
+          ": Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning"
+        ],
+        "raw": ": Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 2",
+        "objective": null,
+        "items": [
+          ": Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks"
+        ],
+        "raw": ": Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 3",
+        "objective": null,
+        "items": [
+          ": CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft"
+        ],
+        "raw": ": CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 4",
+        "objective": null,
+        "items": [
+          ": DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA"
+        ],
+        "raw": ": DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 5",
+        "objective": null,
+        "items": [
+          ": Monitoring & Final Project – Monitoring with Prometheus & Grafana – Logging & alerting basics – Final DevSecOps pipeline projec"
+        ],
+        "raw": ": Monitoring & Final Project – Monitoring with Prometheus & Grafana – Logging & alerting basics – Final DevSecOps pipeline projec",
+        "structure_type": "DAY_BASED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Day 1: Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning Day 2: Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks Day 3: CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft Day 4: DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA Day 5: Monitoring & Final Project – Monitoring with Prometheus & Grafana – Logging & alerting basics – Final DevSecOps pipeline projec",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Requirement",
+        "source_text": "Requirement Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+      "Esa Nugraha (CKA, CKAD, CKS)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD, CKS) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training terjangkau dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "source_section": "Mengapa Harus Training DevOps di IDN ?",
+        "source_text": "Mengapa Harus Training DevOps di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training terjangkau dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training DevSecOps adalah program pelatihan yang dirancang untuk membantu peserta memahami cara mengintegrasikan aspek keamanan ke dalam setiap tahapan pengembangan aplikasi, mulai dari perencanaan, coding, testing, deployment, hingga monitoring. Melalui pendekatan DevSecOps, tim IT tidak hanya fokus pada kecepatan rilis aplikasi, tetapi juga memastikan bahwa keamanan menjadi bagian penting sejak awal proses development. Dalam training ini, peserta akan mempelajari konsep, tools, dan praktik terbaik dalam menerapkan keamanan pada pipeline DevOps, seperti secure coding, vulnerability scanning, automation security testing, container security, CI/CD security, hingga monitoring risiko keamanan. Setelah mengikuti training ini, peserta diharapkan mampu membangun proses pengembangan aplikasi yang lebih aman, efisien, dan sesuai dengan kebutuhan industri modern.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training DevOps di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training terjangkau dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis mengulang training sebanyak 2x",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Biaya training terjangkau dibanding tempat-tampat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri",
+        "Gratis mengulang training sebanyak 2x"
+      ]
+    },
+    {
+      "heading": "benefits setelah mempelajari DevSecOps",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Mampu mengintegrasikan keamanan sejak awal proses development Peserta dapat memahami cara menerapkan security di setiap tahap pengembangan aplikasi, bukan hanya setelah aplikasi selesai dibuat. Meningkatkan keamanan aplikasi dan infrastruktur DevSecOps membantu mengurangi risiko celah keamanan, bug berbahaya, konfigurasi yang salah, dan potensi serangan siber. Mempercepat proses deteksi vulnerability Dengan automation security testing, peserta dapat mendeteksi kerentanan lebih cepat sebelum aplikasi masuk ke tahap production. Memahami penggunaan tools security modern Peserta akan mengenal berbagai tools untuk vulnerability scanning, static code analysis, container security, secret scanning, dan CI/CD security. Meningkatkan kualitas proses DevOps DevSecOps membuat pipeline development menjadi lebih aman, terstruktur, dan efisien tanpa menghambat kecepatan deployment. Lebih siap menghadapi kebutuhan industri IT modern Skill DevSecOps banyak dibutuhkan oleh perusahaan yang ingin membangun aplikasi secara cepat, aman, dan scalable. Membantu tim mengurangi biaya perbaikan security issue Semakin cepat celah keamanan ditemukan, semakin kecil biaya dan waktu yang dibutuhkan untuk memperbaikinya. Menambah nilai profesional di bidang IT DevSecOps menjadi skill penting bagi Developer, DevOps Engineer, Security Engineer, System Administrator, Cloud Engineer, dan IT Manager.",
+      "items": [
+        "Mampu mengintegrasikan keamanan sejak awal proses development Peserta dapat memahami cara menerapkan security di setiap tahap pengembangan aplikasi, bukan hanya setelah aplikasi selesai dibuat.",
+        "Meningkatkan keamanan aplikasi dan infrastruktur DevSecOps membantu mengurangi risiko celah keamanan, bug berbahaya, konfigurasi yang salah, dan potensi serangan siber.",
+        "Mempercepat proses deteksi vulnerability Dengan automation security testing, peserta dapat mendeteksi kerentanan lebih cepat sebelum aplikasi masuk ke tahap production.",
+        "Memahami penggunaan tools security modern Peserta akan mengenal berbagai tools untuk vulnerability scanning, static code analysis, container security, secret scanning, dan CI/CD security.",
+        "Meningkatkan kualitas proses DevOps DevSecOps membuat pipeline development menjadi lebih aman, terstruktur, dan efisien tanpa menghambat kecepatan deployment.",
+        "Lebih siap menghadapi kebutuhan industri IT modern Skill DevSecOps banyak dibutuhkan oleh perusahaan yang ingin membangun aplikasi secara cepat, aman, dan scalable.",
+        "Membantu tim mengurangi biaya perbaikan security issue Semakin cepat celah keamanan ditemukan, semakin kecil biaya dan waktu yang dibutuhkan untuk memperbaikinya.",
+        "Menambah nilai profesional di bidang IT DevSecOps menjadi skill penting bagi Developer, DevOps Engineer, Security Engineer, System Administrator, Cloud Engineer, dan IT Manager."
+      ]
+    },
+    {
+      "heading": "Requirement",
+      "semantic_type": "PREREQUISITES",
+      "content": "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+      "items": []
+    },
+    {
+      "heading": "Testimoni dan Dokumentasi Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD, CKS) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+        "Esa Nugraha (CKA, CKAD, CKS)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Day 1: Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning Day 2: Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks Day 3: CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft Day 4: DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA Day 5: Monitoring & Final Project – Monitoring with Prometheus & Grafana – Logging & alerting basics – Final DevSecOps pipeline projec",
+      "items": [
+        {
+          "title": "Day 1: Fundamental & Version Control",
+          "items": []
+        },
+        {
+          "title": "Day 2: Container & SAST",
+          "items": []
+        },
+        {
+          "title": "Day 3: CI/CD, SCA & SBOM",
+          "items": []
+        },
+        {
+          "title": "Day 4: DAST & Policy as Code",
+          "items": []
+        },
+        {
+          "title": "Day 5: Monitoring & Final Project",
+          "items": []
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 17.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "benefits setelah mempelajari DevSecOps",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Mampu mengintegrasikan keamanan sejak awal proses development Peserta dapat memahami cara menerapkan security di setiap tahap pengembangan aplikasi, bukan hanya setelah aplikasi selesai dibuat. Meningkatkan keamanan aplikasi dan infrastruktur DevSecOps membantu mengurangi risiko celah keamanan, bug berbahaya, konfigurasi yang salah, dan potensi serangan siber. Mempercepat proses deteksi vulnerability Dengan automation security testing, peserta dapat mendeteksi kerentanan lebih cepat sebelum aplikasi masuk ke tahap production. Memahami penggunaan tools security modern Peserta akan mengenal berbagai tools untuk vulnerability scanning, static code analysis, container security, secret scanning, dan CI/CD security. Meningkatkan kualitas proses DevOps DevSecOps membuat pipeline development menjadi lebih aman, terstruktur, dan efisien tanpa menghambat kecepatan deployment. Lebih siap menghadapi kebutuhan industri IT modern Skill DevSecOps banyak dibutuhkan oleh perusahaan yang ingin membangun aplikasi secara cepat, aman, dan scalable. Membantu tim mengurangi biaya perbaikan security issue Semakin cepat celah keamanan ditemukan, semakin kecil biaya dan waktu yang dibutuhkan untuk memperbaikinya. Menambah nilai profesional di bidang IT DevSecOps menjadi skill penting bagi Developer, DevOps Engineer, Security Engineer, System Administrator, Cloud Engineer, dan IT Manager.",
+      "items": [
+        "Mampu mengintegrasikan keamanan sejak awal proses development Peserta dapat memahami cara menerapkan security di setiap tahap pengembangan aplikasi, bukan hanya setelah aplikasi selesai dibuat.",
+        "Meningkatkan keamanan aplikasi dan infrastruktur DevSecOps membantu mengurangi risiko celah keamanan, bug berbahaya, konfigurasi yang salah, dan potensi serangan siber.",
+        "Mempercepat proses deteksi vulnerability Dengan automation security testing, peserta dapat mendeteksi kerentanan lebih cepat sebelum aplikasi masuk ke tahap production.",
+        "Memahami penggunaan tools security modern Peserta akan mengenal berbagai tools untuk vulnerability scanning, static code analysis, container security, secret scanning, dan CI/CD security.",
+        "Meningkatkan kualitas proses DevOps DevSecOps membuat pipeline development menjadi lebih aman, terstruktur, dan efisien tanpa menghambat kecepatan deployment.",
+        "Lebih siap menghadapi kebutuhan industri IT modern Skill DevSecOps banyak dibutuhkan oleh perusahaan yang ingin membangun aplikasi secara cepat, aman, dan scalable.",
+        "Membantu tim mengurangi biaya perbaikan security issue Semakin cepat celah keamanan ditemukan, semakin kecil biaya dan waktu yang dibutuhkan untuk memperbaikinya.",
+        "Menambah nilai profesional di bidang IT DevSecOps menjadi skill penting bagi Developer, DevOps Engineer, Security Engineer, System Administrator, Cloud Engineer, dan IT Manager."
+      ]
+    }
+  ],
+  "quality_flags": [
+    "UNKNOWN_SECTIONS"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "DevSecOps (Development Security Operations)",
+    "content_hash": "d1a64ea3fa797129065a4fa5bc3b9ba0a55c9bf3bc6ef670692166b59ee7fcdb",
+    "template_type": "BETTERDOCS"
+  }
+}

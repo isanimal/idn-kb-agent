@@ -1,0 +1,345 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Linux System Administrator",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/linux/",
+          "source_section": "Page title",
+          "source_text": "Linux System Administrator",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "System Admin",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/linux/",
+          "source_section": "Training registry",
+          "source_text": "System Admin",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/linux/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/linux/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/linux/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Linux System Administrator adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk mengelola dan memelihara sistem operasi Linux di lingkungan server. Dalam era digital saat ini, Linux telah menjadi salah satu sistem operasi yang paling dominan, terutama dalam pengelolaan server, layanan cloud, dan pengembangan perangkat lunak. Oleh karena itu, pelatihan ini sangat relevan bagi mereka yang ingin mengejar karir di bidang teknologi informasi. Ubuntu adalah salah satu distro linux yang sangat terkenal di dunia yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training linux system administrator, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Ubuntu Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. NOTE: Jika masih pemula di bidang linux, disarankan untuk mempelajari materi linux fundamentals terlebih dahulu melalui link berikut, Gratis! >>> https://lms.idn.id/courses/linux-dasar/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Linux System Administrator adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk mengelola dan memelihara sistem operasi Linux di lingkungan server. Dalam era digital saat ini, Linux telah menjadi salah satu sistem operasi yang paling dominan, terutama dalam pengelolaan server, layanan cloud, dan pengembangan perangkat lunak. Oleh karena itu, pelatihan ini sangat relevan bagi mereka yang ingin mengejar karir di bidang teknologi informasi. Ubuntu adalah salah satu distro linux yang sangat terkenal di dunia yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training linux system administrator, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Ubuntu Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. NOTE: Jika masih pemula di bidang linux, disarankan untuk mempelajari materi linux fundamentals terlebih dahulu melalui link berikut, Gratis! >>> https://lms.idn.id/courses/linux-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "Apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore"
+        ],
+        "raw": "Apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+      "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+      "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+      "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server. Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server. Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Gratis Mengulang training sebanyak 2x",
+      "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+      "Update informasi bursa kerja untuk peserta training",
+      "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+      "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+      "Trainer berpengalaman mengajar di dalam dan luar negeri"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Fasilitas",
+        "source_text": "Fasilitas Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+      "AJi Mufti Zakaria (COA, CKA)",
+      "Moch Rafi Riadi (KCNA, AWS Solution Architect, CKA, CKAD, LFCS, Linux+)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (KCNA, AWS Solution Architect, CKA, CKAD, LFCS, Linux+) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/linux/",
+        "source_section": "Fasilitas",
+        "source_text": "Fasilitas Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Linux System Administrator adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk mengelola dan memelihara sistem operasi Linux di lingkungan server. Dalam era digital saat ini, Linux telah menjadi salah satu sistem operasi yang paling dominan, terutama dalam pengelolaan server, layanan cloud, dan pengembangan perangkat lunak. Oleh karena itu, pelatihan ini sangat relevan bagi mereka yang ingin mengejar karir di bidang teknologi informasi. Ubuntu adalah salah satu distro linux yang sangat terkenal di dunia yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training linux system administrator, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Ubuntu Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. NOTE: Jika masih pemula di bidang linux, disarankan untuk mempelajari materi linux fundamentals terlebih dahulu melalui link berikut, Gratis! >>> https://lms.idn.id/courses/linux-dasar/",
+      "items": []
+    },
+    {
+      "heading": "Mengapa harus Mempelajari training linux system administrator ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Mempelajari training untuk menjadi Linux System Administrator memiliki banyak keuntungan dan manfaat. Berikut adalah beberapa alasan mengapa Anda harus mempertimbangkan untuk mempelajari pelatihan ini: Permintaan Tinggi di Pasar Kerja : Linux merupakan salah satu sistem operasi yang paling banyak digunakan di server, cloud, dan perangkat IoT. Dengan semakin banyak perusahaan beralih ke Linux, permintaan untuk administrator sistem Linux terus meningkat. Keterampilan yang Berguna dan Relevan : Linux system administration mencakup berbagai keterampilan penting, seperti pengelolaan server, konfigurasi jaringan, keamanan, dan pemecahan masalah, yang sangat bermanfaat di banyak karier TI. Responsif terhadap Teknologi Cloud : Banyak layanan cloud, termasuk AWS, Google Cloud, dan Microsoft Azure, berbasis Linux. Pemahaman yang kuat tentang Linux dapat membantu Anda dalam mengelola infrastruktur cloud. Fundamental dalam DevOps dan Pengembangan : Linux adalah fondasi utama bagi banyak alat dan proses DevOps. Mempelajari administrasi sistem Linux sangat penting bagi para profesional yang ingin bekerja di bidang pengembangan dan operasi. Keterampilan Berbasis Open Source : Linux adalah platform open-source yang mendukung inovasi dan kolaborasi. Menguasai Linux dapat membuka pintu untuk terlibat dalam banyak proyek open-source. Meningkatkan Kemampuan Pemecahan Masalah : Menjadi administrator system Linux menuntut Anda untuk memiliki kemampuan analitis dan pemecahan masalah yang baik, yang akan sangat berharga dalam setiap aspek karier TI. Keamanan dan Stabilitas : Linux sering dilihat sebagai sistem operasi yang lebih aman dan stabil dibandingkan dengan beberapa alternatif lainnya. Menjadi administrator Linux memungkinkan Anda memahami dan menerapkan praktik keamanan terbaik. Pengembangan Karier yang Jelas : Keterampilan dalam administrasi sistem Linux dapat menjadi batu loncatan untuk banyak posisi yang lebih maju, seperti DevOps Engineer, Cloud Architect, dan Security Analyst. Komunitas yang Kuat dan Sumber Daya : Ada banyak sumber daya, forum, dan komunitas yang berkaitan dengan Linux. Belajar Linux memberi Anda akses ke jaringan dan dukungan profesional yang berharga. Kemandirian dari Vendor : Memahami Linux memberi Anda kendali lebih besar atas sistem Anda dan mengurangi ketergantungan pada vendor tertentu untuk dukungan dan layanan. Dengan semua alasan ini, mempelajari Linux System Administration menjadi investasi yang sangat baik untuk masa depan karier Anda, terutama di bidang teknologi informasi yang terus berkembang.",
+      "items": [
+        "Permintaan Tinggi di Pasar Kerja : Linux merupakan salah satu sistem operasi yang paling banyak digunakan di server, cloud, dan perangkat IoT. Dengan semakin banyak perusahaan beralih ke Linux, permintaan untuk administrator sistem Linux terus meningkat.",
+        "Keterampilan yang Berguna dan Relevan : Linux system administration mencakup berbagai keterampilan penting, seperti pengelolaan server, konfigurasi jaringan, keamanan, dan pemecahan masalah, yang sangat bermanfaat di banyak karier TI.",
+        "Responsif terhadap Teknologi Cloud : Banyak layanan cloud, termasuk AWS, Google Cloud, dan Microsoft Azure, berbasis Linux. Pemahaman yang kuat tentang Linux dapat membantu Anda dalam mengelola infrastruktur cloud.",
+        "Fundamental dalam DevOps dan Pengembangan : Linux adalah fondasi utama bagi banyak alat dan proses DevOps. Mempelajari administrasi sistem Linux sangat penting bagi para profesional yang ingin bekerja di bidang pengembangan dan operasi.",
+        "Keterampilan Berbasis Open Source : Linux adalah platform open-source yang mendukung inovasi dan kolaborasi. Menguasai Linux dapat membuka pintu untuk terlibat dalam banyak proyek open-source.",
+        "Meningkatkan Kemampuan Pemecahan Masalah : Menjadi administrator system Linux menuntut Anda untuk memiliki kemampuan analitis dan pemecahan masalah yang baik, yang akan sangat berharga dalam setiap aspek karier TI.",
+        "Keamanan dan Stabilitas : Linux sering dilihat sebagai sistem operasi yang lebih aman dan stabil dibandingkan dengan beberapa alternatif lainnya. Menjadi administrator Linux memungkinkan Anda memahami dan menerapkan praktik keamanan terbaik.",
+        "Pengembangan Karier yang Jelas : Keterampilan dalam administrasi sistem Linux dapat menjadi batu loncatan untuk banyak posisi yang lebih maju, seperti DevOps Engineer, Cloud Architect, dan Security Analyst.",
+        "Komunitas yang Kuat dan Sumber Daya : Ada banyak sumber daya, forum, dan komunitas yang berkaitan dengan Linux. Belajar Linux memberi Anda akses ke jaringan dan dukungan profesional yang berharga.",
+        "Kemandirian dari Vendor : Memahami Linux memberi Anda kendali lebih besar atas sistem Anda dan mengurangi ketergantungan pada vendor tertentu untuk dukungan dan layanan."
+      ]
+    },
+    {
+      "heading": "Fasilitas",
+      "semantic_type": "FACILITIES",
+      "content": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "items": [
+        "Gratis Mengulang training sebanyak 2x",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri"
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server. Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server. Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "items": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (KCNA, AWS Solution Architect, CKA, CKAD, LFCS, Linux+) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+        "AJi Mufti Zakaria (COA, CKA)",
+        "Moch Rafi Riadi (KCNA, AWS Solution Architect, CKA, CKAD, LFCS, Linux+)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Linux System Administrator",
+    "content_hash": "9a8113ac49d097de8ddfd7110d9698c33e582f64805e9477f6b901587418cb02",
+    "template_type": "BETTERDOCS"
+  }
+}

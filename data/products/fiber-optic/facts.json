@@ -1,0 +1,317 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Fiber Optic",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fiber-optic/",
+          "source_section": "Page title",
+          "source_text": "Fiber Optic",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Fiber Optic",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fiber-optic/",
+          "source_section": "Training registry",
+          "source_text": "Fiber Optic",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/fiber-optic/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fiber-optic/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/fiber-optic/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Saat ini salah satu skills yang sangat dibutuhkan oleh seorang Jointer Fiber Optic adalah Mengenal jenis-jenis dan warna kabel Fiber Optic, Mempersiapkan Kabel sebelum installasi, Penyambungan core Fiber Optic, Pemeliharaan Kabel, Pengukuran kualitas dan troubleshooting Kabel Fiber Optic. Bagaimana tidak, Layer 1 sangat dasar dalam membangun sebuah jaringan terutama untuk membangun jaringan dengan jarak tempuh yang sangat jauh. Kabel fiber optic dapat menghubungkan koneksi antar negara dan menjadi backbone koneksi internet kita sekarang dan di perlukan kemampuan khusus dalam installasi dan perawatannya. Di Training Fiber Optic IDN sendiri, kita akan belajar mengenal jenis jenis kabel, warna kabel, splicing, memberikan power, pengecheckan power, mengukur jarak menggunakan alat OTDR, men-split kabel fiber optic, membangun Installasi FTTH. selain belajar hard skills kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Saat ini salah satu skills yang sangat dibutuhkan oleh seorang Jointer Fiber Optic adalah Mengenal jenis-jenis dan warna kabel Fiber Optic, Mempersiapkan Kabel sebelum installasi, Penyambungan core Fiber Optic, Pemeliharaan Kabel, Pengukuran kualitas dan troubleshooting Kabel Fiber Optic. Bagaimana tidak, Layer 1 sangat dasar dalam membangun sebuah jaringan terutama untuk membangun jaringan dengan jarak tempuh yang sangat jauh. Kabel fiber optic dapat menghubungkan koneksi antar negara dan menjadi backbone koneksi internet kita sekarang dan di perlukan kemampuan khusus dalam installasi dan perawatannya. Di Training Fiber Optic IDN sendiri, kita akan belajar mengenal jenis jenis kabel, warna kabel, splicing, memberikan power, pengecheckan power, mengukur jarak menggunakan alat OTDR, men-split kabel fiber optic, membangun Installasi FTTH. selain belajar hard skills kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 3.000.000",
+        "amount": 3000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 2.500.000",
+        "amount": 2500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000",
+        "source_text": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . DAFTAR TRAINING CEK JADWAL TERDEKAT",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "Introduction to Fiber Optic •⁠ ⁠Definition of Fiber Optic •⁠ ⁠History of Fiber Optic Development •⁠ ⁠Advantages and Disadvantages of Fiber Optic Fundamentals of Fiber Optic •⁠ ⁠Basic principles of light transmission in fiber optic •⁠ ⁠Structure and main components of fiber optic •⁠ ⁠Fiber Optic Cable Coloring •⁠ ⁠Types of fiber optic cables Light Source and Detectors •⁠ ⁠Types of light sources (LED, Laser) •⁠ ⁠Light detectors and working principles •⁠ ⁠Light modulation for data transmission Fiber Optic Connectors and Couplers •⁠ ⁠Types of connectors and couplers •⁠ ⁠Choosing the right connector •⁠ ⁠Connector installation process Fiber Optic Preparation and Maintenance •⁠ ⁠Installation path preparation •⁠ ⁠Fiber optic installation process •⁠ ⁠Testing and verifying connections •⁠ ⁠Preventive maintenance Fiber Optic Fiber Optic Installation Practices •⁠ ⁠Fiber Optic Splicing •⁠ ⁠Rosette Installation •⁠ ⁠ODP Installation •⁠ ⁠Closure Installation FTTH (Fiber To The Home) •⁠ ⁠FTTH Concept and Topology •⁠ ⁠Optical Line Terminal (OLT) •⁠ ⁠Introduction to EPON and GPON •⁠ ⁠Optical Network Terminal (ONT) •⁠ ⁠Optical Splitter •⁠ ⁠ONT Configuration LAB •⁠ ⁠Fiber Optic Cable Splicing Lab •⁠ ⁠Rosette Installation Lab •⁠ ⁠ODP Installation Lab •⁠ ⁠Closure Installation Lab •⁠ ⁠Mikrotik PPPoE, Queue Lab •⁠ ⁠OLT Lab •⁠ ⁠ONT (Modem) Lab •⁠ ⁠FTTH Internet Connection Testing Lab"
+        ],
+        "raw": "Introduction to Fiber Optic •⁠ ⁠Definition of Fiber Optic •⁠ ⁠History of Fiber Optic Development •⁠ ⁠Advantages and Disadvantages of Fiber Optic Fundamentals of Fiber Optic •⁠ ⁠Basic principles of light transmission in fiber optic •⁠ ⁠Structure and main components of fiber optic •⁠ ⁠Fiber Optic Cable Coloring •⁠ ⁠Types of fiber optic cables Light Source and Detectors •⁠ ⁠Types of light sources (LED, Laser) •⁠ ⁠Light detectors and working principles •⁠ ⁠Light modulation for data transmission Fiber Optic Connectors and Couplers •⁠ ⁠Types of connectors and couplers •⁠ ⁠Choosing the right connector •⁠ ⁠Connector installation process Fiber Optic Preparation and Maintenance •⁠ ⁠Installation path preparation •⁠ ⁠Fiber optic installation process •⁠ ⁠Testing and verifying connections •⁠ ⁠Preventive maintenance Fiber Optic Fiber Optic Installation Practices •⁠ ⁠Fiber Optic Splicing •⁠ ⁠Rosette Installation •⁠ ⁠ODP Installation •⁠ ⁠Closure Installation FTTH (Fiber To The Home) •⁠ ⁠FTTH Concept and Topology •⁠ ⁠Optical Line Terminal (OLT) •⁠ ⁠Introduction to EPON and GPON •⁠ ⁠Optical Network Terminal (ONT) •⁠ ⁠Optical Splitter •⁠ ⁠ONT Configuration LAB •⁠ ⁠Fiber Optic Cable Splicing Lab •⁠ ⁠Rosette Installation Lab •⁠ ⁠ODP Installation Lab •⁠ ⁠Closure Installation Lab •⁠ ⁠Mikrotik PPPoE, Queue Lab •⁠ ⁠OLT Lab •⁠ ⁠ONT (Modem) Lab •⁠ ⁠FTTH Internet Connection Testing Lab",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Introduction to Fiber Optic •⁠ ⁠Definition of Fiber Optic •⁠ ⁠History of Fiber Optic Development •⁠ ⁠Advantages and Disadvantages of Fiber Optic Fundamentals of Fiber Optic •⁠ ⁠Basic principles of light transmission in fiber optic •⁠ ⁠Structure and main components of fiber optic •⁠ ⁠Fiber Optic Cable Coloring •⁠ ⁠Types of fiber optic cables Light Source and Detectors •⁠ ⁠Types of light sources (LED, Laser) •⁠ ⁠Light detectors and working principles •⁠ ⁠Light modulation for data transmission Fiber Optic Connectors and Couplers •⁠ ⁠Types of connectors and couplers •⁠ ⁠Choosing the right connector •⁠ ⁠Connector installation process Fiber Optic Preparation and Maintenance •⁠ ⁠Installation path preparation •⁠ ⁠Fiber optic installation process •⁠ ⁠Testing and verifying connections •⁠ ⁠Preventive maintenance Fiber Optic Fiber Optic Installation Practices •⁠ ⁠Fiber Optic Splicing •⁠ ⁠Rosette Installation •⁠ ⁠ODP Installation •⁠ ⁠Closure Installation FTTH (Fiber To The Home) •⁠ ⁠FTTH Concept and Topology •⁠ ⁠Optical Line Terminal (OLT) •⁠ ⁠Introduction to EPON and GPON •⁠ ⁠Optical Network Terminal (ONT) •⁠ ⁠Optical Splitter •⁠ ⁠ONT Configuration LAB •⁠ ⁠Fiber Optic Cable Splicing Lab •⁠ ⁠Rosette Installation Lab •⁠ ⁠ODP Installation Lab •⁠ ⁠Closure Installation Lab •⁠ ⁠Mikrotik PPPoE, Queue Lab •⁠ ⁠OLT Lab •⁠ ⁠ONT (Modem) Lab •⁠ ⁠FTTH Internet Connection Testing Lab",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Praktek dengan real Tools (Splicer, OLT, OPM, OTDR dll)",
+      "Mendapatkan pemahaman mendalam tentang prinsip dasar Fiber Optic",
+      "keterampilan praktis dalam Persiapan installasi FO",
+      "keterampilan penyambungan core menggunakan splicer",
+      "keterampilan dalam perawatan Fiber Optic",
+      "Mendapatkan pemahaman mendalam tentang penggunaan Tools Fiber Optic",
+      "Mendapatkan pemahaman yang baik tentang prosedur keselamatan yang harus diikuti saat bekerja, mengurangi risiko kecelakaan dan kerusakan peralatan Fiber Optic.",
+      "Dapat membangun jaringan FTTH secara mandiri"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Benefit",
+        "source_text": "Benefit Praktek dengan real Tools (Splicer, OLT, OPM, OTDR dll) Mendapatkan pemahaman mendalam tentang prinsip dasar Fiber Optic keterampilan praktis dalam Persiapan installasi FO keterampilan penyambungan core menggunakan splicer keterampilan dalam perawatan Fiber Optic Mendapatkan pemahaman mendalam tentang penggunaan Tools Fiber Optic Mendapatkan pemahaman yang baik tentang prosedur keselamatan yang harus diikuti saat bekerja, mengurangi risiko kecelakaan dan kerusakan peralatan Fiber Optic. Dapat membangun jaringan FTTH secara mandiri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Muhamad Dimas Sabarudin (Certified Data Centre Professional (CDCP), MTCNA, MTCRE, MTCUME, CCNA, CCNP)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Muhamad Dimas Sabarudin (Certified Data Centre Professional (CDCP), MTCNA, MTCRE, MTCUME, CCNA, CCNP)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2x Jika dirasa belum paham",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fiber-optic/",
+        "source_section": "Mengapa Harus Training Fiber Optic di IDN ?",
+        "source_text": "Mengapa Harus Training Fiber Optic di IDN ? Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2x Jika dirasa belum paham",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Fiber Optic di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Dipandu trainer tersertifikasi dan berpengalaman di bidangnya. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2x Jika dirasa belum paham. Kami menyediakan peralatan Fiber Optic Lengkap (Splicer, Stripper, Cleaver, OPM, OTDR, OLT)",
+      "items": [
+        "Dipandu trainer tersertifikasi dan berpengalaman di bidangnya.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia.",
+        "Gratis mengulang training sebanyak 2x Jika dirasa belum paham.",
+        "Kami menyediakan peralatan Fiber Optic Lengkap (Splicer, Stripper, Cleaver, OPM, OTDR, OLT)"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Saat ini salah satu skills yang sangat dibutuhkan oleh seorang Jointer Fiber Optic adalah Mengenal jenis-jenis dan warna kabel Fiber Optic, Mempersiapkan Kabel sebelum installasi, Penyambungan core Fiber Optic, Pemeliharaan Kabel, Pengukuran kualitas dan troubleshooting Kabel Fiber Optic. Bagaimana tidak, Layer 1 sangat dasar dalam membangun sebuah jaringan terutama untuk membangun jaringan dengan jarak tempuh yang sangat jauh. Kabel fiber optic dapat menghubungkan koneksi antar negara dan menjadi backbone koneksi internet kita sekarang dan di perlukan kemampuan khusus dalam installasi dan perawatannya. Di Training Fiber Optic IDN sendiri, kita akan belajar mengenal jenis jenis kabel, warna kabel, splicing, memberikan power, pengecheckan power, mengukur jarak menggunakan alat OTDR, men-split kabel fiber optic, membangun Installasi FTTH. selain belajar hard skills kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis.",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Muhamad Dimas Sabarudin (Certified Data Centre Professional (CDCP), MTCNA, MTCRE, MTCUME, CCNA, CCNP)",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Introduction to Fiber Optic •⁠ ⁠Definition of Fiber Optic •⁠ ⁠History of Fiber Optic Development •⁠ ⁠Advantages and Disadvantages of Fiber Optic Fundamentals of Fiber Optic •⁠ ⁠Basic principles of light transmission in fiber optic •⁠ ⁠Structure and main components of fiber optic •⁠ ⁠Fiber Optic Cable Coloring •⁠ ⁠Types of fiber optic cables Light Source and Detectors •⁠ ⁠Types of light sources (LED, Laser) •⁠ ⁠Light detectors and working principles •⁠ ⁠Light modulation for data transmission Fiber Optic Connectors and Couplers •⁠ ⁠Types of connectors and couplers •⁠ ⁠Choosing the right connector •⁠ ⁠Connector installation process Fiber Optic Preparation and Maintenance •⁠ ⁠Installation path preparation •⁠ ⁠Fiber optic installation process •⁠ ⁠Testing and verifying connections •⁠ ⁠Preventive maintenance Fiber Optic Fiber Optic Installation Practices •⁠ ⁠Fiber Optic Splicing •⁠ ⁠Rosette Installation •⁠ ⁠ODP Installation •⁠ ⁠Closure Installation FTTH (Fiber To The Home) •⁠ ⁠FTTH Concept and Topology •⁠ ⁠Optical Line Terminal (OLT) •⁠ ⁠Introduction to EPON and GPON •⁠ ⁠Optical Network Terminal (ONT) •⁠ ⁠Optical Splitter •⁠ ⁠ONT Configuration LAB •⁠ ⁠Fiber Optic Cable Splicing Lab •⁠ ⁠Rosette Installation Lab •⁠ ⁠ODP Installation Lab •⁠ ⁠Closure Installation Lab •⁠ ⁠Mikrotik PPPoE, Queue Lab •⁠ ⁠OLT Lab •⁠ ⁠ONT (Modem) Lab •⁠ ⁠FTTH Internet Connection Testing Lab",
+      "items": []
+    },
+    {
+      "heading": "Benefit",
+      "semantic_type": "BENEFITS",
+      "content": "Praktek dengan real Tools (Splicer, OLT, OPM, OTDR dll) Mendapatkan pemahaman mendalam tentang prinsip dasar Fiber Optic keterampilan praktis dalam Persiapan installasi FO keterampilan penyambungan core menggunakan splicer keterampilan dalam perawatan Fiber Optic Mendapatkan pemahaman mendalam tentang penggunaan Tools Fiber Optic Mendapatkan pemahaman yang baik tentang prosedur keselamatan yang harus diikuti saat bekerja, mengurangi risiko kecelakaan dan kerusakan peralatan Fiber Optic. Dapat membangun jaringan FTTH secara mandiri",
+      "items": [
+        "Praktek dengan real Tools (Splicer, OLT, OPM, OTDR dll)",
+        "Mendapatkan pemahaman mendalam tentang prinsip dasar Fiber Optic",
+        "keterampilan praktis dalam Persiapan installasi FO",
+        "keterampilan penyambungan core menggunakan splicer",
+        "keterampilan dalam perawatan Fiber Optic",
+        "Mendapatkan pemahaman mendalam tentang penggunaan Tools Fiber Optic",
+        "Mendapatkan pemahaman yang baik tentang prosedur keselamatan yang harus diikuti saat bekerja, mengurangi risiko kecelakaan dan kerusakan peralatan Fiber Optic.",
+        "Dapat membangun jaringan FTTH secara mandiri"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . DAFTAR TRAINING CEK JADWAL TERDEKAT",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Fiber Optic",
+    "content_hash": "dcd5d37faa25f570efac5d19c342baa2e1f96406a28137428cec32c75913664a",
+    "template_type": "BETTERDOCS"
+  }
+}

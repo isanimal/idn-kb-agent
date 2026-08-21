@@ -1,0 +1,389 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "CompTIA Network+ (Include Exam)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+          "source_section": "Page title",
+          "source_text": "CompTIA Network+ (Include Exam)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "CompTIA Network+",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+          "source_section": "Training registry",
+          "source_text": "CompTIA Network+",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/comptia-network-include-exam/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/comptia-network-include-exam/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "CompTIA Network+ adalah sertifikasi yang diakui secara internasional dan membuktikan kemampuan seseorang dalam mengelola, memelihara, memecahkan masalah, menginstal, dan mengonfigurasi jaringan dasar. Sertifikasi Jaringan untuk Karir Awal Terbaik Dapatkan berbagai keterampilan teknis dan praktis yang diperlukan oleh administrator jaringan pemula saat ini. Validasi Pengetahuan Manajemen Jaringan yang Vendor Neutral CompTIA Network+ adalah satu-satunya sertifikasi di pasar yang mencakup keterampilan inti yang diperlukan untuk mendukung jaringan di vendor apa pun. Network+ Disetujui untuk DoD 8140.03 CompTIA Network+ menunjukkan apa yang bisa Anda lakukan, bukan hanya apa yang Anda ketahui untuk peran pekerjaan seperti Technical Support Specialist, Network Operations Specialist and Systems Administrator.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training CompTIA Network+ adalah sertifikasi yang diakui secara internasional dan membuktikan kemampuan seseorang dalam mengelola, memelihara, memecahkan masalah, menginstal, dan mengonfigurasi jaringan dasar. Sertifikasi Jaringan untuk Karir Awal Terbaik Dapatkan berbagai keterampilan teknis dan praktis yang diperlukan oleh administrator jaringan pemula saat ini. Validasi Pengetahuan Manajemen Jaringan yang Vendor Neutral CompTIA Network+ adalah satu-satunya sertifikasi di pasar yang mencakup keterampilan inti yang diperlukan untuk mendukung jaringan di vendor apa pun. Network+ Disetujui untuk DoD 8140.03 CompTIA Network+ menunjukkan apa yang bisa Anda lakukan, bukan hanya apa yang Anda ketahui untuk peran pekerjaan seperti Technical Support Specialist, Network Operations Specialist and Systems Administrator.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 20.000.000",
+        "amount": 20000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 11.000.000",
+        "amount": 11000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Biaya Investasi : Rp 20.000.000 Rp 11.000.000,-",
+        "source_text": "Biaya Investasi : Rp 20.000.000 Rp 11.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DAY 1",
+        "objective": null,
+        "items": [
+          "Comparing OSI Model Network Functions Deploying Ethernet Cabling Deploying Ethernet Switching Troubleshooting Ethernet Networks"
+        ],
+        "raw": "Comparing OSI Model Network Functions Deploying Ethernet Cabling Deploying Ethernet Switching Troubleshooting Ethernet Networks",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 2",
+        "objective": null,
+        "items": [
+          "Explaining IPv4 Addressing Supporting IPv4 and IPv6 Networks Configuring and Troubleshooting Routers Explaining Network Topologies and Types"
+        ],
+        "raw": "Explaining IPv4 Addressing Supporting IPv4 and IPv6 Networks Configuring and Troubleshooting Routers Explaining Network Topologies and Types",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 3",
+        "objective": null,
+        "items": [
+          "Explaining Transport Layer Protocols Explaining Network Services Explaining Network Applications Ensuring Network Availability"
+        ],
+        "raw": "Explaining Transport Layer Protocols Explaining Network Services Explaining Network Applications Ensuring Network Availability",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 4",
+        "objective": null,
+        "items": [
+          "Explaining Common Security Concepts Supporting and Troubleshooting Secure Networks Deploying and Troubleshooting Wireless Networks Comparing WAN Links and Remote Access Methods"
+        ],
+        "raw": "Explaining Common Security Concepts Supporting and Troubleshooting Secure Networks Deploying and Troubleshooting Wireless Networks Comparing WAN Links and Remote Access Methods",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 5",
+        "objective": null,
+        "items": [
+          "Explaining Organizational and Physical Security Concepts Explaining Disaster Recovery and High Availability Concepts Applying Network Hardening Techniques 20 | Summarizing Cloud and Datacenter Architecture"
+        ],
+        "raw": "Explaining Organizational and Physical Security Concepts Explaining Disaster Recovery and High Availability Concepts Applying Network Hardening Techniques 20 | Summarizing Cloud and Datacenter Architecture",
+        "structure_type": "DAY_BASED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Day 1 Comparing OSI Model Network Functions Deploying Ethernet Cabling Deploying Ethernet Switching Troubleshooting Ethernet Networks Day 2 Explaining IPv4 Addressing Supporting IPv4 and IPv6 Networks Configuring and Troubleshooting Routers Explaining Network Topologies and Types Day 3 Explaining Transport Layer Protocols Explaining Network Services Explaining Network Applications Ensuring Network Availability Day 4 Explaining Common Security Concepts Supporting and Troubleshooting Secure Networks Deploying and Troubleshooting Wireless Networks Comparing WAN Links and Remote Access Methods Day 5 Explaining Organizational and Physical Security Concepts Explaining Disaster Recovery and High Availability Concepts Applying Network Hardening Techniques 20 | Summarizing Cloud and Datacenter Architecture",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": "Upon successful completion of this course, students will be able to: Networking Concepts Explain basic networking concepts, including the OSI model, network appliances, applications, cloud concepts, connectivity options and more. Network Implementations Understand routing technologies and important factors of physical installations; configure switching technologies and wireless devices. Network Operations Monitor and optimize networks to ensure business continuity. Network Security Understand security concepts and network attacks to harden networks against threats. Network Troubleshooting Explain the troubleshooting methodology and address common issues related to networking, including cable, connectivity, and software problems",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Upon successful completion of this course, students will be able to: Networking Concepts Explain basic networking concepts, including the OSI model, network appliances, applications, cloud concepts, connectivity options and more. Network Implementations Understand routing technologies and important factors of physical installations; configure switching technologies and wireless devices. Network Operations Monitor and optimize networks to ensure business continuity. Network Security Understand security concepts and network attacks to harden networks against threats. Network Troubleshooting Explain the troubleshooting methodology and address common issues related to networking, including cable, connectivity, and software problems",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": "• Pengalaman dasar dalam IT atau jaringan • Pengetahuan dasar tentang sistem operasi windows • Tidak ada sertifikasi sebelumnya yang diperlukan, namun pemahaman dasar tentang konsep jaringan akan membantu NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites • Pengalaman dasar dalam IT atau jaringan • Pengetahuan dasar tentang sistem operasi windows • Tidak ada sertifikasi sebelumnya yang diperlukan, namun pemahaman dasar tentang konsep jaringan akan membantu NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "Ferry Fajar Pratama, S.Kom (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE)",
+      "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Ferry Fajar Pratama, S.Kom (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE) Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "gratis untuk peserta yang berasal dari luar kota Gratis mengulang training sebanyak 2x Dipandu trainer tersertifikasi dan berpengalaman di bidangnya Free join mailing list dan grup telegram IDN",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/comptia-network-include-exam/",
+        "source_section": "Mengapa Harus Training CompTIA Network+ di IDN ?",
+        "source_text": "Mengapa Harus Training CompTIA Network+ di IDN ? gratis untuk peserta yang berasal dari luar kota Gratis mengulang training sebanyak 2x Dipandu trainer tersertifikasi dan berpengalaman di bidangnya Free join mailing list dan grup telegram IDN",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training CompTIA Network+ di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Biaya training sudah include sertifikasi international CompTIA Network+ Biaya training murah dibanding tempat-tempat yang lain ID-Networkers sudah terdaftar sebagai authorized training partner CompTIA Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Gratis mengulang training sebanyak 2x Dipandu trainer tersertifikasi dan berpengalaman di bidangnya Free join mailing list dan grup telegram IDN, bisa cari info kerja dan diskusi di grup Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+      "items": [
+        "Biaya training sudah include sertifikasi international CompTIA Network+",
+        "Biaya training murah dibanding tempat-tempat yang lain",
+        "ID-Networkers sudah terdaftar sebagai authorized training partner CompTIA",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Gratis mengulang training sebanyak 2x",
+        "Dipandu trainer tersertifikasi dan berpengalaman di bidangnya",
+        "Free join mailing list dan grup telegram IDN, bisa cari info kerja dan diskusi di grup",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "CompTIA Network+ adalah sertifikasi yang diakui secara internasional dan membuktikan kemampuan seseorang dalam mengelola, memelihara, memecahkan masalah, menginstal, dan mengonfigurasi jaringan dasar. Sertifikasi Jaringan untuk Karir Awal Terbaik Dapatkan berbagai keterampilan teknis dan praktis yang diperlukan oleh administrator jaringan pemula saat ini. Validasi Pengetahuan Manajemen Jaringan yang Vendor Neutral CompTIA Network+ adalah satu-satunya sertifikasi di pasar yang mencakup keterampilan inti yang diperlukan untuk mendukung jaringan di vendor apa pun. Network+ Disetujui untuk DoD 8140.03 CompTIA Network+ menunjukkan apa yang bisa Anda lakukan, bukan hanya apa yang Anda ketahui untuk peran pekerjaan seperti Technical Support Specialist, Network Operations Specialist and Systems Administrator.",
+      "items": []
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "• Pengalaman dasar dalam IT atau jaringan • Pengetahuan dasar tentang sistem operasi windows • Tidak ada sertifikasi sebelumnya yang diperlukan, namun pemahaman dasar tentang konsep jaringan akan membantu NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Upon successful completion of this course, students will be able to: Networking Concepts Explain basic networking concepts, including the OSI model, network appliances, applications, cloud concepts, connectivity options and more. Network Implementations Understand routing technologies and important factors of physical installations; configure switching technologies and wireless devices. Network Operations Monitor and optimize networks to ensure business continuity. Network Security Understand security concepts and network attacks to harden networks against threats. Network Troubleshooting Explain the troubleshooting methodology and address common issues related to networking, including cable, connectivity, and software problems",
+      "items": []
+    },
+    {
+      "heading": "Untuk Siapa Course ini?",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "Pemula yang ingin memulai karir di bidang jaringan Profesional IT yang ingin meningkatkan keterampilan dan pengetahuan mereka Pelajar atau mahasiswa yang ingin mempersiapkan diri untuk karir di bidang IT Siapa saja yang tertarik untuk mendapatkan sertifikasi jaringan yang diakui secara global",
+      "items": [
+        "Pemula yang ingin memulai karir di bidang jaringan",
+        "Profesional IT yang ingin meningkatkan keterampilan dan pengetahuan mereka",
+        "Pelajar atau mahasiswa yang ingin mempersiapkan diri untuk karir di bidang IT",
+        "Siapa saja yang tertarik untuk mendapatkan sertifikasi jaringan yang diakui secara global"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Ferry Fajar Pratama, S.Kom (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE) Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+      "items": [
+        "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+        "Ferry Fajar Pratama, S.Kom (CCNA, CCNP, JNCIA Junos, UBWA, UEWA, MTCNA, MTCTCE, MTCRE, MTCUME, MTCSE, MTCINE)",
+        "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Day 1 Comparing OSI Model Network Functions Deploying Ethernet Cabling Deploying Ethernet Switching Troubleshooting Ethernet Networks Day 2 Explaining IPv4 Addressing Supporting IPv4 and IPv6 Networks Configuring and Troubleshooting Routers Explaining Network Topologies and Types Day 3 Explaining Transport Layer Protocols Explaining Network Services Explaining Network Applications Ensuring Network Availability Day 4 Explaining Common Security Concepts Supporting and Troubleshooting Secure Networks Deploying and Troubleshooting Wireless Networks Comparing WAN Links and Remote Access Methods Day 5 Explaining Organizational and Physical Security Concepts Explaining Disaster Recovery and High Availability Concepts Applying Network Hardening Techniques 20 | Summarizing Cloud and Datacenter Architecture",
+      "items": [
+        "Comparing OSI Model Network Functions",
+        "Deploying Ethernet Cabling",
+        "Deploying Ethernet Switching",
+        "Troubleshooting Ethernet Networks",
+        "Explaining IPv4 Addressing",
+        "Supporting IPv4 and IPv6 Networks",
+        "Configuring and Troubleshooting Routers",
+        "Explaining Network Topologies and Types",
+        "Explaining Transport Layer Protocols",
+        "Explaining Network Services",
+        "Explaining Network Applications",
+        "Ensuring Network Availability",
+        "Explaining Common Security Concepts",
+        "Supporting and Troubleshooting Secure Networks",
+        "Deploying and Troubleshooting Wireless Networks",
+        "Comparing WAN Links and Remote Access Methods",
+        "Explaining Organizational and Physical Security Concepts",
+        "Explaining Disaster Recovery and High Availability Concepts",
+        "Applying Network Hardening Techniques 20 | Summarizing Cloud and Datacenter Architecture"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 20.000.000 Rp 11.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "CompTIA Network+ (Include Exam)",
+    "content_hash": "7f0480ddff16b9970908334b2d64ac3d6aa9f32c39749bf43ac7dcac1079a6c9",
+    "template_type": "BETTERDOCS"
+  }
+}

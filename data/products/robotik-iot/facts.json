@@ -1,0 +1,388 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Robotik + IoT",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/robotik-iot/",
+          "source_section": "Page title",
+          "source_text": "Robotik + IoT",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "IOT & Robotik",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/robotik-iot/",
+          "source_section": "Training registry",
+          "source_text": "IOT & Robotik",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/robotik-iot/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/robotik-iot/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/robotik-iot/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Robotik + Internet of Things (IoT) merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan dengan perintah suara. Training ini dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam membangun serta mengembangkan sistem robotik modern yang terintegrasi dengan Internet of Things (IoT). Peserta akan belajar mulai dari dasar pemrograman mikrokontroler, sensor, aktuator, hingga cara menghubungkan perangkat ke jaringan internet untuk mengontrol dan memantau robot secara real-time. Melalui pendekatan praktik langsung (hands-on project), peserta tidak hanya memahami teori, tetapi juga mampu menciptakan solusi inovatif berbasis robotik dan IoT yang relevan dengan kebutuhan industri, pendidikan, maupun kehidupan sehari-hari.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Robotik + Internet of Things (IoT) merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan dengan perintah suara. Training ini dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam membangun serta mengembangkan sistem robotik modern yang terintegrasi dengan Internet of Things (IoT). Peserta akan belajar mulai dari dasar pemrograman mikrokontroler, sensor, aktuator, hingga cara menghubungkan perangkat ke jaringan internet untuk mengontrol dan memantau robot secara real-time. Melalui pendekatan praktik langsung (hands-on project), peserta tidak hanya memahami teori, tetapi juga mampu menciptakan solusi inovatif berbasis robotik dan IoT yang relevan dengan kebutuhan industri, pendidikan, maupun kehidupan sehari-hari.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.000.000",
+      "amount": 2000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Biaya Investasi : Rp 2.000.000,-",
+        "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "A. Mengenal Dasar IoT dan Arduino",
+        "items": [
+          "Memahami apa itu IoT",
+          "Memahami apa itu Arduino",
+          "Memahami instalasi rangkaian pada project board",
+          "Installasi IDE arduino",
+          "Pemrograman arduino"
+        ]
+      },
+      {
+        "title": "B. Input-Output Arduino dan Sensor",
+        "items": [
+          "Menghidupkan dan mematikan LED",
+          "Menghubungkan LED dan push button dengan arduino",
+          "Menggunakan relay untuk on/off lampu rumah",
+          "Sinyal analog, PWM, dan Baca-Tulis Sinyal Analog",
+          "Menampilkan data dengan LCD",
+          "Menggunakan sensor gerak (PIR) sebagai input sinyal digital",
+          "Menggunakan sensor suhu (LM35) sebagai input sinyal analog"
+        ]
+      },
+      {
+        "title": "C. Pengendalian Motor dan Komunikasi 12C",
+        "items": [
+          "Mengenal motor DC dan pengendaliannya",
+          "Mengenal motor Servo dan pengendaliannya",
+          "Mengenal motor Stepper dan pengendaliannya",
+          "Mengenal komunikasi I2C",
+          "Menggunakan LCD dengan modul I2C",
+          "Menggunakan RTC (Real Time Clock) DS1307"
+        ]
+      },
+      {
+        "title": "D. Komunikasi Arduino dengan Internet",
+        "items": [
+          "Pengendalian modul WiFi ESP8266 dengan AT Command",
+          "Mengenal Platform IoT",
+          "Mengendalikan lampu via web",
+          "Mengirim data ke web"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM A. Mengenal Dasar IoT dan Arduino Memahami apa itu IoT Memahami apa itu Arduino Memahami instalasi rangkaian pada project board Installasi IDE arduino Pemrograman arduino B. Input-Output Arduino dan Sensor Menghidupkan dan mematikan LED Menghubungkan LED dan push button dengan arduino Menggunakan relay untuk on/off lampu rumah Sinyal analog, PWM, dan Baca-Tulis Sinyal Analog Menampilkan data dengan LCD Menggunakan sensor gerak (PIR) sebagai input sinyal digital Menggunakan sensor suhu (LM35) sebagai input sinyal analog C. Pengendalian Motor dan Komunikasi 12C Mengenal motor DC dan pengendaliannya Mengenal motor Servo dan pengendaliannya Mengenal motor Stepper dan pengendaliannya Mengenal komunikasi I2C Menggunakan LCD dengan modul I2C Menggunakan RTC (Real Time Clock) DS1307 D. Komunikasi Arduino dengan Internet Pengendalian modul WiFi ESP8266 dengan AT Command Mengenal Platform IoT Mengendalikan lampu via web Mengirim data ke web",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Kaos"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training IoT di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Perangkat IoT sudah disediakan sehingga memudahkan praktik langsung dengan devices Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training IoT di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang IoT",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Perangkat IoT sudah disediakan sehingga memudahkan praktik langsung dengan devices",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training IoT di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang IoT"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Robotik + Internet of Things (IoT) merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan dengan perintah suara. Training ini dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam membangun serta mengembangkan sistem robotik modern yang terintegrasi dengan Internet of Things (IoT). Peserta akan belajar mulai dari dasar pemrograman mikrokontroler, sensor, aktuator, hingga cara menghubungkan perangkat ke jaringan internet untuk mengontrol dan memantau robot secara real-time. Melalui pendekatan praktik langsung (hands-on project), peserta tidak hanya memahami teori, tetapi juga mampu menciptakan solusi inovatif berbasis robotik dan IoT yang relevan dengan kebutuhan industri, pendidikan, maupun kehidupan sehari-hari.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "items": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+        "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino."
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "A. Mengenal Dasar IoT dan Arduino Memahami apa itu IoT Memahami apa itu Arduino Memahami instalasi rangkaian pada project board Installasi IDE arduino Pemrograman arduino B. Input-Output Arduino dan Sensor Menghidupkan dan mematikan LED Menghubungkan LED dan push button dengan arduino Menggunakan relay untuk on/off lampu rumah Sinyal analog, PWM, dan Baca-Tulis Sinyal Analog Menampilkan data dengan LCD Menggunakan sensor gerak (PIR) sebagai input sinyal digital Menggunakan sensor suhu (LM35) sebagai input sinyal analog C. Pengendalian Motor dan Komunikasi 12C Mengenal motor DC dan pengendaliannya Mengenal motor Servo dan pengendaliannya Mengenal motor Stepper dan pengendaliannya Mengenal komunikasi I2C Menggunakan LCD dengan modul I2C Menggunakan RTC (Real Time Clock) DS1307 D. Komunikasi Arduino dengan Internet Pengendalian modul WiFi ESP8266 dengan AT Command Mengenal Platform IoT Mengendalikan lampu via web Mengirim data ke web",
+      "items": [
+        {
+          "title": "A. Mengenal Dasar IoT dan Arduino",
+          "items": [
+            "Memahami apa itu IoT",
+            "Memahami apa itu Arduino",
+            "Memahami instalasi rangkaian pada project board",
+            "Installasi IDE arduino",
+            "Pemrograman arduino"
+          ]
+        },
+        {
+          "title": "B. Input-Output Arduino dan Sensor",
+          "items": [
+            "Menghidupkan dan mematikan LED",
+            "Menghubungkan LED dan push button dengan arduino",
+            "Menggunakan relay untuk on/off lampu rumah",
+            "Sinyal analog, PWM, dan Baca-Tulis Sinyal Analog",
+            "Menampilkan data dengan LCD",
+            "Menggunakan sensor gerak (PIR) sebagai input sinyal digital",
+            "Menggunakan sensor suhu (LM35) sebagai input sinyal analog"
+          ]
+        },
+        {
+          "title": "C. Pengendalian Motor dan Komunikasi 12C",
+          "items": [
+            "Mengenal motor DC dan pengendaliannya",
+            "Mengenal motor Servo dan pengendaliannya",
+            "Mengenal motor Stepper dan pengendaliannya",
+            "Mengenal komunikasi I2C",
+            "Menggunakan LCD dengan modul I2C",
+            "Menggunakan RTC (Real Time Clock) DS1307"
+          ]
+        },
+        {
+          "title": "D. Komunikasi Arduino dengan Internet",
+          "items": [
+            "Pengendalian modul WiFi ESP8266 dengan AT Command",
+            "Mengenal Platform IoT",
+            "Mengendalikan lampu via web",
+            "Mengirim data ke web"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Robotik + IoT",
+    "content_hash": "dd7530d379aad35d23644c42433c1d46f4b0dbe0cce1f79968db78a90247629d",
+    "template_type": "BETTERDOCS"
+  }
+}

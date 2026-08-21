@@ -1,0 +1,14 @@
+{
+  "training_source_id": 82,
+  "canonical_url": "https://www.idn.id/training/chfi/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "2c19de157ffeb5ab1f2d42d8a9a2fe91e1cf40be89635c6b0b2b4de32579a43b",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:59.668683+00:00",
+  "facts_path": "data\\products\\chfi\\facts.json",
+  "evidence_path": "data\\products\\chfi\\evidence.json",
+  "raw_snapshot_path": "data\\products\\chfi\\raw.html",
+  "last_error": null
+}

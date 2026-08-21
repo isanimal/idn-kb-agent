@@ -1,0 +1,14 @@
+{
+  "training_source_id": 24,
+  "canonical_url": "https://www.idn.id/training/android-project-ojek-online/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "fd4d0dbf4c35d11e221f5d4f772a71e6ed5f60c6afb8a80718cda330615a5a31",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:22.517701+00:00",
+  "facts_path": "data\\products\\android-project-ojek-online\\facts.json",
+  "evidence_path": "data\\products\\android-project-ojek-online\\evidence.json",
+  "raw_snapshot_path": "data\\products\\android-project-ojek-online\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,355 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Devops (Development & Operations)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/devops/",
+          "source_section": "Page title",
+          "source_text": "Devops (Development & Operations)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Devops",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/devops/",
+          "source_section": "Training registry",
+          "source_text": "Devops",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/devops/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/devops/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/devops/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.300.000",
+      "amount": 3300000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Biaya Investasi : Rp 3.300.000,-",
+        "source_text": "Biaya Investasi : Rp 3.300.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1. Introduction DevOps Concept",
+        "items": []
+      },
+      {
+        "title": "Module 2. Git : Version Control System",
+        "items": []
+      },
+      {
+        "title": "Module 3. Github : Source Code Management",
+        "items": []
+      },
+      {
+        "title": "Module 4. SonarQube : Testing & Code Analysis",
+        "items": []
+      },
+      {
+        "title": "Module 5. Docker : Containerization",
+        "items": []
+      },
+      {
+        "title": "Module 6. Jenkins : CI/CD Tools",
+        "items": []
+      },
+      {
+        "title": "Module 7. Prometheus : Monitoring System",
+        "items": []
+      },
+      {
+        "title": "Module 8. Grafana : Dashboard",
+        "items": []
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Module 1. Introduction DevOps Concept ● Understand DevOps, its roles and responsibilities ● DevOps problems and solutions ● How to implement CI/CD on DevOps Environment ● DevOps Tools Module 2. Git : Version Control System ● Introduction of Version Control System ● Introduction Source Code Management ● How Git Works ● Working locally with Git ● Working remotely with Git ● Branching & Merging ● Resolve Merging Conflict Module 3. Github : Source Code Management ● Collaboration with Github ● Working with Github Organization Module 4. SonarQube : Testing & Code Analysis ● Unit Testing ● Integration Testing ● Code Analyst Module 5. Docker : Containerization ● Containerization Introduction. ● Docker Introduction ● Docker Installation ● Docker Command ● Docker Images & Container ● Create own Image with Dockerfile ● Docker Registry ● Docker Volume ● Docker Networking ● Docker Compose Module 6. Jenkins : CI/CD Tools ● Introduction CI/CD. ● Installation and Setup Jenkins. ● Jenkins Continuous Testing integration unit testing, integration testing, and code analysis Module 7. Prometheus : Monitoring System ● Introduction to Systems and Service Monitoring ● Introduction to Prometheus ● Installing and Setting Up Prometheus Module 8. Grafana : Dashboard ● Installing and Setting Up Grafana ● Visualized monitoring system (Grafana) ● integration Prometheus and Grafana",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Requirement",
+        "source_text": "Requirement Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+      "Esa Nugraha (CKA, CKAD, CKS)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD, CKS) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training DevOps di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training murah dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Biaya training murah dibanding tempat-tampat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+      "items": []
+    },
+    {
+      "heading": "Requirement",
+      "semantic_type": "PREREQUISITES",
+      "content": "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+      "items": []
+    },
+    {
+      "heading": "Testimoni dan Dokumentasi Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD, CKS) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+        "Esa Nugraha (CKA, CKAD, CKS)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1. Introduction DevOps Concept ● Understand DevOps, its roles and responsibilities ● DevOps problems and solutions ● How to implement CI/CD on DevOps Environment ● DevOps Tools Module 2. Git : Version Control System ● Introduction of Version Control System ● Introduction Source Code Management ● How Git Works ● Working locally with Git ● Working remotely with Git ● Branching & Merging ● Resolve Merging Conflict Module 3. Github : Source Code Management ● Collaboration with Github ● Working with Github Organization Module 4. SonarQube : Testing & Code Analysis ● Unit Testing ● Integration Testing ● Code Analyst Module 5. Docker : Containerization ● Containerization Introduction. ● Docker Introduction ● Docker Installation ● Docker Command ● Docker Images & Container ● Create own Image with Dockerfile ● Docker Registry ● Docker Volume ● Docker Networking ● Docker Compose Module 6. Jenkins : CI/CD Tools ● Introduction CI/CD. ● Installation and Setup Jenkins. ● Jenkins Continuous Testing integration unit testing, integration testing, and code analysis Module 7. Prometheus : Monitoring System ● Introduction to Systems and Service Monitoring ● Introduction to Prometheus ● Installing and Setting Up Prometheus Module 8. Grafana : Dashboard ● Installing and Setting Up Grafana ● Visualized monitoring system (Grafana) ● integration Prometheus and Grafana",
+      "items": [
+        {
+          "title": "Module 1. Introduction DevOps Concept",
+          "items": []
+        },
+        {
+          "title": "Module 2. Git : Version Control System",
+          "items": []
+        },
+        {
+          "title": "Module 3. Github : Source Code Management",
+          "items": []
+        },
+        {
+          "title": "Module 4. SonarQube : Testing & Code Analysis",
+          "items": []
+        },
+        {
+          "title": "Module 5. Docker : Containerization",
+          "items": []
+        },
+        {
+          "title": "Module 6. Jenkins : CI/CD Tools",
+          "items": []
+        },
+        {
+          "title": "Module 7. Prometheus : Monitoring System",
+          "items": []
+        },
+        {
+          "title": "Module 8. Grafana : Dashboard",
+          "items": []
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.300.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Devops (Development & Operations)",
+    "content_hash": "95ed42109eeed12b5904508de87a01a5bc39925d916dc5324980384763c57216",
+    "template_type": "BETTERDOCS"
+  }
+}

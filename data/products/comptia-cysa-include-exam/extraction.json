@@ -1,0 +1,14 @@
+{
+  "training_source_id": 47,
+  "canonical_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "8a2103eccf24363403a5fcdcdb56ef6c70685b7bf12d7911a2887ce41f111be8",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:37.524841+00:00",
+  "facts_path": "data\\products\\comptia-cysa-include-exam\\facts.json",
+  "evidence_path": "data\\products\\comptia-cysa-include-exam\\evidence.json",
+  "raw_snapshot_path": "data\\products\\comptia-cysa-include-exam\\raw.html",
+  "last_error": null
+}

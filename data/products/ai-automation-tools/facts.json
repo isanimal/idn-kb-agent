@@ -1,0 +1,643 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "AI & Automation Tools",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ai-automation-tools/",
+          "source_section": "Page title",
+          "source_text": "AI & Automation Tools",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "AI & Automation",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ai-automation-tools/",
+          "source_section": "Training registry",
+          "source_text": "AI & Automation",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ai-automation-tools/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ai-automation-tools/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ai-automation-tools/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Selamat datang di pelatihan AI dan Workflow Automation dengan n8n ! Apakah Anda ingin mengotomatiskan proses bisnis Anda tanpa membebani anggaran? n8n adalah solusi untuk Anda! Bergabunglah bersama kami dan pelajari cara menggunakan n8n untuk menghubungkan berbagai aplikasi dan layanan dengan mudah!",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Pelatihan AI & Automation Tools Bantu Tingkatkan Produktivitas dan Efisiensi Anda!",
+        "source_text": "Pelatihan AI & Automation Tools Bantu Tingkatkan Produktivitas dan Efisiensi Anda! Selamat datang di pelatihan AI dan Workflow Automation dengan n8n ! Apakah Anda ingin mengotomatiskan proses bisnis Anda tanpa membebani anggaran? n8n adalah solusi untuk Anda! Bergabunglah bersama kami dan pelajari cara menggunakan n8n untuk menghubungkan berbagai aplikasi dan layanan dengan mudah!",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 2.500.000",
+        "amount": 2500000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 1.700.000",
+        "amount": 1700000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Biaya Investasi Training AI & Automation Tools",
+        "source_text": "Biaya Investasi Training AI & Automation Tools",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Rp 2.500.000,-",
+        "source_text": "Rp 2.500.000,-",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Rp 1.700.000,-",
+        "source_text": "Rp 1.700.000,-",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Modul 1: Pengenalan & Persiapan (The Basics)",
+        "objective": "Memahami apa itu n8n dan cara mengaksesnya.",
+        "items": [
+          "Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make.",
+          "Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker).",
+          "Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data.",
+          "Konsep Dasar: Memahami trigger (pemicu) dan action (tindakan)."
+        ],
+        "raw": "Tujuan: Memahami apa itu n8n dan cara mengaksesnya. Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make. Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker). Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data. Konsep Dasar: Memahami trigger (pemicu) dan action (tindakan).",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 2: Struktur Data & Node Fundamental",
+        "objective": "Memahami cara kerja data di dalam n8n.",
+        "items": [
+          "Input & Output: Cara membaca JSON di dalam node.",
+          "Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis.",
+          "Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi.",
+          "If Node: Percabangan logika dan kondisi.",
+          "Expression: Dasar-dasar mengambil data dari node sebelumnya menggunakan drag-and-drop atau kode simpel."
+        ],
+        "raw": "Tujuan: Memahami cara kerja data di dalam n8n. Input & Output: Cara membaca JSON di dalam node. Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis. Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi. If Node: Percabangan logika dan kondisi. Expression: Dasar-dasar mengambil data dari node sebelumnya menggunakan drag-and-drop atau kode simpel.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 3: Koneksi ke Dunia Luar (API & Webhooks)",
+        "objective": "Menghubungkan n8n dengan layanan pihak ketiga.",
+        "items": [
+          "Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal).",
+          "HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan.",
+          "Authentication: Mengelola Credentials (API Key, OAuth2).",
+          "Google Sheets Integration: Membaca, menambah, dan memperbarui baris data secara otomatis."
+        ],
+        "raw": "Tujuan: Menghubungkan n8n dengan layanan pihak ketiga. Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal). HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan. Authentication: Mengelola Credentials (API Key, OAuth2). Google Sheets Integration: Membaca, menambah, dan memperbarui baris data secara otomatis.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 4: Automasi Pesan & Komunikasi",
+        "objective": "Membangun bot atau sistem notifikasi sederhana.",
+        "items": [
+          "Telegram/WhatsApp Bot: Mengirim pesan otomatis saat ada event tertentu.",
+          "Email Automation: Mengirim email via Gmail atau SMTP node.",
+          "Form Handling: Menghubungkan Typeform atau Google Forms ke workflow otomasi."
+        ],
+        "raw": "Tujuan: Membangun bot atau sistem notifikasi sederhana. Telegram/WhatsApp Bot: Mengirim pesan otomatis saat ada event tertentu. Email Automation: Mengirim email via Gmail atau SMTP node. Form Handling: Menghubungkan Typeform atau Google Forms ke workflow otomasi.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 5: Manipulasi Data Tingkat Lanjut",
+        "objective": "Mengolah data yang kompleks.",
+        "items": [
+          "Looping (Split in Batches): Menangani data dalam jumlah banyak (Bulk data).",
+          "Code Node: Menggunakan JavaScript dasar untuk manipulasi data yang tidak bisa dilakukan node standar.",
+          "Merge Node: Menggabungkan data dari dua sumber berbeda ke dalam satu alur."
+        ],
+        "raw": "Tujuan: Mengolah data yang kompleks. Looping (Split in Batches): Menangani data dalam jumlah banyak (Bulk data). Code Node: Menggunakan JavaScript dasar untuk manipulasi data yang tidak bisa dilakukan node standar. Merge Node: Menggabungkan data dari dua sumber berbeda ke dalam satu alur.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 6: Error Handling & Deployment",
+        "objective": "Memastikan workflow berjalan stabil.",
+        "items": [
+          "Error Trigger: Apa yang harus dilakukan jika workflow gagal?",
+          "Execution History: Cara debug dan melacak kesalahan.",
+          "Cron/Schedule Trigger: Menjalankan workflow berdasarkan waktu (misal: setiap jam 8 pagi)."
+        ],
+        "raw": "Tujuan: Memastikan workflow berjalan stabil. Error Trigger: Apa yang harus dilakukan jika workflow gagal? Execution History: Cara debug dan melacak kesalahan. Cron/Schedule Trigger: Menjalankan workflow berdasarkan waktu (misal: setiap jam 8 pagi).",
+        "structure_type": "MODULED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Apa yang Akan Anda Pelajari?",
+        "source_text": "Apa yang Akan Anda Pelajari?",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      "Kenapa Workflow Automation n8n Istimewa?",
+      "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+      "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+      "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda."
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Kenapa Workflow Automation n8n Istimewa?",
+        "source_text": "Kenapa Workflow Automation n8n Istimewa?",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Open Source dan Mudah Digunakan",
+        "source_text": "Open Source dan Mudah Digunakan n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Integrasi Tanpa Batas",
+        "source_text": "Integrasi Tanpa Batas Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Solusi untuk Setiap Bisnis",
+        "source_text": "Solusi untuk Setiap Bisnis Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffee Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "penginapan gratis"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Fasilitas lengkap",
+        "source_text": "Fasilitas lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dan penginapan gratis.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data Siapa saja yang ingin mempersingkat waktu dan usaha yang dihabiskan untuk tugas manual!",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data Siapa saja yang ingin mempersingkat waktu dan usaha yang dihabiskan untuk tugas manual!",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Trainer Bersertifikasi",
+        "source_text": "Trainer Bersertifikasi Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "FOUND",
+    "value": "Tidak hanya materi tapi praktik langsung pada saat pelaksanaan training",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Praktik Studi Kasus",
+        "source_text": "Praktik Studi Kasus Tidak hanya materi tapi praktik langsung pada saat pelaksanaan training",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan",
+        "source_text": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ai-automation-tools/",
+        "source_section": "Free Mengulang",
+        "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pelatihan AI & Automation Tools Bantu Tingkatkan Produktivitas dan Efisiensi Anda!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Selamat datang di pelatihan AI dan Workflow Automation dengan n8n ! Apakah Anda ingin mengotomatiskan proses bisnis Anda tanpa membebani anggaran? n8n adalah solusi untuk Anda! Bergabunglah bersama kami dan pelajari cara menggunakan n8n untuk menghubungkan berbagai aplikasi dan layanan dengan mudah! Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Workflow Automation n8n Istimewa?",
+      "semantic_type": "BENEFITS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Open Source dan Mudah Digunakan",
+      "semantic_type": "BENEFITS",
+      "content": "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+      "items": []
+    },
+    {
+      "heading": "Integrasi Tanpa Batas",
+      "semantic_type": "BENEFITS",
+      "content": "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+      "items": []
+    },
+    {
+      "heading": "Solusi untuk Setiap Bisnis",
+      "semantic_type": "BENEFITS",
+      "content": "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+      "items": []
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data Siapa saja yang ingin mempersingkat waktu dan usaha yang dihabiskan untuk tugas manual!",
+      "items": []
+    },
+    {
+      "heading": "Apa yang Akan Anda Pelajari?",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Modul 1: Pengenalan & Persiapan (The Basics)",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Memahami apa itu n8n dan cara mengaksesnya. Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make. Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker). Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data. Konsep Dasar: Memahami trigger (pemicu) dan action (tindakan).",
+      "items": [
+        "Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make.",
+        "Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker).",
+        "Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data.",
+        "Konsep Dasar: Memahami trigger (pemicu) dan action (tindakan)."
+      ]
+    },
+    {
+      "heading": "Modul 2: Struktur Data & Node Fundamental",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Memahami cara kerja data di dalam n8n. Input & Output: Cara membaca JSON di dalam node. Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis. Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi. If Node: Percabangan logika dan kondisi. Expression: Dasar-dasar mengambil data dari node sebelumnya menggunakan drag-and-drop atau kode simpel.",
+      "items": [
+        "Input & Output: Cara membaca JSON di dalam node.",
+        "Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis.",
+        "Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi.",
+        "If Node: Percabangan logika dan kondisi.",
+        "Expression: Dasar-dasar mengambil data dari node sebelumnya menggunakan drag-and-drop atau kode simpel."
+      ]
+    },
+    {
+      "heading": "Modul 3: Koneksi ke Dunia Luar (API & Webhooks)",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Menghubungkan n8n dengan layanan pihak ketiga. Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal). HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan. Authentication: Mengelola Credentials (API Key, OAuth2). Google Sheets Integration: Membaca, menambah, dan memperbarui baris data secara otomatis.",
+      "items": [
+        "Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal).",
+        "HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan.",
+        "Authentication: Mengelola Credentials (API Key, OAuth2).",
+        "Google Sheets Integration: Membaca, menambah, dan memperbarui baris data secara otomatis."
+      ]
+    },
+    {
+      "heading": "Modul 4: Automasi Pesan & Komunikasi",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Membangun bot atau sistem notifikasi sederhana. Telegram/WhatsApp Bot: Mengirim pesan otomatis saat ada event tertentu. Email Automation: Mengirim email via Gmail atau SMTP node. Form Handling: Menghubungkan Typeform atau Google Forms ke workflow otomasi.",
+      "items": [
+        "Telegram/WhatsApp Bot: Mengirim pesan otomatis saat ada event tertentu.",
+        "Email Automation: Mengirim email via Gmail atau SMTP node.",
+        "Form Handling: Menghubungkan Typeform atau Google Forms ke workflow otomasi."
+      ]
+    },
+    {
+      "heading": "Modul 5: Manipulasi Data Tingkat Lanjut",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Mengolah data yang kompleks. Looping (Split in Batches): Menangani data dalam jumlah banyak (Bulk data). Code Node: Menggunakan JavaScript dasar untuk manipulasi data yang tidak bisa dilakukan node standar. Merge Node: Menggabungkan data dari dua sumber berbeda ke dalam satu alur.",
+      "items": [
+        "Looping (Split in Batches): Menangani data dalam jumlah banyak (Bulk data).",
+        "Code Node: Menggunakan JavaScript dasar untuk manipulasi data yang tidak bisa dilakukan node standar.",
+        "Merge Node: Menggabungkan data dari dua sumber berbeda ke dalam satu alur."
+      ]
+    },
+    {
+      "heading": "Modul 6: Error Handling & Deployment",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Memastikan workflow berjalan stabil. Error Trigger: Apa yang harus dilakukan jika workflow gagal? Execution History: Cara debug dan melacak kesalahan. Cron/Schedule Trigger: Menjalankan workflow berdasarkan waktu (misal: setiap jam 8 pagi).",
+      "items": [
+        "Error Trigger: Apa yang harus dilakukan jika workflow gagal?",
+        "Execution History: Cara debug dan melacak kesalahan.",
+        "Cron/Schedule Trigger: Menjalankan workflow berdasarkan waktu (misal: setiap jam 8 pagi)."
+      ]
+    },
+    {
+      "heading": "Project",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Chatbot AI Integrated Membuat chatbot pada whatsapp atau telegram Membuat system message chatbot Integrasi chatbot dengan AI Chatbot RAG (Retrieval-Augmented Generation) membuat chatbot AI menjadi lebih pintar dan akurat dengan cara memberikan “buku panduan” atau dokumen khusus sebagai referensi. contoh studycase yang bisa dikerjakan dan dikembangkan : Customer Service Perusahaan yang datanya diambil dari pdf atau dokumen dari perusahaan. Asisten guru atau dosen, dapat menganilisis materi dari modul/materi yang sudah dikemas dalam bentuk pdf atau dokumen sejenis Personal Productivity Assistant Membuat otomasi produktif sehari hari : Smart Scheduling Calendar : Membuat jadwal otomatis dengan voice note, pdf dan chat pada telegram",
+      "items": [
+        "Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make.",
+        "Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker).",
+        "Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data.",
+        "Konsep Dasar: Memahami trigger (pemicu) dan action (tindakan).",
+        "Input & Output: Cara membaca JSON di dalam node.",
+        "Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis.",
+        "Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi.",
+        "If Node: Percabangan logika dan kondisi.",
+        "Expression: Dasar-dasar mengambil data dari node sebelumnya menggunakan drag-and-drop atau kode simpel.",
+        "Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal).",
+        "HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan.",
+        "Authentication: Mengelola Credentials (API Key, OAuth2).",
+        "Google Sheets Integration: Membaca, menambah, dan memperbarui baris data secara otomatis.",
+        "Telegram/WhatsApp Bot: Mengirim pesan otomatis saat ada event tertentu.",
+        "Email Automation: Mengirim email via Gmail atau SMTP node.",
+        "Form Handling: Menghubungkan Typeform atau Google Forms ke workflow otomasi.",
+        "Looping (Split in Batches): Menangani data dalam jumlah banyak (Bulk data).",
+        "Code Node: Menggunakan JavaScript dasar untuk manipulasi data yang tidak bisa dilakukan node standar.",
+        "Merge Node: Menggabungkan data dari dua sumber berbeda ke dalam satu alur.",
+        "Error Trigger: Apa yang harus dilakukan jika workflow gagal?",
+        "Execution History: Cara debug dan melacak kesalahan.",
+        "Cron/Schedule Trigger: Menjalankan workflow berdasarkan waktu (misal: setiap jam 8 pagi).",
+        "Membuat chatbot pada whatsapp atau telegram",
+        "Membuat system message chatbot",
+        "Integrasi chatbot dengan AI",
+        "Customer Service Perusahaan yang datanya diambil dari pdf atau dokumen dari perusahaan.",
+        "Asisten guru atau dosen, dapat menganilisis materi dari modul/materi yang sudah dikemas dalam bentuk pdf atau dokumen sejenis",
+        "Smart Scheduling Calendar : Membuat jadwal otomatis dengan voice note, pdf dan chat pada telegram"
+      ]
+    },
+    {
+      "heading": "Fasilitas Training di ID-Networkers",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Materi pembelajaran lengkap dan terstruktur",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Materi yang up to date dan menyesuaikan trend technology saat ini. Dapatkan akses ke modul pembelajaran yang mendetail dan terstruktur.",
+      "items": []
+    },
+    {
+      "heading": "Praktik Studi Kasus",
+      "semantic_type": "PRACTICE",
+      "content": "Tidak hanya materi tapi praktik langsung pada saat pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Free Mengulang",
+      "semantic_type": "REPEAT_POLICY",
+      "content": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+      "items": []
+    },
+    {
+      "heading": "Trainer Bersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri.",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dan penginapan gratis.",
+      "items": []
+    },
+    {
+      "heading": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan",
+      "semantic_type": "SUPPORT",
+      "content": "Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+      "items": []
+    },
+    {
+      "heading": "Our Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "Apa kata mereka yang sudah merasakan trainingnya ? Dimas Candra Purwantoro      \"Pelatihan ini sangat membantu! Saya bisa langsung mengaplikasikan ilmu yang didapat untuk meningkatkan efisiensi di kantor.\" Tio Ramadhan      \"n8n benar-benar mengubah cara kerjaku. Sekarang, saya dapat fokus pada tugas-tugas yang lebih penting!\"",
+      "items": []
+    },
+    {
+      "heading": "Jadwal Training Terdekat",
+      "semantic_type": "SCHEDULE_WIDGET",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi Training AI & Automation Tools",
+      "semantic_type": "PRICE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Rp 1.700.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Siap untuk Automasi dengan AI? Jangan lewatkan kesempatan untuk mengoptimalkan proses bisnis Anda dengan n8n!",
+      "semantic_type": "CTA",
+      "content": "Jika ingin langsung mendaftar bisa klik tombol dibawah ini. Daftar Sekarang!",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Pelatihan AI & Automation Tools Bantu Tingkatkan Produktivitas dan Efisiensi Anda!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Selamat datang di pelatihan AI dan Workflow Automation dengan n8n ! Apakah Anda ingin mengotomatiskan proses bisnis Anda tanpa membebani anggaran? n8n adalah solusi untuk Anda! Bergabunglah bersama kami dan pelajari cara menggunakan n8n untuk menghubungkan berbagai aplikasi dan layanan dengan mudah! Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Project",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Chatbot AI Integrated Membuat chatbot pada whatsapp atau telegram Membuat system message chatbot Integrasi chatbot dengan AI Chatbot RAG (Retrieval-Augmented Generation) membuat chatbot AI menjadi lebih pintar dan akurat dengan cara memberikan “buku panduan” atau dokumen khusus sebagai referensi. contoh studycase yang bisa dikerjakan dan dikembangkan : Customer Service Perusahaan yang datanya diambil dari pdf atau dokumen dari perusahaan. Asisten guru atau dosen, dapat menganilisis materi dari modul/materi yang sudah dikemas dalam bentuk pdf atau dokumen sejenis Personal Productivity Assistant Membuat otomasi produktif sehari hari : Smart Scheduling Calendar : Membuat jadwal otomatis dengan voice note, pdf dan chat pada telegram",
+      "items": [
+        "Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make.",
+        "Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker).",
+        "Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data.",
+        "Konsep Dasar: Memahami trigger (pemicu) dan action (tindakan).",
+        "Input & Output: Cara membaca JSON di dalam node.",
+        "Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis.",
+        "Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi.",
+        "If Node: Percabangan logika dan kondisi.",
+        "Expression: Dasar-dasar mengambil data dari node sebelumnya menggunakan drag-and-drop atau kode simpel.",
+        "Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal).",
+        "HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan.",
+        "Authentication: Mengelola Credentials (API Key, OAuth2).",
+        "Google Sheets Integration: Membaca, menambah, dan memperbarui baris data secara otomatis.",
+        "Telegram/WhatsApp Bot: Mengirim pesan otomatis saat ada event tertentu.",
+        "Email Automation: Mengirim email via Gmail atau SMTP node.",
+        "Form Handling: Menghubungkan Typeform atau Google Forms ke workflow otomasi.",
+        "Looping (Split in Batches): Menangani data dalam jumlah banyak (Bulk data).",
+        "Code Node: Menggunakan JavaScript dasar untuk manipulasi data yang tidak bisa dilakukan node standar.",
+        "Merge Node: Menggabungkan data dari dua sumber berbeda ke dalam satu alur.",
+        "Error Trigger: Apa yang harus dilakukan jika workflow gagal?",
+        "Execution History: Cara debug dan melacak kesalahan.",
+        "Cron/Schedule Trigger: Menjalankan workflow berdasarkan waktu (misal: setiap jam 8 pagi).",
+        "Membuat chatbot pada whatsapp atau telegram",
+        "Membuat system message chatbot",
+        "Integrasi chatbot dengan AI",
+        "Customer Service Perusahaan yang datanya diambil dari pdf atau dokumen dari perusahaan.",
+        "Asisten guru atau dosen, dapat menganilisis materi dari modul/materi yang sudah dikemas dalam bentuk pdf atau dokumen sejenis",
+        "Smart Scheduling Calendar : Membuat jadwal otomatis dengan voice note, pdf dan chat pada telegram"
+      ]
+    },
+    {
+      "heading": "Materi pembelajaran lengkap dan terstruktur",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Materi yang up to date dan menyesuaikan trend technology saat ini. Dapatkan akses ke modul pembelajaran yang mendetail dan terstruktur.",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MISSING_DURATION",
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "AI & Automation Tools",
+    "content_hash": "d394bbea04e3198c5bc1cdb6c0f92dc171391263ea27b4ac9fefa348b3c54e6f",
+    "template_type": "ELEMENTOR"
+  }
+}

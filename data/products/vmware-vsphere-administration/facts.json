@@ -1,0 +1,486 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "VMWARE VSPHERE ADMIN",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+          "source_section": "Page title",
+          "source_text": "VMWARE VSPHERE ADMIN",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Virtualization",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+          "source_section": "Training registry",
+          "source_text": "Virtualization",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/vmware-vsphere-administration/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/vmware-vsphere-administration/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Salah satu pengetahuan yang wajib dimiliki oleh seorang System Administrator adalah mampu melakukan administrasi virtualisasi server. VMware vSphere sendiri adalah produk yang dibuat oleh VMware dalam melakukan virtualisasi server berbasis bare-metal. Apabila anda memilih IDN sebagai training partner anda dalam menguasai VMware vSphere Administration merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator yang mampu melakukan implementasi dan manajemen jika telah selesai mengikuti training ini. Training VMware vSphere di IDN adalah training non-authorized, sehingga apabila peserta ingin melakukan ujian VCP-DCV makan peserta tetap wajib mengikuti training authorized terlebih dahulu. Akan tetapi materi yang disampaikan pada training tetap memiliki standard dan kualitas sama dengan training authorized.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Salah satu pengetahuan yang wajib dimiliki oleh seorang System Administrator adalah mampu melakukan administrasi virtualisasi server. VMware vSphere sendiri adalah produk yang dibuat oleh VMware dalam melakukan virtualisasi server berbasis bare-metal. Apabila anda memilih IDN sebagai training partner anda dalam menguasai VMware vSphere Administration merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator yang mampu melakukan implementasi dan manajemen jika telah selesai mengikuti training ini. Training VMware vSphere di IDN adalah training non-authorized, sehingga apabila peserta ingin melakukan ujian VCP-DCV makan peserta tetap wajib mengikuti training authorized terlebih dahulu. Akan tetapi materi yang disampaikan pada training tetap memiliki standard dan kualitas sama dengan training authorized.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Biaya Investasi : Rp 3.000.000,-",
+        "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Implementasi Vsphere Host",
+        "items": [
+          "Lab 1. Install ESXI Sever",
+          "Lab 2. Manegement Configure Server ESXI"
+        ]
+      },
+      {
+        "title": "Vsphere Client",
+        "items": [
+          "Lab 3. Management Storage Vsphere",
+          "Lab 4. Install OS di Vsphere Host",
+          "Lab 5. Deploy dan Eksport OVF",
+          "Lab 6. Installasi menggunakan CD/DVD ROM Client",
+          "Lab 7. install Vmtools Windows",
+          "Lab 8. install Vmtools Linux"
+        ]
+      },
+      {
+        "title": "Menejemen Vsphere Configuration",
+        "items": [
+          "Lab 9. Menambahakan Licensed Vspher host",
+          "Lab 10. Automatic Start UP Vspher host",
+          "Lab 11. Setting SSH Vspher host",
+          "Lab 12. Virtual Switch",
+          "Lab 13. Konfigurasi Vsphere Networking",
+          "Lab 14. User Authentifikasi Manager"
+        ]
+      },
+      {
+        "title": "Implementasi Vsphere Power CLI",
+        "items": [
+          "Lab 15. Install Power Cli",
+          "Lab 16. Conect to Vsphere Host with Power CLI",
+          "Lab 17. Menjalankan VM dengan Power CLI",
+          "Lab 18. Mematikan VM dengan Power CLI",
+          "Lab 19. Restart VM dengan Power CLI"
+        ]
+      },
+      {
+        "title": "Implementasi Vcenter",
+        "items": [
+          "Lab 20. Deploying Vcenter",
+          "Lab 21. Login Vcenter web Client",
+          "Lab 21. Installasi Vsphere Plugin",
+          "Lab 22. Login Vcenter menggunakan Vsphere",
+          "Lab 23. User Authentification",
+          "Lab 24. Adding Vsphere Host to Vcenter",
+          "Lab 25. Memisahkan file kedalam folder di menu VMS and Template",
+          "Lab 26. Menggunakan Schedule Task Vcenter",
+          "Lab 27. Menggunakan Alarm pada Vcenter"
+        ]
+      },
+      {
+        "title": "Menjemen Vcenter",
+        "items": [
+          "Lab 28. Backup dan Restore",
+          "Lab 29. Snapshoot Backup System",
+          "Lab 30. Konfigurasi PV (Phisical to Virtual)",
+          "Lab 31. Backup Data VM Menggunakan SSH",
+          "Lab 32. Backup Melalui Data Store",
+          "Lab 33. Vmware Data Recovery dan Data Protection"
+        ]
+      },
+      {
+        "title": "Vmware Storage",
+        "items": [
+          "Lab 34. Install FreeNas",
+          "Lab 35. Konfigurasi FreeNAS NFS Share",
+          "Lab 36. Konfigurasi FreeNAS ISCSI Share",
+          "Lab 37. Konfigurasi ESXI dengan NFS dan ISCSI"
+        ]
+      },
+      {
+        "title": "Vmware Vsphere Migration or Vmotion",
+        "items": [
+          "Lab 38. Konfigurasi Vmware Vsphere Vmotion",
+          "Lab 39. Penggunaan Vmware Vsphere Vmotion"
+        ]
+      },
+      {
+        "title": "Vmware Vsphere Cluster",
+        "items": [
+          "Lab 40. Vsphere OverView",
+          "Lab 41. Vsphere Cluster",
+          "Lab 42. Menambahkan Host di Cluster",
+          "Lab 43. Aktivasi HA (haight Availability)",
+          "Lab 44. Destrubuted Resource Schulder(DRS)"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Implementasi Vsphere Host Lab 1. Install ESXI Sever Lab 2. Manegement Configure Server ESXI Vsphere Client Lab 3. Management Storage Vsphere Lab 4. Install OS di Vsphere Host Lab 5. Deploy dan Eksport OVF Lab 6. Installasi menggunakan CD/DVD ROM Client Lab 7. install Vmtools Windows Lab 8. install Vmtools Linux Menejemen Vsphere Configuration Lab 9. Menambahakan Licensed Vspher host Lab 10. Automatic Start UP Vspher host Lab 11. Setting SSH Vspher host Lab 12. Virtual Switch Lab 13. Konfigurasi Vsphere Networking Lab 14. User Authentifikasi Manager Implementasi Vsphere Power CLI Lab 15. Install Power Cli Lab 16. Conect to Vsphere Host with Power CLI Lab 17. Menjalankan VM dengan Power CLI Lab 18. Mematikan VM dengan Power CLI Lab 19. Restart VM dengan Power CLI Implementasi Vcenter Lab 20. Deploying Vcenter Lab 21. Login Vcenter web Client Lab 21. Installasi Vsphere Plugin Lab 22. Login Vcenter menggunakan Vsphere Lab 23. User Authentification Lab 24. Adding Vsphere Host to Vcenter Lab 25. Memisahkan file kedalam folder di menu VMS and Template Lab 26. Menggunakan Schedule Task Vcenter Lab 27. Menggunakan Alarm pada Vcenter Menjemen Vcenter Lab 28. Backup dan Restore Lab 29. Snapshoot Backup System Lab 30. Konfigurasi PV (Phisical to Virtual) Lab 31. Backup Data VM Menggunakan SSH Lab 32. Backup Melalui Data Store Lab 33. Vmware Data Recovery dan Data Protection Vmware Storage Lab 34. Install FreeNas Lab 35. Konfigurasi FreeNAS NFS Share Lab 36. Konfigurasi FreeNAS ISCSI Share Lab 37. Konfigurasi ESXI dengan NFS dan ISCSI Vmware Vsphere Migration or Vmotion Lab 38. Konfigurasi Vmware Vsphere Vmotion Lab 39. Penggunaan Vmware Vsphere Vmotion Vmware Vsphere Cluster Lab 40. Vsphere OverView Lab 41. Vsphere Cluster Lab 42. Menambahkan Host di Cluster Lab 43. Aktivasi HA (haight Availability) Lab 44. Destrubuted Resource Schulder(DRS)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi VMware vSphere dan VMware vCenter",
+      "Peserta dapat memahami langkah-langkah troubleshooting pada VMware vSphere",
+      "Peserta juga akan bergabung di grup WhatsApp Training VMware vSphere. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan VMware vSphere.",
+      "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung.",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi VMware vSphere dan VMware vCenter Peserta dapat memahami langkah-langkah troubleshooting pada VMware vSphere Peserta juga akan bergabung di grup WhatsApp Training VMware vSphere. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan VMware vSphere. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+      "AJi Mufti Zakaria (COA, CKA)",
+      "Esa Nugraha (CKA, CKAD)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/vmware-vsphere-administration/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Esa Nugraha (CKA, CKAD) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Vmware di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Lab menggunakan laptop dengan spesifikasi tinggi Kami sediakan laptop training, jika ada peserta yang tidak membawa laptop",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri",
+        "Lab menggunakan laptop dengan spesifikasi tinggi",
+        "Kami sediakan laptop training, jika ada peserta yang tidak membawa laptop"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Salah satu pengetahuan yang wajib dimiliki oleh seorang System Administrator adalah mampu melakukan administrasi virtualisasi server. VMware vSphere sendiri adalah produk yang dibuat oleh VMware dalam melakukan virtualisasi server berbasis bare-metal. Apabila anda memilih IDN sebagai training partner anda dalam menguasai VMware vSphere Administration merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator yang mampu melakukan implementasi dan manajemen jika telah selesai mengikuti training ini. Training VMware vSphere di IDN adalah training non-authorized, sehingga apabila peserta ingin melakukan ujian VCP-DCV makan peserta tetap wajib mengikuti training authorized terlebih dahulu. Akan tetapi materi yang disampaikan pada training tetap memiliki standard dan kualitas sama dengan training authorized.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi VMware vSphere dan VMware vCenter Peserta dapat memahami langkah-langkah troubleshooting pada VMware vSphere Peserta juga akan bergabung di grup WhatsApp Training VMware vSphere. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan VMware vSphere. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "items": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi VMware vSphere dan VMware vCenter",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada VMware vSphere",
+        "Peserta juga akan bergabung di grup WhatsApp Training VMware vSphere. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan VMware vSphere.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Esa Nugraha (CKA, CKAD) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+        "AJi Mufti Zakaria (COA, CKA)",
+        "Esa Nugraha (CKA, CKAD)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Materi cukup menarik dan bermanfaat, baik dalam penyampaian dan profesional”, Dwi Hardiyono Ruangan dan fasilitasnya bagus, cukup memadai, Penyampaian baik dan cukup jelas, update pengetahuan beberapa fitur baru di vmware vsphere & vcenter”, Ahmad Hisbullah “Mendapatkan ilmu baru, trainer sangat friendly dan bisa menjelaskan dengan mudah di mengerti, mendapatkan ilmu baru yang bisa di implementasikan di kantor atau di luar”, Achmad fauzi ferdiansyah",
+      "items": []
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Implementasi Vsphere Host Lab 1. Install ESXI Sever Lab 2. Manegement Configure Server ESXI Vsphere Client Lab 3. Management Storage Vsphere Lab 4. Install OS di Vsphere Host Lab 5. Deploy dan Eksport OVF Lab 6. Installasi menggunakan CD/DVD ROM Client Lab 7. install Vmtools Windows Lab 8. install Vmtools Linux Menejemen Vsphere Configuration Lab 9. Menambahakan Licensed Vspher host Lab 10. Automatic Start UP Vspher host Lab 11. Setting SSH Vspher host Lab 12. Virtual Switch Lab 13. Konfigurasi Vsphere Networking Lab 14. User Authentifikasi Manager Implementasi Vsphere Power CLI Lab 15. Install Power Cli Lab 16. Conect to Vsphere Host with Power CLI Lab 17. Menjalankan VM dengan Power CLI Lab 18. Mematikan VM dengan Power CLI Lab 19. Restart VM dengan Power CLI Implementasi Vcenter Lab 20. Deploying Vcenter Lab 21. Login Vcenter web Client Lab 21. Installasi Vsphere Plugin Lab 22. Login Vcenter menggunakan Vsphere Lab 23. User Authentification Lab 24. Adding Vsphere Host to Vcenter Lab 25. Memisahkan file kedalam folder di menu VMS and Template Lab 26. Menggunakan Schedule Task Vcenter Lab 27. Menggunakan Alarm pada Vcenter Menjemen Vcenter Lab 28. Backup dan Restore Lab 29. Snapshoot Backup System Lab 30. Konfigurasi PV (Phisical to Virtual) Lab 31. Backup Data VM Menggunakan SSH Lab 32. Backup Melalui Data Store Lab 33. Vmware Data Recovery dan Data Protection Vmware Storage Lab 34. Install FreeNas Lab 35. Konfigurasi FreeNAS NFS Share Lab 36. Konfigurasi FreeNAS ISCSI Share Lab 37. Konfigurasi ESXI dengan NFS dan ISCSI Vmware Vsphere Migration or Vmotion Lab 38. Konfigurasi Vmware Vsphere Vmotion Lab 39. Penggunaan Vmware Vsphere Vmotion Vmware Vsphere Cluster Lab 40. Vsphere OverView Lab 41. Vsphere Cluster Lab 42. Menambahkan Host di Cluster Lab 43. Aktivasi HA (haight Availability) Lab 44. Destrubuted Resource Schulder(DRS)",
+      "items": [
+        {
+          "title": "Implementasi Vsphere Host",
+          "items": [
+            "Lab 1. Install ESXI Sever",
+            "Lab 2. Manegement Configure Server ESXI"
+          ]
+        },
+        {
+          "title": "Vsphere Client",
+          "items": [
+            "Lab 3. Management Storage Vsphere",
+            "Lab 4. Install OS di Vsphere Host",
+            "Lab 5. Deploy dan Eksport OVF",
+            "Lab 6. Installasi menggunakan CD/DVD ROM Client",
+            "Lab 7. install Vmtools Windows",
+            "Lab 8. install Vmtools Linux"
+          ]
+        },
+        {
+          "title": "Menejemen Vsphere Configuration",
+          "items": [
+            "Lab 9. Menambahakan Licensed Vspher host",
+            "Lab 10. Automatic Start UP Vspher host",
+            "Lab 11. Setting SSH Vspher host",
+            "Lab 12. Virtual Switch",
+            "Lab 13. Konfigurasi Vsphere Networking",
+            "Lab 14. User Authentifikasi Manager"
+          ]
+        },
+        {
+          "title": "Implementasi Vsphere Power CLI",
+          "items": [
+            "Lab 15. Install Power Cli",
+            "Lab 16. Conect to Vsphere Host with Power CLI",
+            "Lab 17. Menjalankan VM dengan Power CLI",
+            "Lab 18. Mematikan VM dengan Power CLI",
+            "Lab 19. Restart VM dengan Power CLI"
+          ]
+        },
+        {
+          "title": "Implementasi Vcenter",
+          "items": [
+            "Lab 20. Deploying Vcenter",
+            "Lab 21. Login Vcenter web Client",
+            "Lab 21. Installasi Vsphere Plugin",
+            "Lab 22. Login Vcenter menggunakan Vsphere",
+            "Lab 23. User Authentification",
+            "Lab 24. Adding Vsphere Host to Vcenter",
+            "Lab 25. Memisahkan file kedalam folder di menu VMS and Template",
+            "Lab 26. Menggunakan Schedule Task Vcenter",
+            "Lab 27. Menggunakan Alarm pada Vcenter"
+          ]
+        },
+        {
+          "title": "Menjemen Vcenter",
+          "items": [
+            "Lab 28. Backup dan Restore",
+            "Lab 29. Snapshoot Backup System",
+            "Lab 30. Konfigurasi PV (Phisical to Virtual)",
+            "Lab 31. Backup Data VM Menggunakan SSH",
+            "Lab 32. Backup Melalui Data Store",
+            "Lab 33. Vmware Data Recovery dan Data Protection"
+          ]
+        },
+        {
+          "title": "Vmware Storage",
+          "items": [
+            "Lab 34. Install FreeNas",
+            "Lab 35. Konfigurasi FreeNAS NFS Share",
+            "Lab 36. Konfigurasi FreeNAS ISCSI Share",
+            "Lab 37. Konfigurasi ESXI dengan NFS dan ISCSI"
+          ]
+        },
+        {
+          "title": "Vmware Vsphere Migration or Vmotion",
+          "items": [
+            "Lab 38. Konfigurasi Vmware Vsphere Vmotion",
+            "Lab 39. Penggunaan Vmware Vsphere Vmotion"
+          ]
+        },
+        {
+          "title": "Vmware Vsphere Cluster",
+          "items": [
+            "Lab 40. Vsphere OverView",
+            "Lab 41. Vsphere Cluster",
+            "Lab 42. Menambahkan Host di Cluster",
+            "Lab 43. Aktivasi HA (haight Availability)",
+            "Lab 44. Destrubuted Resource Schulder(DRS)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "VMWARE VSPHERE ADMIN",
+    "content_hash": "9a6fd7b75cb95fe106dc8ae3b6953328628f18756616f93cee6b4b29f4f30665",
+    "template_type": "BETTERDOCS"
+  }
+}

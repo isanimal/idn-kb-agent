@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/cisco-aci/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Kursus Implementing Cisco Application Centric Infrastructure (DCACI) akan memberikan gambaran kepada Anda cara menerapkan dan mengelola Switch Cisco® Nexus® 9000 Series dalam mode Cisco Application Centric Infrastructure (Cisco ACI®). Anda akan mempelajari cara mengonfigurasi dan mengelola Switch Cisco Nexus 9000 Series dalam mode ACI, cara menghubungkan Cisco ACI fabric ke jaringan dan layanan eksternal, dan dasar-dasar integrasi Virtual Machine Manager (VMM). Anda akan mendapatkan praktik langsung dalam mengimplementasikan kemampuan utama seperti fabric discovery, kebijakan, konektivitas, VMM integration, dan banyak lagi.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/cisco-aci/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/cisco-aci/",
+      "source_section": "Biaya Investasi : Rp 3.500.000,-",
+      "source_text": "Biaya Investasi : Rp 3.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/cisco-aci/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum ACI Basic Introduction Cisco ACI Cisco ACI Architecture Leaf-n-Spine Design APIC Overview Zero Touch Provisioning Nexus Overview Underlay & Overlay ACI Tenant Components Configure the Basics Connecting VMware ESXi to Cisco ACI Create Tenant, EPGs and Port Groups in APIC Working with Contracts Configuring Application Profile",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Page title",
+        "source_text": "Cisco ACI for Data Center",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Training registry",
+        "source_text": "Cisco",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/cisco-aci/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

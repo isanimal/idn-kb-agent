@@ -1,0 +1,372 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Kubernetes Application Developer – CKAD",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+          "source_section": "Page title",
+          "source_text": "Kubernetes Application Developer – CKAD",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Orchestration",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+          "source_section": "Training registry",
+          "source_text": "Orchestration",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Training CKAD ini menguji kemampuan seseorang dalam merancang, membangun, mengonfigurasi, dan mengekspos aplikasi cloud-native untuk Kubernetes. Seorang profesional yang menguasai CKAD diharapkan memiliki pengetahuan mendalam tentang konsep dan praktik terbaik yang terkait dengan pengembangan aplikasi dalam konteks Kubernetes. Training ini juga sebagai bentuk persiapan atau bekal materi peserta sebelum mengikuti ujian sertifikasi international CKAD.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Training CKAD ini menguji kemampuan seseorang dalam merancang, membangun, mengonfigurasi, dan mengekspos aplikasi cloud-native untuk Kubernetes. Seorang profesional yang menguasai CKAD diharapkan memiliki pengetahuan mendalam tentang konsep dan praktik terbaik yang terkait dengan pengembangan aplikasi dalam konteks Kubernetes. Training ini juga sebagai bentuk persiapan atau bekal materi peserta sebelum mengikuti ujian sertifikasi international CKAD.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 4.000.000",
+      "amount": 4000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Biaya Investasi : Rp 4.000.000,-",
+        "source_text": "Biaya Investasi : Rp 4.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Define, build and modify container images",
+      "Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.)",
+      "Understand multi-container Pod design patterns (e.g. sidecar, init and others)",
+      "Utilize persistent and ephemeral volumes",
+      "Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary)",
+      "Understand Deployments and how to perform rolling updates",
+      "Use the Helm package manager to deploy existing packages",
+      "Kustomize",
+      "Understand API deprecations",
+      "Implement probes and health checks",
+      "Use built-in CLI tools to monitor Kubernetes applications",
+      "Utilize container logs",
+      "Debugging in Kubernetes",
+      "Discover and use resources that extend Kubernetes (CRD, Operators)",
+      "Understand authentication, authorization and admission control",
+      "Understand requests, limits, quotas",
+      "Understand ConfigMaps",
+      "Define resource requirements",
+      "Create & consume Secrets",
+      "Understand ServiceAccounts",
+      "Understand Application Security (SecurityContexts, Capabilities, etc.)",
+      "Demonstrate basic understanding of NetworkPolicies",
+      "Provide and troubleshoot access to applications via services",
+      "Use Ingress rules to expose applications"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Module 1. Application Design and Build Define, build and modify container images Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.) Understand multi-container Pod design patterns (e.g. sidecar, init and others) Utilize persistent and ephemeral volumes Module 2. Application Deployment Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary) Understand Deployments and how to perform rolling updates Use the Helm package manager to deploy existing packages Kustomize Module 3. Application observability and maintenance Understand API deprecations Implement probes and health checks Use built-in CLI tools to monitor Kubernetes applications Utilize container logs Debugging in Kubernetes Module 4. Application Environtment, Configuration and Security Discover and use resources that extend Kubernetes (CRD, Operators) Understand authentication, authorization and admission control Understand requests, limits, quotas Understand ConfigMaps Define resource requirements Create & consume Secrets Understand ServiceAccounts Understand Application Security (SecurityContexts, Capabilities, etc.) Module 5. Services and Networking Demonstrate basic understanding of NetworkPolicies Provide and troubleshoot access to applications via services Use Ingress rules to expose applications",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Pelatihan CKAD tidak hanya mempersiapkan Anda untuk ujian, tetapi juga memberikan pemahaman mendalam tentang konsep-konsep Kubernetes, praktik terbaik, dan cara efisien mengelola aplikasi di dalam kontainer.",
+      "Dengan memahami dengan baik konsep-konsep Kubernetes, Anda dapat mengembangkan dan mendeploy aplikasi secara lebih efisien. Ini dapat menghemat waktu dan sumber daya dalam siklus pengembangan perangkat lunak.",
+      "Melalui pelatihan CKAD, Anda akan mendapatkan pemahaman yang lebih dalam tentang praktik terbaik dalam pengembangan dan manajemen aplikasi di Kubernetes. Hal ini dapat membantu meningkatkan kualitas solusi yang Anda kembangkan.",
+      "CKAD mempersiapkan Anda untuk menghadapi tantangan dalam pengembangan aplikasi di lingkungan cloud-native. Ini sangat penting mengingat pergeseran industri menuju solusi-solusi berbasis kontainer."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Pelatihan CKAD tidak hanya mempersiapkan Anda untuk ujian, tetapi juga memberikan pemahaman mendalam tentang konsep-konsep Kubernetes, praktik terbaik, dan cara efisien mengelola aplikasi di dalam kontainer. Dengan memahami dengan baik konsep-konsep Kubernetes, Anda dapat mengembangkan dan mendeploy aplikasi secara lebih efisien. Ini dapat menghemat waktu dan sumber daya dalam siklus pengembangan perangkat lunak. Melalui pelatihan CKAD, Anda akan mendapatkan pemahaman yang lebih dalam tentang praktik terbaik dalam pengembangan dan manajemen aplikasi di Kubernetes. Hal ini dapat membantu meningkatkan kualitas solusi yang Anda kembangkan. CKAD mempersiapkan Anda untuk menghadapi tantangan dalam pengembangan aplikasi di lingkungan cloud-native. Ini sangat penting mengingat pergeseran industri menuju solusi-solusi berbasis kontainer.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Networking Fundamentals",
+      "Linux Fundamentals",
+      "Linux Administration",
+      "Container Fundamentals"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Sebelum mengikuti training inin diharapkan peserta sudah paham materi-materi dibawah ini: Networking Fundamentals Linux Fundamentals Linux Administration Container Fundamentals Notes: Jika belum paham materi-materi diatas, bisa pelajari terlebih dahulu secara gratis melalui link berikut >> https://lms.idn.id/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+      "Esa Nugraha (CKA, CKAD)",
+      "AMAR (CKA, System Administrator)",
+      "DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD) AMAR (CKA, System Administrator) DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis Mengulang training sebanyak 2x tanpa syarat",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+        "source_section": "Mengapa Harus Training Kubernetes Application Developer (CKAD) di IDN ?",
+        "source_text": "Mengapa Harus Training Kubernetes Application Developer (CKAD) di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project) Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis Mengulang training sebanyak 2x tanpa syarat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Kubernetes Application Developer (CKAD) di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis Mengulang training sebanyak 2x tanpa syarat, jika dirasa belum paham.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup",
+        "Biaya training murah dibanding tempat-tempat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri",
+        "Gratis Mengulang training sebanyak 2x tanpa syarat, jika dirasa belum paham."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Training CKAD ini menguji kemampuan seseorang dalam merancang, membangun, mengonfigurasi, dan mengekspos aplikasi cloud-native untuk Kubernetes. Seorang profesional yang menguasai CKAD diharapkan memiliki pengetahuan mendalam tentang konsep dan praktik terbaik yang terkait dengan pengembangan aplikasi dalam konteks Kubernetes. Training ini juga sebagai bentuk persiapan atau bekal materi peserta sebelum mengikuti ujian sertifikasi international CKAD.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Pelatihan CKAD tidak hanya mempersiapkan Anda untuk ujian, tetapi juga memberikan pemahaman mendalam tentang konsep-konsep Kubernetes, praktik terbaik, dan cara efisien mengelola aplikasi di dalam kontainer. Dengan memahami dengan baik konsep-konsep Kubernetes, Anda dapat mengembangkan dan mendeploy aplikasi secara lebih efisien. Ini dapat menghemat waktu dan sumber daya dalam siklus pengembangan perangkat lunak. Melalui pelatihan CKAD, Anda akan mendapatkan pemahaman yang lebih dalam tentang praktik terbaik dalam pengembangan dan manajemen aplikasi di Kubernetes. Hal ini dapat membantu meningkatkan kualitas solusi yang Anda kembangkan. CKAD mempersiapkan Anda untuk menghadapi tantangan dalam pengembangan aplikasi di lingkungan cloud-native. Ini sangat penting mengingat pergeseran industri menuju solusi-solusi berbasis kontainer.",
+      "items": [
+        "Pelatihan CKAD tidak hanya mempersiapkan Anda untuk ujian, tetapi juga memberikan pemahaman mendalam tentang konsep-konsep Kubernetes, praktik terbaik, dan cara efisien mengelola aplikasi di dalam kontainer.",
+        "Dengan memahami dengan baik konsep-konsep Kubernetes, Anda dapat mengembangkan dan mendeploy aplikasi secara lebih efisien. Ini dapat menghemat waktu dan sumber daya dalam siklus pengembangan perangkat lunak.",
+        "Melalui pelatihan CKAD, Anda akan mendapatkan pemahaman yang lebih dalam tentang praktik terbaik dalam pengembangan dan manajemen aplikasi di Kubernetes. Hal ini dapat membantu meningkatkan kualitas solusi yang Anda kembangkan.",
+        "CKAD mempersiapkan Anda untuk menghadapi tantangan dalam pengembangan aplikasi di lingkungan cloud-native. Ini sangat penting mengingat pergeseran industri menuju solusi-solusi berbasis kontainer."
+      ]
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Sebelum mengikuti training inin diharapkan peserta sudah paham materi-materi dibawah ini: Networking Fundamentals Linux Fundamentals Linux Administration Container Fundamentals Notes: Jika belum paham materi-materi diatas, bisa pelajari terlebih dahulu secara gratis melalui link berikut >> https://lms.idn.id/",
+      "items": [
+        "Networking Fundamentals",
+        "Linux Fundamentals",
+        "Linux Administration",
+        "Container Fundamentals"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD) AMAR (CKA, System Administrator) DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)",
+      "items": [
+        "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+        "Esa Nugraha (CKA, CKAD)",
+        "AMAR (CKA, System Administrator)",
+        "DENI RISMANTO (RHCSA, AWS CCP, CKA, CKAD)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1. Application Design and Build Define, build and modify container images Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.) Understand multi-container Pod design patterns (e.g. sidecar, init and others) Utilize persistent and ephemeral volumes Module 2. Application Deployment Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary) Understand Deployments and how to perform rolling updates Use the Helm package manager to deploy existing packages Kustomize Module 3. Application observability and maintenance Understand API deprecations Implement probes and health checks Use built-in CLI tools to monitor Kubernetes applications Utilize container logs Debugging in Kubernetes Module 4. Application Environtment, Configuration and Security Discover and use resources that extend Kubernetes (CRD, Operators) Understand authentication, authorization and admission control Understand requests, limits, quotas Understand ConfigMaps Define resource requirements Create & consume Secrets Understand ServiceAccounts Understand Application Security (SecurityContexts, Capabilities, etc.) Module 5. Services and Networking Demonstrate basic understanding of NetworkPolicies Provide and troubleshoot access to applications via services Use Ingress rules to expose applications",
+      "items": [
+        "Define, build and modify container images",
+        "Choose and use the right workload resource (Deployment, DaemonSet, CronJob, etc.)",
+        "Understand multi-container Pod design patterns (e.g. sidecar, init and others)",
+        "Utilize persistent and ephemeral volumes",
+        "Use Kubernetes primitives to implement common deployment strategies (e.g. blue/green or canary)",
+        "Understand Deployments and how to perform rolling updates",
+        "Use the Helm package manager to deploy existing packages",
+        "Kustomize",
+        "Understand API deprecations",
+        "Implement probes and health checks",
+        "Use built-in CLI tools to monitor Kubernetes applications",
+        "Utilize container logs",
+        "Debugging in Kubernetes",
+        "Discover and use resources that extend Kubernetes (CRD, Operators)",
+        "Understand authentication, authorization and admission control",
+        "Understand requests, limits, quotas",
+        "Understand ConfigMaps",
+        "Define resource requirements",
+        "Create & consume Secrets",
+        "Understand ServiceAccounts",
+        "Understand Application Security (SecurityContexts, Capabilities, etc.)",
+        "Demonstrate basic understanding of NetworkPolicies",
+        "Provide and troubleshoot access to applications via services",
+        "Use Ingress rules to expose applications"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 4.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Kubernetes Application Developer – CKAD",
+    "content_hash": "06ba4ead5f2911bd6c9dd198d820ae75556f5685affcd5d9c7e048109ce506ce",
+    "template_type": "BETTERDOCS"
+  }
+}

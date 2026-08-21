@@ -1,0 +1,14 @@
+{
+  "training_source_id": 92,
+  "canonical_url": "https://www.idn.id/training/sertifikasi-bnsp-junior-mobile-programmer/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "08e5aecb5427d449bae4f0e26ec347dbfe7a233406ec0a1abe19a97ee9779d65",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:05.225607+00:00",
+  "facts_path": "data\\products\\sertifikasi-bnsp-junior-mobile-programmer\\facts.json",
+  "evidence_path": "data\\products\\sertifikasi-bnsp-junior-mobile-programmer\\evidence.json",
+  "raw_snapshot_path": "data\\products\\sertifikasi-bnsp-junior-mobile-programmer\\raw.html",
+  "last_error": null
+}

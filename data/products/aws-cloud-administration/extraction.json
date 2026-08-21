@@ -1,0 +1,14 @@
+{
+  "training_source_id": 53,
+  "canonical_url": "https://www.idn.id/training/aws-cloud-administration/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "2277349293e470e6baac56f45f61013ca3f67dc038d983e7a66500ef2f2e1f2e",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:40.656356+00:00",
+  "facts_path": "data\\products\\aws-cloud-administration\\facts.json",
+  "evidence_path": "data\\products\\aws-cloud-administration\\evidence.json",
+  "raw_snapshot_path": "data\\products\\aws-cloud-administration\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 29,
+  "canonical_url": "https://www.idn.id/training/redhat/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "a7fcf41970e18ea09ce1728c92beff5db557b48c94148b3d333bc8ea37e8bb44",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:25.813908+00:00",
+  "facts_path": "data\\products\\redhat\\facts.json",
+  "evidence_path": "data\\products\\redhat\\evidence.json",
+  "raw_snapshot_path": "data\\products\\redhat\\raw.html",
+  "last_error": null
+}

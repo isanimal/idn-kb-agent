@@ -1,0 +1,405 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "PostgreSQL Server Administrator",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+          "source_section": "Page title",
+          "source_text": "PostgreSQL Server Administrator",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Database Admin",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+          "source_section": "Training registry",
+          "source_text": "Database Admin",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/postgresql-server-administrator/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/postgresql-server-administrator/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training PostgreSQL Server Administrator dirancang untuk membekali peserta dengan kemampuan mengelola, mengamankan, memonitor, dan melakukan optimasi database PostgreSQL pada lingkungan production. Pelatihan ini cocok bagi IT Support, System Administrator, Database Administrator (DBA), DevOps Engineer, maupun praktisi IT yang ingin memahami administrasi database PostgreSQL secara profesional. Dalam pelatihan ini, peserta akan mempelajari instalasi dan konfigurasi PostgreSQL, manajemen user dan hak akses, backup & recovery database, monitoring performa server, replication, tuning performa, hingga troubleshooting permasalahan database yang umum terjadi di lingkungan enterprise. Pelatihan disampaikan secara praktik langsung (hands-on lab) sehingga peserta dapat memahami implementasi PostgreSQL secara nyata dan siap diterapkan di dunia kerja maupun kebutuhan infrastruktur perusahaan.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training PostgreSQL Server Administrator dirancang untuk membekali peserta dengan kemampuan mengelola, mengamankan, memonitor, dan melakukan optimasi database PostgreSQL pada lingkungan production. Pelatihan ini cocok bagi IT Support, System Administrator, Database Administrator (DBA), DevOps Engineer, maupun praktisi IT yang ingin memahami administrasi database PostgreSQL secara profesional. Dalam pelatihan ini, peserta akan mempelajari instalasi dan konfigurasi PostgreSQL, manajemen user dan hak akses, backup & recovery database, monitoring performa server, replication, tuning performa, hingga troubleshooting permasalahan database yang umum terjadi di lingkungan enterprise. Pelatihan disampaikan secara praktik langsung (hands-on lab) sehingga peserta dapat memahami implementasi PostgreSQL secara nyata dan siap diterapkan di dunia kerja maupun kebutuhan infrastruktur perusahaan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.300.000",
+      "amount": 3300000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+        "source_section": "Biaya Investasi : Rp 3.300.000,-",
+        "source_text": "Biaya Investasi : Rp 3.300.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1. Introduction and Architectural Overview",
+        "items": [
+          "History of PostgreSQL",
+          "Major Features",
+          "Architectural Overview",
+          "General Database Limit",
+          "Lab Setup Guidelines"
+        ]
+      },
+      {
+        "title": "Module 2. Setup PostgreSQL",
+        "items": [
+          "Deployment Options",
+          "OS User and Permissions",
+          "Package Installation",
+          "Installation Example and Practice Labs",
+          "Setting Environtmental Variables"
+        ]
+      },
+      {
+        "title": "Module 3. PostgreSQL Administration",
+        "items": [
+          "User Tools (Introduction psql, Connecting to Database, psql Command Line Parameters)",
+          "Database Clusters (Database Clusters, Creating a Database Cluster, Starting and Stopping the Server (pg_ctl), Connecting to the Server Using psql)",
+          "Configuration (Server Parameter File – postgresql.conf, Viewing and Changing Server Parameters, Configuration Parameters – Security, Resources and WAL, Configuration Parameters – Error Logging, Planner and Maintenance)",
+          "Data Dictionary (The System Catalog Schema, System Information Tables and Views, System Information and Administration Functions)",
+          "Creating & Managing Databases (Object Hierarchy, Users and Roles, Tablespaces, Databases, Access Control, Creating Schemas, Schema Search Path)",
+          "Database Security (Database Security Requirements and Protection Plan, Levels of Security in Postgres, Access Control using pg_hba.conf)",
+          "Monitoring & Admin Tools"
+        ]
+      },
+      {
+        "title": "Module 4. Backup and Recovery",
+        "items": [
+          "Backup type",
+          "Database SQL Dumps",
+          "Restoring SQL Dumps",
+          "Offline Physical Backups",
+          "Continuous Archiving",
+          "Online Physical Backups Using pg_basebackup"
+        ]
+      },
+      {
+        "title": "Module 5. Replication, Load Balancing and High Availability",
+        "items": [
+          "Data replication",
+          "Data replication in postgresql",
+          "Streaming Replication and Architecture",
+          "Synchronous vs Asynchronous",
+          "Setup Streaming Replication",
+          "Logical Replication Architecture",
+          "Overview pgpool2",
+          "pgpool2 load balancing",
+          "pgpool2 failover"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Module 1. Introduction and Architectural Overview History of PostgreSQL Major Features Architectural Overview General Database Limit Lab Setup Guidelines Module 2. Setup PostgreSQL Deployment Options OS User and Permissions Package Installation Installation Example and Practice Labs Setting Environtmental Variables Module 3. PostgreSQL Administration User Tools (Introduction psql, Connecting to Database, psql Command Line Parameters) Database Clusters (Database Clusters, Creating a Database Cluster, Starting and Stopping the Server (pg_ctl), Connecting to the Server Using psql) Configuration (Server Parameter File – postgresql.conf, Viewing and Changing Server Parameters, Configuration Parameters – Security, Resources and WAL, Configuration Parameters – Error Logging, Planner and Maintenance) Data Dictionary (The System Catalog Schema, System Information Tables and Views, System Information and Administration Functions) Creating & Managing Databases (Object Hierarchy, Users and Roles, Tablespaces, Databases, Access Control, Creating Schemas, Schema Search Path) Database Security (Database Security Requirements and Protection Plan, Levels of Security in Postgres, Access Control using pg_hba.conf) Monitoring & Admin Tools Module 4. Backup and Recovery Backup type Database SQL Dumps Restoring SQL Dumps Offline Physical Backups Continuous Archiving Online Physical Backups Using pg_basebackup Module 5. Replication, Load Balancing and High Availability Data replication Data replication in postgresql Streaming Replication and Architecture Synchronous vs Asynchronous Setup Streaming Replication Logical Replication Architecture Overview pgpool2 pgpool2 load balancing pgpool2 failover",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Memahami administrasi PostgreSQL dari dasar hingga menengah",
+      "Mampu melakukan maintenance dan optimasi database server",
+      "Memahami konsep backup, recovery, dan keamanan database",
+      "Mendapatkan pengalaman praktik langsung menggunakan PostgreSQL",
+      "Menambah kompetensi administrasi database open-source yang banyak digunakan industri"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Memahami administrasi PostgreSQL dari dasar hingga menengah Mampu melakukan maintenance dan optimasi database server Memahami konsep backup, recovery, dan keamanan database Mendapatkan pengalaman praktik langsung menggunakan PostgreSQL Menambah kompetensi administrasi database open-source yang banyak digunakan industri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-server-administrator/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training PostgreSQL Server Administrator di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek. Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia.",
+      "items": [
+        "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek.",
+        "Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training PostgreSQL Server Administrator dirancang untuk membekali peserta dengan kemampuan mengelola, mengamankan, memonitor, dan melakukan optimasi database PostgreSQL pada lingkungan production. Pelatihan ini cocok bagi IT Support, System Administrator, Database Administrator (DBA), DevOps Engineer, maupun praktisi IT yang ingin memahami administrasi database PostgreSQL secara profesional. Dalam pelatihan ini, peserta akan mempelajari instalasi dan konfigurasi PostgreSQL, manajemen user dan hak akses, backup & recovery database, monitoring performa server, replication, tuning performa, hingga troubleshooting permasalahan database yang umum terjadi di lingkungan enterprise. Pelatihan disampaikan secara praktik langsung (hands-on lab) sehingga peserta dapat memahami implementasi PostgreSQL secara nyata dan siap diterapkan di dunia kerja maupun kebutuhan infrastruktur perusahaan.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Memahami administrasi PostgreSQL dari dasar hingga menengah Mampu melakukan maintenance dan optimasi database server Memahami konsep backup, recovery, dan keamanan database Mendapatkan pengalaman praktik langsung menggunakan PostgreSQL Menambah kompetensi administrasi database open-source yang banyak digunakan industri",
+      "items": [
+        "Memahami administrasi PostgreSQL dari dasar hingga menengah",
+        "Mampu melakukan maintenance dan optimasi database server",
+        "Memahami konsep backup, recovery, dan keamanan database",
+        "Mendapatkan pengalaman praktik langsung menggunakan PostgreSQL",
+        "Menambah kompetensi administrasi database open-source yang banyak digunakan industri"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "items": [
+        "Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1. Introduction and Architectural Overview History of PostgreSQL Major Features Architectural Overview General Database Limit Lab Setup Guidelines Module 2. Setup PostgreSQL Deployment Options OS User and Permissions Package Installation Installation Example and Practice Labs Setting Environtmental Variables Module 3. PostgreSQL Administration User Tools (Introduction psql, Connecting to Database, psql Command Line Parameters) Database Clusters (Database Clusters, Creating a Database Cluster, Starting and Stopping the Server (pg_ctl), Connecting to the Server Using psql) Configuration (Server Parameter File – postgresql.conf, Viewing and Changing Server Parameters, Configuration Parameters – Security, Resources and WAL, Configuration Parameters – Error Logging, Planner and Maintenance) Data Dictionary (The System Catalog Schema, System Information Tables and Views, System Information and Administration Functions) Creating & Managing Databases (Object Hierarchy, Users and Roles, Tablespaces, Databases, Access Control, Creating Schemas, Schema Search Path) Database Security (Database Security Requirements and Protection Plan, Levels of Security in Postgres, Access Control using pg_hba.conf) Monitoring & Admin Tools Module 4. Backup and Recovery Backup type Database SQL Dumps Restoring SQL Dumps Offline Physical Backups Continuous Archiving Online Physical Backups Using pg_basebackup Module 5. Replication, Load Balancing and High Availability Data replication Data replication in postgresql Streaming Replication and Architecture Synchronous vs Asynchronous Setup Streaming Replication Logical Replication Architecture Overview pgpool2 pgpool2 load balancing pgpool2 failover",
+      "items": [
+        {
+          "title": "Module 1. Introduction and Architectural Overview",
+          "items": [
+            "History of PostgreSQL",
+            "Major Features",
+            "Architectural Overview",
+            "General Database Limit",
+            "Lab Setup Guidelines"
+          ]
+        },
+        {
+          "title": "Module 2. Setup PostgreSQL",
+          "items": [
+            "Deployment Options",
+            "OS User and Permissions",
+            "Package Installation",
+            "Installation Example and Practice Labs",
+            "Setting Environtmental Variables"
+          ]
+        },
+        {
+          "title": "Module 3. PostgreSQL Administration",
+          "items": [
+            "User Tools (Introduction psql, Connecting to Database, psql Command Line Parameters)",
+            "Database Clusters (Database Clusters, Creating a Database Cluster, Starting and Stopping the Server (pg_ctl), Connecting to the Server Using psql)",
+            "Configuration (Server Parameter File – postgresql.conf, Viewing and Changing Server Parameters, Configuration Parameters – Security, Resources and WAL, Configuration Parameters – Error Logging, Planner and Maintenance)",
+            "Data Dictionary (The System Catalog Schema, System Information Tables and Views, System Information and Administration Functions)",
+            "Creating & Managing Databases (Object Hierarchy, Users and Roles, Tablespaces, Databases, Access Control, Creating Schemas, Schema Search Path)",
+            "Database Security (Database Security Requirements and Protection Plan, Levels of Security in Postgres, Access Control using pg_hba.conf)",
+            "Monitoring & Admin Tools"
+          ]
+        },
+        {
+          "title": "Module 4. Backup and Recovery",
+          "items": [
+            "Backup type",
+            "Database SQL Dumps",
+            "Restoring SQL Dumps",
+            "Offline Physical Backups",
+            "Continuous Archiving",
+            "Online Physical Backups Using pg_basebackup"
+          ]
+        },
+        {
+          "title": "Module 5. Replication, Load Balancing and High Availability",
+          "items": [
+            "Data replication",
+            "Data replication in postgresql",
+            "Streaming Replication and Architecture",
+            "Synchronous vs Asynchronous",
+            "Setup Streaming Replication",
+            "Logical Replication Architecture",
+            "Overview pgpool2",
+            "pgpool2 load balancing",
+            "pgpool2 failover"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.300.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "PostgreSQL Server Administrator",
+    "content_hash": "602da458485c2ff67fe35d33c8b18240adb68b173e8a33fd43af15e4bb700019",
+    "template_type": "BETTERDOCS"
+  }
+}

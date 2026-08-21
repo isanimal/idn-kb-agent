@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah. Training HCIA (Huawei Certified ICT Associate) Datacom ini adalah langkah pertama atau level dasar dari sertifikasi Huawei HCIA-Datacom. Dalam training ini, Anda akan mempelajari konsep-konsep dasar jaringan, termasuk routing dan switching, instalasi dan konfigurasi perangkat Huawei, hingga troubleshooting perangkat Huawei. Di IDN, kami tidak hanya fokus pada teori, tetapi juga memberikan pelatihan praktis yang mendalam sehingga Anda siap untuk menghadapi tantangan di dunia nyata. Dengan mengikuti training ini, Anda akan mendapatkan fondasi yang kuat untuk karier yang sukses di dunia jaringan, serta membuka peluang untuk melanjutkan ke level sertifikasi yang lebih tinggi seperti HCIP dan HCIE.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "source_section": "Biaya Investasi : Rp 2.800.000",
+      "source_text": "Biaya Investasi : Rp 2.800.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "source_section": "kurikulum",
+      "source_text": "kurikulum Huawei VRP Introduction Network Access & Network Services FTP/TFTP DHCP Telnet / STelnet Local AAA Ethernet Technology VLAN Spanning-tree Link Aggregation IP Connectivity for small-sized routing networks InterVLAN Router InterVLAN MLS Static Route IPv4 & IPv6 OSPFv2 Single Area Basic Principles and Configuration Methods of ACLs Basic NAT Principle, Application Scenarios and Configuration Methods Basic WLAN Configuration for small-sized networks",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Ferry Pratama (HCIA-Datacom, Comptia Network+, CCNP Enterprise, CCNA, JNCIA, JNCIS-SP, ITIL4-Foundation, UEWA, UBWA)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Page title",
+        "source_text": "Huawei HCIA Datacom",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Training registry",
+        "source_text": "Huawei",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/huawei-hcia-datacom/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

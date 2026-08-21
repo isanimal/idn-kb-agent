@@ -1,0 +1,474 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "MIKROTIK MTCNA + EXAM (Kelas Malam)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+          "source_section": "Page title",
+          "source_text": "MIKROTIK MTCNA + EXAM (Kelas Malam)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Mikrotik",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+          "source_section": "Training registry",
+          "source_text": "Mikrotik",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/mtcna-kelas-malam/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/mtcna-kelas-malam/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Mikrotik MTCNA + Exam (Kelas Malam) ini cocok sekali untuk Anda yang ingin memulai dan mengembangkan karir didunia network engineer, yang sehari-hari sibuk kerja atau kuliah dan ingin belajar MTCNA diluar jam kerja. MTCNA + Exam (kelas malam) ini akan dipelajari secara sistematis selama 10 Hari dari senin s.d jumat dilanjut lagi minggu depannya dari hari senin s.d jumat. Jam belajar mulai jam 19.30 s.d 21.30 WIB untuk setiap harinya. ID-Networkers (IDN.ID) saat ini tercatat sebagai salah satu Mikrotik Training partner terbaik bukan hanya di Indonesia bahkan di Asia dengan Rating saat ini 5/5 (1293 votes) dengan average student result 74%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training sekaligus berhak menyelenggarakan ujian sertifikasi internasional resmi dari MikroTik. MikroTik Certified Network Associate (MTCNA) merupakan sebuah program sertifikasi dari MikroTik untuk para Network Engineer pada tingkatan entry-level. Sertifikasi ini membantu Network Engineer untuk memahami dasar-dasar networking dan meningkatkan atau memberi nilai tambah pada Network Engineer tersebut. Training ini diperuntukkan bagi mereka yang ingin mempelajari dasar-dasar dan fungsi-fungsi yang terdapat pada MikroTik Routerboard, serta feature, implementasi dan troubleshoot secara umum. Training ini berisi teori dan praktek simulasi lab. Untuk mengikuti training dan ujian sertifikasi, peserta harus sudah memiliki dasar pengetahuan TCP/IP. Bagi yang belum memahami TCP/IP, bisa mengikuti pembelajaran jaringan dasar, gratis melalui link berikut https://lms.idn.id/courses/jaringan-dasar/ MTCNA merupakan sertifikat tingkat dasar pada Mikrotik. Pada track ini, peserta akan belajar melakukan konfigurasi Mikrotik RouterOS untuk deliver internet ke client, juga belajar me manage , dan basic troubleshooting . Selama training, peserta akan mendapat ilmu tentang bagaimana melakukan konfigurasi mikrotik untuk keperluan jaringan small size hingga medium size. Dihari terahir, peserta akan melakukan ujian sertifikasi dan akan langsung mendapat sertifikasi internasional jika lulus ujian. *(untuk kelas online teknis ujiannya tetap harus datang ke kantor ID-Networkers dan jadwal ujiannya bisa disesuaikan dengan jadwal yang tersedia). NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Mikrotik MTCNA + Exam (Kelas Malam) ini cocok sekali untuk Anda yang ingin memulai dan mengembangkan karir didunia network engineer, yang sehari-hari sibuk kerja atau kuliah dan ingin belajar MTCNA diluar jam kerja. MTCNA + Exam (kelas malam) ini akan dipelajari secara sistematis selama 10 Hari dari senin s.d jumat dilanjut lagi minggu depannya dari hari senin s.d jumat. Jam belajar mulai jam 19.30 s.d 21.30 WIB untuk setiap harinya. ID-Networkers (IDN.ID) saat ini tercatat sebagai salah satu Mikrotik Training partner terbaik bukan hanya di Indonesia bahkan di Asia dengan Rating saat ini 5/5 (1293 votes) dengan average student result 74%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training sekaligus berhak menyelenggarakan ujian sertifikasi internasional resmi dari MikroTik. MikroTik Certified Network Associate (MTCNA) merupakan sebuah program sertifikasi dari MikroTik untuk para Network Engineer pada tingkatan entry-level. Sertifikasi ini membantu Network Engineer untuk memahami dasar-dasar networking dan meningkatkan atau memberi nilai tambah pada Network Engineer tersebut. Training ini diperuntukkan bagi mereka yang ingin mempelajari dasar-dasar dan fungsi-fungsi yang terdapat pada MikroTik Routerboard, serta feature, implementasi dan troubleshoot secara umum. Training ini berisi teori dan praktek simulasi lab. Untuk mengikuti training dan ujian sertifikasi, peserta harus sudah memiliki dasar pengetahuan TCP/IP. Bagi yang belum memahami TCP/IP, bisa mengikuti pembelajaran jaringan dasar, gratis melalui link berikut https://lms.idn.id/courses/jaringan-dasar/ MTCNA merupakan sertifikat tingkat dasar pada Mikrotik. Pada track ini, peserta akan belajar melakukan konfigurasi Mikrotik RouterOS untuk deliver internet ke client, juga belajar me manage , dan basic troubleshooting . Selama training, peserta akan mendapat ilmu tentang bagaimana melakukan konfigurasi mikrotik untuk keperluan jaringan small size hingga medium size. Dihari terahir, peserta akan melakukan ujian sertifikasi dan akan langsung mendapat sertifikasi internasional jika lulus ujian. *(untuk kelas online teknis ujiannya tetap harus datang ke kantor ID-Networkers dan jadwal ujiannya bisa disesuaikan dengan jadwal yang tersedia). NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training Belajar Mikrotik MTCNA selama 10 Hari (senin s.d jumat dilanjut lagi minggu depannya dari senin s.d jumat) Pelaksanaan secara online via zoom meeting Jam belajar mulai pukul 19.30 s.d 21.30 WIB perharinya Jadwal terdekat tanggal 10, 11, 12, 13, 14, 17, 18, 19, 20, 21 Juni 2024",
+      "days": 10.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "19:30",
+        "end": "21:30",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training Belajar Mikrotik MTCNA selama 10 Hari (senin s.d jumat dilanjut lagi minggu depannya dari senin s.d jumat) Pelaksanaan secara online via zoom meeting Jam belajar mulai pukul 19.30 s.d 21.30 WIB perharinya Jadwal terdekat tanggal 10, 11, 12, 13, 14, 17, 18, 19, 20, 21 Juni 2024",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 2.800.000",
+        "amount": 2800000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 2.500.000",
+        "amount": 2500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+        "source_section": "Biaya Investasi : Rp 2.800.000 Rp 2.500.000",
+        "source_text": "Biaya Investasi : Rp 2.800.000 Rp 2.500.000 Biaya diatas sudah Include exam sertifikasi MTCNA dan Pembelian Routerboard RB941 untuk praktek Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1 MikroTik RouterOS Introduction",
+        "items": [
+          "First time accessing the router + lab",
+          "Setup internet connection via router + LAB",
+          "TCP/IP Basics",
+          "Upgrade RouterOS logins + LAB",
+          "Manage routerOS services",
+          "Backup and export/import configuration + LAB",
+          "RouterOS license",
+          "NTP client configuration",
+          "Netinstall + LAB"
+        ]
+      },
+      {
+        "title": "Module 2 MikroTik RouterOS firewall",
+        "items": [
+          "Firewall principles",
+          "Firewall filter in action",
+          "RouterOS connection tracking",
+          "Basic address list + LAB Source NAT",
+          "Destination NAT"
+        ]
+      },
+      {
+        "title": "Module 3 MikroTik RouterOS QoS",
+        "items": [
+          "Simpe Queue + LAB",
+          "Bandwidth test + LAB",
+          "Interface traffic monitor",
+          "PCQ Queueing"
+        ]
+      },
+      {
+        "title": "Module 4 MikroTik RouterOS Network Management",
+        "items": [
+          "ARP modes",
+          "RouterOS ARP table",
+          "DHCP server and client + LAB"
+        ]
+      },
+      {
+        "title": "Module 5 MikroTik RouterOS Wireless",
+        "items": [
+          "Setup simple wireless link + LAB",
+          "MAC address filtering + LAB",
+          "MAC address filtering + LAB",
+          "MikroTik wireless protocols + LAB"
+        ]
+      },
+      {
+        "title": "Module 6 MikroTik RouterOS Bridging",
+        "items": [
+          "Bridging concepts + Lab",
+          "Bridge wireless networks + LAB",
+          "Bridge wireless and remote networks + LAB"
+        ]
+      },
+      {
+        "title": "Module 7 MikroTik RouterOS Routing",
+        "items": [
+          "Routing overview",
+          "Static routing"
+        ]
+      },
+      {
+        "title": "Module 8 MikroTik RouterOS Tunnels",
+        "items": [
+          "Tunnel Overview",
+          "PPPoE",
+          "PPTP",
+          "L2TP",
+          "EoIP"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Module 1 MikroTik RouterOS Introduction First time accessing the router + lab Setup internet connection via router + LAB TCP/IP Basics Upgrade RouterOS logins + LAB Manage routerOS services Backup and export/import configuration + LAB RouterOS license NTP client configuration Netinstall + LAB Module 2 MikroTik RouterOS firewall Firewall principles Firewall filter in action RouterOS connection tracking Basic address list + LAB Source NAT Destination NAT Module 3 MikroTik RouterOS QoS Simpe Queue + LAB Bandwidth test + LAB Interface traffic monitor PCQ Queueing Module 4 MikroTik RouterOS Network Management ARP modes RouterOS ARP table DHCP server and client + LAB Module 5 MikroTik RouterOS Wireless Setup simple wireless link + LAB MAC address filtering + LAB MAC address filtering + LAB MikroTik wireless protocols + LAB Module 6 MikroTik RouterOS Bridging Bridging concepts + Lab Bridge wireless networks + LAB Bridge wireless and remote networks + LAB Module 7 MikroTik RouterOS Routing Routing overview Static routing Module 8 MikroTik RouterOS Tunnels Tunnel Overview PPPoE PPTP L2TP EoIP",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta mendapat sertifikat internasional MTCNA untuk menunjang pekerjaan",
+      "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya mikrotik",
+      "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+      "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "Peserta online mendapatkan Mikrotik Routerboard"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta mendapat sertifikat internasional MTCNA untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya mikrotik Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta online mendapatkan Mikrotik Routerboard",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Fathur Rizky Arrosid ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, Mikrotik Certified Trainer, Cisco CCNP, Fortigate NSE7)",
+      "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+      "Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNP, UEWA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Fathur Rizky Arrosid ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, Mikrotik Certified Trainer, Cisco CCNP, Fortigate NSE7) Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNP, UEWA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Mikrotik MTCNA + Exam (Kelas Malam) ini cocok sekali untuk Anda yang ingin memulai dan mengembangkan karir didunia network engineer, yang sehari-hari sibuk kerja atau kuliah dan ingin belajar MTCNA diluar jam kerja. MTCNA + Exam (kelas malam) ini akan dipelajari secara sistematis selama 10 Hari dari senin s.d jumat dilanjut lagi minggu depannya dari hari senin s.d jumat. Jam belajar mulai jam 19.30 s.d 21.30 WIB untuk setiap harinya. ID-Networkers (IDN.ID) saat ini tercatat sebagai salah satu Mikrotik Training partner terbaik bukan hanya di Indonesia bahkan di Asia dengan Rating saat ini 5/5 (1293 votes) dengan average student result 74%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training sekaligus berhak menyelenggarakan ujian sertifikasi internasional resmi dari MikroTik. MikroTik Certified Network Associate (MTCNA) merupakan sebuah program sertifikasi dari MikroTik untuk para Network Engineer pada tingkatan entry-level. Sertifikasi ini membantu Network Engineer untuk memahami dasar-dasar networking dan meningkatkan atau memberi nilai tambah pada Network Engineer tersebut. Training ini diperuntukkan bagi mereka yang ingin mempelajari dasar-dasar dan fungsi-fungsi yang terdapat pada MikroTik Routerboard, serta feature, implementasi dan troubleshoot secara umum. Training ini berisi teori dan praktek simulasi lab. Untuk mengikuti training dan ujian sertifikasi, peserta harus sudah memiliki dasar pengetahuan TCP/IP. Bagi yang belum memahami TCP/IP, bisa mengikuti pembelajaran jaringan dasar, gratis melalui link berikut https://lms.idn.id/courses/jaringan-dasar/ MTCNA merupakan sertifikat tingkat dasar pada Mikrotik. Pada track ini, peserta akan belajar melakukan konfigurasi Mikrotik RouterOS untuk deliver internet ke client, juga belajar me manage , dan basic troubleshooting . Selama training, peserta akan mendapat ilmu tentang bagaimana melakukan konfigurasi mikrotik untuk keperluan jaringan small size hingga medium size. Dihari terahir, peserta akan melakukan ujian sertifikasi dan akan langsung mendapat sertifikasi internasional jika lulus ujian. *(untuk kelas online teknis ujiannya tetap harus datang ke kantor ID-Networkers dan jadwal ujiannya bisa disesuaikan dengan jadwal yang tersedia). NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training MTCNA (Kelas Malam) di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Training sudah termasuk ujian sertifikasi international Mikrotik MTCNA Jam belajar Fleksibel di luar jam kerja Tersedia kelas offline maupun online bisa dipilih sesuai keinginan Dilaksanakan selama 2 minggu (dari senin s.d kamis setiap minggunya) Disediakan video recording untuk kelas online sehingga bisa dipelajari lagi setelah training selesai (dapat diakses maksimal 14 hari setelah training selesai) Dipandu trainer tersertifikasi dan berpengalaman di bidangnya, dengan jam terbang tinggi di berbagai projek. Untuk kelas offline, kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami (dipinjamkan) selama kelas berlangsung. Adapun Untuk kelas Online biaya training sudah termasuk pembelian Routerboard (akan menjadi milik peserta training) Biaya TERMURAH, sudah termasuk Exam MTCNA, trainer level Expert Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung. Free join mailing list dan group Telegram IDN, bisa cari info kerja dan diskusi di grup. Jika peserta training gagal dalam ujian pertama, maka akan mendapatkan kesempatan ujian lagi FREE (satu kali) dengan jarak waktu di atas 1 bulan dihitung sejak dilaksanakan ujian.",
+      "items": [
+        "Training sudah termasuk ujian sertifikasi international Mikrotik MTCNA",
+        "Jam belajar Fleksibel di luar jam kerja",
+        "Tersedia kelas offline maupun online bisa dipilih sesuai keinginan",
+        "Dilaksanakan selama 2 minggu (dari senin s.d kamis setiap minggunya)",
+        "Disediakan video recording untuk kelas online sehingga bisa dipelajari lagi setelah training selesai (dapat diakses maksimal 14 hari setelah training selesai)",
+        "Dipandu trainer tersertifikasi dan berpengalaman di bidangnya, dengan jam terbang tinggi di berbagai projek.",
+        "Untuk kelas offline, kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami (dipinjamkan) selama kelas berlangsung. Adapun Untuk kelas Online biaya training sudah termasuk pembelian Routerboard (akan menjadi milik peserta training)",
+        "Biaya TERMURAH, sudah termasuk Exam MTCNA, trainer level Expert",
+        "Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung.",
+        "Free join mailing list dan group Telegram IDN, bisa cari info kerja dan diskusi di grup.",
+        "Jika peserta training gagal dalam ujian pertama, maka akan mendapatkan kesempatan ujian lagi FREE (satu kali) dengan jarak waktu di atas 1 bulan dihitung sejak dilaksanakan ujian."
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta mendapat sertifikat internasional MTCNA untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya mikrotik Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta online mendapatkan Mikrotik Routerboard",
+      "items": [
+        "Peserta mendapat sertifikat internasional MTCNA untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya mikrotik",
+        "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "Peserta online mendapatkan Mikrotik Routerboard"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Fathur Rizky Arrosid ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, Mikrotik Certified Trainer, Cisco CCNP, Fortigate NSE7) Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNP, UEWA)",
+      "items": [
+        "Fathur Rizky Arrosid ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, Mikrotik Certified Trainer, Cisco CCNP, Fortigate NSE7)",
+        "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+        "Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNP, UEWA)"
+      ]
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Sesuai jadwal, materi yang dibutuhkan sesuai dengan ujian sertifikasi, cukup menghibur dan cukup jelas dalam memberikan materi, cukup lengkap untuk memahami dasar dari mikrotik”, Azizi “Praktek langsung ke Network Device, Materi yang disampaikan mudah dipahami, Materi langsung ke praktek lab”, Arie Sampurno “Mengetahui lebih dalam tentang dasar-dasar jaringan dan juga membantu dalam pengembangan tentang jaringan, memberikan pengetahuan dan ramah dalam memberikan arahan dalam mengajar, Trainer sudah bagus dalam mengajarkan tentang MTCNA, Materi sudah sesuai dengan ketentuan yang ada”, Iqbal Nur rizky",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1 MikroTik RouterOS Introduction First time accessing the router + lab Setup internet connection via router + LAB TCP/IP Basics Upgrade RouterOS logins + LAB Manage routerOS services Backup and export/import configuration + LAB RouterOS license NTP client configuration Netinstall + LAB Module 2 MikroTik RouterOS firewall Firewall principles Firewall filter in action RouterOS connection tracking Basic address list + LAB Source NAT Destination NAT Module 3 MikroTik RouterOS QoS Simpe Queue + LAB Bandwidth test + LAB Interface traffic monitor PCQ Queueing Module 4 MikroTik RouterOS Network Management ARP modes RouterOS ARP table DHCP server and client + LAB Module 5 MikroTik RouterOS Wireless Setup simple wireless link + LAB MAC address filtering + LAB MAC address filtering + LAB MikroTik wireless protocols + LAB Module 6 MikroTik RouterOS Bridging Bridging concepts + Lab Bridge wireless networks + LAB Bridge wireless and remote networks + LAB Module 7 MikroTik RouterOS Routing Routing overview Static routing Module 8 MikroTik RouterOS Tunnels Tunnel Overview PPPoE PPTP L2TP EoIP",
+      "items": [
+        {
+          "title": "Module 1 MikroTik RouterOS Introduction",
+          "items": [
+            "First time accessing the router + lab",
+            "Setup internet connection via router + LAB",
+            "TCP/IP Basics",
+            "Upgrade RouterOS logins + LAB",
+            "Manage routerOS services",
+            "Backup and export/import configuration + LAB",
+            "RouterOS license",
+            "NTP client configuration",
+            "Netinstall + LAB"
+          ]
+        },
+        {
+          "title": "Module 2 MikroTik RouterOS firewall",
+          "items": [
+            "Firewall principles",
+            "Firewall filter in action",
+            "RouterOS connection tracking",
+            "Basic address list + LAB Source NAT",
+            "Destination NAT"
+          ]
+        },
+        {
+          "title": "Module 3 MikroTik RouterOS QoS",
+          "items": [
+            "Simpe Queue + LAB",
+            "Bandwidth test + LAB",
+            "Interface traffic monitor",
+            "PCQ Queueing"
+          ]
+        },
+        {
+          "title": "Module 4 MikroTik RouterOS Network Management",
+          "items": [
+            "ARP modes",
+            "RouterOS ARP table",
+            "DHCP server and client + LAB"
+          ]
+        },
+        {
+          "title": "Module 5 MikroTik RouterOS Wireless",
+          "items": [
+            "Setup simple wireless link + LAB",
+            "MAC address filtering + LAB",
+            "MAC address filtering + LAB",
+            "MikroTik wireless protocols + LAB"
+          ]
+        },
+        {
+          "title": "Module 6 MikroTik RouterOS Bridging",
+          "items": [
+            "Bridging concepts + Lab",
+            "Bridge wireless networks + LAB",
+            "Bridge wireless and remote networks + LAB"
+          ]
+        },
+        {
+          "title": "Module 7 MikroTik RouterOS Routing",
+          "items": [
+            "Routing overview",
+            "Static routing"
+          ]
+        },
+        {
+          "title": "Module 8 MikroTik RouterOS Tunnels",
+          "items": [
+            "Tunnel Overview",
+            "PPPoE",
+            "PPTP",
+            "L2TP",
+            "EoIP"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "Belajar Mikrotik MTCNA selama 10 Hari (senin s.d jumat dilanjut lagi minggu depannya dari senin s.d jumat) Pelaksanaan secara online via zoom meeting Jam belajar mulai pukul 19.30 s.d 21.30 WIB perharinya Jadwal terdekat tanggal 10, 11, 12, 13, 14, 17, 18, 19, 20, 21 Juni 2024",
+      "items": [
+        "Belajar Mikrotik MTCNA selama 10 Hari (senin s.d jumat dilanjut lagi minggu depannya dari senin s.d jumat)",
+        "Pelaksanaan secara online via zoom meeting",
+        "Jam belajar mulai pukul 19.30 s.d 21.30 WIB perharinya",
+        "Jadwal terdekat tanggal 10, 11, 12, 13, 14, 17, 18, 19, 20, 21 Juni 2024"
+      ]
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.800.000 Rp 2.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Biaya diatas sudah Include exam sertifikasi MTCNA dan Pembelian Routerboard RB941 untuk praktek Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": [
+        {
+          "title": "Biaya diatas sudah Include exam sertifikasi MTCNA dan Pembelian Routerboard RB941 untuk praktek",
+          "items": []
+        }
+      ]
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "MIKROTIK MTCNA + EXAM (Kelas Malam)",
+    "content_hash": "b8922337e288c7263b744023b2c22600770dff4df09a1b5e49ca6c9de3a63ccf",
+    "template_type": "BETTERDOCS"
+  }
+}

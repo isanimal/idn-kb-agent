@@ -1,0 +1,398 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Unifi UFSP + UWA Training",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ufsp-uwa/",
+          "source_section": "Page title",
+          "source_text": "Unifi UFSP + UWA Training",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Ubiquiti",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ufsp-uwa/",
+          "source_section": "Training registry",
+          "source_text": "Ubiquiti",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ufsp-uwa/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ufsp-uwa/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ufsp-uwa/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Di era digital saat ini, konektivitas wireless yang cepat, stabil, dan aman menjadi kebutuhan utama bagi perusahaan maupun individu. Teknologi jaringan berbasis WiFi terus berkembang, dan kebutuhan akan tenaga profesional di bidang ini semakin tinggi. Training UFSP (Ubiquiti Full Stack Professional) dan UWA (Ubiquiti Wireless Admin) hadir sebagai solusi bagi kamu yang ingin menguasai teknologi jaringan wireless secara menyeluruh, khususnya menggunakan perangkat dari Ubiquiti yang banyak digunakan di industri. Program ini dirancang untuk memberikan pemahaman dari dasar hingga implementasi langsung di lapangan. Tidak hanya teori, kamu juga akan mendapatkan pengalaman praktik (hands-on lab) serta persiapan untuk menghadapi ujian sertifikasi resmi. Dengan mengikuti training ini, kamu tidak hanya belajar cara membangun dan mengelola jaringan wireless, tetapi juga meningkatkan kredibilitas profesional melalui sertifikasi yang diakui secara global.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ufsp-uwa/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Di era digital saat ini, konektivitas wireless yang cepat, stabil, dan aman menjadi kebutuhan utama bagi perusahaan maupun individu. Teknologi jaringan berbasis WiFi terus berkembang, dan kebutuhan akan tenaga profesional di bidang ini semakin tinggi. Training UFSP (Ubiquiti Full Stack Professional) dan UWA (Ubiquiti Wireless Admin) hadir sebagai solusi bagi kamu yang ingin menguasai teknologi jaringan wireless secara menyeluruh, khususnya menggunakan perangkat dari Ubiquiti yang banyak digunakan di industri. Program ini dirancang untuk memberikan pemahaman dari dasar hingga implementasi langsung di lapangan. Tidak hanya teori, kamu juga akan mendapatkan pengalaman praktik (hands-on lab) serta persiapan untuk menghadapi ujian sertifikasi resmi. Dengan mengikuti training ini, kamu tidak hanya belajar cara membangun dan mengelola jaringan wireless, tetapi juga meningkatkan kredibilitas profesional melalui sertifikasi yang diakui secara global.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ufsp-uwa/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ufsp-uwa/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Global Site Manager",
+      "Admin & User Management",
+      "Cloud Gateways",
+      "SD-WAN & Site Magic",
+      "UniFi Network",
+      "UniFi Protect",
+      "UniFi Access",
+      "UniFi Connect",
+      "UniFi Identity",
+      "UniFi Design Center",
+      "Physical Security Architecture",
+      "Video Surveillance",
+      "Camera Types & Scenarios",
+      "Zones, Detections & Automation",
+      "Advanced AI",
+      "Access Control System",
+      "Access System Architecture",
+      "UniFi Access Points",
+      "Virtual Networks",
+      "Hotspot Portal & Guest Networks",
+      "Decibels & RF Signals",
+      "Attenuation & Free-Space Path Loss (FSPL)",
+      "2.4 vs. 5 vs. 6 GHz Bands",
+      "Power Spectral Density (PSD)",
+      "Dynamic Frequency Selection (DFS)",
+      "Antenna Gain & Function",
+      "MIMO & Polarization",
+      "AP Cell Coverage",
+      "Effective Isotropic Radiated Power (EIRP)",
+      "802.11 Versions",
+      "Wi-Fi 6/6E/7 Features",
+      "802.11 Traffic Types",
+      "SSIDs",
+      "Dynamic Rate Selection (DRS)",
+      "Roaming",
+      "Wireless Security",
+      "Wireless QoS",
+      "Co-Channel Interference (CCI)",
+      "Adjacent Channel Interference (ACI)",
+      "Signal-to-Noise Ratio (SNR)",
+      "Modulation & Coding Schemes (MCS)",
+      "Coverage Areas & Cell Overlap",
+      "Minimum Rate Controls (minRates)",
+      "Minimum RSSI (minRSSI)",
+      "Wireless Airtime vs. Capacity",
+      "Site Surveys",
+      "Spectral Analysis",
+      "Band-Steering",
+      "Wireless Uplinks (Mesh AP Networks)",
+      "Wi-Fi Coverage Analysis",
+      "Common WLAN Connectivity Problems",
+      "Multicast & Broadcast Traffic Mitigation",
+      "WiFiman Wireless Stress Testing"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ufsp-uwa/",
+        "source_section": "Course Outline",
+        "source_text": "Course Outline UFSP — Full Stack Professional UniFi Overview Global Site Manager Admin & User Management Cloud Gateways SD-WAN & Site Magic Site Manager & Admins Cloud Gateways UniFi Applications UniFi Network UniFi Protect UniFi Access UniFi Connect UniFi Identity UniFi Design Center UniFi Identity Physical Security Physical Security Architecture Video Surveillance Camera Types & Scenarios Zones, Detections & Automation Advanced AI Access Control System Access System Architecture UWA — Wireless Admin Intro to UniFi WLANs UniFi Access Points Virtual Networks Hotspot Portal & Guest Networks RF Fundamentals Decibels & RF Signals Attenuation & Free-Space Path Loss (FSPL) 2.4 vs. 5 vs. 6 GHz Bands Power Spectral Density (PSD) Dynamic Frequency Selection (DFS) Antenna Gain & Function MIMO & Polarization AP Cell Coverage Effective Isotropic Radiated Power (EIRP) 802.11 Networking 802.11 Versions Wi-Fi 6/6E/7 Features 802.11 Traffic Types SSIDs Dynamic Rate Selection (DRS) Roaming Wireless Security Wireless QoS WLAN Planning & Design Co-Channel Interference (CCI) Adjacent Channel Interference (ACI) Signal-to-Noise Ratio (SNR) Modulation & Coding Schemes (MCS) Coverage Areas & Cell Overlap Minimum Rate Controls (minRates) Minimum RSSI (minRSSI) Wireless Airtime vs. Capacity WLAN Deployment Site Surveys Spectral Analysis Band-Steering Wireless Uplinks (Mesh AP Networks) WLAN Troubleshooting Wi-Fi Coverage Analysis Common WLAN Connectivity Problems Multicast & Broadcast Traffic Mitigation WiFiman Wireless Stress Testing",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Memahami dasar jaringan komputer (IP Address, subnetting, TCP/IP)",
+      "Mengetahui konsep dasar routing & switching",
+      "Familiar dengan perangkat jaringan (router, access point, dll)",
+      "Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ufsp-uwa/",
+        "source_section": "Prerequisite",
+        "source_text": "Prerequisite Memahami dasar jaringan komputer (IP Address, subnetting, TCP/IP) Mengetahui konsep dasar routing & switching Familiar dengan perangkat jaringan (router, access point, dll) Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ufsp-uwa/",
+        "source_section": "Mengapa Harus Training UFSP+UWA di IDN ?",
+        "source_text": "Mengapa Harus Training UFSP+UWA di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Di era digital saat ini, konektivitas wireless yang cepat, stabil, dan aman menjadi kebutuhan utama bagi perusahaan maupun individu. Teknologi jaringan berbasis WiFi terus berkembang, dan kebutuhan akan tenaga profesional di bidang ini semakin tinggi. Training UFSP (Ubiquiti Full Stack Professional) dan UWA (Ubiquiti Wireless Admin) hadir sebagai solusi bagi kamu yang ingin menguasai teknologi jaringan wireless secara menyeluruh, khususnya menggunakan perangkat dari Ubiquiti yang banyak digunakan di industri. Program ini dirancang untuk memberikan pemahaman dari dasar hingga implementasi langsung di lapangan. Tidak hanya teori, kamu juga akan mendapatkan pengalaman praktik (hands-on lab) serta persiapan untuk menghadapi ujian sertifikasi resmi. Dengan mengikuti training ini, kamu tidak hanya belajar cara membangun dan mengelola jaringan wireless, tetapi juga meningkatkan kredibilitas profesional melalui sertifikasi yang diakui secara global.",
+      "items": []
+    },
+    {
+      "heading": "Apa yang Akan Kamu Dapatkan?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "✔ Pemahaman konsep wireless networking dari dasar hingga advanced ✔ Skill konfigurasi dan manajemen perangkat Ubiquiti ✔ Pengalaman praktik langsung dengan studi kasus nyata ✔ Persiapan menghadapi ujian sertifikasi resmi ✔ Sertifikat kompetensi untuk meningkatkan karir",
+      "items": []
+    },
+    {
+      "heading": "Kenapa Training Ini Penting?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Karena skill networking, khususnya wireless, adalah salah satu skill yang sangat dibutuhkan di dunia kerja IT saat ini. Dengan memiliki sertifikasi seperti UFSP dan UWA, peluang kamu untuk mendapatkan pekerjaan atau naik level karir akan jauh lebih besar.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training UFSP+UWA di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Sudah Include Ujian Sertifikasi International Resmi dari Ubiquiti Belajar dari materi Basic sehingga cocok untuk yang pemula Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Sudah Include Ujian Sertifikasi International Resmi dari Ubiquiti",
+        "Belajar dari materi Basic sehingga cocok untuk yang pemula",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "FREE Mengulang Training Sebanyak 2 kali",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Prerequisite",
+      "semantic_type": "PREREQUISITES",
+      "content": "Memahami dasar jaringan komputer (IP Address, subnetting, TCP/IP) Mengetahui konsep dasar routing & switching Familiar dengan perangkat jaringan (router, access point, dll) Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/",
+      "items": [
+        "Memahami dasar jaringan komputer (IP Address, subnetting, TCP/IP)",
+        "Mengetahui konsep dasar routing & switching",
+        "Familiar dengan perangkat jaringan (router, access point, dll)",
+        "Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/"
+      ]
+    },
+    {
+      "heading": "Course Outline",
+      "semantic_type": "CURRICULUM",
+      "content": "UFSP — Full Stack Professional UniFi Overview Global Site Manager Admin & User Management Cloud Gateways SD-WAN & Site Magic Site Manager & Admins Cloud Gateways UniFi Applications UniFi Network UniFi Protect UniFi Access UniFi Connect UniFi Identity UniFi Design Center UniFi Identity Physical Security Physical Security Architecture Video Surveillance Camera Types & Scenarios Zones, Detections & Automation Advanced AI Access Control System Access System Architecture UWA — Wireless Admin Intro to UniFi WLANs UniFi Access Points Virtual Networks Hotspot Portal & Guest Networks RF Fundamentals Decibels & RF Signals Attenuation & Free-Space Path Loss (FSPL) 2.4 vs. 5 vs. 6 GHz Bands Power Spectral Density (PSD) Dynamic Frequency Selection (DFS) Antenna Gain & Function MIMO & Polarization AP Cell Coverage Effective Isotropic Radiated Power (EIRP) 802.11 Networking 802.11 Versions Wi-Fi 6/6E/7 Features 802.11 Traffic Types SSIDs Dynamic Rate Selection (DRS) Roaming Wireless Security Wireless QoS WLAN Planning & Design Co-Channel Interference (CCI) Adjacent Channel Interference (ACI) Signal-to-Noise Ratio (SNR) Modulation & Coding Schemes (MCS) Coverage Areas & Cell Overlap Minimum Rate Controls (minRates) Minimum RSSI (minRSSI) Wireless Airtime vs. Capacity WLAN Deployment Site Surveys Spectral Analysis Band-Steering Wireless Uplinks (Mesh AP Networks) WLAN Troubleshooting Wi-Fi Coverage Analysis Common WLAN Connectivity Problems Multicast & Broadcast Traffic Mitigation WiFiman Wireless Stress Testing",
+      "items": [
+        "Global Site Manager",
+        "Admin & User Management",
+        "Cloud Gateways",
+        "SD-WAN & Site Magic",
+        "UniFi Network",
+        "UniFi Protect",
+        "UniFi Access",
+        "UniFi Connect",
+        "UniFi Identity",
+        "UniFi Design Center",
+        "Physical Security Architecture",
+        "Video Surveillance",
+        "Camera Types & Scenarios",
+        "Zones, Detections & Automation",
+        "Advanced AI",
+        "Access Control System",
+        "Access System Architecture",
+        "UniFi Access Points",
+        "Virtual Networks",
+        "Hotspot Portal & Guest Networks",
+        "Decibels & RF Signals",
+        "Attenuation & Free-Space Path Loss (FSPL)",
+        "2.4 vs. 5 vs. 6 GHz Bands",
+        "Power Spectral Density (PSD)",
+        "Dynamic Frequency Selection (DFS)",
+        "Antenna Gain & Function",
+        "MIMO & Polarization",
+        "AP Cell Coverage",
+        "Effective Isotropic Radiated Power (EIRP)",
+        "802.11 Versions",
+        "Wi-Fi 6/6E/7 Features",
+        "802.11 Traffic Types",
+        "SSIDs",
+        "Dynamic Rate Selection (DRS)",
+        "Roaming",
+        "Wireless Security",
+        "Wireless QoS",
+        "Co-Channel Interference (CCI)",
+        "Adjacent Channel Interference (ACI)",
+        "Signal-to-Noise Ratio (SNR)",
+        "Modulation & Coding Schemes (MCS)",
+        "Coverage Areas & Cell Overlap",
+        "Minimum Rate Controls (minRates)",
+        "Minimum RSSI (minRSSI)",
+        "Wireless Airtime vs. Capacity",
+        "Site Surveys",
+        "Spectral Analysis",
+        "Band-Steering",
+        "Wireless Uplinks (Mesh AP Networks)",
+        "Wi-Fi Coverage Analysis",
+        "Common WLAN Connectivity Problems",
+        "Multicast & Broadcast Traffic Mitigation",
+        "WiFiman Wireless Stress Testing"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Unifi UFSP + UWA Training",
+    "content_hash": "999c3c9c500d42efcf287592c30d21e0d6d55b834918e45c3e0567e5aa7dbe3e",
+    "template_type": "BETTERDOCS"
+  }
+}

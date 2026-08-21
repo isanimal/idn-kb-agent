@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Kursus F5 ASM (AWAF) ini memberikan pemahaman fungsional mengenai cara menerapkan, menyetel, dan mengoperasikan F5 Advanced Web Application Firewall untuk melindungi aplikasi web mereka dari serangan berbasis HTTP and HTTPS. Kursus ini mencakup pembahasan, demonstrasi praktikum, dan diskusi mengenai berbagai tools F5 Advanced Web Application Firewall yang dapat digunakan untuk mendeteksi dan memitigasi ancaman dari berbagai vektor serangan, seperti web scraping, Layer 7 Denial of Service, brute force, bots, code injection, dan zero day exploits. Jika Anda ingin meningkatkan keamanan Anda dalam web application, kursus F5 WAF ini adalah pilihan yang terbaik untuk Anda.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Biaya Investasi : Rp 3.000.000,-",
+      "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum 1. Introduction What Is F5 BIG-IP F5 BIG-IP Solution Overview 2. Introduction Lab Environment & Topology Configure Load Balancer (Virtual Server) and vulnerability websites. 3. Advanced Web Application Firewall – Basic Introduction. AWAF Security Building AWAF Security Models (Positive and Negative) AWAF Policy Templates AWAF Traffic Learning (Automatic and Manual Mode) AWAF Polciy Deploy Workflow AWAF Logging Profiles. 4. Introduction Vulnerable Website and Common Exploits Against Web Application. Demonstrate a cross site scripting (XSS) vulnerability. Demonstrate a SQL injection vulnerability. Demonstrate a privilege escalation vulnerability. Demonstrate an unauthorized file access. 5. Create a BIG-IP Advanced WAF Policy against web application 6. Discover OWASP top 10 7. IP Intelligence and Geolocation 8. Bot Detection And Threat Campaigns. 9. Positive Security and Negative security 10. Behavioural DoS Protection 11. Login Page Protection 12. Data Safe and Parameter Protection 13. Brute force Protection 14. Credential Stuffing 15. HTTP Methods 16. Data Guard 17. Sensitive Data",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Benefit :",
+      "source_text": "Benefit : All participants will receive the following F5 ASM study guides: • Know and understand Advanced Web Application Firewall concepts, features, models, templates etc. • Implement F5 Policy Advanced Web Application Firewall in web application. • Know and understand OWASP top 10 • Demonstration of vulnerable websites (XSS, SQL Injection, and unauthorized file access) • Implement F5 Advanced Web Application Firewall to protect web applications. • Apply learn, alarm, and block settings related to F5 Advanced Web Application Firewall configuration. • Understand manual F5 WAF Policy and Automated Policy • Understand Attack Signature in WAF Policy • Understand Threat Campaign to secure against CVE threats • Understand IP Intelligence • Understand Advanced Bot Defense against web scrapers, all known bots, and other bot traffic • Understand DataSafe to secure client-side data with Advanced Web Application Firewall",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Prerequisites",
+      "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar jaringan (Network Fundamental) Pengetahuan dasar keamanan (Security Fundamental) Konsep dasar HTTP dan HTML Terminologi jaringan yang umum Terminologi aplikasi web",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+      "source_section": "Mengapa Harus Training F5 ASM (AWAF) di IDN ?",
+      "source_text": "Mengapa Harus Training F5 ASM (AWAF) di IDN ? Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2X jika belum paham Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer tersertifikasi dan berpengalaman di bidang F5 Free join mailing list IDN",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+        "source_section": "Page title",
+        "source_text": "F5 ASM (AWAF)",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+        "source_section": "Training registry",
+        "source_text": "F5",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/f5-asm-awaf/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/f5-asm-awaf/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

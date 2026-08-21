@@ -1,0 +1,594 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Practical AI Agent with OpenClaw",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+          "source_section": "Page title",
+          "source_text": "Practical AI Agent with OpenClaw",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "AI & Automation",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+          "source_section": "Training registry",
+          "source_text": "AI & Automation",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "OpenClaw adalah AI Agent open-source yang bersifat local-first: ia bukan sekadar chatbot yang menunggu perintah di browser, melainkan agen yang berjalan terus-menerus di mesin Anda, terhubung ke aplikasi chat (Telegram, WhatsApp, Slack, Discord, dan lainnya), dan mampu menjalankan tugas nyata — membaca/menulis file, mengirim email, merangkum dokumen, mencari informasi, hingga menjalankan perintah otomatis. Pelatihan satu hari ini membawa peserta dari nol hingga memiliki AI assistant pribadi yang benar-benar berjalan dan mengotomatiskan minimal satu pekerjaan harian sesuai profesi masing-masing. Pendekatannya hands-on: setiap konsep langsung dipraktikkan, dan sesi ditutup dengan mini project (capstone) yang dipresentasikan peserta.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training OpenClaw adalah AI Agent open-source yang bersifat local-first: ia bukan sekadar chatbot yang menunggu perintah di browser, melainkan agen yang berjalan terus-menerus di mesin Anda, terhubung ke aplikasi chat (Telegram, WhatsApp, Slack, Discord, dan lainnya), dan mampu menjalankan tugas nyata — membaca/menulis file, mengirim email, merangkum dokumen, mencari informasi, hingga menjalankan perintah otomatis. Pelatihan satu hari ini membawa peserta dari nol hingga memiliki AI assistant pribadi yang benar-benar berjalan dan mengotomatiskan minimal satu pekerjaan harian sesuai profesi masing-masing. Pendekatannya hands-on: setiap konsep langsung dipraktikkan, dan sesi ditutup dengan mini project (capstone) yang dipresentasikan peserta.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 1.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 1.000.000",
+      "amount": 1000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Biaya Investasi : Rp 1.000.000,-",
+        "source_text": "Biaya Investasi : Rp 1.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1 — Introduction to AI Agent",
+        "objective": null,
+        "items": [
+          "Memahami pergeseran dari chatbot reaktif ke AI Agent yang proaktif dan otonom.",
+          "Mengenal posisi dan keunggulan Open Claw di ekosistem AI Agent.",
+          "Evolusi AI: rule-based bot → chatbot LLM → AI Agent (tool use, memory, otonomi).",
+          "Konsep dasar AI Agent: perception, reasoning, tool calling, action, dan feedback loop.",
+          "Pengenalan OpenClaw: agen open-source, local-first, model-agnostic, dengan 100+ Agent Skills.",
+          "Use case industri: produktivitas personal, operasional bisnis, riset, pendidikan, dan IT/DevOps.",
+          "Demo live: AI Agent merangkum email dan menyusun to-do list otomatis di depan kelas.",
+          "Diskusi singkat: “Tugas harian apa yang ingin Anda otomatiskan?” (peserta menulis 1 use case)."
+        ],
+        "raw": "Tujuan modul: Memahami pergeseran dari chatbot reaktif ke AI Agent yang proaktif dan otonom. Mengenal posisi dan keunggulan Open Claw di ekosistem AI Agent. Materi: Evolusi AI: rule-based bot → chatbot LLM → AI Agent (tool use, memory, otonomi). Konsep dasar AI Agent: perception, reasoning, tool calling, action, dan feedback loop. Pengenalan OpenClaw: agen open-source, local-first, model-agnostic, dengan 100+ Agent Skills. Use case industri: produktivitas personal, operasional bisnis, riset, pendidikan, dan IT/DevOps. Aktivitas / Demo: Demo live: AI Agent merangkum email dan menyusun to-do list otomatis di depan kelas. Diskusi singkat: “Tugas harian apa yang ingin Anda otomatiskan?” (peserta menulis 1 use case).",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 2 — Getting Started with OpenClaw",
+        "objective": null,
+        "items": [
+          "Memahami arsitektur OpenFlow dan menjalankannya untuk pertama kali.",
+          "Menghubungkan agent ke channel chat dan model AI.",
+          "Arsitektur OpenClaw: Gateway (proses Node.js), channels, sessions, agent loop, dan heartbeat.",
+          "Tools vs Skills: perbedaan dan cara kerja file SKILL.md (instruksi natural-language + frontmatter).",
+          "Setup environment: instalasi OpenClaw, konfigurasi API key / model lokal (Ollama) dan 9router.",
+          "Konfigurasi channel (Telegram) dan allowlist; menjalankan perintah “openclaw gateway”.",
+          "LAB 1 — Instalasi & konfigurasi OpenClaw di perangkat masing-masing.",
+          "LAB 2 — Menghubungkan ke Telegram dan menjalankan percakapan pertama dengan AI assistant.",
+          "Checkpoint: setiap peserta berhasil mengirim 1 perintah dan menerima response dari agent-nya."
+        ],
+        "raw": "Tujuan modul: Memahami arsitektur OpenFlow dan menjalankannya untuk pertama kali. Menghubungkan agent ke channel chat dan model AI. Materi: Arsitektur OpenClaw: Gateway (proses Node.js), channels, sessions, agent loop, dan heartbeat. Tools vs Skills: perbedaan dan cara kerja file SKILL.md (instruksi natural-language + frontmatter). Setup environment: instalasi OpenClaw, konfigurasi API key / model lokal (Ollama) dan 9router. Konfigurasi channel (Telegram) dan allowlist; menjalankan perintah “openclaw gateway”. Aktivitas / Demo: LAB 1 — Instalasi & konfigurasi OpenClaw di perangkat masing-masing. LAB 2 — Menghubungkan ke Telegram dan menjalankan percakapan pertama dengan AI assistant. Checkpoint: setiap peserta berhasil mengirim 1 perintah dan menerima response dari agent-nya.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 3 — Practical Use Cases with OpenClaw",
+        "objective": null,
+        "items": [
+          "Mengenal pola pemanfaatan OpenClaw untuk pekerjaan harian lintas profesi.",
+          "Productivity assistant: triase & ringkasan email, ringkasan rapat, manajemen task.",
+          "Content & document generation: draft email, laporan, materi, dan posting.",
+          "Research & information assistant: pencarian web + rangkuman sumber.",
+          "Automation harian: penjadwalan, briefing pagi via heartbeat, pemrosesan file batch.",
+          "Skenario per sektor: pendidikan (dosen/trainer), bisnis (owner), dan IT (engineer).",
+          "LAB 3 — Peserta mencoba 2 use case: (a) merangkum sebuah dokumen, (b) riset + ringkasan topik.",
+          "Mini-challenge: minta agent menyusun draft balasan email profesional dalam < 3 menit."
+        ],
+        "raw": "Tujuan modul: Mengenal pola pemanfaatan OpenClaw untuk pekerjaan harian lintas profesi. Materi: Productivity assistant: triase & ringkasan email, ringkasan rapat, manajemen task. Content & document generation: draft email, laporan, materi, dan posting. Research & information assistant: pencarian web + rangkuman sumber. Automation harian: penjadwalan, briefing pagi via heartbeat, pemrosesan file batch. Skenario per sektor: pendidikan (dosen/trainer), bisnis (owner), dan IT (engineer). Aktivitas / Demo: LAB 3 — Peserta mencoba 2 use case: (a) merangkum sebuah dokumen, (b) riset + ringkasan topik. Mini-challenge: minta agent menyusun draft balasan email profesional dalam < 3 menit.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 4 — Prompting & AI Agent Optimization",
+        "objective": null,
+        "items": [
+          "Menyusun instruksi yang menghasilkan output akurat dan konsisten.",
+          "Membangun workflow otomatisasi sederhana yang andal.",
+          "Teknik prompting untuk agent: tujuan jelas, konteks, format output, contoh (few-shot), constraint.",
+          "Membangun workflow: merangkai langkah (baca → olah → simpan → kirim) dalam satu skill.",
+          "Mengoptimalkan output: iterasi prompt, penggunaan memory/konteks, dan penanganan error.",
+          "Best practice: spesifik, dapat diuji ulang, dan menambahkan guardrail pada langkah berisiko.",
+          "LAB 4 — Memperbaiki sebuah prompt “buruk” menjadi prompt efektif dan membandingkan hasilnya.",
+          "Peserta membuat 1 skill sederhana (mis. “buat ringkasan harian dari folder catatan”)."
+        ],
+        "raw": "Tujuan modul: Menyusun instruksi yang menghasilkan output akurat dan konsisten. Membangun workflow otomatisasi sederhana yang andal. Materi: Teknik prompting untuk agent: tujuan jelas, konteks, format output, contoh (few-shot), constraint. Membangun workflow: merangkai langkah (baca → olah → simpan → kirim) dalam satu skill. Mengoptimalkan output: iterasi prompt, penggunaan memory/konteks, dan penanganan error. Best practice: spesifik, dapat diuji ulang, dan menambahkan guardrail pada langkah berisiko. Aktivitas / Demo: LAB 4 — Memperbaiki sebuah prompt “buruk” menjadi prompt efektif dan membandingkan hasilnya. Peserta membuat 1 skill sederhana (mis. “buat ringkasan harian dari folder catatan”).",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 5 — Build Your Personal AI Assistant (Mini Project)",
+        "objective": null,
+        "items": [
+          "Merancang dan membangun personal AI assistant yang berjalan sesuai profesi peserta.",
+          "Mengintegrasikan minimal satu workflow otomatisasi nyata.",
+          "Memetakan kebutuhan: pekerjaan harian mana yang paling layak diotomatiskan?",
+          "Merancang assistant: channel, skill yang dibutuhkan, kebijakan akses, dan briefing terjadwal.",
+          "Membangun & menguji: implementasi bertahap, uji coba, dan iterasi.",
+          "CAPSTONE PROJECT (lihat Bagian 7) — peserta membangun assistant sesuai track profesinya.",
+          "Pendamping berkeliling membantu troubleshooting; setiap peserta menyiapkan demo singkat."
+        ],
+        "raw": "Tujuan modul: Merancang dan membangun personal AI assistant yang berjalan sesuai profesi peserta. Mengintegrasikan minimal satu workflow otomatisasi nyata. Materi: Memetakan kebutuhan: pekerjaan harian mana yang paling layak diotomatiskan? Merancang assistant: channel, skill yang dibutuhkan, kebijakan akses, dan briefing terjadwal. Membangun & menguji: implementasi bertahap, uji coba, dan iterasi. Aktivitas / Demo: CAPSTONE PROJECT (lihat Bagian 7) — peserta membangun assistant sesuai track profesinya. Pendamping berkeliling membantu troubleshooting; setiap peserta menyiapkan demo singkat.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 6 — Security, Ethics & Future of AI Agent",
+        "objective": null,
+        "items": [
+          "Memahami risiko dan praktik aman dalam mengoperasikan AI Agent.",
+          "Menyadari batasan dan arah perkembangan AI automation.",
+          "Privasi & keamanan data: keuntungan local-first, penyimpanan API key, dan data sensitif.",
+          "Tool policy & exec approval: mengizinkan baca email tetapi minta persetujuan sebelum kirim, dsb.",
+          "Batasan AI Agent: halusinasi, ketergantungan, dan tugas yang TIDAK boleh diserahkan sepenuhnya.",
+          "Tren ke depan: agent always-on, multi-agent swarm, dan tata kelola AI.",
+          "Studi kasus singkat: mengidentifikasi 3 risiko pada sebuah konfigurasi agent dan cara menutupnya."
+        ],
+        "raw": "Tujuan modul: Memahami risiko dan praktik aman dalam mengoperasikan AI Agent. Menyadari batasan dan arah perkembangan AI automation. Materi: Privasi & keamanan data: keuntungan local-first, penyimpanan API key, dan data sensitif. Tool policy & exec approval: mengizinkan baca email tetapi minta persetujuan sebelum kirim, dsb. Batasan AI Agent: halusinasi, ketergantungan, dan tugas yang TIDAK boleh diserahkan sepenuhnya. Tren ke depan: agent always-on, multi-agent swarm, dan tata kelola AI. Aktivitas / Demo: Studi kasus singkat: mengidentifikasi 3 risiko pada sebuah konfigurasi agent dan cara menutupnya. 6. Ringkasan Hands-On Lab Sepanjang hari peserta menyelesaikan rangkaian lab berikut secara bertahap: Lab Aktivitas Output Lab 1 Instalasi & konfigurasi OpenClaw Open Claw berjalan di perangkat Lab 2 Koneksi channel + percakapan pertama Assistant response via Telegram Lab 3 Use case: ringkasan dokumen & riset 2 tugas otomatis berhasil Lab 4 Optimasi prompt & membuat 1 skill 1 skill custom berfungsi Capstone Membangun personal AI assistant Assistant + 1 workflow nyata + demo 7. Capstone Project — “My Daily AI Assistant” Ini adalah inti pelatihan. Setiap peserta membangun satu AI assistant yang benar-benar berjalan dan mengotomatiskan minimal satu pekerjaan harian. Peserta memilih salah satu track sesuai profesinya, lalu mengikuti kerangka project yang sama.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "7.1 Brief Project",
+        "objective": "Membangun personal AI assistant via Open Claw yang dapat diajak berkomunikasi melalui chat dan mengeksekusi minimal satu workflow nyata end-to-end.",
+        "items": [
+          "Tujuan: Membangun personal AI assistant via Open Claw yang dapat diajak berkomunikasi melalui chat dan mengeksekusi minimal satu workflow nyata end-to-end.",
+          "Waktu pengerjaan: ± 75 menit (di Module 5) + 45 menit presentasi & demo.",
+          "Sifat: Individu (atau berpasangan bila perangkat terbatas)."
+        ],
+        "raw": "Tujuan: Membangun personal AI assistant via Open Claw yang dapat diajak berkomunikasi melalui chat dan mengeksekusi minimal satu workflow nyata end-to-end. Waktu pengerjaan: ± 75 menit (di Module 5) + 45 menit presentasi & demo. Sifat: Individu (atau berpasangan bila perangkat terbatas).",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "7.2 Pilihan Track (sesuai profesi)",
+        "objective": null,
+        "items": [],
+        "raw": "Track Profesi Contoh Workflow yang Diotomatiskan A Business Owner / UMKM Auto-balas pertanyaan pelanggan + rekap penjualan harian B Dosen / Trainer / Guru Ringkas materi/jurnal + susun draft kuis & rencana sesi C Engineer / IT / DevOps Ringkas log + buat draft script otomatisasi + review catatan D Profesional Umum / Mahasiswa Triase email + briefing pagi + management to-do & catatan rapat",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "7.3 Contoh Project Lengkap (Worked Example) — Track D",
+        "objective": null,
+        "items": [
+          "Briefing pagi otomatis: pada heartbeat pertama tiap pagi, assistant membaca daftar prioritas dari file dan mengirim ringkasan agenda ke Telegram.",
+          "Ringkasan on-demand: peserta mengirim teks/dokumen, assistant mengembalikan ringkasan 5 poin.",
+          "Manajemen to-do: perintah “tambah tugas …” / “lihat tugas hari ini” menulis & membaca file todo.md.",
+          "Quick research: perintah “riset …” memicu pencarian web lalu merangkum temuan.",
+          "Draft balasan: assistant menyusun draft email/pesan profesional, tetapi MEMINTA persetujuan sebelum benar-benar mengirim.",
+          "Tentukan satu workflow utama yang ingin diotomatiskan (jangan terlalu banyak di awal).",
+          "Siapkan workspace dan file pendukung (mis. todo.md, HEARTBEAT.md untuk briefing terjadwal).",
+          "Tulis/aktifkan skill yang dibutuhkan dan beri instruksi natural-language yang jelas.",
+          "Atur tool policy: izinkan baca, tetapi minta exec approval untuk aksi berisiko (kirim/hapus).",
+          "Uji setiap fitur satu per satu, perbaiki prompt bila output belum sesuai.",
+          "Siapkan skenario demo singkat (3 menit) yang menunjukkan workflow berjalan."
+        ],
+        "raw": "Nama assistant: “Parti” — Personal Assistant for Routine Tasks. Berikut contoh yang akan diperagakan instruktur sebagai acuan peserta. Fitur yang dibangun Briefing pagi otomatis: pada heartbeat pertama tiap pagi, assistant membaca daftar prioritas dari file dan mengirim ringkasan agenda ke Telegram. Ringkasan on-demand: peserta mengirim teks/dokumen, assistant mengembalikan ringkasan 5 poin. Manajemen to-do: perintah “tambah tugas …” / “lihat tugas hari ini” menulis & membaca file todo.md. Quick research: perintah “riset …” memicu pencarian web lalu merangkum temuan. Draft balasan: assistant menyusun draft email/pesan profesional, tetapi MEMINTA persetujuan sebelum benar-benar mengirim. Langkah implementasi Tentukan satu workflow utama yang ingin diotomatiskan (jangan terlalu banyak di awal). Siapkan workspace dan file pendukung (mis. todo.md, HEARTBEAT.md untuk briefing terjadwal). Tulis/aktifkan skill yang dibutuhkan dan beri instruksi natural-language yang jelas. Atur tool policy: izinkan baca, tetapi minta exec approval untuk aksi berisiko (kirim/hapus). Uji setiap fitur satu per satu, perbaiki prompt bila output belum sesuai. Siapkan skenario demo singkat (3 menit) yang menunjukkan workflow berjalan.",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "7.4 Deliverables (yang harus ditunjukkan saat demo)",
+        "objective": null,
+        "items": [
+          "Assistant berjalan dan merespons melalui channel chat.",
+          "Minimal satu workflow otomatisasi yang berfungsi end-to-end.",
+          "Minimal satu tool policy / guardrail yang diterapkan (mis. approval sebelum kirim).",
+          "Demo langsung ± 3 menit + penjelasan singkat use case dan manfaatnya."
+        ],
+        "raw": "Assistant berjalan dan merespons melalui channel chat. Minimal satu workflow otomatisasi yang berfungsi end-to-end. Minimal satu tool policy / guardrail yang diterapkan (mis. approval sebelum kirim). Demo langsung ± 3 menit + penjelasan singkat use case dan manfaatnya.",
+        "structure_type": "MODULED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta memahami konsep AI Agent dan cara memanfaatkannya untuk meningkatkan produktivitas kerja sehari-hari.",
+      "Peserta mampu menginstal, mengonfigurasi, dan menjalankan OpenClaw secara mandiri.",
+      "Peserta dapat membangun AI Assistant pribadi yang terhubung dengan Telegram dan siap digunakan.",
+      "Peserta memahami cara menghubungkan OpenClaw dengan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama.",
+      "Peserta mampu membuat workflow otomatisasi sederhana untuk membantu pekerjaan administratif, riset, dokumentasi, maupun task management.",
+      "Peserta mendapatkan pengalaman hands-on melalui studi kasus dan praktik langsung selama training berlangsung.",
+      "Peserta memperoleh modul training, sertifikat training, serta akses ke grup alumni untuk diskusi dan pengembangan lebih lanjut.",
+      "Peserta memiliki fondasi yang kuat untuk mengembangkan AI Agent dan Automation Workflow yang lebih kompleks di masa depan."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta memahami konsep AI Agent dan cara memanfaatkannya untuk meningkatkan produktivitas kerja sehari-hari. Peserta mampu menginstal, mengonfigurasi, dan menjalankan OpenClaw secara mandiri. Peserta dapat membangun AI Assistant pribadi yang terhubung dengan Telegram dan siap digunakan. Peserta memahami cara menghubungkan OpenClaw dengan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama. Peserta mampu membuat workflow otomatisasi sederhana untuk membantu pekerjaan administratif, riset, dokumentasi, maupun task management. Peserta mendapatkan pengalaman hands-on melalui studi kasus dan praktik langsung selama training berlangsung. Peserta memperoleh modul training, sertifikat training, serta akses ke grup alumni untuk diskusi dan pengembangan lebih lanjut. Peserta memiliki fondasi yang kuat untuk mengembangkan AI Agent dan Automation Workflow yang lebih kompleks di masa depan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Laptop (Windows / macOS / Linux) dengan hak akses admin untuk instalasi.",
+      "Node.js versi LTS terbaru sudah terpasang (OpenClaw berjalan sebagai proses Node.js).",
+      "Terminal & Code Editor (mis. VS Code) untuk konfigurasi dan mengedit file skill.",
+      "Koneksi internet stabil sepanjang sesi.",
+      "API Key model AI minimal salah satu: Anthropic, OpenAI, atau Google. (Alternatif: model lokal via Ollama / LM Studio bagi yang ingin sepenuhnya offline).",
+      "Akun aplikasi chat direkomendasikan Telegram untuk workshop karena setup bot-nya paling cepat."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Prerequisites & Persiapan Peserta",
+        "source_text": "Prerequisites & Persiapan Peserta Perangkat & Software Laptop (Windows / macOS / Linux) dengan hak akses admin untuk instalasi. Node.js versi LTS terbaru sudah terpasang (OpenClaw berjalan sebagai proses Node.js). Terminal & Code Editor (mis. VS Code) untuk konfigurasi dan mengedit file skill. Koneksi internet stabil sepanjang sesi. Akun & Akses API Key model AI minimal salah satu: Anthropic, OpenAI, atau Google. (Alternatif: model lokal via Ollama / LM Studio bagi yang ingin sepenuhnya offline). Akun aplikasi chat direkomendasikan Telegram untuk workshop karena setup bot-nya paling cepat. Kompetensi Awal (Disarankan) Tidak diperlukan kemampuan coding lanjutan peserta non-teknis tetap bisa mengikuti. Familiar menjalankan perintah dasar di terminal (cd, ls, menjalankan perintah).",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis mengulang training sebanyak 2x Free join mailing list IDN",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Mengapa Harus Training Practical AI Agent with OpenClaw di IDN?",
+        "source_text": "Mengapa Harus Training Practical AI Agent with OpenClaw di IDN? Gratis mengulang training sebanyak 2x Free join mailing list IDN",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Practical AI Agent with OpenClaw di IDN?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Trainer berpengalaman dalam implementasi AI, Automation, dan Workflow berbasis kebutuhan industri. Belajar langsung melalui praktik, bukan hanya teori atau demonstrasi. Peserta akan membangun AI Assistant yang benar-benar berjalan dan dapat digunakan setelah training selesai. Memahami cara menghubungkan OpenClaw dengan Telegram untuk membuat AI Assistant yang selalu siap membantu. Dapat menggunakan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama sesuai kebutuhan. Studi kasus disesuaikan dengan profesi peserta, mulai dari Business Owner, Profesional, Trainer, hingga IT Engineer. Mendapatkan modul training berbahasa Indonesia yang mudah dipahami dan dapat dipelajari kembali setelah kelas selesai. Bergabung ke grup alumni untuk diskusi, berbagi pengalaman, dan update perkembangan teknologi AI Agent. Mendapatkan sertifikat training sebagai bukti kompetensi penguasaan AI Agent dan Automation Workflow. Gratis mengulang training sebanyak 2x Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+      "items": [
+        "Trainer berpengalaman dalam implementasi AI, Automation, dan Workflow berbasis kebutuhan industri.",
+        "Belajar langsung melalui praktik, bukan hanya teori atau demonstrasi.",
+        "Peserta akan membangun AI Assistant yang benar-benar berjalan dan dapat digunakan setelah training selesai.",
+        "Memahami cara menghubungkan OpenClaw dengan Telegram untuk membuat AI Assistant yang selalu siap membantu.",
+        "Dapat menggunakan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama sesuai kebutuhan.",
+        "Studi kasus disesuaikan dengan profesi peserta, mulai dari Business Owner, Profesional, Trainer, hingga IT Engineer.",
+        "Mendapatkan modul training berbahasa Indonesia yang mudah dipahami dan dapat dipelajari kembali setelah kelas selesai.",
+        "Bergabung ke grup alumni untuk diskusi, berbagi pengalaman, dan update perkembangan teknologi AI Agent.",
+        "Mendapatkan sertifikat training sebagai bukti kompetensi penguasaan AI Agent dan Automation Workflow.",
+        "Gratis mengulang training sebanyak 2x",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "OpenClaw adalah AI Agent open-source yang bersifat local-first: ia bukan sekadar chatbot yang menunggu perintah di browser, melainkan agen yang berjalan terus-menerus di mesin Anda, terhubung ke aplikasi chat (Telegram, WhatsApp, Slack, Discord, dan lainnya), dan mampu menjalankan tugas nyata — membaca/menulis file, mengirim email, merangkum dokumen, mencari informasi, hingga menjalankan perintah otomatis. Pelatihan satu hari ini membawa peserta dari nol hingga memiliki AI assistant pribadi yang benar-benar berjalan dan mengotomatiskan minimal satu pekerjaan harian sesuai profesi masing-masing. Pendekatannya hands-on: setiap konsep langsung dipraktikkan, dan sesi ditutup dengan mini project (capstone) yang dipresentasikan peserta.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta memahami konsep AI Agent dan cara memanfaatkannya untuk meningkatkan produktivitas kerja sehari-hari. Peserta mampu menginstal, mengonfigurasi, dan menjalankan OpenClaw secara mandiri. Peserta dapat membangun AI Assistant pribadi yang terhubung dengan Telegram dan siap digunakan. Peserta memahami cara menghubungkan OpenClaw dengan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama. Peserta mampu membuat workflow otomatisasi sederhana untuk membantu pekerjaan administratif, riset, dokumentasi, maupun task management. Peserta mendapatkan pengalaman hands-on melalui studi kasus dan praktik langsung selama training berlangsung. Peserta memperoleh modul training, sertifikat training, serta akses ke grup alumni untuk diskusi dan pengembangan lebih lanjut. Peserta memiliki fondasi yang kuat untuk mengembangkan AI Agent dan Automation Workflow yang lebih kompleks di masa depan.",
+      "items": [
+        "Peserta memahami konsep AI Agent dan cara memanfaatkannya untuk meningkatkan produktivitas kerja sehari-hari.",
+        "Peserta mampu menginstal, mengonfigurasi, dan menjalankan OpenClaw secara mandiri.",
+        "Peserta dapat membangun AI Assistant pribadi yang terhubung dengan Telegram dan siap digunakan.",
+        "Peserta memahami cara menghubungkan OpenClaw dengan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama.",
+        "Peserta mampu membuat workflow otomatisasi sederhana untuk membantu pekerjaan administratif, riset, dokumentasi, maupun task management.",
+        "Peserta mendapatkan pengalaman hands-on melalui studi kasus dan praktik langsung selama training berlangsung.",
+        "Peserta memperoleh modul training, sertifikat training, serta akses ke grup alumni untuk diskusi dan pengembangan lebih lanjut.",
+        "Peserta memiliki fondasi yang kuat untuk mengembangkan AI Agent dan Automation Workflow yang lebih kompleks di masa depan."
+      ]
+    },
+    {
+      "heading": "Prerequisites & Persiapan Peserta",
+      "semantic_type": "PREREQUISITES",
+      "content": "Perangkat & Software Laptop (Windows / macOS / Linux) dengan hak akses admin untuk instalasi. Node.js versi LTS terbaru sudah terpasang (OpenClaw berjalan sebagai proses Node.js). Terminal & Code Editor (mis. VS Code) untuk konfigurasi dan mengedit file skill. Koneksi internet stabil sepanjang sesi. Akun & Akses API Key model AI minimal salah satu: Anthropic, OpenAI, atau Google. (Alternatif: model lokal via Ollama / LM Studio bagi yang ingin sepenuhnya offline). Akun aplikasi chat direkomendasikan Telegram untuk workshop karena setup bot-nya paling cepat. Kompetensi Awal (Disarankan) Tidak diperlukan kemampuan coding lanjutan peserta non-teknis tetap bisa mengikuti. Familiar menjalankan perintah dasar di terminal (cd, ls, menjalankan perintah).",
+      "items": [
+        "Laptop (Windows / macOS / Linux) dengan hak akses admin untuk instalasi.",
+        "Node.js versi LTS terbaru sudah terpasang (OpenClaw berjalan sebagai proses Node.js).",
+        "Terminal & Code Editor (mis. VS Code) untuk konfigurasi dan mengedit file skill.",
+        "Koneksi internet stabil sepanjang sesi.",
+        "API Key model AI minimal salah satu: Anthropic, OpenAI, atau Google. (Alternatif: model lokal via Ollama / LM Studio bagi yang ingin sepenuhnya offline).",
+        "Akun aplikasi chat direkomendasikan Telegram untuk workshop karena setup bot-nya paling cepat."
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Module 1 — Introduction to AI Agent",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan modul: Memahami pergeseran dari chatbot reaktif ke AI Agent yang proaktif dan otonom. Mengenal posisi dan keunggulan Open Claw di ekosistem AI Agent. Materi: Evolusi AI: rule-based bot → chatbot LLM → AI Agent (tool use, memory, otonomi). Konsep dasar AI Agent: perception, reasoning, tool calling, action, dan feedback loop. Pengenalan OpenClaw: agen open-source, local-first, model-agnostic, dengan 100+ Agent Skills. Use case industri: produktivitas personal, operasional bisnis, riset, pendidikan, dan IT/DevOps. Aktivitas / Demo: Demo live: AI Agent merangkum email dan menyusun to-do list otomatis di depan kelas. Diskusi singkat: “Tugas harian apa yang ingin Anda otomatiskan?” (peserta menulis 1 use case).",
+      "items": [
+        "Memahami pergeseran dari chatbot reaktif ke AI Agent yang proaktif dan otonom.",
+        "Mengenal posisi dan keunggulan Open Claw di ekosistem AI Agent.",
+        "Evolusi AI: rule-based bot → chatbot LLM → AI Agent (tool use, memory, otonomi).",
+        "Konsep dasar AI Agent: perception, reasoning, tool calling, action, dan feedback loop.",
+        "Pengenalan OpenClaw: agen open-source, local-first, model-agnostic, dengan 100+ Agent Skills.",
+        "Use case industri: produktivitas personal, operasional bisnis, riset, pendidikan, dan IT/DevOps.",
+        "Demo live: AI Agent merangkum email dan menyusun to-do list otomatis di depan kelas.",
+        "Diskusi singkat: “Tugas harian apa yang ingin Anda otomatiskan?” (peserta menulis 1 use case)."
+      ]
+    },
+    {
+      "heading": "Module 2 — Getting Started with OpenClaw",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan modul: Memahami arsitektur OpenFlow dan menjalankannya untuk pertama kali. Menghubungkan agent ke channel chat dan model AI. Materi: Arsitektur OpenClaw: Gateway (proses Node.js), channels, sessions, agent loop, dan heartbeat. Tools vs Skills: perbedaan dan cara kerja file SKILL.md (instruksi natural-language + frontmatter). Setup environment: instalasi OpenClaw, konfigurasi API key / model lokal (Ollama) dan 9router. Konfigurasi channel (Telegram) dan allowlist; menjalankan perintah “openclaw gateway”. Aktivitas / Demo: LAB 1 — Instalasi & konfigurasi OpenClaw di perangkat masing-masing. LAB 2 — Menghubungkan ke Telegram dan menjalankan percakapan pertama dengan AI assistant. Checkpoint: setiap peserta berhasil mengirim 1 perintah dan menerima response dari agent-nya.",
+      "items": [
+        "Memahami arsitektur OpenFlow dan menjalankannya untuk pertama kali.",
+        "Menghubungkan agent ke channel chat dan model AI.",
+        "Arsitektur OpenClaw: Gateway (proses Node.js), channels, sessions, agent loop, dan heartbeat.",
+        "Tools vs Skills: perbedaan dan cara kerja file SKILL.md (instruksi natural-language + frontmatter).",
+        "Setup environment: instalasi OpenClaw, konfigurasi API key / model lokal (Ollama) dan 9router.",
+        "Konfigurasi channel (Telegram) dan allowlist; menjalankan perintah “openclaw gateway”.",
+        "LAB 1 — Instalasi & konfigurasi OpenClaw di perangkat masing-masing.",
+        "LAB 2 — Menghubungkan ke Telegram dan menjalankan percakapan pertama dengan AI assistant.",
+        "Checkpoint: setiap peserta berhasil mengirim 1 perintah dan menerima response dari agent-nya."
+      ]
+    },
+    {
+      "heading": "Module 3 — Practical Use Cases with OpenClaw",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan modul: Mengenal pola pemanfaatan OpenClaw untuk pekerjaan harian lintas profesi. Materi: Productivity assistant: triase & ringkasan email, ringkasan rapat, manajemen task. Content & document generation: draft email, laporan, materi, dan posting. Research & information assistant: pencarian web + rangkuman sumber. Automation harian: penjadwalan, briefing pagi via heartbeat, pemrosesan file batch. Skenario per sektor: pendidikan (dosen/trainer), bisnis (owner), dan IT (engineer). Aktivitas / Demo: LAB 3 — Peserta mencoba 2 use case: (a) merangkum sebuah dokumen, (b) riset + ringkasan topik. Mini-challenge: minta agent menyusun draft balasan email profesional dalam < 3 menit.",
+      "items": [
+        "Mengenal pola pemanfaatan OpenClaw untuk pekerjaan harian lintas profesi.",
+        "Productivity assistant: triase & ringkasan email, ringkasan rapat, manajemen task.",
+        "Content & document generation: draft email, laporan, materi, dan posting.",
+        "Research & information assistant: pencarian web + rangkuman sumber.",
+        "Automation harian: penjadwalan, briefing pagi via heartbeat, pemrosesan file batch.",
+        "Skenario per sektor: pendidikan (dosen/trainer), bisnis (owner), dan IT (engineer).",
+        "LAB 3 — Peserta mencoba 2 use case: (a) merangkum sebuah dokumen, (b) riset + ringkasan topik.",
+        "Mini-challenge: minta agent menyusun draft balasan email profesional dalam < 3 menit."
+      ]
+    },
+    {
+      "heading": "Module 4 — Prompting & AI Agent Optimization",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan modul: Menyusun instruksi yang menghasilkan output akurat dan konsisten. Membangun workflow otomatisasi sederhana yang andal. Materi: Teknik prompting untuk agent: tujuan jelas, konteks, format output, contoh (few-shot), constraint. Membangun workflow: merangkai langkah (baca → olah → simpan → kirim) dalam satu skill. Mengoptimalkan output: iterasi prompt, penggunaan memory/konteks, dan penanganan error. Best practice: spesifik, dapat diuji ulang, dan menambahkan guardrail pada langkah berisiko. Aktivitas / Demo: LAB 4 — Memperbaiki sebuah prompt “buruk” menjadi prompt efektif dan membandingkan hasilnya. Peserta membuat 1 skill sederhana (mis. “buat ringkasan harian dari folder catatan”).",
+      "items": [
+        "Menyusun instruksi yang menghasilkan output akurat dan konsisten.",
+        "Membangun workflow otomatisasi sederhana yang andal.",
+        "Teknik prompting untuk agent: tujuan jelas, konteks, format output, contoh (few-shot), constraint.",
+        "Membangun workflow: merangkai langkah (baca → olah → simpan → kirim) dalam satu skill.",
+        "Mengoptimalkan output: iterasi prompt, penggunaan memory/konteks, dan penanganan error.",
+        "Best practice: spesifik, dapat diuji ulang, dan menambahkan guardrail pada langkah berisiko.",
+        "LAB 4 — Memperbaiki sebuah prompt “buruk” menjadi prompt efektif dan membandingkan hasilnya.",
+        "Peserta membuat 1 skill sederhana (mis. “buat ringkasan harian dari folder catatan”)."
+      ]
+    },
+    {
+      "heading": "Module 5 — Build Your Personal AI Assistant (Mini Project)",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan modul: Merancang dan membangun personal AI assistant yang berjalan sesuai profesi peserta. Mengintegrasikan minimal satu workflow otomatisasi nyata. Materi: Memetakan kebutuhan: pekerjaan harian mana yang paling layak diotomatiskan? Merancang assistant: channel, skill yang dibutuhkan, kebijakan akses, dan briefing terjadwal. Membangun & menguji: implementasi bertahap, uji coba, dan iterasi. Aktivitas / Demo: CAPSTONE PROJECT (lihat Bagian 7) — peserta membangun assistant sesuai track profesinya. Pendamping berkeliling membantu troubleshooting; setiap peserta menyiapkan demo singkat.",
+      "items": [
+        "Merancang dan membangun personal AI assistant yang berjalan sesuai profesi peserta.",
+        "Mengintegrasikan minimal satu workflow otomatisasi nyata.",
+        "Memetakan kebutuhan: pekerjaan harian mana yang paling layak diotomatiskan?",
+        "Merancang assistant: channel, skill yang dibutuhkan, kebijakan akses, dan briefing terjadwal.",
+        "Membangun & menguji: implementasi bertahap, uji coba, dan iterasi.",
+        "CAPSTONE PROJECT (lihat Bagian 7) — peserta membangun assistant sesuai track profesinya.",
+        "Pendamping berkeliling membantu troubleshooting; setiap peserta menyiapkan demo singkat."
+      ]
+    },
+    {
+      "heading": "Module 6 — Security, Ethics & Future of AI Agent",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan modul: Memahami risiko dan praktik aman dalam mengoperasikan AI Agent. Menyadari batasan dan arah perkembangan AI automation. Materi: Privasi & keamanan data: keuntungan local-first, penyimpanan API key, dan data sensitif. Tool policy & exec approval: mengizinkan baca email tetapi minta persetujuan sebelum kirim, dsb. Batasan AI Agent: halusinasi, ketergantungan, dan tugas yang TIDAK boleh diserahkan sepenuhnya. Tren ke depan: agent always-on, multi-agent swarm, dan tata kelola AI. Aktivitas / Demo: Studi kasus singkat: mengidentifikasi 3 risiko pada sebuah konfigurasi agent dan cara menutupnya. 6. Ringkasan Hands-On Lab Sepanjang hari peserta menyelesaikan rangkaian lab berikut secara bertahap: Lab Aktivitas Output Lab 1 Instalasi & konfigurasi OpenClaw Open Claw berjalan di perangkat Lab 2 Koneksi channel + percakapan pertama Assistant response via Telegram Lab 3 Use case: ringkasan dokumen & riset 2 tugas otomatis berhasil Lab 4 Optimasi prompt & membuat 1 skill 1 skill custom berfungsi Capstone Membangun personal AI assistant Assistant + 1 workflow nyata + demo 7. Capstone Project — “My Daily AI Assistant” Ini adalah inti pelatihan. Setiap peserta membangun satu AI assistant yang benar-benar berjalan dan mengotomatiskan minimal satu pekerjaan harian. Peserta memilih salah satu track sesuai profesinya, lalu mengikuti kerangka project yang sama.",
+      "items": [
+        "Memahami risiko dan praktik aman dalam mengoperasikan AI Agent.",
+        "Menyadari batasan dan arah perkembangan AI automation.",
+        "Privasi & keamanan data: keuntungan local-first, penyimpanan API key, dan data sensitif.",
+        "Tool policy & exec approval: mengizinkan baca email tetapi minta persetujuan sebelum kirim, dsb.",
+        "Batasan AI Agent: halusinasi, ketergantungan, dan tugas yang TIDAK boleh diserahkan sepenuhnya.",
+        "Tren ke depan: agent always-on, multi-agent swarm, dan tata kelola AI.",
+        "Studi kasus singkat: mengidentifikasi 3 risiko pada sebuah konfigurasi agent dan cara menutupnya."
+      ]
+    },
+    {
+      "heading": "7.1 Brief Project",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Tujuan: Membangun personal AI assistant via Open Claw yang dapat diajak berkomunikasi melalui chat dan mengeksekusi minimal satu workflow nyata end-to-end. Waktu pengerjaan: ± 75 menit (di Module 5) + 45 menit presentasi & demo. Sifat: Individu (atau berpasangan bila perangkat terbatas).",
+      "items": [
+        "Tujuan: Membangun personal AI assistant via Open Claw yang dapat diajak berkomunikasi melalui chat dan mengeksekusi minimal satu workflow nyata end-to-end.",
+        "Waktu pengerjaan: ± 75 menit (di Module 5) + 45 menit presentasi & demo.",
+        "Sifat: Individu (atau berpasangan bila perangkat terbatas)."
+      ]
+    },
+    {
+      "heading": "7.2 Pilihan Track (sesuai profesi)",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Track Profesi Contoh Workflow yang Diotomatiskan A Business Owner / UMKM Auto-balas pertanyaan pelanggan + rekap penjualan harian B Dosen / Trainer / Guru Ringkas materi/jurnal + susun draft kuis & rencana sesi C Engineer / IT / DevOps Ringkas log + buat draft script otomatisasi + review catatan D Profesional Umum / Mahasiswa Triase email + briefing pagi + management to-do & catatan rapat",
+      "items": []
+    },
+    {
+      "heading": "7.3 Contoh Project Lengkap (Worked Example) — Track D",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Nama assistant: “Parti” — Personal Assistant for Routine Tasks. Berikut contoh yang akan diperagakan instruktur sebagai acuan peserta. Fitur yang dibangun Briefing pagi otomatis: pada heartbeat pertama tiap pagi, assistant membaca daftar prioritas dari file dan mengirim ringkasan agenda ke Telegram. Ringkasan on-demand: peserta mengirim teks/dokumen, assistant mengembalikan ringkasan 5 poin. Manajemen to-do: perintah “tambah tugas …” / “lihat tugas hari ini” menulis & membaca file todo.md. Quick research: perintah “riset …” memicu pencarian web lalu merangkum temuan. Draft balasan: assistant menyusun draft email/pesan profesional, tetapi MEMINTA persetujuan sebelum benar-benar mengirim. Langkah implementasi Tentukan satu workflow utama yang ingin diotomatiskan (jangan terlalu banyak di awal). Siapkan workspace dan file pendukung (mis. todo.md, HEARTBEAT.md untuk briefing terjadwal). Tulis/aktifkan skill yang dibutuhkan dan beri instruksi natural-language yang jelas. Atur tool policy: izinkan baca, tetapi minta exec approval untuk aksi berisiko (kirim/hapus). Uji setiap fitur satu per satu, perbaiki prompt bila output belum sesuai. Siapkan skenario demo singkat (3 menit) yang menunjukkan workflow berjalan.",
+      "items": [
+        "Briefing pagi otomatis: pada heartbeat pertama tiap pagi, assistant membaca daftar prioritas dari file dan mengirim ringkasan agenda ke Telegram.",
+        "Ringkasan on-demand: peserta mengirim teks/dokumen, assistant mengembalikan ringkasan 5 poin.",
+        "Manajemen to-do: perintah “tambah tugas …” / “lihat tugas hari ini” menulis & membaca file todo.md.",
+        "Quick research: perintah “riset …” memicu pencarian web lalu merangkum temuan.",
+        "Draft balasan: assistant menyusun draft email/pesan profesional, tetapi MEMINTA persetujuan sebelum benar-benar mengirim.",
+        "Tentukan satu workflow utama yang ingin diotomatiskan (jangan terlalu banyak di awal).",
+        "Siapkan workspace dan file pendukung (mis. todo.md, HEARTBEAT.md untuk briefing terjadwal).",
+        "Tulis/aktifkan skill yang dibutuhkan dan beri instruksi natural-language yang jelas.",
+        "Atur tool policy: izinkan baca, tetapi minta exec approval untuk aksi berisiko (kirim/hapus).",
+        "Uji setiap fitur satu per satu, perbaiki prompt bila output belum sesuai.",
+        "Siapkan skenario demo singkat (3 menit) yang menunjukkan workflow berjalan."
+      ]
+    },
+    {
+      "heading": "7.4 Deliverables (yang harus ditunjukkan saat demo)",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Assistant berjalan dan merespons melalui channel chat. Minimal satu workflow otomatisasi yang berfungsi end-to-end. Minimal satu tool policy / guardrail yang diterapkan (mis. approval sebelum kirim). Demo langsung ± 3 menit + penjelasan singkat use case dan manfaatnya.",
+      "items": [
+        "Assistant berjalan dan merespons melalui channel chat.",
+        "Minimal satu workflow otomatisasi yang berfungsi end-to-end.",
+        "Minimal satu tool policy / guardrail yang diterapkan (mis. approval sebelum kirim).",
+        "Demo langsung ± 3 menit + penjelasan singkat use case dan manfaatnya."
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 1.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Practical AI Agent with OpenClaw",
+    "content_hash": "ef61659b444c87a4c6293aa40acff68809934ecd6a4f2a9cf73ce349e2bf9887",
+    "template_type": "BETTERDOCS"
+  }
+}

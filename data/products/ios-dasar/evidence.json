@@ -1,0 +1,108 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training IOS Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat training IOS di jakarta dan Semarang. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman IOS level basic sampai bisa memahami materi lanjutan IOS, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya, jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk IOS, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Waktu Training",
+      "source_text": "Waktu Training 4 hari *full day : Jam 09.00 – 17.00 WIB",
+      "confidence": 1.0
+    },
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Biaya Investasi : Rp 2.000.000,-",
+      "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum Pengenalan dan Persiapan Installasi Xcode Pengenalan Xcode Pengenalan Sintaksis Swift 5 Layouting Layouting menggunakan Auto Layout Layouting menggunakan Constraint Layouting menggunakan StackView Aplikasi Kalkulator Layouting Kalkulator Penulisan Code Aplikasi Multiple Screen Menambahkan Segue Parsing data antar halaman lain Get data dari halaman lain Table View Membuat Simple Table View Membuat Custom Table View Membuat Section Table View Membuat Collection Table View Controller Menambahkan Tab Bar Controller Menambahkan Navigation Controller Cocoapods Persiapan Install Cocoapods pada MacOS Interface Builder Image Picker Picker View Date Picker Segmented Control Map Konfigurasi MapKit Mengatur titik lokasi dengan latitude dan longitude Installasi dan Konfigurasi pod Google Maps Membuat API key dari Google API Mengatur titik lokasi dengan latitude dan longitude dari GPS Pengaturan perizinan gps di Info.plist Aplikasi Multimedia Memutar Audio Memutar Video dengan Controller Aplikasi WebView Konfigurasi WebKit Pengaturan perizinan internet Info.plist HTTP Client & Passing JSON Konfigurasi HTTP Client dengan AlamofireSwiftyJSON Passing JSON Object Passing JSON Array Menampilkan JSON Array di Custom Table View Menampilkan gambar dari JSON",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami dasar-dasar coding Pada IOS Dapat mengoperasikan X Code Peserta dapat membuat project aplikasi sendiri secara mandiri",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Fasilitas Peserta",
+      "source_text": "Fasilitas Peserta Akses Internet Gratis Mengulang kapanpun Lunch & Coffeebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Asadullah Al Hamasy (ATC android certified application developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/ios-dasar/",
+      "source_section": "Fasilitas Peserta",
+      "source_text": "Fasilitas Peserta Gratis Mengulang kapanpun Lunch & Coffeebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffeebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/ios-dasar/",
+        "source_section": "Page title",
+        "source_text": "iOS Basic",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/ios-dasar/",
+        "source_section": "Training registry",
+        "source_text": "IOS",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/ios-dasar/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/ios-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

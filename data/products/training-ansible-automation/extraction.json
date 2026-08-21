@@ -1,0 +1,14 @@
+{
+  "training_source_id": 63,
+  "canonical_url": "https://www.idn.id/training/training-ansible-automation/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "7ac6d00f07ba2fa2abd82ee20e6e20ae2edc357d3b2805e610388dec2ac8ecc5",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:47.375069+00:00",
+  "facts_path": "data\\products\\training-ansible-automation\\facts.json",
+  "evidence_path": "data\\products\\training-ansible-automation\\evidence.json",
+  "raw_snapshot_path": "data\\products\\training-ansible-automation\\raw.html",
+  "last_error": null
+}

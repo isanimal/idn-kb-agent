@@ -1,0 +1,323 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "CCNP Enterprise SDWAN",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+          "source_section": "Page title",
+          "source_text": "CCNP Enterprise SDWAN",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Cisco",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+          "source_section": "Training registry",
+          "source_text": "Cisco",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kursus CCNP Enterprise SDWAN dirancang untuk memberikan pengetahun yang rinci tentang teknologi SD-WAN Cisco, Komponen beserta Implementasinya. Anda akan mendapatkan pemahaman mendalam tentang fitur fitur seperti Controller Onboarding, WAN Edges Onboarding, Device Template & Service Template, Application Aware Routing, Direct Internet Access, Multi Service VPNs & TLOC Extension. Setelah menyelesaikan kursus CCNP Enterprise SDWAN, peserta akan memiliki pemahaman komprehensif tentang teknologi Cisco SDWAN. Kursus CCNP Enterprise SDWAN juga menyiapkan peserta untuk mengikuti konsentrasi exam Cisco CCNP Enterprise dengan kode exam ENSDWI 300-415. Jika Anda ingin meningkatkan kemampuan jaringan dibidang software defined network (SDN), kursus CCNP Enterprise SDWAN adalah pilihan yang terbaik untuk Anda.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kursus CCNP Enterprise SDWAN dirancang untuk memberikan pengetahun yang rinci tentang teknologi SD-WAN Cisco, Komponen beserta Implementasinya. Anda akan mendapatkan pemahaman mendalam tentang fitur fitur seperti Controller Onboarding, WAN Edges Onboarding, Device Template & Service Template, Application Aware Routing, Direct Internet Access, Multi Service VPNs & TLOC Extension. Setelah menyelesaikan kursus CCNP Enterprise SDWAN, peserta akan memiliki pemahaman komprehensif tentang teknologi Cisco SDWAN. Kursus CCNP Enterprise SDWAN juga menyiapkan peserta untuk mengikuti konsentrasi exam Cisco CCNP Enterprise dengan kode exam ENSDWI 300-415. Jika Anda ingin meningkatkan kemampuan jaringan dibidang software defined network (SDN), kursus CCNP Enterprise SDWAN adalah pilihan yang terbaik untuk Anda.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 6.000.000",
+        "amount": 6000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 5.500.000",
+        "amount": 5500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Biaya Investasi : Rp 6.000.000 Rp 5.500.000",
+        "source_text": "Biaya Investasi : Rp 6.000.000 Rp 5.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "1 : SD-WAN Overview 1.1. Features / Benefits of Cisco SD-WAN 1.2. Controllers Functionalities 1.3. Edge Devices 1.4. SD-WAN Technologies – (VPNs, Color, TLOC etc.) 2 : Initializing Controllers 2.1 Enterprise Certificate Server 2.2 vManage Initialization – CLI & GUI 2.3 vBond Initialization – CLI & GUI 2.4 vSmart Initialization – CLI & GUI 3 : Initializing cEdges 3.1 cEdge CLI Initial Configuration 3.2 Root Certificate Initialization 3.3 vManage registration 4 : Configuring Templates 4.1 Feature Templates 4.2 Device Templates 4.3 Configuring cEdges and vSmart using Feature & Device Templates 5 : Configuring a Service VPN using Templates 5.1 Configuring Feature templates for configuring Service VPNs 5.2 Implementing Service VPNs using Templates 6 : Configuring Centralized Policies 6.1 Policy Overview 6.2 Configuring Application Aware Policies 6.3 Configuring Traffic Engineering 6.4 Configuring Route Filtering 6.5 Configuring Hub-n-Spoke using Custom Policies using 7 : Advanced Configuration 7.1 Configuring cEdges with NAT 7.2 Configuring cEdges with Firewalls 7.3 Configuring TLOC Extensions 7.4 Configuring DIA"
+        ],
+        "raw": "1 : SD-WAN Overview 1.1. Features / Benefits of Cisco SD-WAN 1.2. Controllers Functionalities 1.3. Edge Devices 1.4. SD-WAN Technologies – (VPNs, Color, TLOC etc.) 2 : Initializing Controllers 2.1 Enterprise Certificate Server 2.2 vManage Initialization – CLI & GUI 2.3 vBond Initialization – CLI & GUI 2.4 vSmart Initialization – CLI & GUI 3 : Initializing cEdges 3.1 cEdge CLI Initial Configuration 3.2 Root Certificate Initialization 3.3 vManage registration 4 : Configuring Templates 4.1 Feature Templates 4.2 Device Templates 4.3 Configuring cEdges and vSmart using Feature & Device Templates 5 : Configuring a Service VPN using Templates 5.1 Configuring Feature templates for configuring Service VPNs 5.2 Implementing Service VPNs using Templates 6 : Configuring Centralized Policies 6.1 Policy Overview 6.2 Configuring Application Aware Policies 6.3 Configuring Traffic Engineering 6.4 Configuring Route Filtering 6.5 Configuring Hub-n-Spoke using Custom Policies using 7 : Advanced Configuration 7.1 Configuring cEdges with NAT 7.2 Configuring cEdges with Firewalls 7.3 Configuring TLOC Extensions 7.4 Configuring DIA",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum 1 : SD-WAN Overview 1.1. Features / Benefits of Cisco SD-WAN 1.2. Controllers Functionalities 1.3. Edge Devices 1.4. SD-WAN Technologies – (VPNs, Color, TLOC etc.) 2 : Initializing Controllers 2.1 Enterprise Certificate Server 2.2 vManage Initialization – CLI & GUI 2.3 vBond Initialization – CLI & GUI 2.4 vSmart Initialization – CLI & GUI 3 : Initializing cEdges 3.1 cEdge CLI Initial Configuration 3.2 Root Certificate Initialization 3.3 vManage registration 4 : Configuring Templates 4.1 Feature Templates 4.2 Device Templates 4.3 Configuring cEdges and vSmart using Feature & Device Templates 5 : Configuring a Service VPN using Templates 5.1 Configuring Feature templates for configuring Service VPNs 5.2 Implementing Service VPNs using Templates 6 : Configuring Centralized Policies 6.1 Policy Overview 6.2 Configuring Application Aware Policies 6.3 Configuring Traffic Engineering 6.4 Configuring Route Filtering 6.5 Configuring Hub-n-Spoke using Custom Policies using 7 : Advanced Configuration 7.1 Configuring cEdges with NAT 7.2 Configuring cEdges with Firewalls 7.3 Configuring TLOC Extensions 7.4 Configuring DIA",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Know and understand Cisco’s SD-WAN concepts, features, benefits, components & technologies",
+      "Differentiate and explain each of the building blocks of the SD-WAN Solution",
+      "Identify the roles and functions of vEdge, vSmart, vManage and vBond entities",
+      "Know and understand the Zero Touch Provisioning Model",
+      "Identify Overlay Management Protocol (OMP) as a key element of the SD-WAN solution and the role it plays for Control Plane setup",
+      "Understand segmentation of SD-WAN fabric, through the use of VPN’s (VRF’s)",
+      "Understand the role that templates have in SD-WAN solution, differentiate templates and know how to apply them",
+      "Differentiate Control, Data and Application Route Policies and know how they are used in SD-WAN",
+      "Implement and Understand advanced SD-WAN concepts like TLOC Extension, DIA & AAR",
+      "Configure a complete SD-WAN Setup from scratch"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Benefits",
+        "source_text": "Benefits After completing this course, you will be able to: Know and understand Cisco’s SD-WAN concepts, features, benefits, components & technologies Differentiate and explain each of the building blocks of the SD-WAN Solution Identify the roles and functions of vEdge, vSmart, vManage and vBond entities Know and understand the Zero Touch Provisioning Model Identify Overlay Management Protocol (OMP) as a key element of the SD-WAN solution and the role it plays for Control Plane setup Understand segmentation of SD-WAN fabric, through the use of VPN’s (VRF’s) Understand the role that templates have in SD-WAN solution, differentiate templates and know how to apply them Differentiate Control, Data and Application Route Policies and know how they are used in SD-WAN Implement and Understand advanced SD-WAN concepts like TLOC Extension, DIA & AAR Configure a complete SD-WAN Setup from scratch",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan Jaringan Level CCNP (OSPF, BGP, VRF, VPN)",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan Jaringan Level CCNP (OSPF, BGP, VRF, VPN)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Fajar Kurnia Alhafidh ( CCIE Data Center #65846, CCNP DC/ENT, VCP-NV)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Fajar Kurnia Alhafidh ( CCIE Data Center #65846, CCNP DC/ENT, VCP-NV)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kursus CCNP Enterprise SDWAN dirancang untuk memberikan pengetahun yang rinci tentang teknologi SD-WAN Cisco, Komponen beserta Implementasinya. Anda akan mendapatkan pemahaman mendalam tentang fitur fitur seperti Controller Onboarding, WAN Edges Onboarding, Device Template & Service Template, Application Aware Routing, Direct Internet Access, Multi Service VPNs & TLOC Extension. Setelah menyelesaikan kursus CCNP Enterprise SDWAN, peserta akan memiliki pemahaman komprehensif tentang teknologi Cisco SDWAN. Kursus CCNP Enterprise SDWAN juga menyiapkan peserta untuk mengikuti konsentrasi exam Cisco CCNP Enterprise dengan kode exam ENSDWI 300-415. Jika Anda ingin meningkatkan kemampuan jaringan dibidang software defined network (SDN), kursus CCNP Enterprise SDWAN adalah pilihan yang terbaik untuk Anda.",
+      "items": []
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan Jaringan Level CCNP (OSPF, BGP, VRF, VPN)",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "After completing this course, you will be able to: Know and understand Cisco’s SD-WAN concepts, features, benefits, components & technologies Differentiate and explain each of the building blocks of the SD-WAN Solution Identify the roles and functions of vEdge, vSmart, vManage and vBond entities Know and understand the Zero Touch Provisioning Model Identify Overlay Management Protocol (OMP) as a key element of the SD-WAN solution and the role it plays for Control Plane setup Understand segmentation of SD-WAN fabric, through the use of VPN’s (VRF’s) Understand the role that templates have in SD-WAN solution, differentiate templates and know how to apply them Differentiate Control, Data and Application Route Policies and know how they are used in SD-WAN Implement and Understand advanced SD-WAN concepts like TLOC Extension, DIA & AAR Configure a complete SD-WAN Setup from scratch",
+      "items": [
+        "Know and understand Cisco’s SD-WAN concepts, features, benefits, components & technologies",
+        "Differentiate and explain each of the building blocks of the SD-WAN Solution",
+        "Identify the roles and functions of vEdge, vSmart, vManage and vBond entities",
+        "Know and understand the Zero Touch Provisioning Model",
+        "Identify Overlay Management Protocol (OMP) as a key element of the SD-WAN solution and the role it plays for Control Plane setup",
+        "Understand segmentation of SD-WAN fabric, through the use of VPN’s (VRF’s)",
+        "Understand the role that templates have in SD-WAN solution, differentiate templates and know how to apply them",
+        "Differentiate Control, Data and Application Route Policies and know how they are used in SD-WAN",
+        "Implement and Understand advanced SD-WAN concepts like TLOC Extension, DIA & AAR",
+        "Configure a complete SD-WAN Setup from scratch"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Fajar Kurnia Alhafidh ( CCIE Data Center #65846, CCNP DC/ENT, VCP-NV)",
+      "items": [
+        "Fajar Kurnia Alhafidh ( CCIE Data Center #65846, CCNP DC/ENT, VCP-NV)"
+      ]
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Suasana mendukung untuk belajar, merangkum inti dari keseluruhan materi, jelas dalam menjelaskan dan tidak hanya sharing tentang teknikal tetapi juga sharing tentang non-teknikal yang diperlukan di dunia kerja”, Alexandrina R “Materi dikupas tuntas dalam waktu yang singkat, Penjabaran serta penjelasan materi cukup jelas, Materi sangat membantu dalam menjalani pekerjaan sebagai engineer”, Dananto S “tempat nya nyaman dan sangat kondusif – makan siang selalu variatif sehingga tidak membosankan – snack juga lumayan enak – suasana di dalam ruangan kondusif dilengkapi dengan full AC serta sarana belajar, mengajar nya juga sangat mendukung, Trainer nya mantap sangat menginspirasi tidak hanya untuk hard skill, tetapi juga soft skill. Untuk pemahaman konsep sangat sangat lah matang. Untuk troubleshooting ticket diberikan kerangka berpikir yang sangat tepat. Selalu memberikan motivasi sehingga sangat inspiratif. Sukses terus IDN”, Saleh Affif",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "1 : SD-WAN Overview 1.1. Features / Benefits of Cisco SD-WAN 1.2. Controllers Functionalities 1.3. Edge Devices 1.4. SD-WAN Technologies – (VPNs, Color, TLOC etc.) 2 : Initializing Controllers 2.1 Enterprise Certificate Server 2.2 vManage Initialization – CLI & GUI 2.3 vBond Initialization – CLI & GUI 2.4 vSmart Initialization – CLI & GUI 3 : Initializing cEdges 3.1 cEdge CLI Initial Configuration 3.2 Root Certificate Initialization 3.3 vManage registration 4 : Configuring Templates 4.1 Feature Templates 4.2 Device Templates 4.3 Configuring cEdges and vSmart using Feature & Device Templates 5 : Configuring a Service VPN using Templates 5.1 Configuring Feature templates for configuring Service VPNs 5.2 Implementing Service VPNs using Templates 6 : Configuring Centralized Policies 6.1 Policy Overview 6.2 Configuring Application Aware Policies 6.3 Configuring Traffic Engineering 6.4 Configuring Route Filtering 6.5 Configuring Hub-n-Spoke using Custom Policies using 7 : Advanced Configuration 7.1 Configuring cEdges with NAT 7.2 Configuring cEdges with Firewalls 7.3 Configuring TLOC Extensions 7.4 Configuring DIA",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 6.000.000 Rp 5.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "CCNP Enterprise SDWAN",
+    "content_hash": "fb61fc25de922dc0aae21c02e8be9030a9093e33d275a02bd115af94f59d0ab7",
+    "template_type": "BETTERDOCS"
+  }
+}

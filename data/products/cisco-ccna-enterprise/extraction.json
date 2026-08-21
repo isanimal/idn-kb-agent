@@ -1,0 +1,14 @@
+{
+  "training_source_id": 1,
+  "canonical_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "2ae858e72ba48737d3070a8ff14a5a7e1323fdfefbf488e8ee53b665787f6d1d",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:06.756396+00:00",
+  "facts_path": "data\\products\\cisco-ccna-enterprise\\facts.json",
+  "evidence_path": "data\\products\\cisco-ccna-enterprise\\evidence.json",
+  "raw_snapshot_path": "data\\products\\cisco-ccna-enterprise\\raw.html",
+  "last_error": null
+}

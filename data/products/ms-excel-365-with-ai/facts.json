@@ -1,0 +1,516 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "MS Excel 365 With AI",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+          "source_section": "Page title",
+          "source_text": "MS Excel 365 With AI",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "AI & Automation",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+          "source_section": "Training registry",
+          "source_text": "AI & Automation",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ms-excel-365-with-ai/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ms-excel-365-with-ai/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": [
+      "Fitur AI dalam Excel : Excel 365 dilengkapi dengan fitur seperti “Ideas”, yang dapat menganalisis data secara otomatis dan memberikan saran visualisasi serta analisis yang relevan, membantu pengguna memahami data dengan lebih baik.",
+      "Automasi dan Efisiensi : Melalui Power Automate, pengguna dapat mengotomatisasi tugas-tugas berulang, mempercepat alur kerja, dan meminimalkan kesalahan manual.",
+      "Analisis Data Lanjutan : Training ini juga mengajarkan cara menggunakan alat analisis canggih, seperti fungsi prediksi dan integrasi data dari sumber eksternal, memungkinkan pengguna melakukan analisis yang lebih mendalam.",
+      "Pembelajaran Interaktif : Dengan dukungan tutorial dan panduan berbasis AI, pengguna dapat belajar dengan cara yang lebih interaktif, menyesuaikan proses pembelajaran sesuai dengan kebutuhan mereka."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Pengenalan training Microsoft Excel 365 dengan AI mengacu pada penggunaan teknologi kecerdasan buatan untuk meningkatkan proses belajar dan penggunaan Excel. Dalam konteks ini, training tersebut mencakup beberapa aspek sebagai berikut: Fitur AI dalam Excel : Excel 365 dilengkapi dengan fitur seperti “Ideas”, yang dapat menganalisis data secara otomatis dan memberikan saran visualisasi serta analisis yang relevan, membantu pengguna memahami data dengan lebih baik. Automasi dan Efisiensi : Melalui Power Automate, pengguna dapat mengotomatisasi tugas-tugas berulang, mempercepat alur kerja, dan meminimalkan kesalahan manual. Analisis Data Lanjutan : Training ini juga mengajarkan cara menggunakan alat analisis canggih, seperti fungsi prediksi dan integrasi data dari sumber eksternal, memungkinkan pengguna melakukan analisis yang lebih mendalam. Pembelajaran Interaktif : Dengan dukungan tutorial dan panduan berbasis AI, pengguna dapat belajar dengan cara yang lebih interaktif, menyesuaikan proses pembelajaran sesuai dengan kebutuhan mereka. Secara keseluruhan, training MS Excel 365 dengan AI bertujuan untuk memberdayakan pengguna dengan keterampilan baru dan pemahaman yang lebih baik tentang cara memanfaatkan Excel untuk analisis data dan automasi, sehingga meningkatkan produktivitas dan efisiensi kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 5.000.000",
+      "amount": 5000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Biaya Investasi : Rp 5.000.000,-",
+        "source_text": "Biaya Investasi : Rp 5.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Apa itu AI di Microsoft Excel?",
+      "Evolusi fitur cerdas (Smart Features)",
+      "Manfaat penggunaan AI untuk efisiensi kerja",
+      "Introduction Fuzzy Matching",
+      "Recognize Typo Data",
+      "Fix bad data type",
+      "Add table transform",
+      "“Training” Fuzzy Matching",
+      "Introduction Flashfill",
+      "Split data with AI Flashfill",
+      "Refresh Flashfill",
+      "General Expression in MS Excel",
+      "Translate Text",
+      "Let",
+      "Offset Data",
+      "etc",
+      "Introduction Data Type",
+      "Application Data Type",
+      "Add AI Driven to Data",
+      "Create Data Type",
+      "Refresh Data Type",
+      "Introduction AI",
+      "Show Analyze Data in Excel",
+      "Analyze Data auto label",
+      "Introduction Dynamic Table",
+      "Convert to Dynamic Table",
+      "Linking Dynamic Table",
+      "Refresh Dynamic Table",
+      "Create Summary from Dynamic Table",
+      "Introduction of PowerQuery",
+      "Combine Data as Merge and Append Mode",
+      "Export Data as Table in MS Excel",
+      "Export as Summary data from Powerquery",
+      "Export as PivotTable/PivotChart",
+      "Refresh Data",
+      "Lookup type true in Powerquery",
+      "Introduction Machine Learning",
+      "Create Learning Modul for Data",
+      "Application Trend Analysis",
+      "Application Linier Regression",
+      "Application Logistic Regression",
+      "Add Chart for Visualization",
+      "Create Customer Maps",
+      "Create Card Visual",
+      "Create Control Chart",
+      "Create Image in Data",
+      "Connection among Data Summary/Visual Chart",
+      "Create Pivot from any file (pdf, .xlsx, .csv, .txt, google sheet, etc)",
+      "Create Pivot from any sources (drive, sharepoint, local, DB, etc)",
+      "Create Pivot from million data",
+      "Refresh PivotTable",
+      "Create Dynamic PivotTable",
+      "Connection in PivotTable",
+      "Create / Combine Pivot from any type of Table",
+      "etc"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM 1. Pengenalan AI di Excel Apa itu AI di Microsoft Excel? Evolusi fitur cerdas (Smart Features) Manfaat penggunaan AI untuk efisiensi kerja 2. Fuzzy Matching for Correction Data Entry Introduction Fuzzy Matching Recognize Typo Data Fix bad data type Add table transform “Training” Fuzzy Matching 3. Flash Fill for Automatic Data Pattern Introduction Flashfill Split data with AI Flashfill Refresh Flashfill 4. Function in MS Excel General Expression in MS Excel Translate Text Let Offset Data etc 5. Data Type AI Introduction Data Type Application Data Type Add AI Driven to Data Create Data Type Refresh Data Type 6. Analyze for Data with AI Introduction AI Show Analyze Data in Excel Analyze Data auto label 7. Automatics Dynamic Table Introduction Dynamic Table Convert to Dynamic Table Linking Dynamic Table Refresh Dynamic Table Create Summary from Dynamic Table 8. Consolidate Data with PowerQuery Introduction of PowerQuery Combine Data as Merge and Append Mode Export Data as Table in MS Excel Export as Summary data from Powerquery Export as PivotTable/PivotChart Refresh Data Lookup type true in Powerquery 9. Machine Learning in MS Excel 365 (Application Statistic Module) Introduction Machine Learning Create Learning Modul for Data Application Trend Analysis Application Linier Regression Application Logistic Regression Add Chart for Visualization 10. Create (Next Level) Visualization in MS Excel Create Customer Maps Create Card Visual Create Control Chart Create Image in Data Connection among Data Summary/Visual Chart 11. PivotTable from Big Data Create Pivot from any file (pdf, .xlsx, .csv, .txt, google sheet, etc) Create Pivot from any sources (drive, sharepoint, local, DB, etc) Create Pivot from million data Refresh PivotTable Create Dynamic PivotTable Connection in PivotTable Create / Combine Pivot from any type of Table etc",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peningkatan Keterampilan Excel : Peserta akan menguasai fitur-fitur terbaru dan teknik analisis data lanjutan yang meningkatkan efisiensi kerja.",
+      "Pemanfaatan AI dalam Analisis Data : Dengan memahami cara menggunakan AI dalam Excel, peserta dapat mengolah data dengan lebih cepat dan akurat, sehingga menghasilkan wawasan yang lebih baik untuk pengambilan keputusan.",
+      "Automasi Tugas Rutin : Peserta akan belajar bagaimana cara mengotomatisasi proses dan tugas yang berulang, yang tidak hanya menghemat waktu tetapi juga mengurangi kemungkinan kesalahan manusia.",
+      "Peningkatan Produktivitas : Dengan berbagai alat dan teknik baru yang dipelajari, peserta dapat menyelesaikan pekerjaan dengan lebih efisien, meningkatkan produktivitas mereka secara keseluruhan.",
+      "Keunggulan Kompetitif : Keterampilan yang diperoleh dapat memberikan keunggulan kompetitif, baik di dunia kerja maupun dalam menjalankan usaha sendiri, di mana analisis data yang tepat dapat membuat perbedaan dalam strategi bisnis.",
+      "Pembelajaran dengan Kurikulum Terstruktur : Training ini menawarkan kurikulum yang terstruktur dan sistematik yang memudahkan peserta untuk memahami konsep kompleks secara bertahap.",
+      "Pengembangan Karir : Keterampilan Excel yang ditingkatkan, khususnya dengan menggunakan AI, dapat membuka peluang baru dalam karir peserta, baik dalam promosi jabatan maupun peralihan karir.",
+      "Jaringan dan Komunitas : Mengikuti training juga memberikan kesempatan untuk bertemu dengan profesional lain, yang bisa memperluas jaringan profesional dan menambah peluang kolaborasi di masa depan."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Mempelajari training Microsoft Excel 365 dengan AI menawarkan berbagai manfaat yang signifikan, antara lain: Peningkatan Keterampilan Excel : Peserta akan menguasai fitur-fitur terbaru dan teknik analisis data lanjutan yang meningkatkan efisiensi kerja. Pemanfaatan AI dalam Analisis Data : Dengan memahami cara menggunakan AI dalam Excel, peserta dapat mengolah data dengan lebih cepat dan akurat, sehingga menghasilkan wawasan yang lebih baik untuk pengambilan keputusan. Automasi Tugas Rutin : Peserta akan belajar bagaimana cara mengotomatisasi proses dan tugas yang berulang, yang tidak hanya menghemat waktu tetapi juga mengurangi kemungkinan kesalahan manusia. Peningkatan Produktivitas : Dengan berbagai alat dan teknik baru yang dipelajari, peserta dapat menyelesaikan pekerjaan dengan lebih efisien, meningkatkan produktivitas mereka secara keseluruhan. Keunggulan Kompetitif : Keterampilan yang diperoleh dapat memberikan keunggulan kompetitif, baik di dunia kerja maupun dalam menjalankan usaha sendiri, di mana analisis data yang tepat dapat membuat perbedaan dalam strategi bisnis. Pembelajaran dengan Kurikulum Terstruktur : Training ini menawarkan kurikulum yang terstruktur dan sistematik yang memudahkan peserta untuk memahami konsep kompleks secara bertahap. Pengembangan Karir : Keterampilan Excel yang ditingkatkan, khususnya dengan menggunakan AI, dapat membuka peluang baru dalam karir peserta, baik dalam promosi jabatan maupun peralihan karir. Jaringan dan Komunitas : Mengikuti training juga memberikan kesempatan untuk bertemu dengan profesional lain, yang bisa memperluas jaringan profesional dan menambah peluang kolaborasi di masa depan. Dengan manfaat-manfaat ini, peserta akan mendapatkan nilai tambah yang signifikan baik untuk pengembangan pribadi maupun profesional.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Modul",
+      "Kaos, dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Pengetahuan Dasar Excel : Peserta sebaiknya memiliki pemahaman dasar tentang penggunaan Microsoft Excel, termasuk pengenalan fungsi, tabel, dan grafik. Ini akan memudahkan mereka untuk memahami fitur yang lebih kompleks.",
+      "Keterampilan Komputer Dasar : Kemampuan menggunakan komputer dan perangkat lunak Microsoft Office pada umumnya sangat penting, termasuk pengetahuan dasar tentang navigasi sistem operasi.",
+      "Akses ke Microsoft Excel 365 : Peserta harus memiliki akses ke Microsoft Excel 365 untuk dapat berlatih dan menerapkan apa yang telah dipelajari selama training. Ini juga termasuk koneksi internet yang memadai untuk fitur berbasis cloud.",
+      "Kemampuan Analitis : Meskipun tidak mutlak, memiliki kemampuan pemikiran analitis akan sangat menguntungkan dalam memahami dan menganalisis data yang diajarkan dalam training.",
+      "Kesiapan untuk Belajar : Keterbukaan untuk belajar dan mencoba fitur baru sangat penting, terutama dengan adanya elemen AI yang mungkin belum familiar bagi beberapa peserta."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Untuk mengikuti training Microsoft Excel 365 dengan AI, ada beberapa prerequisite atau persyaratan yang bisa membantu peserta memaksimalkan pengalaman belajar mereka: Pengetahuan Dasar Excel : Peserta sebaiknya memiliki pemahaman dasar tentang penggunaan Microsoft Excel, termasuk pengenalan fungsi, tabel, dan grafik. Ini akan memudahkan mereka untuk memahami fitur yang lebih kompleks. Keterampilan Komputer Dasar : Kemampuan menggunakan komputer dan perangkat lunak Microsoft Office pada umumnya sangat penting, termasuk pengetahuan dasar tentang navigasi sistem operasi. Akses ke Microsoft Excel 365 : Peserta harus memiliki akses ke Microsoft Excel 365 untuk dapat berlatih dan menerapkan apa yang telah dipelajari selama training. Ini juga termasuk koneksi internet yang memadai untuk fitur berbasis cloud. Kemampuan Analitis : Meskipun tidak mutlak, memiliki kemampuan pemikiran analitis akan sangat menguntungkan dalam memahami dan menganalisis data yang diajarkan dalam training. Kesiapan untuk Belajar : Keterbukaan untuk belajar dan mencoba fitur baru sangat penting, terutama dengan adanya elemen AI yang mungkin belum familiar bagi beberapa peserta. Dengan memenuhi syarat-syarat ini, peserta akan lebih siap untuk mengikuti training dan memanfaatkan sepenuhnya fitur serta fungsi yang diajarkan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": [
+      "Profesional Bisnis : Karyawan dari berbagai bidang, seperti pemasaran, keuangan, dan sumber daya manusia, yang memerlukan analisis data untuk pengambilan keputusan.",
+      "Mahasiswa dan Akademisi : Mahasiswa yang ingin meningkatkan keterampilan analitis mereka dalam penelitian atau tugas kursus, serta akademisi yang perlu menganalisis data penelitian.",
+      "Pengusaha dan Pemilik Usaha Kecil : Pengusaha yang ingin memahami cara menganalisis data penjualan, pengeluaran, dan kinerja bisnis untuk meningkatkan strategi bisnis mereka.",
+      "Data Analyst dan Business Intelligence Specialist : Profesional yang sudah bekerja dengan data dan ingin memperdalam kemampuan mereka dalam menggunakan Excel dan alat analitik.",
+      "Tim Proyek dan Manajer : Manajer proyek yang perlu mengelola dan menganalisis data terkait proyek untuk melacak kemajuan dan meningkatkan efisiensi.",
+      "Orang yang Ingin Meningkatkan Keterampilan Pribadi : Individu yang ingin menambah keterampilan mereka dalam penggunaan Excel demi tujuan pribadi atau karir di masa depan."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Training Microsoft Excel 365 dengan AI cocok untuk berbagai kalangan, termasuk: Profesional Bisnis : Karyawan dari berbagai bidang, seperti pemasaran, keuangan, dan sumber daya manusia, yang memerlukan analisis data untuk pengambilan keputusan. Mahasiswa dan Akademisi : Mahasiswa yang ingin meningkatkan keterampilan analitis mereka dalam penelitian atau tugas kursus, serta akademisi yang perlu menganalisis data penelitian. Pengusaha dan Pemilik Usaha Kecil : Pengusaha yang ingin memahami cara menganalisis data penjualan, pengeluaran, dan kinerja bisnis untuk meningkatkan strategi bisnis mereka. Data Analyst dan Business Intelligence Specialist : Profesional yang sudah bekerja dengan data dan ingin memperdalam kemampuan mereka dalam menggunakan Excel dan alat analitik. Tim Proyek dan Manajer : Manajer proyek yang perlu mengelola dan menganalisis data terkait proyek untuk melacak kemajuan dan meningkatkan efisiensi. Orang yang Ingin Meningkatkan Keterampilan Pribadi : Individu yang ingin menambah keterampilan mereka dalam penggunaan Excel demi tujuan pribadi atau karir di masa depan. Training ini dirancang untuk siapa saja yang ingin mengembangkan pengetahuan dan keterampilan mereka dalam menggunakan Excel dengan fitur-fitur AI, tanpa memandang tingkat pengalaman awal.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Ali Baroroh"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Ali Baroroh",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ms-excel-365-with-ai/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Pengenalan training Microsoft Excel 365 dengan AI mengacu pada penggunaan teknologi kecerdasan buatan untuk meningkatkan proses belajar dan penggunaan Excel. Dalam konteks ini, training tersebut mencakup beberapa aspek sebagai berikut: Fitur AI dalam Excel : Excel 365 dilengkapi dengan fitur seperti “Ideas”, yang dapat menganalisis data secara otomatis dan memberikan saran visualisasi serta analisis yang relevan, membantu pengguna memahami data dengan lebih baik. Automasi dan Efisiensi : Melalui Power Automate, pengguna dapat mengotomatisasi tugas-tugas berulang, mempercepat alur kerja, dan meminimalkan kesalahan manual. Analisis Data Lanjutan : Training ini juga mengajarkan cara menggunakan alat analisis canggih, seperti fungsi prediksi dan integrasi data dari sumber eksternal, memungkinkan pengguna melakukan analisis yang lebih mendalam. Pembelajaran Interaktif : Dengan dukungan tutorial dan panduan berbasis AI, pengguna dapat belajar dengan cara yang lebih interaktif, menyesuaikan proses pembelajaran sesuai dengan kebutuhan mereka. Secara keseluruhan, training MS Excel 365 dengan AI bertujuan untuk memberdayakan pengguna dengan keterampilan baru dan pemahaman yang lebih baik tentang cara memanfaatkan Excel untuk analisis data dan automasi, sehingga meningkatkan produktivitas dan efisiensi kerja.",
+      "items": [
+        "Fitur AI dalam Excel : Excel 365 dilengkapi dengan fitur seperti “Ideas”, yang dapat menganalisis data secara otomatis dan memberikan saran visualisasi serta analisis yang relevan, membantu pengguna memahami data dengan lebih baik.",
+        "Automasi dan Efisiensi : Melalui Power Automate, pengguna dapat mengotomatisasi tugas-tugas berulang, mempercepat alur kerja, dan meminimalkan kesalahan manual.",
+        "Analisis Data Lanjutan : Training ini juga mengajarkan cara menggunakan alat analisis canggih, seperti fungsi prediksi dan integrasi data dari sumber eksternal, memungkinkan pengguna melakukan analisis yang lebih mendalam.",
+        "Pembelajaran Interaktif : Dengan dukungan tutorial dan panduan berbasis AI, pengguna dapat belajar dengan cara yang lebih interaktif, menyesuaikan proses pembelajaran sesuai dengan kebutuhan mereka."
+      ]
+    },
+    {
+      "heading": "Mengapa Anda Harus Mengikuti Training Ini?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Alasan kuat mengapa Anda harus mengikuti training Microsoft Excel 365 dengan AI: Peningkatan Keterampilan : Training ini membantu peserta menguasai fitur dan alat terbaru di Excel, sehingga dapat melakukan analisis data dengan lebih efisien dan efektif. Memanfaatkan Teknologi Terkini : Dengan semakin banyaknya data yang tersedia, pemahaman tentang bagaimana menggunakan AI dalam Excel bisa memberikan keunggulan kompetitif, membantu pengguna dalam mengambil keputusan berdasarkan data yang lebih akurat. Automasi Tugas : Peserta akan belajar bagaimana mengotomatisasi proses rutin, menghemat waktu, dan mengurangi kemungkinan kesalahan yang muncul dari pekerjaan manual. Pengambilan Keputusan yang Lebih Baik : Fitur analitik yang didukung AI memberikan insight yang lebih mendalam dari data, memungkinkan pengguna untuk membuat keputusan yang lebih informasional dan strategis. Peningkatan Produktivitas : Dengan keterampilan baru dalam menggunakan Excel dan AI, peserta dapat menyelesaikan tugas lebih cepat dan dengan hasil yang lebih baik, meningkatkan efisiensi kerja secara keseluruhan. Relevansi di Pasar Kerja : Keahlian dalam Excel dan kemampuan untuk menggunakan teknologi AI sangat dibutuhkan di banyak industri. Mengikuti training ini dapat meningkatkan daya saing seseorang di dunia profesional. Pembelajaran Struktural : Sebuah training memberikan kurikulum terstruktur dan panduan yang sistematik, memudahkan peserta memahami konsep yang lebih kompleks secara bertahap. Dengan mengikuti training ini, individu tidak hanya memperoleh keterampilan praktis, tetapi juga membangun fondasi untuk pengembangan karir yang lebih baik di masa depan.",
+      "items": [
+        "Peningkatan Keterampilan : Training ini membantu peserta menguasai fitur dan alat terbaru di Excel, sehingga dapat melakukan analisis data dengan lebih efisien dan efektif.",
+        "Memanfaatkan Teknologi Terkini : Dengan semakin banyaknya data yang tersedia, pemahaman tentang bagaimana menggunakan AI dalam Excel bisa memberikan keunggulan kompetitif, membantu pengguna dalam mengambil keputusan berdasarkan data yang lebih akurat.",
+        "Automasi Tugas : Peserta akan belajar bagaimana mengotomatisasi proses rutin, menghemat waktu, dan mengurangi kemungkinan kesalahan yang muncul dari pekerjaan manual.",
+        "Pengambilan Keputusan yang Lebih Baik : Fitur analitik yang didukung AI memberikan insight yang lebih mendalam dari data, memungkinkan pengguna untuk membuat keputusan yang lebih informasional dan strategis.",
+        "Peningkatan Produktivitas : Dengan keterampilan baru dalam menggunakan Excel dan AI, peserta dapat menyelesaikan tugas lebih cepat dan dengan hasil yang lebih baik, meningkatkan efisiensi kerja secara keseluruhan.",
+        "Relevansi di Pasar Kerja : Keahlian dalam Excel dan kemampuan untuk menggunakan teknologi AI sangat dibutuhkan di banyak industri. Mengikuti training ini dapat meningkatkan daya saing seseorang di dunia profesional.",
+        "Pembelajaran Struktural : Sebuah training memberikan kurikulum terstruktur dan panduan yang sistematik, memudahkan peserta memahami konsep yang lebih kompleks secara bertahap."
+      ]
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Training Microsoft Excel 365 dengan AI cocok untuk berbagai kalangan, termasuk: Profesional Bisnis : Karyawan dari berbagai bidang, seperti pemasaran, keuangan, dan sumber daya manusia, yang memerlukan analisis data untuk pengambilan keputusan. Mahasiswa dan Akademisi : Mahasiswa yang ingin meningkatkan keterampilan analitis mereka dalam penelitian atau tugas kursus, serta akademisi yang perlu menganalisis data penelitian. Pengusaha dan Pemilik Usaha Kecil : Pengusaha yang ingin memahami cara menganalisis data penjualan, pengeluaran, dan kinerja bisnis untuk meningkatkan strategi bisnis mereka. Data Analyst dan Business Intelligence Specialist : Profesional yang sudah bekerja dengan data dan ingin memperdalam kemampuan mereka dalam menggunakan Excel dan alat analitik. Tim Proyek dan Manajer : Manajer proyek yang perlu mengelola dan menganalisis data terkait proyek untuk melacak kemajuan dan meningkatkan efisiensi. Orang yang Ingin Meningkatkan Keterampilan Pribadi : Individu yang ingin menambah keterampilan mereka dalam penggunaan Excel demi tujuan pribadi atau karir di masa depan. Training ini dirancang untuk siapa saja yang ingin mengembangkan pengetahuan dan keterampilan mereka dalam menggunakan Excel dengan fitur-fitur AI, tanpa memandang tingkat pengalaman awal.",
+      "items": [
+        "Profesional Bisnis : Karyawan dari berbagai bidang, seperti pemasaran, keuangan, dan sumber daya manusia, yang memerlukan analisis data untuk pengambilan keputusan.",
+        "Mahasiswa dan Akademisi : Mahasiswa yang ingin meningkatkan keterampilan analitis mereka dalam penelitian atau tugas kursus, serta akademisi yang perlu menganalisis data penelitian.",
+        "Pengusaha dan Pemilik Usaha Kecil : Pengusaha yang ingin memahami cara menganalisis data penjualan, pengeluaran, dan kinerja bisnis untuk meningkatkan strategi bisnis mereka.",
+        "Data Analyst dan Business Intelligence Specialist : Profesional yang sudah bekerja dengan data dan ingin memperdalam kemampuan mereka dalam menggunakan Excel dan alat analitik.",
+        "Tim Proyek dan Manajer : Manajer proyek yang perlu mengelola dan menganalisis data terkait proyek untuk melacak kemajuan dan meningkatkan efisiensi.",
+        "Orang yang Ingin Meningkatkan Keterampilan Pribadi : Individu yang ingin menambah keterampilan mereka dalam penggunaan Excel demi tujuan pribadi atau karir di masa depan."
+      ]
+    },
+    {
+      "heading": "Mengapa Harus Training AI with MS Excel di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training ms excel dengan AI di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang Microsoft Excel",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training ms excel dengan AI di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang Microsoft Excel"
+      ]
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Untuk mengikuti training Microsoft Excel 365 dengan AI, ada beberapa prerequisite atau persyaratan yang bisa membantu peserta memaksimalkan pengalaman belajar mereka: Pengetahuan Dasar Excel : Peserta sebaiknya memiliki pemahaman dasar tentang penggunaan Microsoft Excel, termasuk pengenalan fungsi, tabel, dan grafik. Ini akan memudahkan mereka untuk memahami fitur yang lebih kompleks. Keterampilan Komputer Dasar : Kemampuan menggunakan komputer dan perangkat lunak Microsoft Office pada umumnya sangat penting, termasuk pengetahuan dasar tentang navigasi sistem operasi. Akses ke Microsoft Excel 365 : Peserta harus memiliki akses ke Microsoft Excel 365 untuk dapat berlatih dan menerapkan apa yang telah dipelajari selama training. Ini juga termasuk koneksi internet yang memadai untuk fitur berbasis cloud. Kemampuan Analitis : Meskipun tidak mutlak, memiliki kemampuan pemikiran analitis akan sangat menguntungkan dalam memahami dan menganalisis data yang diajarkan dalam training. Kesiapan untuk Belajar : Keterbukaan untuk belajar dan mencoba fitur baru sangat penting, terutama dengan adanya elemen AI yang mungkin belum familiar bagi beberapa peserta. Dengan memenuhi syarat-syarat ini, peserta akan lebih siap untuk mengikuti training dan memanfaatkan sepenuhnya fitur serta fungsi yang diajarkan.",
+      "items": [
+        "Pengetahuan Dasar Excel : Peserta sebaiknya memiliki pemahaman dasar tentang penggunaan Microsoft Excel, termasuk pengenalan fungsi, tabel, dan grafik. Ini akan memudahkan mereka untuk memahami fitur yang lebih kompleks.",
+        "Keterampilan Komputer Dasar : Kemampuan menggunakan komputer dan perangkat lunak Microsoft Office pada umumnya sangat penting, termasuk pengetahuan dasar tentang navigasi sistem operasi.",
+        "Akses ke Microsoft Excel 365 : Peserta harus memiliki akses ke Microsoft Excel 365 untuk dapat berlatih dan menerapkan apa yang telah dipelajari selama training. Ini juga termasuk koneksi internet yang memadai untuk fitur berbasis cloud.",
+        "Kemampuan Analitis : Meskipun tidak mutlak, memiliki kemampuan pemikiran analitis akan sangat menguntungkan dalam memahami dan menganalisis data yang diajarkan dalam training.",
+        "Kesiapan untuk Belajar : Keterbukaan untuk belajar dan mencoba fitur baru sangat penting, terutama dengan adanya elemen AI yang mungkin belum familiar bagi beberapa peserta."
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Mempelajari training Microsoft Excel 365 dengan AI menawarkan berbagai manfaat yang signifikan, antara lain: Peningkatan Keterampilan Excel : Peserta akan menguasai fitur-fitur terbaru dan teknik analisis data lanjutan yang meningkatkan efisiensi kerja. Pemanfaatan AI dalam Analisis Data : Dengan memahami cara menggunakan AI dalam Excel, peserta dapat mengolah data dengan lebih cepat dan akurat, sehingga menghasilkan wawasan yang lebih baik untuk pengambilan keputusan. Automasi Tugas Rutin : Peserta akan belajar bagaimana cara mengotomatisasi proses dan tugas yang berulang, yang tidak hanya menghemat waktu tetapi juga mengurangi kemungkinan kesalahan manusia. Peningkatan Produktivitas : Dengan berbagai alat dan teknik baru yang dipelajari, peserta dapat menyelesaikan pekerjaan dengan lebih efisien, meningkatkan produktivitas mereka secara keseluruhan. Keunggulan Kompetitif : Keterampilan yang diperoleh dapat memberikan keunggulan kompetitif, baik di dunia kerja maupun dalam menjalankan usaha sendiri, di mana analisis data yang tepat dapat membuat perbedaan dalam strategi bisnis. Pembelajaran dengan Kurikulum Terstruktur : Training ini menawarkan kurikulum yang terstruktur dan sistematik yang memudahkan peserta untuk memahami konsep kompleks secara bertahap. Pengembangan Karir : Keterampilan Excel yang ditingkatkan, khususnya dengan menggunakan AI, dapat membuka peluang baru dalam karir peserta, baik dalam promosi jabatan maupun peralihan karir. Jaringan dan Komunitas : Mengikuti training juga memberikan kesempatan untuk bertemu dengan profesional lain, yang bisa memperluas jaringan profesional dan menambah peluang kolaborasi di masa depan. Dengan manfaat-manfaat ini, peserta akan mendapatkan nilai tambah yang signifikan baik untuk pengembangan pribadi maupun profesional.",
+      "items": [
+        "Peningkatan Keterampilan Excel : Peserta akan menguasai fitur-fitur terbaru dan teknik analisis data lanjutan yang meningkatkan efisiensi kerja.",
+        "Pemanfaatan AI dalam Analisis Data : Dengan memahami cara menggunakan AI dalam Excel, peserta dapat mengolah data dengan lebih cepat dan akurat, sehingga menghasilkan wawasan yang lebih baik untuk pengambilan keputusan.",
+        "Automasi Tugas Rutin : Peserta akan belajar bagaimana cara mengotomatisasi proses dan tugas yang berulang, yang tidak hanya menghemat waktu tetapi juga mengurangi kemungkinan kesalahan manusia.",
+        "Peningkatan Produktivitas : Dengan berbagai alat dan teknik baru yang dipelajari, peserta dapat menyelesaikan pekerjaan dengan lebih efisien, meningkatkan produktivitas mereka secara keseluruhan.",
+        "Keunggulan Kompetitif : Keterampilan yang diperoleh dapat memberikan keunggulan kompetitif, baik di dunia kerja maupun dalam menjalankan usaha sendiri, di mana analisis data yang tepat dapat membuat perbedaan dalam strategi bisnis.",
+        "Pembelajaran dengan Kurikulum Terstruktur : Training ini menawarkan kurikulum yang terstruktur dan sistematik yang memudahkan peserta untuk memahami konsep kompleks secara bertahap.",
+        "Pengembangan Karir : Keterampilan Excel yang ditingkatkan, khususnya dengan menggunakan AI, dapat membuka peluang baru dalam karir peserta, baik dalam promosi jabatan maupun peralihan karir.",
+        "Jaringan dan Komunitas : Mengikuti training juga memberikan kesempatan untuk bertemu dengan profesional lain, yang bisa memperluas jaringan profesional dan menambah peluang kolaborasi di masa depan."
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Modul",
+        "Kaos, dll"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "1. Pengenalan AI di Excel Apa itu AI di Microsoft Excel? Evolusi fitur cerdas (Smart Features) Manfaat penggunaan AI untuk efisiensi kerja 2. Fuzzy Matching for Correction Data Entry Introduction Fuzzy Matching Recognize Typo Data Fix bad data type Add table transform “Training” Fuzzy Matching 3. Flash Fill for Automatic Data Pattern Introduction Flashfill Split data with AI Flashfill Refresh Flashfill 4. Function in MS Excel General Expression in MS Excel Translate Text Let Offset Data etc 5. Data Type AI Introduction Data Type Application Data Type Add AI Driven to Data Create Data Type Refresh Data Type 6. Analyze for Data with AI Introduction AI Show Analyze Data in Excel Analyze Data auto label 7. Automatics Dynamic Table Introduction Dynamic Table Convert to Dynamic Table Linking Dynamic Table Refresh Dynamic Table Create Summary from Dynamic Table 8. Consolidate Data with PowerQuery Introduction of PowerQuery Combine Data as Merge and Append Mode Export Data as Table in MS Excel Export as Summary data from Powerquery Export as PivotTable/PivotChart Refresh Data Lookup type true in Powerquery 9. Machine Learning in MS Excel 365 (Application Statistic Module) Introduction Machine Learning Create Learning Modul for Data Application Trend Analysis Application Linier Regression Application Logistic Regression Add Chart for Visualization 10. Create (Next Level) Visualization in MS Excel Create Customer Maps Create Card Visual Create Control Chart Create Image in Data Connection among Data Summary/Visual Chart 11. PivotTable from Big Data Create Pivot from any file (pdf, .xlsx, .csv, .txt, google sheet, etc) Create Pivot from any sources (drive, sharepoint, local, DB, etc) Create Pivot from million data Refresh PivotTable Create Dynamic PivotTable Connection in PivotTable Create / Combine Pivot from any type of Table etc",
+      "items": [
+        "Apa itu AI di Microsoft Excel?",
+        "Evolusi fitur cerdas (Smart Features)",
+        "Manfaat penggunaan AI untuk efisiensi kerja",
+        "Introduction Fuzzy Matching",
+        "Recognize Typo Data",
+        "Fix bad data type",
+        "Add table transform",
+        "“Training” Fuzzy Matching",
+        "Introduction Flashfill",
+        "Split data with AI Flashfill",
+        "Refresh Flashfill",
+        "General Expression in MS Excel",
+        "Translate Text",
+        "Let",
+        "Offset Data",
+        "etc",
+        "Introduction Data Type",
+        "Application Data Type",
+        "Add AI Driven to Data",
+        "Create Data Type",
+        "Refresh Data Type",
+        "Introduction AI",
+        "Show Analyze Data in Excel",
+        "Analyze Data auto label",
+        "Introduction Dynamic Table",
+        "Convert to Dynamic Table",
+        "Linking Dynamic Table",
+        "Refresh Dynamic Table",
+        "Create Summary from Dynamic Table",
+        "Introduction of PowerQuery",
+        "Combine Data as Merge and Append Mode",
+        "Export Data as Table in MS Excel",
+        "Export as Summary data from Powerquery",
+        "Export as PivotTable/PivotChart",
+        "Refresh Data",
+        "Lookup type true in Powerquery",
+        "Introduction Machine Learning",
+        "Create Learning Modul for Data",
+        "Application Trend Analysis",
+        "Application Linier Regression",
+        "Application Logistic Regression",
+        "Add Chart for Visualization",
+        "Create Customer Maps",
+        "Create Card Visual",
+        "Create Control Chart",
+        "Create Image in Data",
+        "Connection among Data Summary/Visual Chart",
+        "Create Pivot from any file (pdf, .xlsx, .csv, .txt, google sheet, etc)",
+        "Create Pivot from any sources (drive, sharepoint, local, DB, etc)",
+        "Create Pivot from million data",
+        "Refresh PivotTable",
+        "Create Dynamic PivotTable",
+        "Connection in PivotTable",
+        "Create / Combine Pivot from any type of Table",
+        "etc"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Ali Baroroh",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 5.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 11,
+    "fields_not_found": 5,
+    "coverage": 0.6875
+  },
+  "metadata": {
+    "registry_name": "MS Excel 365 With AI",
+    "content_hash": "b3104b6bed77c22730ead639e5661c342c7839e594ecfb70fcb2d7be59e113de",
+    "template_type": "BETTERDOCS"
+  }
+}

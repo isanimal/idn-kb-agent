@@ -1,0 +1,14 @@
+{
+  "training_source_id": 17,
+  "canonical_url": "https://www.idn.id/training/android-dasar/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "3c14639bf869ede56677ee4d834de489e5d36c10a40a492ecb4b486c106e1833",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:17.673046+00:00",
+  "facts_path": "data\\products\\android-dasar\\facts.json",
+  "evidence_path": "data\\products\\android-dasar\\evidence.json",
+  "raw_snapshot_path": "data\\products\\android-dasar\\raw.html",
+  "last_error": null
+}

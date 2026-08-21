@@ -1,0 +1,102 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Apakah Anda siap menjadi ahli dalam mengelola infrastruktur Google Cloud ? Di era digital yang terus berkembang, kemampuan mengelola platform cloud merupakan skill krusial yang dicari oleh perusahaan di seluruh dunia. Training ini dirancang khusus untuk membekali Anda dengan pengetahuan dan keterampilan yang diperlukan untuk menguasai Google Cloud Platform (GCP). Google Cloud Administration adalah serangkaian tugas dan proses yang diperlukan untuk mengelola layanan dan sumber daya di Google Cloud Platform (GCP) . Secara sederhana, ini adalah pekerjaan seorang administrator atau teknisi yang bertanggung jawab untuk memastikan semua yang berjalan di GCP—mulai dari aplikasi hingga data—berjalan dengan lancar, aman, dan efisien. Seorang administrator Google Cloud memiliki berbagai tugas penting, antara lain: Manajemen Akun dan Akses (IAM): Ini adalah salah satu tugas terpenting. Administrator menentukan siapa yang bisa mengakses sumber daya apa. Mereka membuat akun pengguna, menetapkan peran, dan memastikan hanya orang yang berhak yang bisa mengakses data sensitif atau infrastruktur penting. Pengelolaan Sumber Daya: Administrator bertanggung jawab untuk mengelola berbagai sumber daya, seperti mesin virtual (VM) , penyimpanan (storage) , dan database . Mereka memastikan sumber daya dialokasikan dengan benar sesuai kebutuhan aplikasi dan dioptimalkan untuk performa terbaik. Pengaturan Jaringan: Mereka mengelola konfigurasi jaringan, termasuk VPC (Virtual Private Cloud) , subnet, firewall, dan load balancer. Ini memastikan lalu lintas data aman dan aplikasi dapat berkomunikasi dengan lancar, baik di dalam cloud maupun dengan lingkungan di luar Google Cloud. Keamanan dan Kepatuhan: Menjaga keamanan adalah prioritas utama. Administrator menerapkan kebijakan keamanan, mengelola kunci enkripsi, dan memantau aktivitas untuk mendeteksi ancaman. Mereka juga memastikan bahwa infrastruktur mematuhi standar keamanan dan regulasi industri. Pemantauan dan Biaya: Administrator memantau kinerja sistem dan sumber daya menggunakan alat seperti Cloud Monitoring . Mereka juga melacak penggunaan sumber daya untuk mengoptimalkan biaya , memastikan perusahaan tidak membayar lebih dari yang seharusnya. Otomasi dan Deployment: Untuk efisiensi, administrator sering kali menggunakan skrip dan alat untuk mengotomatisasi tugas-tugas rutin seperti deployment aplikasi, pembaruan sistem, dan manajemen konfigurasi. Secara keseluruhan, Google Cloud Administration adalah peran vital yang menggabungkan keahlian teknis dengan pemahaman mendalam tentang kebutuhan bisnis. Peran ini memastikan infrastruktur cloud berfungsi sebagai fondasi yang kuat untuk inovasi dan pertumbuhan perusahaan.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM CLOUD FOUNDATIONS INTRODUCTION CLOUD COMPUTING ADVANTAGES CLOUD COMPUTING CLOUD COMPUTING SERVICE MODELS CLOUD COMPUTING DEPLOYMENT MODELS INTRODUCTION GOOGLE CLOUD PLATFORM INTRODUCTION GOOGLE CLOUD GOOGLE CLOUD GLOBAL INFRASTRUCTURE GOOGLE CLOUD RESOURCE HIERARCHY GOOGLE CLOUD ADOPTION FRAMEWORK GOOGLE CLOUD PRODUCTS GOOGLE CLOUD CUSTOMER CARE GOOGLE CLOUD CERTIFICATION INTERACT WITH GOOGLE CLOUD MANAGING GOOGLE CLOUD RESOURCE CLOUD IDENTITY AND ORGANIZATION BILLING AND BUDGET FREE TRIAL FREE TIER BILLING BUDGET AND ALERTS API MANAGEMENT QUOTA MANAGEMENT IDENTITY ACCESS AND MANAGEMENT OVERVIEW CREATE USERS AND GROUPS IN CLOUD IDENTITY ADD PRINCIPAL AND BASIC ROLE CREATE CUSTOM ROLE COMPUTE INTRODUCTION GOOGLE CLOUD COMPUTE ENGINE VM INSTANCE CONNECT TO VM INSTANCE VM INSTANCE SERVICE INSTALLATION STARTUP SCRIPTS VM INSTANCE INSTANCE TEMPLATE MACHINE IMAGES INSTANCE GROUPS LOAD BALANCING STORAGE STORAGE TYPES INTRODUCTION GOOGLE CLOUD BLOCK STORAGE LAB BLOCK STORAGE INTRODUCTION GOOGLE CLOUD FILESTORE LAB FILESTORE INSTANCE INTRODUCTION GOOGLE CLOUD STORAGE LAB PRIVATE/PUBLIC BUCKET, BACKUP, VERSIONING, STATIC HOSTING NETWORK INTRODCUTION VPC, SUBNET, FIREWALL INTRODUCTION SHARED VPC INTRODCUTION VPC NETWORK PEERING INTRODUCTION HYBRID CONNECTION INTRODUCTION CLOUD DNS, PRIVATE/PUBLIC DNS ZONE INTRODUCTION CONTENT DELIVERY NETWORK DATABASE INTRODUCTION CLOUD SQL CREATE A MYSQL INSTANCE, CREATE DATABASE, BACKUP, RESTORE, REPLICATION",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Sangat penting untuk memahami bahwa menguasai Google Cloud Administration bukan hanya tentang belajar teori, tetapi juga membangun serangkaian keterampilan praktis yang akan memberikan manfaat besar dalam karir Anda. Berikut adalah manfaat-manfaat utama yang akan Anda peroleh setelah menguasai keahlian ini: 1. Peningkatan Nilai Jual dan Daya Saing di Pasar Kerja Profesi di bidang cloud computing sangat diminati, dan para ahli yang bersertifikasi, terutama dari Google, menjadi aset yang sangat berharga. Memiliki keterampilan ini akan membuat Anda lebih menonjol di antara kandidat lain dan membuka pintu ke banyak posisi bergengsi. Peluang Karir yang Lebih Luas : Anda tidak hanya bisa menjadi Google Cloud Administrator atau Cloud Engineer , tetapi juga memiliki dasar yang kuat untuk berkembang ke posisi seperti Cloud Architect , DevOps Engineer , atau Data Engineer karena Anda memahami pondasi infrastruktur yang mereka gunakan. Potensi Gaji Lebih Tinggi : Keterampilan cloud termasuk yang paling dicari di industri IT. Hal ini sering kali berkorelasi langsung dengan pendapatan yang lebih tinggi. 2. Kemampuan untuk Membangun dan Mengelola Sistem Modern Anda akan memiliki kemampuan untuk merancang, membangun, dan memelihara infrastruktur yang menjadi tulang punggung banyak aplikasi dan layanan digital saat ini. Mengoptimalkan Biaya : Anda akan belajar bagaimana mengelola sumber daya dengan efisien. Ini sangat krusial bagi perusahaan untuk menghindari pemborosan biaya. Meningkatkan Keamanan : Keahlian Anda akan mencakup praktik-praktik keamanan terbaik, seperti pengelolaan IAM (Identity and Access Management) , konfigurasi firewall, dan enkripsi data, yang penting untuk melindungi aset digital perusahaan. Menjamin Ketersediaan dan Skalabilitas : Anda akan bisa membangun sistem yang andal dan dapat berkembang sesuai dengan kebutuhan bisnis, memastikan layanan tidak terhenti saat terjadi lonjakan permintaan. 3. Otomatisasi untuk Efisiensi Salah satu keterampilan utama yang akan Anda pelajari adalah otomatisasi . Anda akan bisa menggunakan scripting dan tools seperti Terraform untuk mengelola infrastruktur sebagai kode. Menghemat Waktu dan Mengurangi Risiko Kesalahan : Tugas-tugas yang berulang bisa diotomatisasi, sehingga mengurangi risiko kesalahan manusia dan membebaskan Anda untuk fokus pada pekerjaan yang lebih strategis. Mendukung Metodologi DevOps : Otomatisasi adalah elemen kunci dari DevOps. Dengan keahlian ini, Anda dapat mempercepat siklus pengembangan dan deployment produk, yang sangat dibutuhkan oleh perusahaan teknologi modern. Singkatnya, menguasai Google Cloud Administration adalah investasi yang cerdas untuk masa depan Anda. Ini bukan hanya tentang mengelola server, tetapi tentang menjadi ahli yang mampu menggerakkan inovasi dan memberikan nilai strategis bagi perusahaan.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Fasilitas",
+      "source_text": "Fasilitas Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Trainer",
+      "source_text": "Trainer ACHMAD ALIF NASRULLOH",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+      "source_section": "Fasilitas",
+      "source_text": "Fasilitas Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+        "source_section": "Page title",
+        "source_text": "Google Cloud Administrator",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+        "source_section": "Training registry",
+        "source_text": "Clouds",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/google-cloud-administrator/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/google-cloud-administrator/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

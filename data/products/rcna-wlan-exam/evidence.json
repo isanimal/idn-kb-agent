@@ -1,0 +1,102 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee. Pelatihan ini mengacu pada sertifikasi RCNA (Ruijie Certified Network Associate) WLAN yang berfokus pada pengelolaan jaringan Wi-Fi di lingkungan enterprise maupun bisnis. Peserta akan mempelajari konsep dasar wireless LAN, arsitektur jaringan WLAN, konfigurasi access point, manajemen controller, keamanan jaringan wireless, roaming, optimasi performa Wi-Fi, hingga troubleshooting jaringan wireless. Pelatihan dilengkapi dengan praktik langsung (hands-on lab) agar peserta mampu memahami implementasi WLAN secara nyata di dunia kerja. Pada akhir pelatihan, peserta akan mengikuti ujian sertifikasi RCNA WLAN sebagai validasi kompetensi dalam bidang jaringan wireless berbasis Ruijie/Reyee.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Biaya Investasi : Rp 3.000.000 Rp 2.000.000",
+      "source_text": "Biaya Investasi : Rp 3.000.000 Rp 2.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Module 1 — WLAN Introduction • Basic Access, PSK Authentication Configuration for Fat APs • WLAN Introduction • Advantages and Disadvantages of WLAN • Wireless Network Classification • WLAN Technology Development Trend Module 2 — L2 Networking & RF Fundamentals • RF Basics • WLAN Transmission Channels • 802.11 Protocol • WLAN Basics Module 3 — L3 Networking & WLAN Architecture • WLAN System Composition • Wireless Devices • Wireless AES • WLAN Architecture Module 4 — WLAN Networking & Roaming • WLAN Networking • Bridging and Roaming Module 5 — Data Forwarding & CAPWAP • Data Forwarding Modes • CAPWAP Protocol Principles Module 6 — Fat AP & Fit AP Networking • Fat AP-based Networking and Configuration • Fit AP-based Networking and Configuration Module 7 — Roaming Concepts • Basic Concepts of Roaming • Intra-AC Roaming Module 8 — Wireless Hot Backup & Virtual AC • Principles of Wireless Hot Backup • Wireless AC Hot Backup • Virtual AC Module 9 — WLAN Security • Introduction to WLAN Security Background • WLAN Security Technologies • WLAN Network Access Control • WLAN Security Configuration • User Isolation • Blacklist and Whitelist Module 10 — WLAN Optimization • WLAN Optimization Background • WLAN Optimization Guide Module 11 — Site Survey • Site Survey Preparations • Wireless Signal Propagation Interference Mitigation Methods • Site Survey Knowledge and Methods • Common Site Survey Tools",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+      "source_text": "Siapa yang Cocok Mengikuti Training Ini? Network Engineer IT Support System Administrator Teknisi jaringan Fresh graduate bidang IT & networking Profesional IT yang ingin fokus di teknologi wireless networking Dengan pelatihan ini, peserta dapat memperluas wawasan mereka tentang teknologi jaringan, meningkatkan keterampilan praktis, dan mempersiapkan diri untuk ujian sertifikasi Ruijie, yang dapat meningkatkan daya saing mereka di pasar kerja.",
+      "confidence": 1.0
+    }
+  ],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Trainer",
+      "source_text": "Trainer At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS) Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+        "source_section": "Page title",
+        "source_text": "RCNA WLAN + Exam",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+        "source_section": "Training registry",
+        "source_text": "Ruijie",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/rcna-wlan-exam/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

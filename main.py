@@ -13,6 +13,8 @@ from app.core.health import print_health_report, run_health_checks
 from app.core.logger import configure_logging
 from app.core.runtime import RuntimeLock, ShutdownCoordinator, ensure_runtime_directories
 from app.site_model.reconnaissance import run_reconnaissance
+from app.extractor.pipeline import generate_summary, manual_validation_samples, run_extraction
+from app.extractor.audit import print_parser_audit, run_parser_audit
 
 
 def command_health() -> int:
@@ -105,22 +107,71 @@ def command_idn_report() -> int:
     return 0
 
 
+def command_idn_extract(limit: int | None, force: bool) -> int:
+    settings = get_settings(); database = Database(settings.database_path); database.initialize_database()
+    summary = run_extraction(settings, database, limit=limit, force=force)
+    print(f"IDN extraction complete: {summary['completed']} completed, {summary['partial']} partial, "
+          f"{summary['failed']} failed, {summary['pending']} pending")
+    return 2 if summary["failed"] else 0
+
+
+def command_extraction_report() -> int:
+    settings = get_settings(); database = Database(settings.database_path); database.initialize_database()
+    summary = generate_summary(database)
+    coverage = summary["field_coverage"]
+    print("IDN TRAINING EXTRACTION REPORT\n")
+    print(f"Products registered...... {summary['total_products']}")
+    print(f"Extracted................ {summary['completed']}")
+    print(f"Partial.................. {summary['partial']}")
+    print(f"Failed................... {summary['failed']}")
+    for label, key in (("Description", "description"), ("Curriculum", "curriculum"), ("Price", "price"),
+                       ("Duration", "duration"), ("Prerequisite", "prerequisites"), ("Trainer", "trainers")):
+        print(f"{label + ' found':27} {coverage.get(key, {}).get('FOUND', 0)}")
+    print(f"\nAverage coverage......... {summary['average_coverage']:.1%}")
+    print(f"Unknown headings......... {sum(summary['unknown_headings'].values())}")
+    print(f"Quality warnings......... {sum(summary['quality_flags'].values())}")
+    print("\nDataset:\ndata/products/\n\nSummary:\ndata/site_models/training_extraction_summary.json")
+    samples = manual_validation_samples(database)
+    if samples:
+        print("\nMANUAL EXTRACTION VALIDATION")
+        for item in samples:
+            facts = item["facts"]
+            def shown(key):
+                field = facts[key]; return field.get("value") if field.get("value") is not None else field.get("values")
+            print(f"\nProduct: {item['product']}\nCategory: {item['category']}\nURL: {item['url']}\n"
+                  f"Description: {shown('description')}\nDuration: {shown('duration')}\nPrice: {shown('price')}\n"
+                  f"Curriculum: {shown('curriculum')}\nTrainer: {shown('trainers')}\nStatus: REVIEW_REQUIRED")
+    return 0
+
+
+def command_parser_audit() -> int:
+    audit = run_parser_audit()
+    print_parser_audit(audit)
+    return 0 if all(audit["regression"].values()) else 2
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
-    parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report"))
-    parser.add_argument("--limit", type=int, default=10,
+    parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
+                                            "idn-extract", "extraction-report", "parser-audit"))
+    parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
+    parser.add_argument("--force", action="store_true", help="Re-extract completed products")
     args = parser.parse_args()
     ensure_runtime_directories()
     configure_logging(get_settings().log_level)
     try:
         commands = {"health": command_health, "db-test": command_db_test,
                     "browser-test": command_browser_test, "run": command_run,
-                    "idn-report": command_idn_report}
+                    "idn-report": command_idn_report, "extraction-report": command_extraction_report,
+                    "parser-audit": command_parser_audit}
         if args.command == "idn-learn":
-            if args.limit < 0:
+            if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
-            return command_idn_learn(args.limit)
+            return command_idn_learn(10 if args.limit is None else args.limit)
+        if args.command == "idn-extract":
+            if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
+            return command_idn_extract(args.limit, args.force)
         return commands[args.command]()
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")

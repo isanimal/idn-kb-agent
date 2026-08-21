@@ -1,0 +1,435 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Proxmox Administration Advanced",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/proxmox-advanced/",
+          "source_section": "Page title",
+          "source_text": "Proxmox Administration Advanced",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Virtualization",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/proxmox-advanced/",
+          "source_section": "Training registry",
+          "source_text": "Virtualization",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/proxmox-advanced/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/proxmox-advanced/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/proxmox-advanced/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Setelah memahami fondasi dasar virtualisasi dan manajemen infrastruktur menggunakan Proxmox VE, langkah selanjutnya adalah memperluas pengetahuan dan keterampilan ke tingkat yang lebih tinggi. Training Proxmox Advanced dirancang khusus untuk para praktisi IT yang ingin mengoptimalkan performa, ketersediaan, dan keamanan infrastruktur virtual mereka menggunakan fitur-fitur lanjutan yang ditawarkan oleh Proxmox VE. Dalam pelatihan intensif selama 2 hari ini, peserta akan mengeksplorasi konsep clustering, integrasi storage berbasis Ceph, High Availability (HA), pengamanan melalui firewall, serta strategi backup dan replikasi. Fokus utama dari training ini adalah memberikan pemahaman teknis yang mendalam, kemampuan troubleshooting, dan praktik langsung untuk menghadapi tantangan nyata di lingkungan produksi.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Setelah memahami fondasi dasar virtualisasi dan manajemen infrastruktur menggunakan Proxmox VE, langkah selanjutnya adalah memperluas pengetahuan dan keterampilan ke tingkat yang lebih tinggi. Training Proxmox Advanced dirancang khusus untuk para praktisi IT yang ingin mengoptimalkan performa, ketersediaan, dan keamanan infrastruktur virtual mereka menggunakan fitur-fitur lanjutan yang ditawarkan oleh Proxmox VE. Dalam pelatihan intensif selama 2 hari ini, peserta akan mengeksplorasi konsep clustering, integrasi storage berbasis Ceph, High Availability (HA), pengamanan melalui firewall, serta strategi backup dan replikasi. Fokus utama dari training ini adalah memberikan pemahaman teknis yang mendalam, kemampuan troubleshooting, dan praktik langsung untuk menghadapi tantangan nyata di lingkungan produksi.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Biaya Investasi : Rp 3.000.000",
+        "source_text": "Biaya Investasi : Rp 3.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DAY 1",
+        "objective": null,
+        "items": [
+          "1. Clustering Proxmox VE Key Concept Requirements Proxmox Cluster Setup Network Setup Cluster Cluster Features Test Migration",
+          "2. Ceph Proxmox VE Introduction to Ceph Ceph Component Setup Ceph How Ceph Works Replacement Disk Failure Test",
+          "3. Proxmox VE High Availability Concept of HA Setup HA Service Proxmox Group HA Proxmox Test HA HA Settings"
+        ],
+        "raw": "1. Clustering Proxmox VE Key Concept Requirements Proxmox Cluster Setup Network Setup Cluster Cluster Features Test Migration 2. Ceph Proxmox VE Introduction to Ceph Ceph Component Setup Ceph How Ceph Works Replacement Disk Failure Test 3. Proxmox VE High Availability Concept of HA Setup HA Service Proxmox Group HA Proxmox Test HA HA Settings",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 2",
+        "objective": null,
+        "items": [
+          "4. Proxmox VE Firewall Short Intro Firewall Proxmox Firewall Features Setup Proxmox Firewall Setup Firewall for KVM/LXC Log Firewall",
+          "5. Backup, Restore, and Scheduling Principles of Backup Manual Backup Restore Schedule Backup Manage Backup Cycles Advanced Options Manage Backup File Replication Test Replication"
+        ],
+        "raw": "4. Proxmox VE Firewall Short Intro Firewall Proxmox Firewall Features Setup Proxmox Firewall Setup Firewall for KVM/LXC Log Firewall 5. Backup, Restore, and Scheduling Principles of Backup Manual Backup Restore Schedule Backup Manage Backup Cycles Advanced Options Manage Backup File Replication Test Replication",
+        "structure_type": "DAY_BASED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Day 1 1. Clustering Proxmox VE Key Concept Requirements Proxmox Cluster Setup Network Setup Cluster Cluster Features Test Migration 2. Ceph Proxmox VE Introduction to Ceph Ceph Component Setup Ceph How Ceph Works Replacement Disk Failure Test 3. Proxmox VE High Availability Concept of HA Setup HA Service Proxmox Group HA Proxmox Test HA HA Settings Day 2 4. Proxmox VE Firewall Short Intro Firewall Proxmox Firewall Features Setup Proxmox Firewall Setup Firewall for KVM/LXC Log Firewall 5. Backup, Restore, and Scheduling Principles of Backup Manual Backup Restore Schedule Backup Manage Backup Cycles Advanced Options Manage Backup File Replication Test Replication",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Memahami Konsep dan Arsitektur Cluster Proxmox VE",
+      "Menguasai Setup dan Manajemen Cluster, serta Live Migration VM",
+      "Mengerti dan Mampu Menerapkan Storage Terdistribusi dengan Ceph",
+      "Menyiapkan Infrastruktur dengan Ketersediaan Tinggi (High Availability)",
+      "Meningkatkan Keamanan melalui Konfigurasi Proxmox VE Firewall",
+      "Mengelola Backup, Restore, dan Replikasi dengan Strategi yang Efisien",
+      "Siap Menghadapi Kebutuhan Enterprise-Scale Infrastructure dengan Proxmox"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Setelah mengikuti training ini, peserta diharapkan mampu: Memahami Konsep dan Arsitektur Cluster Proxmox VE Menguasai Setup dan Manajemen Cluster, serta Live Migration VM Mengerti dan Mampu Menerapkan Storage Terdistribusi dengan Ceph Menyiapkan Infrastruktur dengan Ketersediaan Tinggi (High Availability) Meningkatkan Keamanan melalui Konfigurasi Proxmox VE Firewall Mengelola Backup, Restore, dan Replikasi dengan Strategi yang Efisien Siap Menghadapi Kebutuhan Enterprise-Scale Infrastructure dengan Proxmox",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Modul",
+      "Kaos, dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Pengetahuan dasar tentang TCP/IP atau Network Fundamentals",
+      "Pengetahuan dasar tentang komputer dan server akan sangat membantu"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar tentang TCP/IP atau Network Fundamentals Pengetahuan dasar tentang komputer dan server akan sangat membantu",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": [
+      "IT support dan administrator sistem",
+      "Pengembang yang ingin memahami virtualisasi",
+      "Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Training ini sangat cocok untuk: IT support dan administrator sistem Pengembang yang ingin memahami virtualisasi Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-advanced/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Setelah memahami fondasi dasar virtualisasi dan manajemen infrastruktur menggunakan Proxmox VE, langkah selanjutnya adalah memperluas pengetahuan dan keterampilan ke tingkat yang lebih tinggi. Training Proxmox Advanced dirancang khusus untuk para praktisi IT yang ingin mengoptimalkan performa, ketersediaan, dan keamanan infrastruktur virtual mereka menggunakan fitur-fitur lanjutan yang ditawarkan oleh Proxmox VE. Dalam pelatihan intensif selama 2 hari ini, peserta akan mengeksplorasi konsep clustering, integrasi storage berbasis Ceph, High Availability (HA), pengamanan melalui firewall, serta strategi backup dan replikasi. Fokus utama dari training ini adalah memberikan pemahaman teknis yang mendalam, kemampuan troubleshooting, dan praktik langsung untuk menghadapi tantangan nyata di lingkungan produksi.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Anda Harus Mengikuti Training Ini?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Training Proxmox Basic ini dirancang untuk para pemula dan profesional yang ingin memperdalam pengetahuan dan keterampilan mereka dalam menggunakan Proxmox. Di tempat ini, Anda akan mendapatkan: Pelatihan Praktis: Kelas interaktif dengan banyak latihan langsung, sehingga Anda dapat langsung menerapkan apa yang Anda pelajari. Materi Komprehensif: Dari instalasi hingga konfigurasi dan manajemen, semua aspek penting Proxmox akan dibahas secara mendalam. Dukungan Profesional: Akses ke instruktur berpengalaman yang siap membantu Anda dalam setiap langkah.",
+      "items": [
+        "Pelatihan Praktis: Kelas interaktif dengan banyak latihan langsung, sehingga Anda dapat langsung menerapkan apa yang Anda pelajari.",
+        "Materi Komprehensif: Dari instalasi hingga konfigurasi dan manajemen, semua aspek penting Proxmox akan dibahas secara mendalam.",
+        "Dukungan Profesional: Akses ke instruktur berpengalaman yang siap membantu Anda dalam setiap langkah."
+      ]
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Training ini sangat cocok untuk: IT support dan administrator sistem Pengembang yang ingin memahami virtualisasi Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi",
+      "items": [
+        "IT support dan administrator sistem",
+        "Pengembang yang ingin memahami virtualisasi",
+        "Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi"
+      ]
+    },
+    {
+      "heading": "Mengapa Harus Training Proxmox di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Perangkat proxmox sudah disediakan sehingga memudahkan praktik langsung dengan devices Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training proxmox di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang proxmox administration",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Perangkat proxmox sudah disediakan sehingga memudahkan praktik langsung dengan devices",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training proxmox di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang proxmox administration"
+      ]
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar tentang TCP/IP atau Network Fundamentals Pengetahuan dasar tentang komputer dan server akan sangat membantu",
+      "items": [
+        "Pengetahuan dasar tentang TCP/IP atau Network Fundamentals",
+        "Pengetahuan dasar tentang komputer dan server akan sangat membantu"
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Setelah mengikuti training ini, peserta diharapkan mampu: Memahami Konsep dan Arsitektur Cluster Proxmox VE Menguasai Setup dan Manajemen Cluster, serta Live Migration VM Mengerti dan Mampu Menerapkan Storage Terdistribusi dengan Ceph Menyiapkan Infrastruktur dengan Ketersediaan Tinggi (High Availability) Meningkatkan Keamanan melalui Konfigurasi Proxmox VE Firewall Mengelola Backup, Restore, dan Replikasi dengan Strategi yang Efisien Siap Menghadapi Kebutuhan Enterprise-Scale Infrastructure dengan Proxmox",
+      "items": [
+        "Memahami Konsep dan Arsitektur Cluster Proxmox VE",
+        "Menguasai Setup dan Manajemen Cluster, serta Live Migration VM",
+        "Mengerti dan Mampu Menerapkan Storage Terdistribusi dengan Ceph",
+        "Menyiapkan Infrastruktur dengan Ketersediaan Tinggi (High Availability)",
+        "Meningkatkan Keamanan melalui Konfigurasi Proxmox VE Firewall",
+        "Mengelola Backup, Restore, dan Replikasi dengan Strategi yang Efisien",
+        "Siap Menghadapi Kebutuhan Enterprise-Scale Infrastructure dengan Proxmox"
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Modul",
+        "Kaos, dll"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Day 1 1. Clustering Proxmox VE Key Concept Requirements Proxmox Cluster Setup Network Setup Cluster Cluster Features Test Migration 2. Ceph Proxmox VE Introduction to Ceph Ceph Component Setup Ceph How Ceph Works Replacement Disk Failure Test 3. Proxmox VE High Availability Concept of HA Setup HA Service Proxmox Group HA Proxmox Test HA HA Settings Day 2 4. Proxmox VE Firewall Short Intro Firewall Proxmox Firewall Features Setup Proxmox Firewall Setup Firewall for KVM/LXC Log Firewall 5. Backup, Restore, and Scheduling Principles of Backup Manual Backup Restore Schedule Backup Manage Backup Cycles Advanced Options Manage Backup File Replication Test Replication",
+      "items": [
+        "Key Concept",
+        "Requirements Proxmox Cluster",
+        "Setup Network",
+        "Setup Cluster",
+        "Cluster Features",
+        "Test Migration",
+        "Introduction to Ceph",
+        "Ceph Component",
+        "Setup Ceph",
+        "How Ceph Works",
+        "Replacement Disk",
+        "Failure Test",
+        "Concept of HA",
+        "Setup HA Service Proxmox",
+        "Group HA Proxmox",
+        "Test HA",
+        "HA Settings",
+        "Short Intro Firewall",
+        "Proxmox Firewall Features",
+        "Setup Proxmox Firewall",
+        "Setup Firewall for KVM/LXC",
+        "Log Firewall",
+        "Principles of Backup",
+        "Manual Backup",
+        "Restore",
+        "Schedule Backup",
+        "Manage Backup Cycles",
+        "Advanced Options",
+        "Manage Backup File",
+        "Replication",
+        "Test Replication"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "items": [
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 11,
+    "fields_not_found": 5,
+    "coverage": 0.6875
+  },
+  "metadata": {
+    "registry_name": "Proxmox Administration Advanced",
+    "content_hash": "c530af2e8f84717791d5394e78cc7c4c3fa8e50f48f0d06b344a6c04efa3b5e7",
+    "template_type": "BETTERDOCS"
+  }
+}

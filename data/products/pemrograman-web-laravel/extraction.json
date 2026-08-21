@@ -1,0 +1,14 @@
+{
+  "training_source_id": 66,
+  "canonical_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "efef71015c7527a2b5f53b157b3612f58d09f0715a2ba1674df4df78f833ffbe",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:49.497743+00:00",
+  "facts_path": "data\\products\\pemrograman-web-laravel\\facts.json",
+  "evidence_path": "data\\products\\pemrograman-web-laravel\\evidence.json",
+  "raw_snapshot_path": "data\\products\\pemrograman-web-laravel\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,301 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Ubiquiti UBWA (Wireless Outdoor)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+          "source_section": "Page title",
+          "source_text": "Ubiquiti UBWA (Wireless Outdoor)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Ubiquiti",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+          "source_section": "Training registry",
+          "source_text": "Ubiquiti",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Ubiquiti Broadband Wireless Admin (UBWA ) merupakan pelatihan selama dua hari di kelas yang mengajarkan konsep Jaringan Nirkabel. Materi training atau kursus ini mengajarkan airOS-8 menggunakan perangkat airMAX-ac, dengan penekanan khusus pada bagaimana merancang, membangun, dan mengelola ISP wireless.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Ubiquiti Broadband Wireless Admin (UBWA ) merupakan pelatihan selama dua hari di kelas yang mengajarkan konsep Jaringan Nirkabel. Materi training atau kursus ini mengajarkan airOS-8 menggunakan perangkat airMAX-ac, dengan penekanan khusus pada bagaimana merancang, membangun, dan mengelola ISP wireless.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Course Outline",
+        "items": [
+          "Wireless infrastructure",
+          "PTP, PTMP",
+          "RF fundamentals",
+          "Antenna fundamentals",
+          "Spectrum analysis",
+          "Link calculations",
+          "Link planning and management",
+          "Installation best practices",
+          "Airmax, WDS"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Course Outline Wireless infrastructure PTP, PTMP RF fundamentals Antenna fundamentals Spectrum analysis Link calculations Link planning and management Installation best practices Airmax, WDS",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Sebelum mengikuti training ini peserta sudah harus paham terlebih dahulu materi Network Basic seperti Subnetting dan IP Address. Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+        "source_section": "Prerequisite",
+        "source_text": "Prerequisite Sebelum mengikuti training ini peserta sudah harus paham terlebih dahulu materi Network Basic seperti Subnetting dan IP Address. Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+        "source_section": "Mengapa Harus Training UBWA di IDN ?",
+        "source_text": "Mengapa Harus Training UBWA di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training UBWA di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Belajar dari materi Basic sehingga cocok untuk yang pemula Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Belajar dari materi Basic sehingga cocok untuk yang pemula",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Bukan hanya materi tapi dilengkapi praktek secara langsung dengan real device",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "FREE Mengulang Training Sebanyak 2 kali",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Ubiquiti Broadband Wireless Admin (UBWA ) merupakan pelatihan selama dua hari di kelas yang mengajarkan konsep Jaringan Nirkabel. Materi training atau kursus ini mengajarkan airOS-8 menggunakan perangkat airMAX-ac, dengan penekanan khusus pada bagaimana merancang, membangun, dan mengelola ISP wireless.",
+      "items": []
+    },
+    {
+      "heading": "Prerequisite",
+      "semantic_type": "PREREQUISITES",
+      "content": "Sebelum mengikuti training ini peserta sudah harus paham terlebih dahulu materi Network Basic seperti Subnetting dan IP Address. Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/",
+      "items": [
+        "Sebelum mengikuti training ini peserta sudah harus paham terlebih dahulu materi Network Basic seperti Subnetting dan IP Address. Jika belum punya basic sama sekali bisa pelajari materi network fundamental terlebih dahulu melalui link berikut gratis >> https://lms.idn.id/courses/jaringan-dasar/"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Course Outline Wireless infrastructure PTP, PTMP RF fundamentals Antenna fundamentals Spectrum analysis Link calculations Link planning and management Installation best practices Airmax, WDS",
+      "items": [
+        {
+          "title": "Course Outline",
+          "items": [
+            "Wireless infrastructure",
+            "PTP, PTMP",
+            "RF fundamentals",
+            "Antenna fundamentals",
+            "Spectrum analysis",
+            "Link calculations",
+            "Link planning and management",
+            "Installation best practices",
+            "Airmax, WDS"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Ubiquiti UBWA (Wireless Outdoor)",
+    "content_hash": "8708c8844b8c9a7753fbfbe2000506e0c2ae8c49a081f4391ad1a6be37ff8275",
+    "template_type": "BETTERDOCS"
+  }
+}

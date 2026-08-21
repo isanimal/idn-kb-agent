@@ -1,0 +1,399 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Android Kotlin E-Commerce",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+          "source_section": "Page title",
+          "source_text": "Android Kotlin E-Commerce",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Android",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+          "source_section": "Training registry",
+          "source_text": "Android",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Android Kotlin E-Commerce ini merupakan program belajar membuat aplikasi khusus tentang e-commerce. Dengan kursus ini peserta akan dapat membuat aplikasi e-commerce dengan mudah. Training ini di khususkan bagi yang pernah mengikuti training kotlin basic sebelumnya, karena level nya sudah bisa dibilang advance. Jadi selama 4 hari kita akan belajar membuat project aplikasi e-commerce menggunakan kotlin sampai aplikasinya siap untuk digunakan.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Android Kotlin E-Commerce ini merupakan program belajar membuat aplikasi khusus tentang e-commerce. Dengan kursus ini peserta akan dapat membuat aplikasi e-commerce dengan mudah. Training ini di khususkan bagi yang pernah mengikuti training kotlin basic sebelumnya, karena level nya sudah bisa dibilang advance. Jadi selama 4 hari kita akan belajar membuat project aplikasi e-commerce menggunakan kotlin sampai aplikasinya siap untuk digunakan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.500.000",
+      "amount": 3500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Biaya Investasi : Rp 3.500.000,-",
+        "source_text": "Biaya Investasi : Rp 3.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Introduction Project E-Commerce",
+        "items": [
+          "Introduction E-Commerce",
+          "Aplikasi Android",
+          "Struktur Project",
+          "Library – library",
+          "Import Project",
+          "Test Run Project"
+        ]
+      },
+      {
+        "title": "Project Configuration",
+        "items": [
+          "Network setting untuk Android O atau lebih tinggi",
+          "Splash Screen",
+          "Design UI/UX",
+          "Resource Project",
+          "JSON & API",
+          "PostMan",
+          "Auto-generate Model"
+        ]
+      },
+      {
+        "title": "Module Member",
+        "items": [
+          "Modul Profile",
+          "Modul Login",
+          "Modul Register",
+          "Modul Home Screen",
+          "Modul Edit Profile"
+        ]
+      },
+      {
+        "title": "Module Product",
+        "items": [
+          "Modul Product by Category",
+          "Modul Detail Product",
+          "Modul Edit Shipping Address",
+          "Modul Shopping Cart",
+          "Modul Order Confirmation",
+          "Modul Detail Order",
+          "Modul Document Preview",
+          "Modul History Order",
+          "Modul Logout"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Introduction Project E-Commerce Introduction E-Commerce Aplikasi Android Struktur Project Library – library Import Project Test Run Project Project Configuration Network setting untuk Android O atau lebih tinggi Splash Screen Design UI/UX Resource Project JSON & API PostMan Auto-generate Model Module Member Modul Profile Modul Login Modul Register Modul Home Screen Modul Edit Profile Module Product Modul Product by Category Modul Detail Product Modul Edit Shipping Address Modul Shopping Cart Modul Order Confirmation Modul Detail Order Modul Document Preview Modul History Order Modul Logout",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Menguasai materi yang tersedia di curriculum (Kotlin e-commerce)",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami kotlin dan aplikasi e-commerce",
+      "Peserta dapat membuat project aplikasi e-commerce Android dan iOS sendiri menggunakan Kotlin"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Menguasai materi yang tersedia di curriculum (Kotlin e-commerce) Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami kotlin dan aplikasi e-commerce Peserta dapat membuat project aplikasi e-commerce Android dan iOS sendiri menggunakan Kotlin",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang kapanpun",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Kaos"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Kotlin E-Commerce di IDN?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sampai lanjutan sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training Kotlin E-Commerce di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang Kotlin",
+      "items": [
+        "Materi akan diajarkan dari basic sampai lanjutan sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training Kotlin E-Commerce di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang Kotlin"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Android Kotlin E-Commerce ini merupakan program belajar membuat aplikasi khusus tentang e-commerce. Dengan kursus ini peserta akan dapat membuat aplikasi e-commerce dengan mudah. Training ini di khususkan bagi yang pernah mengikuti training kotlin basic sebelumnya, karena level nya sudah bisa dibilang advance. Jadi selama 4 hari kita akan belajar membuat project aplikasi e-commerce menggunakan kotlin sampai aplikasinya siap untuk digunakan.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Menguasai materi yang tersedia di curriculum (Kotlin e-commerce) Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami kotlin dan aplikasi e-commerce Peserta dapat membuat project aplikasi e-commerce Android dan iOS sendiri menggunakan Kotlin",
+      "items": [
+        "Menguasai materi yang tersedia di curriculum (Kotlin e-commerce)",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami kotlin dan aplikasi e-commerce",
+        "Peserta dapat membuat project aplikasi e-commerce Android dan iOS sendiri menggunakan Kotlin"
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang kapanpun",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Introduction Project E-Commerce Introduction E-Commerce Aplikasi Android Struktur Project Library – library Import Project Test Run Project Project Configuration Network setting untuk Android O atau lebih tinggi Splash Screen Design UI/UX Resource Project JSON & API PostMan Auto-generate Model Module Member Modul Profile Modul Login Modul Register Modul Home Screen Modul Edit Profile Module Product Modul Product by Category Modul Detail Product Modul Edit Shipping Address Modul Shopping Cart Modul Order Confirmation Modul Detail Order Modul Document Preview Modul History Order Modul Logout",
+      "items": [
+        {
+          "title": "Introduction Project E-Commerce",
+          "items": [
+            "Introduction E-Commerce",
+            "Aplikasi Android",
+            "Struktur Project",
+            "Library – library",
+            "Import Project",
+            "Test Run Project"
+          ]
+        },
+        {
+          "title": "Project Configuration",
+          "items": [
+            "Network setting untuk Android O atau lebih tinggi",
+            "Splash Screen",
+            "Design UI/UX",
+            "Resource Project",
+            "JSON & API",
+            "PostMan",
+            "Auto-generate Model"
+          ]
+        },
+        {
+          "title": "Module Member",
+          "items": [
+            "Modul Profile",
+            "Modul Login",
+            "Modul Register",
+            "Modul Home Screen",
+            "Modul Edit Profile"
+          ]
+        },
+        {
+          "title": "Module Product",
+          "items": [
+            "Modul Product by Category",
+            "Modul Detail Product",
+            "Modul Edit Shipping Address",
+            "Modul Shopping Cart",
+            "Modul Order Confirmation",
+            "Modul Detail Order",
+            "Modul Document Preview",
+            "Modul History Order",
+            "Modul Logout"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Android Kotlin E-Commerce",
+    "content_hash": "f7f9356c52b7fd6ba9de77295f10629d5208a2bf350bf0d604559ca17980be55",
+    "template_type": "BETTERDOCS"
+  }
+}

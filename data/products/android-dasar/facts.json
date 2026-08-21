@@ -1,0 +1,706 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Android Basic (Java)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-dasar/",
+          "source_section": "Page title",
+          "source_text": "Android Basic (Java)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Android",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-dasar/",
+          "source_section": "Training registry",
+          "source_text": "Android",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/android-dasar/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-dasar/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/android-dasar/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Android Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis java level basic sampai bisa memahami materi lanjutan android, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya,jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Android Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis java level basic sampai bisa memahami materi lanjutan android, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya,jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Waktu Training : * Full day : jam 09.00 – 17.00 WIB",
+        "days": null,
+        "hours": null,
+        "daily_schedule": {
+          "start": "09:00",
+          "end": "17:00",
+          "timezone": "WIB"
+        }
+      },
+      {
+        "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "days": 4.0,
+        "hours": null,
+        "daily_schedule": {
+          "start": "09:00",
+          "end": "17:00",
+          "timezone": "WIB"
+        }
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Waktu Training :",
+        "source_text": "Waktu Training : * Full day : jam 09.00 – 17.00 WIB",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.000.000",
+      "amount": 2000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Biaya Investasi : Rp 2.000.000,-",
+        "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "PENGENALAN ANDROID",
+        "items": [
+          "Apa itu Android",
+          "Manfaat Android",
+          "Versi Android",
+          "Siklus Activity Android"
+        ]
+      },
+      {
+        "title": "ANDROID STUDIO",
+        "items": [
+          "Persyaratan hardware",
+          "Install JDK",
+          "Install Android Studio",
+          "Pengenalan Antar Muka Android Studio",
+          "Pengenalan Widget",
+          "Mengorganisir dan Mengakses resource Android Studio",
+          "Menggunakan icon",
+          "Menggunakan Theme",
+          "Android Manifest",
+          "Membaca Error Program dengan Menggunakan Logcat",
+          "Running Aplikasi"
+        ]
+      },
+      {
+        "title": "LAYOUT PADA ANDROID",
+        "items": [
+          "Linear Layout",
+          "Relative Layout",
+          "Table Layout",
+          "Scroll View"
+        ]
+      },
+      {
+        "title": "INTENT PADA ANDROID",
+        "items": [
+          "Pengertian intent",
+          "Penggunaan Intent pada button, image view, image button, text view",
+          "Tombol keluar",
+          "Pengiriman data menggunakan intent",
+          "Pengambilan data dengan menggunakan intent"
+        ]
+      },
+      {
+        "title": "APLIKASI MENU",
+        "items": [
+          "Apa itu menu",
+          "Menu Option",
+          "Memanipulasi Menu Item",
+          "Menganani menu item ketika di klik"
+        ]
+      },
+      {
+        "title": "APLIKASI MULTIPLE SCREEN",
+        "items": [
+          "Pembuatan Project",
+          "Persiapan Layout",
+          "Logika Kode Aplikasi",
+          "Pengaturan Pada Android Manifest",
+          "Running Aplikasi"
+        ]
+      },
+      {
+        "title": "APLIKASI SPLASH SCREEN",
+        "items": [
+          "Pembuatan Project",
+          "Persiapan Layout",
+          "Logika Kode Aplikasi",
+          "Pengaturan Pada Android Manifest",
+          "Running Aplikasi"
+        ]
+      },
+      {
+        "title": "APLIKASI MATEMATIKA (LUAS BANGUN DATAR) – INPUTAN USER",
+        "items": [
+          "Pembuatan Project",
+          "Persiapan Layout",
+          "Logika Kode Aplikasi",
+          "Pengaturan Pada Android Manifest",
+          "Running Aplikasi"
+        ]
+      },
+      {
+        "title": "APLIKASI WEB VIEW",
+        "items": [
+          "Pengenalan web view",
+          "Aplikasi Web View sederhana dengan menggunakan format html",
+          "Aplikasi Web View dengan menggunakan link website",
+          "Pembuatan Project",
+          "Persiapan Layout",
+          "Logika Kode Aplikasi",
+          "Pengaturan Pada Android Manifest",
+          "Running Aplikasi"
+        ]
+      },
+      {
+        "title": "APLIKASI DENGAN MENGGUNAKAN BERBAGAI WIDGET",
+        "items": [
+          "Spinner",
+          "List View",
+          "Grid View",
+          "Message Box",
+          "Image view",
+          "Costum Dialog"
+        ]
+      },
+      {
+        "title": "APLIKASI GALERI IMAGE DENGAN VIEW PAGER",
+        "items": [
+          "Pembuatan Project",
+          "Persiapan Layout",
+          "Logika Kode Aplikasi",
+          "Pengaturan Pada Android Manifest",
+          "Running Aplikasi"
+        ]
+      },
+      {
+        "title": "APLIKASI MULTIMEDIA",
+        "items": [
+          "Penganalan Radio Streaming",
+          "Aplikasi Radio Streaming",
+          "Background Radio Streaming"
+        ]
+      },
+      {
+        "title": "APLIKASI MULTIMEDIA",
+        "items": [
+          "Pengenalan Video Streaming",
+          "Aplikasi Video Streaming",
+          "Pengenalan penggunaan video file pada android",
+          "Aplikasi Android Play Video File"
+        ]
+      },
+      {
+        "title": "ANDROID MATERIAL DESIGN",
+        "items": [
+          "Menggunakan Navigation Drawer",
+          "Costumisasi Color pada Action Bar Application",
+          "Membuat Aplikasi dengan mengikuti standard google Application",
+          "Android Material Design Floating Action Button",
+          "Android Working with Recycler View",
+          "Android Material Design Floating Labels for EditText",
+          "Android Material Design working with Tabs"
+        ]
+      },
+      {
+        "title": "iNTRO SLIDER",
+        "items": [
+          "Membuat Aplikasi Android dengan Animasi Slider",
+          "Menambahkan Gambar Slider untuk intro halaman pembuka aplikasi"
+        ]
+      },
+      {
+        "title": "PENGGUNAAN AQUERY UNTUK AKSES SERVER DARI ANDROID",
+        "items": [
+          "Perancangan database",
+          "Perancangan koneksi ke server",
+          "Penggunaan library aQuery",
+          "Mengambil data dari server dengan menggunakan AQuery"
+        ]
+      },
+      {
+        "title": "BONUS",
+        "items": [
+          "Support Berbagai Bahasa",
+          "Mengembangkan untuk berbagai device"
+        ]
+      },
+      {
+        "title": "PUBLISH APLIKASI KE PLAYSTORE",
+        "items": [
+          "Persiapan",
+          "Publish Aplikasi Ke Playstore"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum PENGENALAN ANDROID Apa itu Android Manfaat Android Versi Android Siklus Activity Android ANDROID STUDIO Persyaratan hardware Install JDK Install Android Studio Pengenalan Antar Muka Android Studio Pengenalan Widget Mengorganisir dan Mengakses resource Android Studio Menggunakan icon Menggunakan Theme Android Manifest Membaca Error Program dengan Menggunakan Logcat Running Aplikasi LAYOUT PADA ANDROID Linear Layout Relative Layout Table Layout Scroll View INTENT PADA ANDROID Pengertian intent Penggunaan Intent pada button, image view, image button, text view Tombol keluar Pengiriman data menggunakan intent Pengambilan data dengan menggunakan intent APLIKASI MENU Apa itu menu Menu Option Memanipulasi Menu Item Menganani menu item ketika di klik APLIKASI MULTIPLE SCREEN Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI SPLASH SCREEN Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI MATEMATIKA (LUAS BANGUN DATAR) – INPUTAN USER Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI WEB VIEW Pengenalan web view Aplikasi Web View sederhana dengan menggunakan format html Aplikasi Web View dengan menggunakan link website Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI DENGAN MENGGUNAKAN BERBAGAI WIDGET Spinner List View Grid View Message Box Image view Costum Dialog APLIKASI GALERI IMAGE DENGAN VIEW PAGER Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI MULTIMEDIA Penganalan Radio Streaming Aplikasi Radio Streaming Background Radio Streaming APLIKASI MULTIMEDIA Pengenalan Video Streaming Aplikasi Video Streaming Pengenalan penggunaan video file pada android Aplikasi Android Play Video File ANDROID MATERIAL DESIGN Menggunakan Navigation Drawer Costumisasi Color pada Action Bar Application Membuat Aplikasi dengan mengikuti standard google Application Android Material Design Floating Action Button Android Working with Recycler View Android Material Design Floating Labels for EditText Android Material Design working with Tabs iNTRO SLIDER Membuat Aplikasi Android dengan Animasi Slider Menambahkan Gambar Slider untuk intro halaman pembuka aplikasi PENGGUNAAN AQUERY UNTUK AKSES SERVER DARI ANDROID Perancangan database Perancangan koneksi ke server Penggunaan library aQuery Mengambil data dari server dengan menggunakan AQuery BONUS Support Berbagai Bahasa Mengembangkan untuk berbagai device PUBLISH APLIKASI KE PLAYSTORE Persiapan Publish Aplikasi Ke Playstore",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami dasar-dasar coding",
+      "dapat mengoperasikan android studio",
+      "Peserta dapat membuat project aplikasi sendiri secara mandiri"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami dasar-dasar coding dapat mengoperasikan android studio Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang kapanpun",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Kaos"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-dasar/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Android Dasar di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training android di Indonesia Free makan siang dan coffe break selama training Disediakan penginapan gratis bagi peserta training yang dari luar kota pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang android",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training android di Indonesia",
+        "Free makan siang dan coffe break selama training",
+        "Disediakan penginapan gratis bagi peserta training yang dari luar kota",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang android"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Android Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis java level basic sampai bisa memahami materi lanjutan android, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya,jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami dasar-dasar coding dapat mengoperasikan android studio Peserta dapat membuat project aplikasi sendiri secara mandiri",
+      "items": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)",
+      "items": []
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Overall pelaksanaan training untuk android sebagai pemula sudah cukup bagus. Trainer nya responsif dan juga konsumsinya cukup enak :D”, Nendra Tri Atmadji “Belajarnya lebih intensif, nyaman dan peserta mampu menguasai materi-materi dasar yang diberikan. Walaupun saya sedikit memiliki pemahaman tentang programming”, Indra Irwansyah “Menambah ilmu tentang pemrograman yang selama ini belum didapatkan di perkuliahan. Membantu untuk membuat suatu karya”, Faizal Aziz Setiawan",
+      "items": []
+    },
+    {
+      "heading": "Waktu Training :",
+      "semantic_type": "DURATION",
+      "content": "* Full day : jam 09.00 – 17.00 WIB",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang kapanpun",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "PENGENALAN ANDROID Apa itu Android Manfaat Android Versi Android Siklus Activity Android ANDROID STUDIO Persyaratan hardware Install JDK Install Android Studio Pengenalan Antar Muka Android Studio Pengenalan Widget Mengorganisir dan Mengakses resource Android Studio Menggunakan icon Menggunakan Theme Android Manifest Membaca Error Program dengan Menggunakan Logcat Running Aplikasi LAYOUT PADA ANDROID Linear Layout Relative Layout Table Layout Scroll View INTENT PADA ANDROID Pengertian intent Penggunaan Intent pada button, image view, image button, text view Tombol keluar Pengiriman data menggunakan intent Pengambilan data dengan menggunakan intent APLIKASI MENU Apa itu menu Menu Option Memanipulasi Menu Item Menganani menu item ketika di klik APLIKASI MULTIPLE SCREEN Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI SPLASH SCREEN Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI MATEMATIKA (LUAS BANGUN DATAR) – INPUTAN USER Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI WEB VIEW Pengenalan web view Aplikasi Web View sederhana dengan menggunakan format html Aplikasi Web View dengan menggunakan link website Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI DENGAN MENGGUNAKAN BERBAGAI WIDGET Spinner List View Grid View Message Box Image view Costum Dialog APLIKASI GALERI IMAGE DENGAN VIEW PAGER Pembuatan Project Persiapan Layout Logika Kode Aplikasi Pengaturan Pada Android Manifest Running Aplikasi APLIKASI MULTIMEDIA Penganalan Radio Streaming Aplikasi Radio Streaming Background Radio Streaming APLIKASI MULTIMEDIA Pengenalan Video Streaming Aplikasi Video Streaming Pengenalan penggunaan video file pada android Aplikasi Android Play Video File ANDROID MATERIAL DESIGN Menggunakan Navigation Drawer Costumisasi Color pada Action Bar Application Membuat Aplikasi dengan mengikuti standard google Application Android Material Design Floating Action Button Android Working with Recycler View Android Material Design Floating Labels for EditText Android Material Design working with Tabs iNTRO SLIDER Membuat Aplikasi Android dengan Animasi Slider Menambahkan Gambar Slider untuk intro halaman pembuka aplikasi PENGGUNAAN AQUERY UNTUK AKSES SERVER DARI ANDROID Perancangan database Perancangan koneksi ke server Penggunaan library aQuery Mengambil data dari server dengan menggunakan AQuery BONUS Support Berbagai Bahasa Mengembangkan untuk berbagai device PUBLISH APLIKASI KE PLAYSTORE Persiapan Publish Aplikasi Ke Playstore",
+      "items": [
+        {
+          "title": "PENGENALAN ANDROID",
+          "items": [
+            "Apa itu Android",
+            "Manfaat Android",
+            "Versi Android",
+            "Siklus Activity Android"
+          ]
+        },
+        {
+          "title": "ANDROID STUDIO",
+          "items": [
+            "Persyaratan hardware",
+            "Install JDK",
+            "Install Android Studio",
+            "Pengenalan Antar Muka Android Studio",
+            "Pengenalan Widget",
+            "Mengorganisir dan Mengakses resource Android Studio",
+            "Menggunakan icon",
+            "Menggunakan Theme",
+            "Android Manifest",
+            "Membaca Error Program dengan Menggunakan Logcat",
+            "Running Aplikasi"
+          ]
+        },
+        {
+          "title": "LAYOUT PADA ANDROID",
+          "items": [
+            "Linear Layout",
+            "Relative Layout",
+            "Table Layout",
+            "Scroll View"
+          ]
+        },
+        {
+          "title": "INTENT PADA ANDROID",
+          "items": [
+            "Pengertian intent",
+            "Penggunaan Intent pada button, image view, image button, text view",
+            "Tombol keluar",
+            "Pengiriman data menggunakan intent",
+            "Pengambilan data dengan menggunakan intent"
+          ]
+        },
+        {
+          "title": "APLIKASI MENU",
+          "items": [
+            "Apa itu menu",
+            "Menu Option",
+            "Memanipulasi Menu Item",
+            "Menganani menu item ketika di klik"
+          ]
+        },
+        {
+          "title": "APLIKASI MULTIPLE SCREEN",
+          "items": [
+            "Pembuatan Project",
+            "Persiapan Layout",
+            "Logika Kode Aplikasi",
+            "Pengaturan Pada Android Manifest",
+            "Running Aplikasi"
+          ]
+        },
+        {
+          "title": "APLIKASI SPLASH SCREEN",
+          "items": [
+            "Pembuatan Project",
+            "Persiapan Layout",
+            "Logika Kode Aplikasi",
+            "Pengaturan Pada Android Manifest",
+            "Running Aplikasi"
+          ]
+        },
+        {
+          "title": "APLIKASI MATEMATIKA (LUAS BANGUN DATAR) – INPUTAN USER",
+          "items": [
+            "Pembuatan Project",
+            "Persiapan Layout",
+            "Logika Kode Aplikasi",
+            "Pengaturan Pada Android Manifest",
+            "Running Aplikasi"
+          ]
+        },
+        {
+          "title": "APLIKASI WEB VIEW",
+          "items": [
+            "Pengenalan web view",
+            "Aplikasi Web View sederhana dengan menggunakan format html",
+            "Aplikasi Web View dengan menggunakan link website",
+            "Pembuatan Project",
+            "Persiapan Layout",
+            "Logika Kode Aplikasi",
+            "Pengaturan Pada Android Manifest",
+            "Running Aplikasi"
+          ]
+        },
+        {
+          "title": "APLIKASI DENGAN MENGGUNAKAN BERBAGAI WIDGET",
+          "items": [
+            "Spinner",
+            "List View",
+            "Grid View",
+            "Message Box",
+            "Image view",
+            "Costum Dialog"
+          ]
+        },
+        {
+          "title": "APLIKASI GALERI IMAGE DENGAN VIEW PAGER",
+          "items": [
+            "Pembuatan Project",
+            "Persiapan Layout",
+            "Logika Kode Aplikasi",
+            "Pengaturan Pada Android Manifest",
+            "Running Aplikasi"
+          ]
+        },
+        {
+          "title": "APLIKASI MULTIMEDIA",
+          "items": [
+            "Penganalan Radio Streaming",
+            "Aplikasi Radio Streaming",
+            "Background Radio Streaming"
+          ]
+        },
+        {
+          "title": "APLIKASI MULTIMEDIA",
+          "items": [
+            "Pengenalan Video Streaming",
+            "Aplikasi Video Streaming",
+            "Pengenalan penggunaan video file pada android",
+            "Aplikasi Android Play Video File"
+          ]
+        },
+        {
+          "title": "ANDROID MATERIAL DESIGN",
+          "items": [
+            "Menggunakan Navigation Drawer",
+            "Costumisasi Color pada Action Bar Application",
+            "Membuat Aplikasi dengan mengikuti standard google Application",
+            "Android Material Design Floating Action Button",
+            "Android Working with Recycler View",
+            "Android Material Design Floating Labels for EditText",
+            "Android Material Design working with Tabs"
+          ]
+        },
+        {
+          "title": "iNTRO SLIDER",
+          "items": [
+            "Membuat Aplikasi Android dengan Animasi Slider",
+            "Menambahkan Gambar Slider untuk intro halaman pembuka aplikasi"
+          ]
+        },
+        {
+          "title": "PENGGUNAAN AQUERY UNTUK AKSES SERVER DARI ANDROID",
+          "items": [
+            "Perancangan database",
+            "Perancangan koneksi ke server",
+            "Penggunaan library aQuery",
+            "Mengambil data dari server dengan menggunakan AQuery"
+          ]
+        },
+        {
+          "title": "BONUS",
+          "items": [
+            "Support Berbagai Bahasa",
+            "Mengembangkan untuk berbagai device"
+          ]
+        },
+        {
+          "title": "PUBLISH APLIKASI KE PLAYSTORE",
+          "items": [
+            "Persiapan",
+            "Publish Aplikasi Ke Playstore"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Android Basic (Java)",
+    "content_hash": "3c14639bf869ede56677ee4d834de489e5d36c10a40a492ecb4b486c106e1833",
+    "template_type": "BETTERDOCS"
+  }
+}

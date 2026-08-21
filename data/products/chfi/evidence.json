@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_section": "Biaya Investasi : Rp. 21.000.000 Rp. 18.000.000",
+      "source_text": "Biaya Investasi : Rp. 21.000.000 Rp. 18.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum Module 01: Computer Forensics in Today’s World Module 02: Computer Forensics Investigation Process Module 03: Understanding Hard Disks and File Systems Module 04: Data Acquisition and Duplication Module 05: Defeating Anti-Forensics Techniques Module 06: Windows Forensics Module 07: Linux and Mac Forensics Module 08: Network Forensics Module 09: Malware Forensics Module 10: Investigating Web Attacks Module 11: Dark Web Forensics Module 12: Cloud Forensics Module 13: Email and Social Media Forensics Module 14: Mobile Forensics Module 15: IoT Forensics",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_section": "Fasilitas Training",
+      "source_text": "Fasilitas Training Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Page title",
+        "source_text": "CHFI (Computer Hacking Forensic Investigator)",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Training registry",
+        "source_text": "EC-Council",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/chfi/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

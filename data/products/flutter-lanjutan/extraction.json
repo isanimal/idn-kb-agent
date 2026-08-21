@@ -1,0 +1,14 @@
+{
+  "training_source_id": 22,
+  "canonical_url": "https://www.idn.id/training/flutter-lanjutan/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "c2cd9a46517fd0e903894b0c625402238f18ba42485cac51cf9e2aa8ddfbc8d7",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:21.129325+00:00",
+  "facts_path": "data\\products\\flutter-lanjutan\\facts.json",
+  "evidence_path": "data\\products\\flutter-lanjutan\\evidence.json",
+  "raw_snapshot_path": "data\\products\\flutter-lanjutan\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,602 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "JNCIA Junos",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/juniper-jncia/",
+          "source_section": "Page title",
+          "source_text": "JNCIA Junos",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Juniper",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/juniper-jncia/",
+          "source_section": "Training registry",
+          "source_text": "Juniper",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/juniper-jncia/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/juniper-jncia/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/juniper-jncia/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "JNCIA merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang pengenalan perangkat juniper dan JUNOS, Instalasi ataupun troubleshooting terhadap jaringan medium size enterprise network Adapun training JNCIA di IDN dilaksanakan selama 2 hari. Selama training peserta akan mendapat ilmu tentang bagaimana melakukan instalasi ataupun troubleshoot perangkat JUNIPER dan juga mendapat beberapa materi di luar JNCIA yaitu JNCIS Peserta juga akan mendapat ilmu tentang ujian JNCIA, sehingga peserta bisa lulus ujian JNCIA dan meningkatkan nilai jual diri dalam pekerjaan Persyaratan dasar untuk bisa mengikuti training adalah peserta minimal sudah paham dengan Network fundamental IP Address dan subnetting",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training JNCIA merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang pengenalan perangkat juniper dan JUNOS, Instalasi ataupun troubleshooting terhadap jaringan medium size enterprise network Adapun training JNCIA di IDN dilaksanakan selama 2 hari. Selama training peserta akan mendapat ilmu tentang bagaimana melakukan instalasi ataupun troubleshoot perangkat JUNIPER dan juga mendapat beberapa materi di luar JNCIA yaitu JNCIS Peserta juga akan mendapat ilmu tentang ujian JNCIA, sehingga peserta bisa lulus ujian JNCIA dan meningkatkan nilai jual diri dalam pekerjaan Persyaratan dasar untuk bisa mengikuti training adalah peserta minimal sudah paham dengan Network fundamental IP Address dan subnetting",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.000.000",
+      "amount": 2000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Biaya Investasi : Rp 2.000.000,-",
+        "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "1. Introduction to JNCIA-Junos",
+        "items": [
+          "Overview JNCIA-Junos certification",
+          "Exam blueprint & study strategy",
+          "Juniper device family overview",
+          "Junos OS overview"
+        ]
+      },
+      {
+        "title": "2. Networking Fundamental Review (Refresh Only)",
+        "items": [
+          "Router vs switch",
+          "IPv4 / IPv6 review",
+          "Subnetting review",
+          "Longest prefix match",
+          "Layer 2 vs Layer 3 forwarding",
+          "Connection-oriented vs connectionless protocol"
+        ]
+      },
+      {
+        "title": "3. Junos OS Fundamentals",
+        "items": [
+          "Junos software architecture",
+          "Routing Engine (RE) & Packet Forwarding Engine (PFE)",
+          "Control Plane vs Forwarding Plane",
+          "Transit traffic vs exception traffic",
+          "Packet processing overview"
+        ]
+      },
+      {
+        "title": "4. Junos User Interface (CLI)",
+        "items": [
+          "Operational mode vs configuration mode",
+          "CLI navigation",
+          "CLI help & shortcuts",
+          "Filtering output | match | compare | display set | count",
+          "| match",
+          "| compare",
+          "| display set",
+          "| count",
+          "Active vs candidate configuration",
+          "Commit process",
+          "Rollback & revert configuration",
+          "Saving & loading configuration",
+          "Viewing & comparing configurations",
+          "J-Web overview"
+        ]
+      },
+      {
+        "title": "5. Initial System Configuration",
+        "items": [
+          "Factory-default configuration",
+          "Hostname & system identity",
+          "Root password",
+          "User accounts",
+          "Login classes",
+          "Authentication methods",
+          "Interface types & properties",
+          "Basic interface configuration",
+          "NTP",
+          "SNMP basics",
+          "System log (Syslog)",
+          "Configuration archival",
+          "Rescue configuration"
+        ]
+      },
+      {
+        "title": "6. Static Routing",
+        "items": [
+          "Routing fundamentals",
+          "Routing table vs forwarding table",
+          "Route preference",
+          "Static routing concepts",
+          "Configure static route",
+          "Default route",
+          "Floating static route",
+          "Qualified next-hop",
+          "Monitoring & troubleshooting static route"
+        ]
+      },
+      {
+        "title": "7. OSPF Fundamentals",
+        "items": [
+          "Dynamic routing overview",
+          "OSPF concepts & operation",
+          "OSPF packet types",
+          "Neighbor adjacency",
+          "Single-area OSPF configuration",
+          "Multi-area OSPF configuration",
+          "OSPF monitoring & troubleshooting"
+        ]
+      },
+      {
+        "title": "8. IS-IS Fundamentals (Bonus Value Added)",
+        "items": [
+          "Introduction to IS-IS",
+          "IS-IS concepts & operation",
+          "IS-IS packet types",
+          "Level-1 IS-IS",
+          "Level-2 IS-IS",
+          "Level-1 / Level-2 IS-IS",
+          "Basic IS-IS configuration",
+          "IS-IS route verification & troubleshooting",
+          "OSPF vs IS-IS comparison"
+        ]
+      },
+      {
+        "title": "9. Routing Policy",
+        "items": [
+          "Default routing policy",
+          "Import & export policy",
+          "Policy flow",
+          "Policy structure & terms",
+          "Match conditions",
+          "Actions",
+          "Forming routing policy",
+          "Applying routing policy",
+          "Monitoring routing policies"
+        ]
+      },
+      {
+        "title": "10. Firewall Filters",
+        "items": [
+          "Firewall filter concepts",
+          "Filter structure & terms",
+          "Match conditions",
+          "Actions",
+          "Packet filtering behavior",
+          "Input & output filter",
+          "Configure firewall filter",
+          "Monitor filter counters"
+        ]
+      },
+      {
+        "title": "11. Operational Monitoring & Maintenance",
+        "items": [
+          "Show commands",
+          "Monitor commands",
+          "Interface statistics & errors",
+          "Troubleshooting tools Ping Traceroute SSH Telnet",
+          "Ping",
+          "Traceroute",
+          "SSH",
+          "Telnet",
+          "Basic troubleshooting workflow",
+          "Power on & shutdown procedure",
+          "Junos OS installation & upgrade overview",
+          "Root password recovery",
+          "Logging & tracing"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum 1. Introduction to JNCIA-Junos Overview JNCIA-Junos certification Exam blueprint & study strategy Juniper device family overview Junos OS overview 2. Networking Fundamental Review (Refresh Only) Router vs switch IPv4 / IPv6 review Subnetting review Longest prefix match Layer 2 vs Layer 3 forwarding Connection-oriented vs connectionless protocol 3. Junos OS Fundamentals Junos software architecture Routing Engine (RE) & Packet Forwarding Engine (PFE) Control Plane vs Forwarding Plane Transit traffic vs exception traffic Packet processing overview 4. Junos User Interface (CLI) Operational mode vs configuration mode CLI navigation CLI help & shortcuts Filtering output | match | compare | display set | count Active vs candidate configuration Commit process Rollback & revert configuration Saving & loading configuration Viewing & comparing configurations J-Web overview 5. Initial System Configuration Factory-default configuration Hostname & system identity Root password User accounts Login classes Authentication methods Interface types & properties Basic interface configuration NTP SNMP basics System log (Syslog) Configuration archival Rescue configuration 6. Static Routing Routing fundamentals Routing table vs forwarding table Route preference Static routing concepts Configure static route Default route Floating static route Qualified next-hop Monitoring & troubleshooting static route 7. OSPF Fundamentals Dynamic routing overview OSPF concepts & operation OSPF packet types Neighbor adjacency Single-area OSPF configuration Multi-area OSPF configuration OSPF monitoring & troubleshooting 8. IS-IS Fundamentals (Bonus Value Added) Introduction to IS-IS IS-IS concepts & operation IS-IS packet types Level-1 IS-IS Level-2 IS-IS Level-1 / Level-2 IS-IS Basic IS-IS configuration IS-IS route verification & troubleshooting OSPF vs IS-IS comparison 9. Routing Policy Default routing policy Import & export policy Policy flow Policy structure & terms Match conditions Actions Forming routing policy Applying routing policy Monitoring routing policies 10. Firewall Filters Firewall filter concepts Filter structure & terms Match conditions Actions Packet filtering behavior Input & output filter Configure firewall filter Monitor filter counters 11. Operational Monitoring & Maintenance Show commands Monitor commands Interface statistics & errors Troubleshooting tools Ping Traceroute SSH Telnet Basic troubleshooting workflow Power on & shutdown procedure Junos OS installation & upgrade overview Root password recovery Logging & tracing",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS",
+      "Memahami semua materi yang tersedia berdasarkan curriculum yang ada",
+      "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS Memahami semua materi yang tersedia berdasarkan curriculum yang ada Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Aries Sadewa (JNCIP)",
+      "Fernanda Adhipramana (JNCIP)",
+      "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncia/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Aries Sadewa (JNCIP) Fernanda Adhipramana (JNCIP) Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training JNCIA di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Ada kelas network fundamental FREE!, orang awam pun bisa ikut training. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Perangkat Juniper Lengkap sehingga praktik secara langsung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Ada kelas network fundamental FREE!, orang awam pun bisa ikut training.",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Perangkat Juniper Lengkap sehingga praktik secara langsung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "JNCIA merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang pengenalan perangkat juniper dan JUNOS, Instalasi ataupun troubleshooting terhadap jaringan medium size enterprise network Adapun training JNCIA di IDN dilaksanakan selama 2 hari. Selama training peserta akan mendapat ilmu tentang bagaimana melakukan instalasi ataupun troubleshoot perangkat JUNIPER dan juga mendapat beberapa materi di luar JNCIA yaitu JNCIS Peserta juga akan mendapat ilmu tentang ujian JNCIA, sehingga peserta bisa lulus ujian JNCIA dan meningkatkan nilai jual diri dalam pekerjaan Persyaratan dasar untuk bisa mengikuti training adalah peserta minimal sudah paham dengan Network fundamental IP Address dan subnetting",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS Memahami semua materi yang tersedia berdasarkan curriculum yang ada Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+      "items": [
+        "Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS",
+        "Memahami semua materi yang tersedia berdasarkan curriculum yang ada",
+        "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Aries Sadewa (JNCIP) Fernanda Adhipramana (JNCIP) Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "items": [
+        "Aries Sadewa (JNCIP)",
+        "Fernanda Adhipramana (JNCIP)",
+        "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)"
+      ]
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“mendapatkan ilmu tentang produk juniper berserta konfigurasinya. pembahasan tentang routing dynamic yang digunakan juniper, pembahasan tentang firewall dan routing policy, pembahasan materi yang menarik dan juga mudah di cerna”, Ibnu Kholid “ materi berbahasa indonesia mudah di pahami , fasilitas lengkap, makan siang dan cemilan enak , pengajar sangat berpengalaman dan tidak pelit ilmu, sangat berpengalaman, tidak pelit ilmu, gampang berbaur dengan peserta training, mungkin workshop bisa di perbanyak untuk orang orang yang belum mampu membayar biaya training”, Mustajab “saya dapat mengetahui lebih dalam mengenai dasar dasar jaringan komputer terutama yang berhubngan dengan juniper, penjelasannya sangat jelas, profesional dan sangat mengerti materi yang dibawakan, bagus untuk pemula yang belum mengerti mengenai juniper”, Cahya Adhi Setya Nugraha",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "1. Introduction to JNCIA-Junos Overview JNCIA-Junos certification Exam blueprint & study strategy Juniper device family overview Junos OS overview 2. Networking Fundamental Review (Refresh Only) Router vs switch IPv4 / IPv6 review Subnetting review Longest prefix match Layer 2 vs Layer 3 forwarding Connection-oriented vs connectionless protocol 3. Junos OS Fundamentals Junos software architecture Routing Engine (RE) & Packet Forwarding Engine (PFE) Control Plane vs Forwarding Plane Transit traffic vs exception traffic Packet processing overview 4. Junos User Interface (CLI) Operational mode vs configuration mode CLI navigation CLI help & shortcuts Filtering output | match | compare | display set | count Active vs candidate configuration Commit process Rollback & revert configuration Saving & loading configuration Viewing & comparing configurations J-Web overview 5. Initial System Configuration Factory-default configuration Hostname & system identity Root password User accounts Login classes Authentication methods Interface types & properties Basic interface configuration NTP SNMP basics System log (Syslog) Configuration archival Rescue configuration 6. Static Routing Routing fundamentals Routing table vs forwarding table Route preference Static routing concepts Configure static route Default route Floating static route Qualified next-hop Monitoring & troubleshooting static route 7. OSPF Fundamentals Dynamic routing overview OSPF concepts & operation OSPF packet types Neighbor adjacency Single-area OSPF configuration Multi-area OSPF configuration OSPF monitoring & troubleshooting 8. IS-IS Fundamentals (Bonus Value Added) Introduction to IS-IS IS-IS concepts & operation IS-IS packet types Level-1 IS-IS Level-2 IS-IS Level-1 / Level-2 IS-IS Basic IS-IS configuration IS-IS route verification & troubleshooting OSPF vs IS-IS comparison 9. Routing Policy Default routing policy Import & export policy Policy flow Policy structure & terms Match conditions Actions Forming routing policy Applying routing policy Monitoring routing policies 10. Firewall Filters Firewall filter concepts Filter structure & terms Match conditions Actions Packet filtering behavior Input & output filter Configure firewall filter Monitor filter counters 11. Operational Monitoring & Maintenance Show commands Monitor commands Interface statistics & errors Troubleshooting tools Ping Traceroute SSH Telnet Basic troubleshooting workflow Power on & shutdown procedure Junos OS installation & upgrade overview Root password recovery Logging & tracing",
+      "items": [
+        {
+          "title": "1. Introduction to JNCIA-Junos",
+          "items": [
+            "Overview JNCIA-Junos certification",
+            "Exam blueprint & study strategy",
+            "Juniper device family overview",
+            "Junos OS overview"
+          ]
+        },
+        {
+          "title": "2. Networking Fundamental Review (Refresh Only)",
+          "items": [
+            "Router vs switch",
+            "IPv4 / IPv6 review",
+            "Subnetting review",
+            "Longest prefix match",
+            "Layer 2 vs Layer 3 forwarding",
+            "Connection-oriented vs connectionless protocol"
+          ]
+        },
+        {
+          "title": "3. Junos OS Fundamentals",
+          "items": [
+            "Junos software architecture",
+            "Routing Engine (RE) & Packet Forwarding Engine (PFE)",
+            "Control Plane vs Forwarding Plane",
+            "Transit traffic vs exception traffic",
+            "Packet processing overview"
+          ]
+        },
+        {
+          "title": "4. Junos User Interface (CLI)",
+          "items": [
+            "Operational mode vs configuration mode",
+            "CLI navigation",
+            "CLI help & shortcuts",
+            "Filtering output | match | compare | display set | count",
+            "| match",
+            "| compare",
+            "| display set",
+            "| count",
+            "Active vs candidate configuration",
+            "Commit process",
+            "Rollback & revert configuration",
+            "Saving & loading configuration",
+            "Viewing & comparing configurations",
+            "J-Web overview"
+          ]
+        },
+        {
+          "title": "5. Initial System Configuration",
+          "items": [
+            "Factory-default configuration",
+            "Hostname & system identity",
+            "Root password",
+            "User accounts",
+            "Login classes",
+            "Authentication methods",
+            "Interface types & properties",
+            "Basic interface configuration",
+            "NTP",
+            "SNMP basics",
+            "System log (Syslog)",
+            "Configuration archival",
+            "Rescue configuration"
+          ]
+        },
+        {
+          "title": "6. Static Routing",
+          "items": [
+            "Routing fundamentals",
+            "Routing table vs forwarding table",
+            "Route preference",
+            "Static routing concepts",
+            "Configure static route",
+            "Default route",
+            "Floating static route",
+            "Qualified next-hop",
+            "Monitoring & troubleshooting static route"
+          ]
+        },
+        {
+          "title": "7. OSPF Fundamentals",
+          "items": [
+            "Dynamic routing overview",
+            "OSPF concepts & operation",
+            "OSPF packet types",
+            "Neighbor adjacency",
+            "Single-area OSPF configuration",
+            "Multi-area OSPF configuration",
+            "OSPF monitoring & troubleshooting"
+          ]
+        },
+        {
+          "title": "8. IS-IS Fundamentals (Bonus Value Added)",
+          "items": [
+            "Introduction to IS-IS",
+            "IS-IS concepts & operation",
+            "IS-IS packet types",
+            "Level-1 IS-IS",
+            "Level-2 IS-IS",
+            "Level-1 / Level-2 IS-IS",
+            "Basic IS-IS configuration",
+            "IS-IS route verification & troubleshooting",
+            "OSPF vs IS-IS comparison"
+          ]
+        },
+        {
+          "title": "9. Routing Policy",
+          "items": [
+            "Default routing policy",
+            "Import & export policy",
+            "Policy flow",
+            "Policy structure & terms",
+            "Match conditions",
+            "Actions",
+            "Forming routing policy",
+            "Applying routing policy",
+            "Monitoring routing policies"
+          ]
+        },
+        {
+          "title": "10. Firewall Filters",
+          "items": [
+            "Firewall filter concepts",
+            "Filter structure & terms",
+            "Match conditions",
+            "Actions",
+            "Packet filtering behavior",
+            "Input & output filter",
+            "Configure firewall filter",
+            "Monitor filter counters"
+          ]
+        },
+        {
+          "title": "11. Operational Monitoring & Maintenance",
+          "items": [
+            "Show commands",
+            "Monitor commands",
+            "Interface statistics & errors",
+            "Troubleshooting tools Ping Traceroute SSH Telnet",
+            "Ping",
+            "Traceroute",
+            "SSH",
+            "Telnet",
+            "Basic troubleshooting workflow",
+            "Power on & shutdown procedure",
+            "Junos OS installation & upgrade overview",
+            "Root password recovery",
+            "Logging & tracing"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "JNCIA Junos",
+    "content_hash": "8d89bddab97227e690dd459c11cc0f99f937a9f1903c48bcd8833773b7ed057d",
+    "template_type": "BETTERDOCS"
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Training Android Sertifikasi ATC",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-android-atc/",
+          "source_section": "Page title",
+          "source_text": "Training Android Sertifikasi ATC",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Android",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-android-atc/",
+          "source_section": "Training registry",
+          "source_text": "Android",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/training-android-atc/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-android-atc/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/training-android-atc/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Pertumbuhan eksplosif dari aplikasi AndroidTM akhir-akhir ini telah menciptakan ledakan banyaknya permintaan untuk pengembang. Ada pengembang, tetapi bagaimana pengusaha dapat menilai kompetensi mereka? Bagaimana mereka benar-benar tahu siapa yang pantas mendapatkan kesempatan untuk mengambil tanggung jawab atas aplikasi mereka? Android Advanced Training Consultants (Android ATC) menyediakan kursus dan ujian penilaian untuk mengesahkan kompetensi karyawan saat ini dan yang akan datang. Layanan kami didistribusikan melalui mitra Pelatihan Resmi Android ATC di seluruh dunia. Tim Android ATC telah mengerjakan sesuatu yang istimewa untuk beberapa waktu sekarang, dan hari ini kami dengan bangga mengumumkan program baru kami – program Pengembang Bersertifikat Android. Kursus pelatihan ini telah dikembangkan dan dikalibrasi oleh tim ahli Android selama beberapa tahun. Kursus-kursus ini memberdayakan pengembang aplikasi dan karyawan yang berorientasi TI dengan keterampilan untuk membangun aplikasi Android canggih. Setelah menyelesaikan kursus ini, pengembang dapat mengikuti ujian online yang menjadikan mereka menjadi Pengembang Android Bersertifikat oleh Android ATC. Ujian kami diberikan melalui pusat pengujian resmi Pearson VUE di seluruh dunia. (Sumber : http://www.androidatc.com )",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Pertumbuhan eksplosif dari aplikasi AndroidTM akhir-akhir ini telah menciptakan ledakan banyaknya permintaan untuk pengembang. Ada pengembang, tetapi bagaimana pengusaha dapat menilai kompetensi mereka? Bagaimana mereka benar-benar tahu siapa yang pantas mendapatkan kesempatan untuk mengambil tanggung jawab atas aplikasi mereka? Android Advanced Training Consultants (Android ATC) menyediakan kursus dan ujian penilaian untuk mengesahkan kompetensi karyawan saat ini dan yang akan datang. Layanan kami didistribusikan melalui mitra Pelatihan Resmi Android ATC di seluruh dunia. Tim Android ATC telah mengerjakan sesuatu yang istimewa untuk beberapa waktu sekarang, dan hari ini kami dengan bangga mengumumkan program baru kami – program Pengembang Bersertifikat Android. Kursus pelatihan ini telah dikembangkan dan dikalibrasi oleh tim ahli Android selama beberapa tahun. Kursus-kursus ini memberdayakan pengembang aplikasi dan karyawan yang berorientasi TI dengan keterampilan untuk membangun aplikasi Android canggih. Setelah menyelesaikan kursus ini, pengembang dapat mengikuti ujian online yang menjadikan mereka menjadi Pengembang Android Bersertifikat oleh Android ATC. Ujian kami diberikan melalui pusat pengujian resmi Pearson VUE di seluruh dunia. (Sumber : http://www.androidatc.com )",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 4.000.000",
+      "amount": 4000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "Biaya Investasi : Rp 4.000.000,-",
+        "source_text": "Biaya Investasi : Rp 4.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "A. Android Studio & Android Framework",
+        "items": [
+          "Introduction",
+          "Android Platform Architecture",
+          "LinuxKernel",
+          "Hardware Abstraction Layer (HAL)",
+          "Android Runtime (ART)",
+          "Native C/C++ Libraries",
+          "Java API Framework",
+          "System Apps",
+          "Android Libraries",
+          "Components of Android Application",
+          "Types of Android processes and their priorities",
+          "Pre-requisites for Android Application Development",
+          "Android Studio Gradle",
+          "Instant Run",
+          "Lab 1: Creating Your First Application"
+        ]
+      },
+      {
+        "title": "B. AndroidTM SDK Tools And Activity Class",
+        "items": [
+          "Android Project Structure",
+          "The Android Manifest File",
+          "Structure of the Manifest File",
+          "Android SDK Tools",
+          "Android Device Monitor",
+          "Android Debug Bridge (ADB)",
+          "Batterystats and Battery Historian",
+          "Emulator Controls",
+          "Send/Receive SMS",
+          "Make Calls",
+          "Update Locations",
+          "Building Backward-Compatible Android Applications",
+          "Activity",
+          "Activity Life-Cycle Through Java",
+          "Create an Activity",
+          "Methods to Remember",
+          "Lab 2: Studying Activity Life-Cycle"
+        ]
+      },
+      {
+        "title": "C. Fragments, Views, and List View",
+        "items": [
+          "Introduction",
+          "Fragments",
+          "Fragments Life-Cycle",
+          "Creating a Fragment Sub-Class",
+          "Adding Fragments in Application",
+          "Backward Compatibility of Fragments",
+          "Views",
+          "Using Views",
+          "Adding a View to your application",
+          "List View and List Activity",
+          "Using a ListActivity",
+          "Adding ListView",
+          "Add Event to List Items",
+          "Summary",
+          "Recycler View",
+          "RecyclerView vs ListView",
+          "Adding RecylerView",
+          "Card View",
+          "Runtime Permissions",
+          "Methods to Remember"
+        ]
+      },
+      {
+        "title": "D. Views and Runtime Permissions",
+        "items": [
+          "Introduction",
+          "Intents",
+          "Explicit Intents",
+          "Implicit Intents",
+          "Native AndroidTM Actions",
+          "DataTransfer",
+          "Intent to Call Activities",
+          "Direct Calls",
+          "Sub-Activities: Calling Activities for Results",
+          "Register an IntentFilter",
+          "Deep Linking",
+          "Testing Deep Linking",
+          "Methods to Remember",
+          "Lab 4: Creating Constants Selection Application and Testing Deep Linking"
+        ]
+      },
+      {
+        "title": "E. Android Layouts And Custom Views",
+        "items": [
+          "Introduction",
+          "Views",
+          "Layouts",
+          "Layout Properties",
+          "Loading the Layout from Code",
+          "Loading Layout in an Activity",
+          "Loading Layout in a Fragment",
+          "Creating and Editing Layouts in Android Studio",
+          "Customized Views",
+          "Modify Existing Views",
+          "Step by Step",
+          "What is in onDraw( )",
+          "The full picture",
+          "ConstraintLayout",
+          "Lab 5: Custom View, Drawer Layout, and Fragments Application"
+        ]
+      },
+      {
+        "title": "F. Android Resource, Theme, and Material Design",
+        "items": [
+          "Introduction",
+          "Android Resources",
+          "Why Using Resources?",
+          "Adding Resources to your Application",
+          "Using Resources",
+          "Types of Resources",
+          "Android Themes and Styles",
+          "Creating Themes",
+          "Android Material Design",
+          "Using the Material Theme",
+          "Color Palette",
+          "Activity Transitions & Shared Element Transitions",
+          "Methods to remember",
+          "Lab 6: A To-Do List Application in Material Design"
+        ]
+      },
+      {
+        "title": "G. Android UI Dialogs, Menus, and Webview",
+        "items": [
+          "Introduction",
+          "User Interaction through Messages",
+          "Dialogs",
+          "Dialog Sub-Classes",
+          "Creating an Alert Dialog",
+          "Creating a Progress Dialog",
+          "Activities with Dialog Theme",
+          "Toasts",
+          "Simple Snackbar",
+          "Custom Snackbar",
+          "Custom Snackbar",
+          "Building a menu from Java code",
+          "Sub-menus",
+          "Context Menus",
+          "Additional Menu Item Options",
+          "Popup Menus",
+          "Web View",
+          "Methods to Remember",
+          "Lab 7: Wallpaper Application"
+        ]
+      },
+      {
+        "title": "H. Android Storage and Background Processing",
+        "items": [
+          "Android Storage Options",
+          "Android Storage Options",
+          "Shared Preferences",
+          "Retrieving Shared Preferences",
+          "Save activity State",
+          "Connecting to the internet",
+          "Background Processing",
+          "Android Threading",
+          "Java Threads",
+          "AsyncTask",
+          "Android Services",
+          "Background Fragments",
+          "Background Receivers",
+          "Lab 8: Quotes Provider Application"
+        ]
+      },
+      {
+        "title": "I. Android Storage : SQLite and Content Providers",
+        "items": [
+          "Introduction",
+          "SQLite Database in Your Application",
+          "SQLite Library",
+          "SQLiteOpenHelper",
+          "SQLite Database",
+          "Cursors",
+          "Databases in Android",
+          "Content Providers",
+          "Native Android Content Providers",
+          "Custom Content Provider",
+          "Sync Adapters",
+          "Introduction",
+          "How SyncAdapters Work",
+          "ORMLite",
+          "Methods to Remember",
+          "Lab 9: SQLite Databases and Content Providers"
+        ]
+      },
+      {
+        "title": "J. Android Notifications",
+        "items": [
+          "Creating Notifications",
+          "Expandable Notification",
+          "Notification Actions",
+          "Notifications Layout",
+          "Notification Priority",
+          "Notification With Android System",
+          "New Notification Features of Android 7"
+        ]
+      },
+      {
+        "title": "K. Location Aware Apps Using GPS and Other Providers",
+        "items": [
+          "Introduction",
+          "What is GPS and how it works?",
+          "Other location service providers",
+          "Methods to capture user location",
+          "Using Google Maps",
+          "Setting Geolocation",
+          "Pins, Layers and custom drawing",
+          "Reverse Geolocation and Geocoder Class",
+          "Requesting User Permission For Location Access",
+          "Testing GPS on Android Emulator",
+          "Mocking Location on an Emulator",
+          "LAB 11 : Location-Aware Apps Using the GPS and Google Maps"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "curiculum",
+        "source_text": "curiculum A. Android Studio & Android Framework Introduction Android Platform Architecture LinuxKernel Hardware Abstraction Layer (HAL) Android Runtime (ART) Native C/C++ Libraries Java API Framework System Apps Android Libraries Components of Android Application Types of Android processes and their priorities Pre-requisites for Android Application Development Android Studio Gradle Instant Run Lab 1: Creating Your First Application B. AndroidTM SDK Tools And Activity Class Android Project Structure The Android Manifest File Structure of the Manifest File Android SDK Tools Android Device Monitor Android Debug Bridge (ADB) Batterystats and Battery Historian Emulator Controls Send/Receive SMS Make Calls Update Locations Building Backward-Compatible Android Applications Activity Activity Life-Cycle Through Java Create an Activity Methods to Remember Lab 2: Studying Activity Life-Cycle C. Fragments, Views, and List View Introduction Fragments Fragments Life-Cycle Creating a Fragment Sub-Class Adding Fragments in Application Backward Compatibility of Fragments Views Using Views Adding a View to your application List View and List Activity Using a ListActivity Adding ListView Add Event to List Items Summary Recycler View RecyclerView vs ListView Adding RecylerView Card View Runtime Permissions Methods to Remember D. Views and Runtime Permissions Introduction Intents Explicit Intents Implicit Intents Native AndroidTM Actions DataTransfer Intent to Call Activities Direct Calls Sub-Activities: Calling Activities for Results Register an IntentFilter Deep Linking Testing Deep Linking Methods to Remember Lab 4: Creating Constants Selection Application and Testing Deep Linking E. Android Layouts And Custom Views Introduction Views Layouts Layout Properties Loading the Layout from Code Loading Layout in an Activity Loading Layout in a Fragment Creating and Editing Layouts in Android Studio Customized Views Modify Existing Views Step by Step What is in onDraw( ) The full picture ConstraintLayout Lab 5: Custom View, Drawer Layout, and Fragments Application F. Android Resource, Theme, and Material Design Introduction Android Resources Why Using Resources? Adding Resources to your Application Using Resources Types of Resources Android Themes and Styles Creating Themes Android Material Design Using the Material Theme Color Palette Activity Transitions & Shared Element Transitions Methods to remember Lab 6: A To-Do List Application in Material Design G. Android UI Dialogs, Menus, and Webview Introduction User Interaction through Messages Dialogs Dialog Sub-Classes Creating an Alert Dialog Creating a Progress Dialog Activities with Dialog Theme Toasts Simple Snackbar Custom Snackbar Custom Snackbar Building a menu from Java code Sub-menus Context Menus Additional Menu Item Options Popup Menus Web View Methods to Remember Lab 7: Wallpaper Application H. Android Storage and Background Processing Android Storage Options Android Storage Options Shared Preferences Retrieving Shared Preferences Save activity State Connecting to the internet Background Processing Android Threading Java Threads AsyncTask Android Services Background Fragments Background Receivers Lab 8: Quotes Provider Application I. Android Storage : SQLite and Content Providers Introduction SQLite Database in Your Application SQLite Library SQLiteOpenHelper SQLite Database Cursors Databases in Android Content Providers Native Android Content Providers Custom Content Provider Sync Adapters Introduction How SyncAdapters Work ORMLite Methods to Remember Lab 9: SQLite Databases and Content Providers J. Android Notifications Creating Notifications Expandable Notification Notification Actions Notifications Layout Notification Priority Notification With Android System New Notification Features of Android 7 K. Location Aware Apps Using GPS and Other Providers Introduction What is GPS and how it works? Other location service providers Methods to capture user location Using Google Maps Setting Geolocation Pins, Layers and custom drawing Reverse Geolocation and Geocoder Class Requesting User Permission For Location Access Testing GPS on Android Emulator Mocking Location on an Emulator LAB 11 : Location-Aware Apps Using the GPS and Google Maps",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Biaya training sudah termasuk biaya ujian ATC",
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman (Trouble Shooting)",
+      "Memahami dasar-dasar coding hingga level intermediate",
+      "Peserta dapat membuat project aplikasi sendiri secara mandiri"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Biaya training sudah termasuk biaya ujian ATC Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman (Trouble Shooting) Memahami dasar-dasar coding hingga level intermediate Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang kapanpun",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Kaos"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-atc/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Android ATC di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Sudah ratusan alumni yang lulus ATC melalui training di IDN Materi akan diajarkan atau di review dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Akan ada pembahasan soal-soal untuk persiapan ujian sertifikasi ATC Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training dan Sertifikasi ATC di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang ATC",
+      "items": [
+        "Sudah ratusan alumni yang lulus ATC melalui training di IDN",
+        "Materi akan diajarkan atau di review dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Akan ada pembahasan soal-soal untuk persiapan ujian sertifikasi ATC",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training dan Sertifikasi ATC di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang ATC"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Pertumbuhan eksplosif dari aplikasi AndroidTM akhir-akhir ini telah menciptakan ledakan banyaknya permintaan untuk pengembang. Ada pengembang, tetapi bagaimana pengusaha dapat menilai kompetensi mereka? Bagaimana mereka benar-benar tahu siapa yang pantas mendapatkan kesempatan untuk mengambil tanggung jawab atas aplikasi mereka? Android Advanced Training Consultants (Android ATC) menyediakan kursus dan ujian penilaian untuk mengesahkan kompetensi karyawan saat ini dan yang akan datang. Layanan kami didistribusikan melalui mitra Pelatihan Resmi Android ATC di seluruh dunia. Tim Android ATC telah mengerjakan sesuatu yang istimewa untuk beberapa waktu sekarang, dan hari ini kami dengan bangga mengumumkan program baru kami – program Pengembang Bersertifikat Android. Kursus pelatihan ini telah dikembangkan dan dikalibrasi oleh tim ahli Android selama beberapa tahun. Kursus-kursus ini memberdayakan pengembang aplikasi dan karyawan yang berorientasi TI dengan keterampilan untuk membangun aplikasi Android canggih. Setelah menyelesaikan kursus ini, pengembang dapat mengikuti ujian online yang menjadikan mereka menjadi Pengembang Android Bersertifikat oleh Android ATC. Ujian kami diberikan melalui pusat pengujian resmi Pearson VUE di seluruh dunia. (Sumber : http://www.androidatc.com )",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Biaya training sudah termasuk biaya ujian ATC Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemograman (Trouble Shooting) Memahami dasar-dasar coding hingga level intermediate Peserta dapat membuat project aplikasi sendiri secara mandiri",
+      "items": [
+        "Biaya training sudah termasuk biaya ujian ATC",
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman (Trouble Shooting)",
+        "Memahami dasar-dasar coding hingga level intermediate",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri"
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang kapanpun",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "curiculum",
+      "semantic_type": "CURRICULUM",
+      "content": "A. Android Studio & Android Framework Introduction Android Platform Architecture LinuxKernel Hardware Abstraction Layer (HAL) Android Runtime (ART) Native C/C++ Libraries Java API Framework System Apps Android Libraries Components of Android Application Types of Android processes and their priorities Pre-requisites for Android Application Development Android Studio Gradle Instant Run Lab 1: Creating Your First Application B. AndroidTM SDK Tools And Activity Class Android Project Structure The Android Manifest File Structure of the Manifest File Android SDK Tools Android Device Monitor Android Debug Bridge (ADB) Batterystats and Battery Historian Emulator Controls Send/Receive SMS Make Calls Update Locations Building Backward-Compatible Android Applications Activity Activity Life-Cycle Through Java Create an Activity Methods to Remember Lab 2: Studying Activity Life-Cycle C. Fragments, Views, and List View Introduction Fragments Fragments Life-Cycle Creating a Fragment Sub-Class Adding Fragments in Application Backward Compatibility of Fragments Views Using Views Adding a View to your application List View and List Activity Using a ListActivity Adding ListView Add Event to List Items Summary Recycler View RecyclerView vs ListView Adding RecylerView Card View Runtime Permissions Methods to Remember D. Views and Runtime Permissions Introduction Intents Explicit Intents Implicit Intents Native AndroidTM Actions DataTransfer Intent to Call Activities Direct Calls Sub-Activities: Calling Activities for Results Register an IntentFilter Deep Linking Testing Deep Linking Methods to Remember Lab 4: Creating Constants Selection Application and Testing Deep Linking E. Android Layouts And Custom Views Introduction Views Layouts Layout Properties Loading the Layout from Code Loading Layout in an Activity Loading Layout in a Fragment Creating and Editing Layouts in Android Studio Customized Views Modify Existing Views Step by Step What is in onDraw( ) The full picture ConstraintLayout Lab 5: Custom View, Drawer Layout, and Fragments Application F. Android Resource, Theme, and Material Design Introduction Android Resources Why Using Resources? Adding Resources to your Application Using Resources Types of Resources Android Themes and Styles Creating Themes Android Material Design Using the Material Theme Color Palette Activity Transitions & Shared Element Transitions Methods to remember Lab 6: A To-Do List Application in Material Design G. Android UI Dialogs, Menus, and Webview Introduction User Interaction through Messages Dialogs Dialog Sub-Classes Creating an Alert Dialog Creating a Progress Dialog Activities with Dialog Theme Toasts Simple Snackbar Custom Snackbar Custom Snackbar Building a menu from Java code Sub-menus Context Menus Additional Menu Item Options Popup Menus Web View Methods to Remember Lab 7: Wallpaper Application H. Android Storage and Background Processing Android Storage Options Android Storage Options Shared Preferences Retrieving Shared Preferences Save activity State Connecting to the internet Background Processing Android Threading Java Threads AsyncTask Android Services Background Fragments Background Receivers Lab 8: Quotes Provider Application I. Android Storage : SQLite and Content Providers Introduction SQLite Database in Your Application SQLite Library SQLiteOpenHelper SQLite Database Cursors Databases in Android Content Providers Native Android Content Providers Custom Content Provider Sync Adapters Introduction How SyncAdapters Work ORMLite Methods to Remember Lab 9: SQLite Databases and Content Providers J. Android Notifications Creating Notifications Expandable Notification Notification Actions Notifications Layout Notification Priority Notification With Android System New Notification Features of Android 7 K. Location Aware Apps Using GPS and Other Providers Introduction What is GPS and how it works? Other location service providers Methods to capture user location Using Google Maps Setting Geolocation Pins, Layers and custom drawing Reverse Geolocation and Geocoder Class Requesting User Permission For Location Access Testing GPS on Android Emulator Mocking Location on an Emulator LAB 11 : Location-Aware Apps Using the GPS and Google Maps",
+      "items": [
+        {
+          "title": "A. Android Studio & Android Framework",
+          "items": [
+            "Introduction",
+            "Android Platform Architecture",
+            "LinuxKernel",
+            "Hardware Abstraction Layer (HAL)",
+            "Android Runtime (ART)",
+            "Native C/C++ Libraries",
+            "Java API Framework",
+            "System Apps",
+            "Android Libraries",
+            "Components of Android Application",
+            "Types of Android processes and their priorities",
+            "Pre-requisites for Android Application Development",
+            "Android Studio Gradle",
+            "Instant Run",
+            "Lab 1: Creating Your First Application"
+          ]
+        },
+        {
+          "title": "B. AndroidTM SDK Tools And Activity Class",
+          "items": [
+            "Android Project Structure",
+            "The Android Manifest File",
+            "Structure of the Manifest File",
+            "Android SDK Tools",
+            "Android Device Monitor",
+            "Android Debug Bridge (ADB)",
+            "Batterystats and Battery Historian",
+            "Emulator Controls",
+            "Send/Receive SMS",
+            "Make Calls",
+            "Update Locations",
+            "Building Backward-Compatible Android Applications",
+            "Activity",
+            "Activity Life-Cycle Through Java",
+            "Create an Activity",
+            "Methods to Remember",
+            "Lab 2: Studying Activity Life-Cycle"
+          ]
+        },
+        {
+          "title": "C. Fragments, Views, and List View",
+          "items": [
+            "Introduction",
+            "Fragments",
+            "Fragments Life-Cycle",
+            "Creating a Fragment Sub-Class",
+            "Adding Fragments in Application",
+            "Backward Compatibility of Fragments",
+            "Views",
+            "Using Views",
+            "Adding a View to your application",
+            "List View and List Activity",
+            "Using a ListActivity",
+            "Adding ListView",
+            "Add Event to List Items",
+            "Summary",
+            "Recycler View",
+            "RecyclerView vs ListView",
+            "Adding RecylerView",
+            "Card View",
+            "Runtime Permissions",
+            "Methods to Remember"
+          ]
+        },
+        {
+          "title": "D. Views and Runtime Permissions",
+          "items": [
+            "Introduction",
+            "Intents",
+            "Explicit Intents",
+            "Implicit Intents",
+            "Native AndroidTM Actions",
+            "DataTransfer",
+            "Intent to Call Activities",
+            "Direct Calls",
+            "Sub-Activities: Calling Activities for Results",
+            "Register an IntentFilter",
+            "Deep Linking",
+            "Testing Deep Linking",
+            "Methods to Remember",
+            "Lab 4: Creating Constants Selection Application and Testing Deep Linking"
+          ]
+        },
+        {
+          "title": "E. Android Layouts And Custom Views",
+          "items": [
+            "Introduction",
+            "Views",
+            "Layouts",
+            "Layout Properties",
+            "Loading the Layout from Code",
+            "Loading Layout in an Activity",
+            "Loading Layout in a Fragment",
+            "Creating and Editing Layouts in Android Studio",
+            "Customized Views",
+            "Modify Existing Views",
+            "Step by Step",
+            "What is in onDraw( )",
+            "The full picture",
+            "ConstraintLayout",
+            "Lab 5: Custom View, Drawer Layout, and Fragments Application"
+          ]
+        },
+        {
+          "title": "F. Android Resource, Theme, and Material Design",
+          "items": [
+            "Introduction",
+            "Android Resources",
+            "Why Using Resources?",
+            "Adding Resources to your Application",
+            "Using Resources",
+            "Types of Resources",
+            "Android Themes and Styles",
+            "Creating Themes",
+            "Android Material Design",
+            "Using the Material Theme",
+            "Color Palette",
+            "Activity Transitions & Shared Element Transitions",
+            "Methods to remember",
+            "Lab 6: A To-Do List Application in Material Design"
+          ]
+        },
+        {
+          "title": "G. Android UI Dialogs, Menus, and Webview",
+          "items": [
+            "Introduction",
+            "User Interaction through Messages",
+            "Dialogs",
+            "Dialog Sub-Classes",
+            "Creating an Alert Dialog",
+            "Creating a Progress Dialog",
+            "Activities with Dialog Theme",
+            "Toasts",
+            "Simple Snackbar",
+            "Custom Snackbar",
+            "Custom Snackbar",
+            "Building a menu from Java code",
+            "Sub-menus",
+            "Context Menus",
+            "Additional Menu Item Options",
+            "Popup Menus",
+            "Web View",
+            "Methods to Remember",
+            "Lab 7: Wallpaper Application"
+          ]
+        },
+        {
+          "title": "H. Android Storage and Background Processing",
+          "items": [
+            "Android Storage Options",
+            "Android Storage Options",
+            "Shared Preferences",
+            "Retrieving Shared Preferences",
+            "Save activity State",
+            "Connecting to the internet",
+            "Background Processing",
+            "Android Threading",
+            "Java Threads",
+            "AsyncTask",
+            "Android Services",
+            "Background Fragments",
+            "Background Receivers",
+            "Lab 8: Quotes Provider Application"
+          ]
+        },
+        {
+          "title": "I. Android Storage : SQLite and Content Providers",
+          "items": [
+            "Introduction",
+            "SQLite Database in Your Application",
+            "SQLite Library",
+            "SQLiteOpenHelper",
+            "SQLite Database",
+            "Cursors",
+            "Databases in Android",
+            "Content Providers",
+            "Native Android Content Providers",
+            "Custom Content Provider",
+            "Sync Adapters",
+            "Introduction",
+            "How SyncAdapters Work",
+            "ORMLite",
+            "Methods to Remember",
+            "Lab 9: SQLite Databases and Content Providers"
+          ]
+        },
+        {
+          "title": "J. Android Notifications",
+          "items": [
+            "Creating Notifications",
+            "Expandable Notification",
+            "Notification Actions",
+            "Notifications Layout",
+            "Notification Priority",
+            "Notification With Android System",
+            "New Notification Features of Android 7"
+          ]
+        },
+        {
+          "title": "K. Location Aware Apps Using GPS and Other Providers",
+          "items": [
+            "Introduction",
+            "What is GPS and how it works?",
+            "Other location service providers",
+            "Methods to capture user location",
+            "Using Google Maps",
+            "Setting Geolocation",
+            "Pins, Layers and custom drawing",
+            "Reverse Geolocation and Geocoder Class",
+            "Requesting User Permission For Location Access",
+            "Testing GPS on Android Emulator",
+            "Mocking Location on an Emulator",
+            "LAB 11 : Location-Aware Apps Using the GPS and Google Maps"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 4.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Training Android Sertifikasi ATC",
+    "content_hash": "dc5ab3552589c2bd34811511271b14e0622679d1a1ce9337a7cd43531299c4b5",
+    "template_type": "BETTERDOCS"
+  }
+}

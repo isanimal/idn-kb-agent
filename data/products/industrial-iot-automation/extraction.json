@@ -1,0 +1,14 @@
+{
+  "training_source_id": 37,
+  "canonical_url": "https://www.idn.id/training/industrial-iot-automation/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "83d8ad53f447e931280e2b84ba2ff5dea82401ca67a899327f21b0203f4156ff",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:31.338653+00:00",
+  "facts_path": "data\\products\\industrial-iot-automation\\facts.json",
+  "evidence_path": "data\\products\\industrial-iot-automation\\evidence.json",
+  "raw_snapshot_path": "data\\products\\industrial-iot-automation\\raw.html",
+  "last_error": null
+}

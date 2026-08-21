@@ -1,0 +1,74 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/network-programming/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Saat ini, digital bisnis berkembang dengan sangat pesat, dan diantara seluruh digital bisnis yang ada, siapapun yang bisa mendilever produk dengan lebih cepat, dialah yang menang. Sebelum ada network automation, kita perlu melakukan semuanya secara manual dan memerlukan koordinasi yang rumit. Namun sekarang, kita bisa menggunakan network automation tool untuk melakukan pekerjaan-pekerjaan yang rumit tersebut, sehingga pekerjaan bisa terselesaikan dengan jauh lebih cepat. Training Network Programming di IDN akan mengajarkan Anda untuk membuat script-script/aplikasi sederhana menggunakan Python untuk melakukan Automasi terhadap jaringan Anda, Sehingga bisa sangat membantu Anda dalam melakukan managemen jaringan. Pada training Network Programming, anda akan membuat program jaringan yang dapat menerima dan mengirim suatu informasi dengan menggunakan bahasa Python.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/network-programming/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/network-programming/",
+      "source_section": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000",
+      "source_text": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [],
+  "benefits": [],
+  "facilities": [],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/network-programming/",
+      "source_section": "Syarat Mengikuti Training",
+      "source_text": "Syarat Mengikuti Training Peserta sudah harus paham Network Basic seperti Subnetting, IP Address, SSH Peserta paham sedikit-sedikit tentang Cisco",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Page title",
+        "source_text": "Network Programming",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Training registry",
+        "source_text": "Network Programming",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/network-programming/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

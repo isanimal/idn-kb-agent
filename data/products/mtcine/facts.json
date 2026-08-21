@@ -1,0 +1,387 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "MIKROTIK MTCINE + EXAM",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcine/",
+          "source_section": "Page title",
+          "source_text": "MIKROTIK MTCINE + EXAM",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Mikrotik",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcine/",
+          "source_section": "Training registry",
+          "source_text": "Mikrotik",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/mtcine/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mtcine/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/mtcine/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "MikroTik Certified Internetworking Engineer (MTCINE) adalah sebuah program sertifikasi dari MikroTik untuk teknisi (Network Engineer) pada tingkatan expert. Dalam sertifikasi ini akan dibahas materi yang berhubungan dengan Internet Service Provider (ISP), yaitu routing protocol Border Gateway Protocol (BGP), serta teknologi Multi Protocol Layer Protocol (MPLS). Nah, untuk teman – teman yang ingin mempelajari materi BGP dan MPLS dalam sertifikasi MTCINE ini, syaratnya harus memiliki sertifikat MTCRE.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training MikroTik Certified Internetworking Engineer (MTCINE) adalah sebuah program sertifikasi dari MikroTik untuk teknisi (Network Engineer) pada tingkatan expert. Dalam sertifikasi ini akan dibahas materi yang berhubungan dengan Internet Service Provider (ISP), yaitu routing protocol Border Gateway Protocol (BGP), serta teknologi Multi Protocol Layer Protocol (MPLS). Nah, untuk teman – teman yang ingin mempelajari materi BGP dan MPLS dalam sertifikasi MTCINE ini, syaratnya harus memiliki sertifikat MTCRE.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 08.00 s.d 22.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "08:00",
+        "end": "22:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 08.00 s.d 22.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 5.500.000",
+        "amount": 5500000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 4.500.000",
+        "amount": 4500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Biaya Investasi : Rp 5.500.000 Rp 4.500.000",
+        "source_text": "Biaya Investasi : Rp 5.500.000 Rp 4.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "BGP",
+        "items": [
+          "What is Autonomous System",
+          "What is BGP",
+          "Path Vector algorithm",
+          "BGP Transport and packet types",
+          "iBGP and eBGP + LAB",
+          "Stub network scenarios and private AS removal + LaB",
+          "Non-stub scenarios + LAB",
+          "iBGP and eBGP multihop and loopback usage + LAB",
+          "Route distribution and routing filters + LAB",
+          "BGP best path selection algorithm",
+          "BGP Prefix attributes and their usage + LAB",
+          "BGP Route reflectors and confederations + LAB"
+        ]
+      },
+      {
+        "title": "MPLS",
+        "items": [
+          "What is MPLS (basic)",
+          "Static Label Mapping + LAB",
+          "Label Distribution (LDP) + LAB",
+          "What is Penultimate-hop-popping",
+          "MPLS traceroute differences",
+          "LDP based VPLS tunnels + LAB",
+          "What is Bridge Split Horizon + LAB",
+          "VPLS Control Word (CW) usage and MPLS",
+          "L2MTU importance nd MPLS fragmentation",
+          "BGP Based VPLS + LAB",
+          "VRF and route leaking + LAB",
+          "L3VPN (BGP based Layer3 tunnels) + LAB",
+          "OSPF as CE-PE protocol"
+        ]
+      },
+      {
+        "title": "Traffic Engineering",
+        "items": [
+          "Traffic Engineering",
+          "What is traffic engineering and how it works",
+          "RSVP, Static path, dynamic path (CSPF) + LAB",
+          "Bandwidth allocation and bandwidth limitation differences and setting + LAB"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM BGP What is Autonomous System What is BGP Path Vector algorithm BGP Transport and packet types iBGP and eBGP + LAB Stub network scenarios and private AS removal + LaB Non-stub scenarios + LAB iBGP and eBGP multihop and loopback usage + LAB Route distribution and routing filters + LAB BGP best path selection algorithm BGP Prefix attributes and their usage + LAB BGP Route reflectors and confederations + LAB MPLS What is MPLS (basic) Static Label Mapping + LAB Label Distribution (LDP) + LAB What is Penultimate-hop-popping MPLS traceroute differences LDP based VPLS tunnels + LAB What is Bridge Split Horizon + LAB VPLS Control Word (CW) usage and MPLS L2MTU importance nd MPLS fragmentation BGP Based VPLS + LAB VRF and route leaking + LAB L3VPN (BGP based Layer3 tunnels) + LAB OSPF as CE-PE protocol Traffic Engineering Traffic Engineering What is traffic engineering and how it works RSVP, Static path, dynamic path (CSPF) + LAB Bandwidth allocation and bandwidth limitation differences and setting + LAB",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": "Ketika bekerja sebagai Network Engineer, NOC, dan lain nya, terutama bekerja di Internet Service Provider (ISP), akan menemukan beberapa kasus atau konfigurasi BGP, dan layanan MPLS. Maka dari itu, banyak ISP dan System Integrator membutuhkan Engineer yang mengerti mengenai BGP dan MPLS baik teori, konsep, maupun praktek. Teman – teman yang akan mempelajari materi MTCINE akan dibimbing oleh Trainer yang telah berpengalaman dalam bidang BGP dan MPLS. Bahkan ada trainer kita yang mengikuti Workshop di luar negeri untuk mempelajari lebih detail BGP dan MPLS, dan siap untuk di share keteman teman semua.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Ketika bekerja sebagai Network Engineer, NOC, dan lain nya, terutama bekerja di Internet Service Provider (ISP), akan menemukan beberapa kasus atau konfigurasi BGP, dan layanan MPLS. Maka dari itu, banyak ISP dan System Integrator membutuhkan Engineer yang mengerti mengenai BGP dan MPLS baik teori, konsep, maupun praktek. Teman – teman yang akan mempelajari materi MTCINE akan dibimbing oleh Trainer yang telah berpengalaman dalam bidang BGP dan MPLS. Bahkan ada trainer kita yang mengikuti Workshop di luar negeri untuk mempelajari lebih detail BGP dan MPLS, dan siap untuk di share keteman teman semua.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Mikrotik Certified Trainer, CISCO CCNA RS, CCNP Enterprise, CCNP Service Provider, Ubiquity UBWA, UEWA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Mikrotik Certified Trainer, CISCO CCNA RS, CCNP Enterprise, CCNP Service Provider, Ubiquity UBWA, UEWA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training MTCINE di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk exam MTCINE. Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer. Trainer Expert dibidangnya dan telah berpengalaman di dunia training dan project dalam maupun luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Peserta mendapat Kaos Training MTCINE IDN. Tempat training yang nyaman dan asri sehingga peserta training dapat dengan nyaman mengikuti rangkaian pembelajaran.",
+      "items": [
+        "Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung.",
+        "Biaya TERMURAH, sudah termasuk exam MTCINE.",
+        "Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer.",
+        "Trainer Expert dibidangnya dan telah berpengalaman di dunia training dan project dalam maupun luar negeri.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia.",
+        "Peserta mendapat Kaos Training MTCINE IDN.",
+        "Tempat training yang nyaman dan asri sehingga peserta training dapat dengan nyaman mengikuti rangkaian pembelajaran."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "MikroTik Certified Internetworking Engineer (MTCINE) adalah sebuah program sertifikasi dari MikroTik untuk teknisi (Network Engineer) pada tingkatan expert. Dalam sertifikasi ini akan dibahas materi yang berhubungan dengan Internet Service Provider (ISP), yaitu routing protocol Border Gateway Protocol (BGP), serta teknologi Multi Protocol Layer Protocol (MPLS). Nah, untuk teman – teman yang ingin mempelajari materi BGP dan MPLS dalam sertifikasi MTCINE ini, syaratnya harus memiliki sertifikat MTCRE.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Ketika bekerja sebagai Network Engineer, NOC, dan lain nya, terutama bekerja di Internet Service Provider (ISP), akan menemukan beberapa kasus atau konfigurasi BGP, dan layanan MPLS. Maka dari itu, banyak ISP dan System Integrator membutuhkan Engineer yang mengerti mengenai BGP dan MPLS baik teori, konsep, maupun praktek. Teman – teman yang akan mempelajari materi MTCINE akan dibimbing oleh Trainer yang telah berpengalaman dalam bidang BGP dan MPLS. Bahkan ada trainer kita yang mengikuti Workshop di luar negeri untuk mempelajari lebih detail BGP dan MPLS, dan siap untuk di share keteman teman semua.",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Mikrotik Certified Trainer, CISCO CCNA RS, CCNP Enterprise, CCNP Service Provider, Ubiquity UBWA, UEWA)",
+      "items": []
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Materinya luar biasa bagus, kekeluargaan ok banget, tempatnya nyaman, rilexs, bisa mengerjakan dimana saja, makannya juga ok, sharing antar trainer dan teman2, tidak menyesal ikut training di IDN.”Asep Herasukwana – Klik Media Netindo, “Bukan hanya materi training yang didapat tapi dapat ketemu teman-teman network yang berpengalaman dan bisa sharing pengalaman, trainernya ok, tempatnya ok, makannya ok.”I Ketut Aditya Hendrawan – Kalbe, “Lebih kekeluargaan, pengajarnya enak, cara menjelaskannya enak dan membuat relaks belajar, makannya enak.” Terima kasih kepada semua pihak yang telah terlibat dan membantu Bootcamp kali ini. Semoga semakin banyak yang merasakan dan menebar manfaat dan ilmu yang sangat berguna ini.” Arief Mukti Wibowo,",
+      "items": []
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "BGP What is Autonomous System What is BGP Path Vector algorithm BGP Transport and packet types iBGP and eBGP + LAB Stub network scenarios and private AS removal + LaB Non-stub scenarios + LAB iBGP and eBGP multihop and loopback usage + LAB Route distribution and routing filters + LAB BGP best path selection algorithm BGP Prefix attributes and their usage + LAB BGP Route reflectors and confederations + LAB MPLS What is MPLS (basic) Static Label Mapping + LAB Label Distribution (LDP) + LAB What is Penultimate-hop-popping MPLS traceroute differences LDP based VPLS tunnels + LAB What is Bridge Split Horizon + LAB VPLS Control Word (CW) usage and MPLS L2MTU importance nd MPLS fragmentation BGP Based VPLS + LAB VRF and route leaking + LAB L3VPN (BGP based Layer3 tunnels) + LAB OSPF as CE-PE protocol Traffic Engineering Traffic Engineering What is traffic engineering and how it works RSVP, Static path, dynamic path (CSPF) + LAB Bandwidth allocation and bandwidth limitation differences and setting + LAB",
+      "items": [
+        {
+          "title": "BGP",
+          "items": [
+            "What is Autonomous System",
+            "What is BGP",
+            "Path Vector algorithm",
+            "BGP Transport and packet types",
+            "iBGP and eBGP + LAB",
+            "Stub network scenarios and private AS removal + LaB",
+            "Non-stub scenarios + LAB",
+            "iBGP and eBGP multihop and loopback usage + LAB",
+            "Route distribution and routing filters + LAB",
+            "BGP best path selection algorithm",
+            "BGP Prefix attributes and their usage + LAB",
+            "BGP Route reflectors and confederations + LAB"
+          ]
+        },
+        {
+          "title": "MPLS",
+          "items": [
+            "What is MPLS (basic)",
+            "Static Label Mapping + LAB",
+            "Label Distribution (LDP) + LAB",
+            "What is Penultimate-hop-popping",
+            "MPLS traceroute differences",
+            "LDP based VPLS tunnels + LAB",
+            "What is Bridge Split Horizon + LAB",
+            "VPLS Control Word (CW) usage and MPLS",
+            "L2MTU importance nd MPLS fragmentation",
+            "BGP Based VPLS + LAB",
+            "VRF and route leaking + LAB",
+            "L3VPN (BGP based Layer3 tunnels) + LAB",
+            "OSPF as CE-PE protocol"
+          ]
+        },
+        {
+          "title": "Traffic Engineering",
+          "items": [
+            "Traffic Engineering",
+            "What is traffic engineering and how it works",
+            "RSVP, Static path, dynamic path (CSPF) + LAB",
+            "Bandwidth allocation and bandwidth limitation differences and setting + LAB"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 08.00 s.d 22.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Lokasi MTCINE Bootcamp",
+      "semantic_type": "LOGISTICS",
+      "content": "IDN Boarding School Pamijahan Bogor Jl. KH. Abdul Hamid No.02, RT.06, Gn. Sari, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16810 https://maps.app.goo.gl/amziWAZenufocrA5A",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 5.500.000 Rp 4.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "MIKROTIK MTCINE + EXAM",
+    "content_hash": "2ee004f06040da19efcf11cb8d14f17fbd7a9d58d61a6b1527108fe9abcea7d8",
+    "template_type": "BETTERDOCS"
+  }
+}

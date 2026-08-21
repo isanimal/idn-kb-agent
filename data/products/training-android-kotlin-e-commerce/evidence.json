@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training Android Kotlin E-Commerce ini merupakan program belajar membuat aplikasi khusus tentang e-commerce. Dengan kursus ini peserta akan dapat membuat aplikasi e-commerce dengan mudah. Training ini di khususkan bagi yang pernah mengikuti training kotlin basic sebelumnya, karena level nya sudah bisa dibilang advance. Jadi selama 4 hari kita akan belajar membuat project aplikasi e-commerce menggunakan kotlin sampai aplikasinya siap untuk digunakan.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Biaya Investasi : Rp 3.500.000,-",
+      "source_text": "Biaya Investasi : Rp 3.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum Introduction Project E-Commerce Introduction E-Commerce Aplikasi Android Struktur Project Library – library Import Project Test Run Project Project Configuration Network setting untuk Android O atau lebih tinggi Splash Screen Design UI/UX Resource Project JSON & API PostMan Auto-generate Model Module Member Modul Profile Modul Login Modul Register Modul Home Screen Modul Edit Profile Module Product Modul Product by Category Modul Detail Product Modul Edit Shipping Address Modul Shopping Cart Modul Order Confirmation Modul Detail Order Modul Document Preview Modul History Order Modul Logout",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Menguasai materi yang tersedia di curriculum (Kotlin e-commerce) Peserta mampu mengatasi permasalahan dalam proses pemograman Memahami kotlin dan aplikasi e-commerce Peserta dapat membuat project aplikasi e-commerce Android dan iOS sendiri menggunakan Kotlin",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Page title",
+        "source_text": "Android Kotlin E-Commerce",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Training registry",
+        "source_text": "Android",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

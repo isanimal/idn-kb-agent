@@ -1,0 +1,367 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Network Management System (NMS)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/network-management-system/",
+          "source_section": "Page title",
+          "source_text": "Network Management System (NMS)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "NMS",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/network-management-system/",
+          "source_section": "Training registry",
+          "source_text": "NMS",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/network-management-system/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/network-management-system/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/network-management-system/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Network Management System (NMS) adalah suatu sistem yang digunakan untuk mengelola, memonitor, dan mengoptimalkan kinerja jaringan komputer dan infrastruktur jaringan lainnya. NMS menyediakan alat dan metode untuk memastikan bahwa berbagai perangkat jaringan, seperti router, switch, server, dan perangkat lainnya, berfungsi dengan baik dan dapat berkomunikasi secara efektif. Berikut adalah beberapa fungsi utama dari NMS: Keamanan Jaringan: Dengan fitur keamanan yang terintegrasi, NMS dapat membantu dalam identifikasi ancaman dan pengamanan jaringan dari akses yang tidak sah. Monitoring Kinerja Jaringan: NMS mengumpulkan data tentang trafik, penggunaan bandwidth, dan status perangkat untuk memberikan gambaran menyeluruh tentang kesehatan jaringan. Deteksi dan Pengelolaan Masalah: NMS dapat mendeteksi masalah yang terjadi dalam jaringan, seperti gangguan atau penurunan performa, dan memberikan notifikasi kepada administrator untuk segera ditangani. Konfigurasi dan Manajemen Perangkat: NMS memungkinkan administrator untuk mengkonfigurasi dan mengelola perangkat jaringan secara terpusat, sehingga memudahkan pengaturan kebijakan dan perubahan konfigurasi. Pelaporan dan Analisis: NMS menghasilkan laporan dan analisis yang membantu dalam perencanaan kapasitas dan pengambilan keputusan terkait infrastruktur jaringan.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Network Management System (NMS) adalah suatu sistem yang digunakan untuk mengelola, memonitor, dan mengoptimalkan kinerja jaringan komputer dan infrastruktur jaringan lainnya. NMS menyediakan alat dan metode untuk memastikan bahwa berbagai perangkat jaringan, seperti router, switch, server, dan perangkat lainnya, berfungsi dengan baik dan dapat berkomunikasi secara efektif. Berikut adalah beberapa fungsi utama dari NMS: Keamanan Jaringan: Dengan fitur keamanan yang terintegrasi, NMS dapat membantu dalam identifikasi ancaman dan pengamanan jaringan dari akses yang tidak sah. Monitoring Kinerja Jaringan: NMS mengumpulkan data tentang trafik, penggunaan bandwidth, dan status perangkat untuk memberikan gambaran menyeluruh tentang kesehatan jaringan. Deteksi dan Pengelolaan Masalah: NMS dapat mendeteksi masalah yang terjadi dalam jaringan, seperti gangguan atau penurunan performa, dan memberikan notifikasi kepada administrator untuk segera ditangani. Konfigurasi dan Manajemen Perangkat: NMS memungkinkan administrator untuk mengkonfigurasi dan mengelola perangkat jaringan secara terpusat, sehingga memudahkan pengaturan kebijakan dan perubahan konfigurasi. Pelaporan dan Analisis: NMS menghasilkan laporan dan analisis yang membantu dalam perencanaan kapasitas dan pengambilan keputusan terkait infrastruktur jaringan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.000.000",
+      "amount": 2000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Biaya Investasi : Rp 2.000.000,-",
+        "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1 : Introduction to Network Management System 1.1 Overview Network Management System 1.2 Network Monitoring and Data Collection 1.3 Network Protocol for Monitoring 1.4 NMS Open Source vs Proprietary 1.5 Tools Network Management System",
+        "objective": null,
+        "items": [],
+        "raw": "Module 1 : Introduction to Network Management System 1.1 Overview Network Management System 1.2 Network Monitoring and Data Collection 1.3 Network Protocol for Monitoring 1.4 NMS Open Source vs Proprietary 1.5 Tools Network Management System",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 2 : Introduction to Zabbix 2.1 Overview Zabbix 2.2 Component Zabbix 2.3 Installation and Configure Zabbix",
+        "objective": null,
+        "items": [],
+        "raw": "Module 2 : Introduction to Zabbix 2.1 Overview Zabbix 2.2 Component Zabbix 2.3 Installation and Configure Zabbix",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 3: Network Monitoring with Zabbix 3.1 Host Group 3.2 Adding Host with Agent (Server) 3.3 Adding Host with SNMP 3.4 Item Zabbix 3.5 Network Discovery 3.6 Low level discovery 3.7 Configure Template Monitoring",
+        "objective": null,
+        "items": [],
+        "raw": "Module 3: Network Monitoring with Zabbix 3.1 Host Group 3.2 Adding Host with Agent (Server) 3.3 Adding Host with SNMP 3.4 Item Zabbix 3.5 Network Discovery 3.6 Low level discovery 3.7 Configure Template Monitoring",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 4 : Configure Visualization Monitoring 4.1 Graph in Zabbix 4.2 Maps in Zabbix 4.3 Screen in Zabbix / Dashboard 4.4 Additional Dashboard 4.5 Integration Grafana and Zabbix",
+        "objective": null,
+        "items": [],
+        "raw": "Module 4 : Configure Visualization Monitoring 4.1 Graph in Zabbix 4.2 Maps in Zabbix 4.3 Screen in Zabbix / Dashboard 4.4 Additional Dashboard 4.5 Integration Grafana and Zabbix",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 5 : Configure Alert 5.1 Configure Notification 5.2 Setup media type for Notificaiton 5.3 Integration with system notification",
+        "objective": null,
+        "items": [],
+        "raw": "Module 5 : Configure Alert 5.1 Configure Notification 5.2 Setup media type for Notificaiton 5.3 Integration with system notification",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 6 : Reporting Zabbix 6.1 Report Zabbix",
+        "objective": null,
+        "items": [],
+        "raw": "Module 6 : Reporting Zabbix 6.1 Report Zabbix",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 7 : Additional Security 7.1 RBAC Zabbix 7.2 Securing Zabbix Setup",
+        "objective": null,
+        "items": [],
+        "raw": "Module 7 : Additional Security 7.1 RBAC Zabbix 7.2 Securing Zabbix Setup",
+        "structure_type": "MODULED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Outline :",
+        "source_text": "Outline : Module 1 : Introduction to Network Management System 1.1 Overview Network Management System 1.2 Network Monitoring and Data Collection 1.3 Network Protocol for Monitoring 1.4 NMS Open Source vs Proprietary 1.5 Tools Network Management System Module 2 : Introduction to Zabbix 2.1 Overview Zabbix 2.2 Component Zabbix 2.3 Installation and Configure Zabbix Module 3: Network Monitoring with Zabbix 3.1 Host Group 3.2 Adding Host with Agent (Server) 3.3 Adding Host with SNMP 3.4 Item Zabbix 3.5 Network Discovery 3.6 Low level discovery 3.7 Configure Template Monitoring Module 4 : Configure Visualization Monitoring 4.1 Graph in Zabbix 4.2 Maps in Zabbix 4.3 Screen in Zabbix / Dashboard 4.4 Additional Dashboard 4.5 Integration Grafana and Zabbix Module 5 : Configure Alert 5.1 Configure Notification 5.2 Setup media type for Notificaiton 5.3 Integration with system notification Module 6 : Reporting Zabbix 6.1 Report Zabbix Module 7 : Additional Security 7.1 RBAC Zabbix 7.2 Securing Zabbix Setup",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peningkatan Kemampuan Teknikal: Memahami NMS akan memperdalam pengetahuan Anda tentang komponen dan arsitektur jaringan, serta bagaimana cara mengoptimalkannya, sehingga meningkatkan kemampuan teknis Anda di bidang jaringan.",
+      "Karier yang Menjanjikan: Dengan semakin banyaknya perusahaan yang bergantung pada jaringan untuk operasional mereka, keterampilan dalam manajemen jaringan sangat dicari di pasar kerja, membuka peluang karier yang lebih baik di bidang TI.",
+      "Kemampuan Mengatasi Masalah: Mempelajari NMS memberi Anda keterampilan dalam mendeteksi dan mengatasi masalah jaringan secara proaktif, mengurangi downtime dan meningkatkan efisiensi operasional.",
+      "Manajemen Sumber Daya yang Lebih Baik: Dengan pemahaman tentang NMS, Anda akan mampu mengelola sumber daya jaringan dengan lebih efektif, memastikan pemanfaatan bandwidth yang optimal dan ketersediaan layanan yang tinggi.",
+      "Keamanan Jaringan yang Ditingkatkan: NMS sering dilengkapi dengan alat dan fitur keamanan. Mempelajarinya membantu Anda memahami cara melindungi jaringan dari ancaman dan serangan cyber dengan lebih baik.",
+      "Kemampuan Analisis dan Pelaporan: Anda akan belajar cara mengumpulkan dan menganalisis data jaringan, artikel yang mendukung pengambilan keputusan yang lebih baik, serta perencanaan kapasitas jangka panjang.",
+      "Adaptasi pada Teknologi Baru: Dengan perkembangan teknologi yang cepat, mempelajari NMS membantu Anda tetap up-to-date dengan tren terbaru dalam manajemen jaringan, termasuk solusi berbasis cloud dan otomatisasi.",
+      "Kolaborasi Tim yang Lebih Baik: Pengetahuan tentang NMS memungkinkan Anda untuk bekerja lebih efektif dalam tim IT, berkomunikasi secara lebih jelas mengenai masalah dan solusi jaringan, serta berkontribusi pada proyek-proyek besar dengan lebih baik."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Mempelajari Network Management System (NMS) memiliki banyak keuntungan, terutama bagi profesional di bidang teknologi informasi dan manajemen jaringan. Berikut adalah beberapa keuntungan utama: Peningkatan Kemampuan Teknikal: Memahami NMS akan memperdalam pengetahuan Anda tentang komponen dan arsitektur jaringan, serta bagaimana cara mengoptimalkannya, sehingga meningkatkan kemampuan teknis Anda di bidang jaringan. Karier yang Menjanjikan: Dengan semakin banyaknya perusahaan yang bergantung pada jaringan untuk operasional mereka, keterampilan dalam manajemen jaringan sangat dicari di pasar kerja, membuka peluang karier yang lebih baik di bidang TI. Kemampuan Mengatasi Masalah: Mempelajari NMS memberi Anda keterampilan dalam mendeteksi dan mengatasi masalah jaringan secara proaktif, mengurangi downtime dan meningkatkan efisiensi operasional. Manajemen Sumber Daya yang Lebih Baik: Dengan pemahaman tentang NMS, Anda akan mampu mengelola sumber daya jaringan dengan lebih efektif, memastikan pemanfaatan bandwidth yang optimal dan ketersediaan layanan yang tinggi. Keamanan Jaringan yang Ditingkatkan: NMS sering dilengkapi dengan alat dan fitur keamanan. Mempelajarinya membantu Anda memahami cara melindungi jaringan dari ancaman dan serangan cyber dengan lebih baik. Kemampuan Analisis dan Pelaporan: Anda akan belajar cara mengumpulkan dan menganalisis data jaringan, artikel yang mendukung pengambilan keputusan yang lebih baik, serta perencanaan kapasitas jangka panjang. Adaptasi pada Teknologi Baru: Dengan perkembangan teknologi yang cepat, mempelajari NMS membantu Anda tetap up-to-date dengan tren terbaru dalam manajemen jaringan, termasuk solusi berbasis cloud dan otomatisasi. Kolaborasi Tim yang Lebih Baik: Pengetahuan tentang NMS memungkinkan Anda untuk bekerja lebih efektif dalam tim IT, berkomunikasi secara lebih jelas mengenai masalah dan solusi jaringan, serta berkontribusi pada proyek-proyek besar dengan lebih baik. Dengan semua keuntungan ini, mempelajari Network Management System adalah langkah strategi yang cerdas bagi siapa saja yang ingin meniti karir yang sukses di dunia TI dan manajemen jaringan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "An understanding of networking fundamentals",
+      "An understanding basic of linux server",
+      "An awareness and understanding of security best practices",
+      "Basic knownledge of server hardware",
+      "Experience working with, and configuing linux and windows server"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Prerequisites :",
+        "source_text": "Prerequisites : An understanding of networking fundamentals An understanding basic of linux server An awareness and understanding of security best practices Basic knownledge of server hardware Experience working with, and configuing linux and windows server",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-management-system/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training NMS di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi yang disampaikan menggunakan aplikasi yang banyak digunakan untuk melakukan monitoring jaringan di industri Selain mendapat materi tentang NMS, peserta juga akan mendapat tambahan materi tentang linux yang tentu saja akan sangat bermanfaat di pekerjaan Disediakan laptop khusus untuk keperluan belajar NMS yang membutuhkan spesifikasi relatif tinggi Biaya Training TERMURAH Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung Peserta akan bergabung dengan komunitas IDN sehingga bisa bertanya dengan bebas jika ada kesulitan dalam memahami materi Network Management System Modul kami susun sendiri dalam bahasa indonesia",
+      "items": [
+        "Materi yang disampaikan menggunakan aplikasi yang banyak digunakan untuk melakukan monitoring jaringan di industri",
+        "Selain mendapat materi tentang NMS, peserta juga akan mendapat tambahan materi tentang linux yang tentu saja akan sangat bermanfaat di pekerjaan",
+        "Disediakan laptop khusus untuk keperluan belajar NMS yang membutuhkan spesifikasi relatif tinggi",
+        "Biaya Training TERMURAH",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+        "Peserta akan bergabung dengan komunitas IDN sehingga bisa bertanya dengan bebas jika ada kesulitan dalam memahami materi Network Management System",
+        "Modul kami susun sendiri dalam bahasa indonesia"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Network Management System (NMS) adalah suatu sistem yang digunakan untuk mengelola, memonitor, dan mengoptimalkan kinerja jaringan komputer dan infrastruktur jaringan lainnya. NMS menyediakan alat dan metode untuk memastikan bahwa berbagai perangkat jaringan, seperti router, switch, server, dan perangkat lainnya, berfungsi dengan baik dan dapat berkomunikasi secara efektif. Berikut adalah beberapa fungsi utama dari NMS: Keamanan Jaringan: Dengan fitur keamanan yang terintegrasi, NMS dapat membantu dalam identifikasi ancaman dan pengamanan jaringan dari akses yang tidak sah. Monitoring Kinerja Jaringan: NMS mengumpulkan data tentang trafik, penggunaan bandwidth, dan status perangkat untuk memberikan gambaran menyeluruh tentang kesehatan jaringan. Deteksi dan Pengelolaan Masalah: NMS dapat mendeteksi masalah yang terjadi dalam jaringan, seperti gangguan atau penurunan performa, dan memberikan notifikasi kepada administrator untuk segera ditangani. Konfigurasi dan Manajemen Perangkat: NMS memungkinkan administrator untuk mengkonfigurasi dan mengelola perangkat jaringan secara terpusat, sehingga memudahkan pengaturan kebijakan dan perubahan konfigurasi. Pelaporan dan Analisis: NMS menghasilkan laporan dan analisis yang membantu dalam perencanaan kapasitas dan pengambilan keputusan terkait infrastruktur jaringan.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Mempelajari Network Management System (NMS) memiliki banyak keuntungan, terutama bagi profesional di bidang teknologi informasi dan manajemen jaringan. Berikut adalah beberapa keuntungan utama: Peningkatan Kemampuan Teknikal: Memahami NMS akan memperdalam pengetahuan Anda tentang komponen dan arsitektur jaringan, serta bagaimana cara mengoptimalkannya, sehingga meningkatkan kemampuan teknis Anda di bidang jaringan. Karier yang Menjanjikan: Dengan semakin banyaknya perusahaan yang bergantung pada jaringan untuk operasional mereka, keterampilan dalam manajemen jaringan sangat dicari di pasar kerja, membuka peluang karier yang lebih baik di bidang TI. Kemampuan Mengatasi Masalah: Mempelajari NMS memberi Anda keterampilan dalam mendeteksi dan mengatasi masalah jaringan secara proaktif, mengurangi downtime dan meningkatkan efisiensi operasional. Manajemen Sumber Daya yang Lebih Baik: Dengan pemahaman tentang NMS, Anda akan mampu mengelola sumber daya jaringan dengan lebih efektif, memastikan pemanfaatan bandwidth yang optimal dan ketersediaan layanan yang tinggi. Keamanan Jaringan yang Ditingkatkan: NMS sering dilengkapi dengan alat dan fitur keamanan. Mempelajarinya membantu Anda memahami cara melindungi jaringan dari ancaman dan serangan cyber dengan lebih baik. Kemampuan Analisis dan Pelaporan: Anda akan belajar cara mengumpulkan dan menganalisis data jaringan, artikel yang mendukung pengambilan keputusan yang lebih baik, serta perencanaan kapasitas jangka panjang. Adaptasi pada Teknologi Baru: Dengan perkembangan teknologi yang cepat, mempelajari NMS membantu Anda tetap up-to-date dengan tren terbaru dalam manajemen jaringan, termasuk solusi berbasis cloud dan otomatisasi. Kolaborasi Tim yang Lebih Baik: Pengetahuan tentang NMS memungkinkan Anda untuk bekerja lebih efektif dalam tim IT, berkomunikasi secara lebih jelas mengenai masalah dan solusi jaringan, serta berkontribusi pada proyek-proyek besar dengan lebih baik. Dengan semua keuntungan ini, mempelajari Network Management System adalah langkah strategi yang cerdas bagi siapa saja yang ingin meniti karir yang sukses di dunia TI dan manajemen jaringan.",
+      "items": [
+        "Peningkatan Kemampuan Teknikal: Memahami NMS akan memperdalam pengetahuan Anda tentang komponen dan arsitektur jaringan, serta bagaimana cara mengoptimalkannya, sehingga meningkatkan kemampuan teknis Anda di bidang jaringan.",
+        "Karier yang Menjanjikan: Dengan semakin banyaknya perusahaan yang bergantung pada jaringan untuk operasional mereka, keterampilan dalam manajemen jaringan sangat dicari di pasar kerja, membuka peluang karier yang lebih baik di bidang TI.",
+        "Kemampuan Mengatasi Masalah: Mempelajari NMS memberi Anda keterampilan dalam mendeteksi dan mengatasi masalah jaringan secara proaktif, mengurangi downtime dan meningkatkan efisiensi operasional.",
+        "Manajemen Sumber Daya yang Lebih Baik: Dengan pemahaman tentang NMS, Anda akan mampu mengelola sumber daya jaringan dengan lebih efektif, memastikan pemanfaatan bandwidth yang optimal dan ketersediaan layanan yang tinggi.",
+        "Keamanan Jaringan yang Ditingkatkan: NMS sering dilengkapi dengan alat dan fitur keamanan. Mempelajarinya membantu Anda memahami cara melindungi jaringan dari ancaman dan serangan cyber dengan lebih baik.",
+        "Kemampuan Analisis dan Pelaporan: Anda akan belajar cara mengumpulkan dan menganalisis data jaringan, artikel yang mendukung pengambilan keputusan yang lebih baik, serta perencanaan kapasitas jangka panjang.",
+        "Adaptasi pada Teknologi Baru: Dengan perkembangan teknologi yang cepat, mempelajari NMS membantu Anda tetap up-to-date dengan tren terbaru dalam manajemen jaringan, termasuk solusi berbasis cloud dan otomatisasi.",
+        "Kolaborasi Tim yang Lebih Baik: Pengetahuan tentang NMS memungkinkan Anda untuk bekerja lebih efektif dalam tim IT, berkomunikasi secara lebih jelas mengenai masalah dan solusi jaringan, serta berkontribusi pada proyek-proyek besar dengan lebih baik."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": []
+    },
+    {
+      "heading": "Prerequisites :",
+      "semantic_type": "PREREQUISITES",
+      "content": "An understanding of networking fundamentals An understanding basic of linux server An awareness and understanding of security best practices Basic knownledge of server hardware Experience working with, and configuing linux and windows server",
+      "items": [
+        "An understanding of networking fundamentals",
+        "An understanding basic of linux server",
+        "An awareness and understanding of security best practices",
+        "Basic knownledge of server hardware",
+        "Experience working with, and configuing linux and windows server"
+      ]
+    },
+    {
+      "heading": "Outline :",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1 : Introduction to Network Management System 1.1 Overview Network Management System 1.2 Network Monitoring and Data Collection 1.3 Network Protocol for Monitoring 1.4 NMS Open Source vs Proprietary 1.5 Tools Network Management System Module 2 : Introduction to Zabbix 2.1 Overview Zabbix 2.2 Component Zabbix 2.3 Installation and Configure Zabbix Module 3: Network Monitoring with Zabbix 3.1 Host Group 3.2 Adding Host with Agent (Server) 3.3 Adding Host with SNMP 3.4 Item Zabbix 3.5 Network Discovery 3.6 Low level discovery 3.7 Configure Template Monitoring Module 4 : Configure Visualization Monitoring 4.1 Graph in Zabbix 4.2 Maps in Zabbix 4.3 Screen in Zabbix / Dashboard 4.4 Additional Dashboard 4.5 Integration Grafana and Zabbix Module 5 : Configure Alert 5.1 Configure Notification 5.2 Setup media type for Notificaiton 5.3 Integration with system notification Module 6 : Reporting Zabbix 6.1 Report Zabbix Module 7 : Additional Security 7.1 RBAC Zabbix 7.2 Securing Zabbix Setup",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Network Management System (NMS)",
+    "content_hash": "2c85f635cad27fc56bf644cad8435750175f6ebf90e09755341df6353e2dff1b",
+    "template_type": "BETTERDOCS"
+  }
+}

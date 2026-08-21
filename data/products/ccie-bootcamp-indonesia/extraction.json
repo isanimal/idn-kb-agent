@@ -1,0 +1,14 @@
+{
+  "training_source_id": 6,
+  "canonical_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "f7c291b90a8ef758c69c0f3a15176e1f7ac28d362f67151d20f81f511a4f3227",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:35:10.232477+00:00",
+  "facts_path": "data\\products\\ccie-bootcamp-indonesia\\facts.json",
+  "evidence_path": "data\\products\\ccie-bootcamp-indonesia\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ccie-bootcamp-indonesia\\raw.html",
+  "last_error": null
+}

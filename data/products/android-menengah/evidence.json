@@ -1,0 +1,94 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Kelas android lanjutan adalah kelas android programming yang lebih mengenal fungsi-fungsi dan framework yang ada pada android, penggunaan map api google,penggunaan fitur-fitur layanan Firebase dan memahami penyimpanan data pada database online dan oflineKelas android lanjutan adalah kelas android programming yang lebih mengenal fungsi-fungsi dan framework yang ada pada android, penggunaan map api google,penggunaan fitur-fitur layanan Firebase dan memahami penyimpanan data pada database online dan offline Syarat mengikuti kelas lanjutan Sudah mengikuti kelas beginner Android Java Basic (Mobile Programming) Sudah mengetahui fungsi-fungsi menu android studio Sudah memahami xml untuk layouting android Sudah memahami konsep oop",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Waktu Training :",
+      "source_text": "Waktu Training : * Full day : jam 09.00 – 16.00 WIB",
+      "confidence": 1.0
+    },
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum DATABASE FIREBASE Mengenal apa itu database firebase Mengenal cara kerja dan penggunaan database firebase pada android Membuat database sqlite dan menyambungkan Aplikasi Android ke firebase Membuat fungsi create data Membuat fungsi read data Membuat fungsi edit/update data Membuat fungsi delete data DATABASE MySQL Login dan Register Profil Pengguna Mengenal Database Mysql Membuat database MySQL dan menyambungkan ke Aplikasi Android Parsing data JSON dengan php Membuat fungsi create,read,update,delete data GOOGLE MAPS API v2 Penganalan Maps Mendapatkan API Google Maps API V2 Panduan download dan menggunakan Google Play Service SDK Menampilkan Maps Menggunakan Android Maps API v2 dan MapFragment Menampilkan Lokasi Pengguna di Peta Menampilkan Marker dan InfoWindow di Peta Mendapatkan GoogleMap Asynchronous Menggunakan getMapAsync() pada Android Maps API v2 Menggunakan Map Toolbar pada android maps API v2 Menampilkan Area Polygon Menampilkan Rute Tercepat (Driving Direction) Antara Dua Koordinat pada Android Maps v2 Menampilkan peta menggunakan web view GOOGLE MAPS PLACES API Pengenalan Google Maps Places API Membuat PlacePicker Sederhana ADMOB Mendapatkan SDK Google Admob Implementasi dan Integrasi Admob pada Android Studio",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Dapat membuat aplikasi dengan menggunakan database ofline dan online Dapat membuat aplikasi konsep toko online intgrasi dengan rute pengantaran Dapat membuat aplikasi dengan menggunakan MAP Google API Dapat membuat aplikasi dengan menggunakan fitur-fitur yang ada di FIREBASE",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/android-menengah/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Iswandi Saputra (Google Certified Associate Android Developer (AAD),ATC android certified application developer) Nando Septian Husni (Google Certified Associate Android Developer (AAD),ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/android-menengah/",
+        "source_section": "Page title",
+        "source_text": "Android Intermediate (Java)",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/android-menengah/",
+        "source_section": "Training registry",
+        "source_text": "Android",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/android-menengah/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/android-menengah/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

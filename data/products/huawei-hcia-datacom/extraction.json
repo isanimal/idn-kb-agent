@@ -1,0 +1,14 @@
+{
+  "training_source_id": 50,
+  "canonical_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "049f99f3cc221ef8c8024993e56e810043ecc55afe0305b4a37a60e5aed970cb",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:38.985210+00:00",
+  "facts_path": "data\\products\\huawei-hcia-datacom\\facts.json",
+  "evidence_path": "data\\products\\huawei-hcia-datacom\\evidence.json",
+  "raw_snapshot_path": "data\\products\\huawei-hcia-datacom\\raw.html",
+  "last_error": null
+}

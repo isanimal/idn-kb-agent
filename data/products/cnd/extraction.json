@@ -1,0 +1,14 @@
+{
+  "training_source_id": 81,
+  "canonical_url": "https://www.idn.id/training/cnd/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "d3f673dc3ef70ff02461b1927c4472ba6a4a23db858d0b160f9aadf274c49b62",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:59.064591+00:00",
+  "facts_path": "data\\products\\cnd\\facts.json",
+  "evidence_path": "data\\products\\cnd\\evidence.json",
+  "raw_snapshot_path": "data\\products\\cnd\\raw.html",
+  "last_error": null
+}

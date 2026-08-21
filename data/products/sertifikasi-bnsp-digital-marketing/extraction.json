@@ -1,0 +1,14 @@
+{
+  "training_source_id": 91,
+  "canonical_url": "https://www.idn.id/training/sertifikasi-bnsp-digital-marketing/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "bc3979efd798841fbe813af4aa11758821b5642252afeab50df757db8bc73e58",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:04.685753+00:00",
+  "facts_path": "data\\products\\sertifikasi-bnsp-digital-marketing\\facts.json",
+  "evidence_path": "data\\products\\sertifikasi-bnsp-digital-marketing\\evidence.json",
+  "raw_snapshot_path": "data\\products\\sertifikasi-bnsp-digital-marketing\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 69,
+  "canonical_url": "https://www.idn.id/training/fiber-optic/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "dcd5d37faa25f570efac5d19c342baa2e1f96406a28137428cec32c75913664a",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:51.180477+00:00",
+  "facts_path": "data\\products\\fiber-optic\\facts.json",
+  "evidence_path": "data\\products\\fiber-optic\\evidence.json",
+  "raw_snapshot_path": "data\\products\\fiber-optic\\raw.html",
+  "last_error": null
+}

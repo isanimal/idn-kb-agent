@@ -1,0 +1,14 @@
+{
+  "training_source_id": 54,
+  "canonical_url": "https://www.idn.id/training/azure-administrator/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "9e675b903ec9f2a4efe1b484050683039229d1788cd33d5cd044fd25510151e0",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:41.329148+00:00",
+  "facts_path": "data\\products\\azure-administrator\\facts.json",
+  "evidence_path": "data\\products\\azure-administrator\\evidence.json",
+  "raw_snapshot_path": "data\\products\\azure-administrator\\raw.html",
+  "last_error": null
+}

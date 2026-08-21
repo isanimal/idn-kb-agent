@@ -1,0 +1,14 @@
+{
+  "training_source_id": 80,
+  "canonical_url": "https://www.idn.id/training/cscu/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "639d0dde63d2fe15f7fca1c9ada4abb61c8fd97569840c95e8884577d90990df",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:58.467769+00:00",
+  "facts_path": "data\\products\\cscu\\facts.json",
+  "evidence_path": "data\\products\\cscu\\evidence.json",
+  "raw_snapshot_path": "data\\products\\cscu\\raw.html",
+  "last_error": null
+}

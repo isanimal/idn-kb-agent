@@ -1,0 +1,300 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Network Programming",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/network-programming/",
+          "source_section": "Page title",
+          "source_text": "Network Programming",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Network Programming",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/network-programming/",
+          "source_section": "Training registry",
+          "source_text": "Network Programming",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/network-programming/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/network-programming/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/network-programming/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Saat ini, digital bisnis berkembang dengan sangat pesat, dan diantara seluruh digital bisnis yang ada, siapapun yang bisa mendilever produk dengan lebih cepat, dialah yang menang. Sebelum ada network automation, kita perlu melakukan semuanya secara manual dan memerlukan koordinasi yang rumit. Namun sekarang, kita bisa menggunakan network automation tool untuk melakukan pekerjaan-pekerjaan yang rumit tersebut, sehingga pekerjaan bisa terselesaikan dengan jauh lebih cepat. Training Network Programming di IDN akan mengajarkan Anda untuk membuat script-script/aplikasi sederhana menggunakan Python untuk melakukan Automasi terhadap jaringan Anda, Sehingga bisa sangat membantu Anda dalam melakukan managemen jaringan. Pada training Network Programming, anda akan membuat program jaringan yang dapat menerima dan mengirim suatu informasi dengan menggunakan bahasa Python.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Saat ini, digital bisnis berkembang dengan sangat pesat, dan diantara seluruh digital bisnis yang ada, siapapun yang bisa mendilever produk dengan lebih cepat, dialah yang menang. Sebelum ada network automation, kita perlu melakukan semuanya secara manual dan memerlukan koordinasi yang rumit. Namun sekarang, kita bisa menggunakan network automation tool untuk melakukan pekerjaan-pekerjaan yang rumit tersebut, sehingga pekerjaan bisa terselesaikan dengan jauh lebih cepat. Training Network Programming di IDN akan mengajarkan Anda untuk membuat script-script/aplikasi sederhana menggunakan Python untuk melakukan Automasi terhadap jaringan Anda, Sehingga bisa sangat membantu Anda dalam melakukan managemen jaringan. Pada training Network Programming, anda akan membuat program jaringan yang dapat menerima dan mengirim suatu informasi dengan menggunakan bahasa Python.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 3.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 3.000.000",
+        "amount": 3000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 2.500.000",
+        "amount": 2500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000",
+        "source_text": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Peserta sudah harus paham Network Basic seperti Subnetting, IP Address, SSH",
+      "Peserta paham sedikit-sedikit tentang Cisco"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/network-programming/",
+        "source_section": "Syarat Mengikuti Training",
+        "source_text": "Syarat Mengikuti Training Peserta sudah harus paham Network Basic seperti Subnetting, IP Address, SSH Peserta paham sedikit-sedikit tentang Cisco",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Network Programming di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Training Network Programming bersifat practical, Peserta Training akan banyak sekali membuat script-script python secara langsung. Peserta akan join ke grub telegram Network Programming IDN setelah mengikuti training. Dengan demikian Peserta bisa saling sharing tentang penggunaan Network Programming di environtment masing-masing. Peserta juga akan mendapatkan pengetahuan dasar tentang Linux Ubuntu Kelebihan dari Training Network Programming di IDN adalah bahwa materinya akan langsung membahas penggunaan Programming untuk melakukan Automation pada jaringan. Tidak akan ada teori-teori tentang programming yang terkesan sulit dan membosankan. Training akan membahas beberapa basic tentang Programminng menggunakan Python dan selanjutnya peserta akan langsung belajar membuat aplikasi untuk melakukan Network Automation Biaya Training TERMURAH Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung Peserta akan bergabung dengan komunitas IDN sehingga bisa bertanya dengan bebas jika ada kesulitan dalam memahami materi Network Programming",
+      "items": [
+        "Training Network Programming bersifat practical, Peserta Training akan banyak sekali membuat script-script python secara langsung.",
+        "Peserta akan join ke grub telegram Network Programming IDN setelah mengikuti training. Dengan demikian Peserta bisa saling sharing tentang penggunaan Network Programming di environtment masing-masing.",
+        "Peserta juga akan mendapatkan pengetahuan dasar tentang Linux Ubuntu",
+        "Kelebihan dari Training Network Programming di IDN adalah bahwa materinya akan langsung membahas penggunaan Programming untuk melakukan Automation pada jaringan. Tidak akan ada teori-teori tentang programming yang terkesan sulit dan membosankan.",
+        "Training akan membahas beberapa basic tentang Programminng menggunakan Python dan selanjutnya peserta akan langsung belajar membuat aplikasi untuk melakukan Network Automation",
+        "Biaya Training TERMURAH",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+        "Peserta akan bergabung dengan komunitas IDN sehingga bisa bertanya dengan bebas jika ada kesulitan dalam memahami materi Network Programming"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Saat ini, digital bisnis berkembang dengan sangat pesat, dan diantara seluruh digital bisnis yang ada, siapapun yang bisa mendilever produk dengan lebih cepat, dialah yang menang. Sebelum ada network automation, kita perlu melakukan semuanya secara manual dan memerlukan koordinasi yang rumit. Namun sekarang, kita bisa menggunakan network automation tool untuk melakukan pekerjaan-pekerjaan yang rumit tersebut, sehingga pekerjaan bisa terselesaikan dengan jauh lebih cepat. Training Network Programming di IDN akan mengajarkan Anda untuk membuat script-script/aplikasi sederhana menggunakan Python untuk melakukan Automasi terhadap jaringan Anda, Sehingga bisa sangat membantu Anda dalam melakukan managemen jaringan. Pada training Network Programming, anda akan membuat program jaringan yang dapat menerima dan mengirim suatu informasi dengan menggunakan bahasa Python.",
+      "items": []
+    },
+    {
+      "heading": "Syarat Mengikuti Training",
+      "semantic_type": "PREREQUISITES",
+      "content": "Peserta sudah harus paham Network Basic seperti Subnetting, IP Address, SSH Peserta paham sedikit-sedikit tentang Cisco",
+      "items": [
+        "Peserta sudah harus paham Network Basic seperti Subnetting, IP Address, SSH",
+        "Peserta paham sedikit-sedikit tentang Cisco"
+      ]
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Keren, training baru buat update networking” “Pemaparan materi yang diberikan sangat baik, penuh rasa sabar terhadap peserta yang kurang memahami bahkan jika peserta terlambat di berikan penjelasan ulang secara sabar. terima kasih” “Materi yang diberikan sangat membantu dan dapat di aplikasi dalam pekerjaan di bidang saya” Curriculum Hari Ke-1 : Python Introduction Data Types Control Flow Function File Operations Regular Expressions Hari Ke-2 : Python for Network Engineer (1) Telnetlib Telnet and Looping Telnet and File Operation Paramiko Paramiko File Operation Paramiko and CSV Templating Using Jinja2 Hari Ke-3 : Python For Network Engineer (2) Netmiko Netmiko Looping Netmiko and CSV Netmiko and YAML Configure IP Address Using Netmiko and YAML Automatically Configure OSPF Using Netmiko, YAML, and Jinja2 Hari Ke-4 : Python Project, Build Application Gather Basic Info Using Paramiko and Regex Export Basic Info From Router to Excel Gather Router Info Using NAPALM Export Info From NAPALM to Excel Configure IP Address Automatically Using Ansible Configure OSPF Automatically Using Ansible",
+      "items": [
+        {
+          "title": "Curriculum",
+          "items": [
+            "Data Types",
+            "Control Flow",
+            "Function",
+            "File Operations",
+            "Regular Expressions",
+            "Telnetlib",
+            "Telnet and Looping",
+            "Telnet and File Operation",
+            "Paramiko",
+            "Paramiko File Operation",
+            "Paramiko and CSV",
+            "Templating Using Jinja2",
+            "Netmiko",
+            "Netmiko Looping",
+            "Netmiko and CSV",
+            "Netmiko and YAML",
+            "Configure IP Address Using Netmiko and YAML Automatically",
+            "Configure OSPF Using Netmiko, YAML, and Jinja2",
+            "Gather Basic Info Using Paramiko and Regex",
+            "Export Basic Info From Router to Excel",
+            "Gather Router Info Using NAPALM",
+            "Export Info From NAPALM to Excel",
+            "Configure IP Address Automatically Using Ansible",
+            "Configure OSPF Automatically Using Ansible"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000 Rp 2.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "NO_CURRICULUM",
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 6,
+    "fields_not_found": 10,
+    "coverage": 0.375
+  },
+  "metadata": {
+    "registry_name": "Network Programming",
+    "content_hash": "d823bce14a60af8a8245cc83b816dbb2adfb6ff384eda61dddec88974912e60f",
+    "template_type": "BETTERDOCS"
+  }
+}

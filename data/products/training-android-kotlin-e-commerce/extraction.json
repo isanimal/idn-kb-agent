@@ -1,0 +1,14 @@
+{
+  "training_source_id": 23,
+  "canonical_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "f7f9356c52b7fd6ba9de77295f10629d5208a2bf350bf0d604559ca17980be55",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:21.760195+00:00",
+  "facts_path": "data\\products\\training-android-kotlin-e-commerce\\facts.json",
+  "evidence_path": "data\\products\\training-android-kotlin-e-commerce\\evidence.json",
+  "raw_snapshot_path": "data\\products\\training-android-kotlin-e-commerce\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 72,
+  "canonical_url": "https://www.idn.id/training/ekahau-training/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "fda0261c9b11c7ac111db7d46f41e1ffec18703d8a098057584a0424116cfcae",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:53.217931+00:00",
+  "facts_path": "data\\products\\ekahau-training\\facts.json",
+  "evidence_path": "data\\products\\ekahau-training\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ekahau-training\\raw.html",
+  "last_error": null
+}

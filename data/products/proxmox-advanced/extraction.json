@@ -1,0 +1,14 @@
+{
+  "training_source_id": 76,
+  "canonical_url": "https://www.idn.id/training/proxmox-advanced/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "c530af2e8f84717791d5394e78cc7c4c3fa8e50f48f0d06b344a6c04efa3b5e7",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:55.885608+00:00",
+  "facts_path": "data\\products\\proxmox-advanced\\facts.json",
+  "evidence_path": "data\\products\\proxmox-advanced\\evidence.json",
+  "raw_snapshot_path": "data\\products\\proxmox-advanced\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 65,
+  "canonical_url": "https://www.idn.id/training/web-development/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "72397c844e8f069d4eb4d2d256892de57d13535fe313ad19f523628954d3eb6c",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:48.802348+00:00",
+  "facts_path": "data\\products\\web-development\\facts.json",
+  "evidence_path": "data\\products\\web-development\\evidence.json",
+  "raw_snapshot_path": "data\\products\\web-development\\raw.html",
+  "last_error": null
+}

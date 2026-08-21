@@ -1,0 +1,328 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "CHFI (Computer Hacking Forensic Investigator)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/chfi/",
+          "source_section": "Page title",
+          "source_text": "CHFI (Computer Hacking Forensic Investigator)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "EC-Council",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/chfi/",
+          "source_section": "Training registry",
+          "source_text": "EC-Council",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/chfi/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/chfi/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/chfi/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp. 21.000.000",
+        "amount": 21000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp. 18.000.000",
+        "amount": 18000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Biaya Investasi : Rp. 21.000.000 Rp. 18.000.000",
+        "source_text": "Biaya Investasi : Rp. 21.000.000 Rp. 18.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Module 01: Computer Forensics in Today’s World",
+      "Module 02: Computer Forensics Investigation Process",
+      "Module 03: Understanding Hard Disks and File Systems",
+      "Module 04: Data Acquisition and Duplication",
+      "Module 05: Defeating Anti-Forensics Techniques",
+      "Module 06: Windows Forensics",
+      "Module 07: Linux and Mac Forensics",
+      "Module 08: Network Forensics",
+      "Module 09: Malware Forensics",
+      "Module 10: Investigating Web Attacks",
+      "Module 11: Dark Web Forensics",
+      "Module 12: Cloud Forensics",
+      "Module 13: Email and Social Media Forensics",
+      "Module 14: Mobile Forensics",
+      "Module 15: IoT Forensics"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Module 01: Computer Forensics in Today’s World Module 02: Computer Forensics Investigation Process Module 03: Understanding Hard Disks and File Systems Module 04: Data Acquisition and Duplication Module 05: Defeating Anti-Forensics Techniques Module 06: Windows Forensics Module 07: Linux and Mac Forensics Module 08: Network Forensics Module 09: Malware Forensics Module 10: Investigating Web Attacks Module 11: Dark Web Forensics Module 12: Cloud Forensics Module 13: Email and Social Media Forensics Module 14: Mobile Forensics Module 15: IoT Forensics",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/chfi/",
+        "source_section": "Fasilitas Training",
+        "source_text": "Fasilitas Training Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training dan mempelajari CHFI (Computer Hacking Forensic Investigator)?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Berikut adalah beberapa alasan penting untuk mempelajari pelatihan CHFI (Computer Hacking Forensic Investigator): Krisis Keamanan Siber yang Meningkat : Dengan meningkatnya ancaman siber, organisasi semakin membutuhkan profesional yang terampil dalam investigasi forensik untuk menangani dan menganalisis insiden keamanan. CHFI memberikan keterampilan yang diperlukan untuk menghadapinya. Permintaan Tinggi untuk Profesional Forensik Digital : Seiring dengan pertumbuhan industri cybersecurity, permintaan akan profesional yang terlatih dalam investigasi forensik semakin tinggi. Sertifikasi CHFI diakui secara luas di pasar kerja dan dapat meningkatkan peluang karir Anda. Pemahaman Mendalam tentang Mencegah dan Menangani Kejahatan Digital : Pelatihan ini tidak hanya mengajarkan teknik forensik, tetapi juga membekali Anda dengan pemahaman tentang bagaimana mencegah, mendeteksi, dan merespons insiden siber. Keterampilan Praktis dan Relevan : Anda akan belajar melakukan investigasi dari awal hingga akhir, termasuk pengumpulan bukti, analisis, dan pelaporan. Keterampilan ini sangat relevan dengan kebutuhan industri saat ini. Sertifikasi yang Diakui Secara Internasional : Mendapatkan sertifikasi CHFI menunjukkan kepada calon pemberi kerja bahwa Anda telah memenuhi standar kemampuan tertentu dalam bidang investigasi forensik. Ini dapat membedakan Anda dari pelamar lain di pasar pekerjaan yang kompetitif. Kesiapan Menghadapi Proses Hukum : Pelatihan ini juga mencakup aspek hukum dan etika yang penting dalam investigasi forensik, sehingga Anda akan siap untuk bekerja sama dengan penegak hukum dan memberikan kesaksian dalam konteks hukum jika diperlukan. Pengembangan Jaringan Profesional : Mempelajari CHFI memberi Anda kesempatan untuk bertemu dengan profesional lain di bidang keamanan siber. Ini bisa menjadi jaringan yang berharga untuk membangun kerjasama dan peluang karir di masa depan. Keterampilan Multidisipliner : Forensik digital melibatkan banyak disiplin ilmu, termasuk teknologi informasi, hukum, dan keamanan. Mempelajari CHFI akan memperluas pengetahuan Anda dalam bidang-bidang ini dan memberikan keunggulan kompetitif. Menjadi Aset Penting bagi Organisasi : Dengan keterampilan dalam investigasi forensik, Anda dapat menjadi aset yang berharga bagi perusahaan yang mencari untuk melindungi data mereka dan menyelesaikan masalah keamanan yang terjadi. Tetap Terupdate dengan Tren dan Ancaman : Program pelatihan ini biasanya mengadaptasi kurikulum yang sesuai dengan tren terbaru dalam keamanan siber, sehingga Anda tetap relevan dengan pengetahuan yang diperlukan untuk menghadapi tantangan di masa depan. Dengan berbagai alasan tersebut, mempelajari training CHFI adalah investasi yang bernilai untuk pengembangan karir Anda di bidang keamanan siber dan forensik digital.",
+      "items": [
+        "Krisis Keamanan Siber yang Meningkat : Dengan meningkatnya ancaman siber, organisasi semakin membutuhkan profesional yang terampil dalam investigasi forensik untuk menangani dan menganalisis insiden keamanan. CHFI memberikan keterampilan yang diperlukan untuk menghadapinya.",
+        "Permintaan Tinggi untuk Profesional Forensik Digital : Seiring dengan pertumbuhan industri cybersecurity, permintaan akan profesional yang terlatih dalam investigasi forensik semakin tinggi. Sertifikasi CHFI diakui secara luas di pasar kerja dan dapat meningkatkan peluang karir Anda.",
+        "Pemahaman Mendalam tentang Mencegah dan Menangani Kejahatan Digital : Pelatihan ini tidak hanya mengajarkan teknik forensik, tetapi juga membekali Anda dengan pemahaman tentang bagaimana mencegah, mendeteksi, dan merespons insiden siber.",
+        "Keterampilan Praktis dan Relevan : Anda akan belajar melakukan investigasi dari awal hingga akhir, termasuk pengumpulan bukti, analisis, dan pelaporan. Keterampilan ini sangat relevan dengan kebutuhan industri saat ini.",
+        "Sertifikasi yang Diakui Secara Internasional : Mendapatkan sertifikasi CHFI menunjukkan kepada calon pemberi kerja bahwa Anda telah memenuhi standar kemampuan tertentu dalam bidang investigasi forensik. Ini dapat membedakan Anda dari pelamar lain di pasar pekerjaan yang kompetitif.",
+        "Kesiapan Menghadapi Proses Hukum : Pelatihan ini juga mencakup aspek hukum dan etika yang penting dalam investigasi forensik, sehingga Anda akan siap untuk bekerja sama dengan penegak hukum dan memberikan kesaksian dalam konteks hukum jika diperlukan.",
+        "Pengembangan Jaringan Profesional : Mempelajari CHFI memberi Anda kesempatan untuk bertemu dengan profesional lain di bidang keamanan siber. Ini bisa menjadi jaringan yang berharga untuk membangun kerjasama dan peluang karir di masa depan.",
+        "Keterampilan Multidisipliner : Forensik digital melibatkan banyak disiplin ilmu, termasuk teknologi informasi, hukum, dan keamanan. Mempelajari CHFI akan memperluas pengetahuan Anda dalam bidang-bidang ini dan memberikan keunggulan kompetitif.",
+        "Menjadi Aset Penting bagi Organisasi : Dengan keterampilan dalam investigasi forensik, Anda dapat menjadi aset yang berharga bagi perusahaan yang mencari untuk melindungi data mereka dan menyelesaikan masalah keamanan yang terjadi.",
+        "Tetap Terupdate dengan Tren dan Ancaman : Program pelatihan ini biasanya mengadaptasi kurikulum yang sesuai dengan tren terbaru dalam keamanan siber, sehingga Anda tetap relevan dengan pengetahuan yang diperlukan untuk menghadapi tantangan di masa depan."
+      ]
+    },
+    {
+      "heading": "Fasilitas Training",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "FREE Mengulang Training Sebanyak 2 kali",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+      "items": [
+        "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 01: Computer Forensics in Today’s World Module 02: Computer Forensics Investigation Process Module 03: Understanding Hard Disks and File Systems Module 04: Data Acquisition and Duplication Module 05: Defeating Anti-Forensics Techniques Module 06: Windows Forensics Module 07: Linux and Mac Forensics Module 08: Network Forensics Module 09: Malware Forensics Module 10: Investigating Web Attacks Module 11: Dark Web Forensics Module 12: Cloud Forensics Module 13: Email and Social Media Forensics Module 14: Mobile Forensics Module 15: IoT Forensics",
+      "items": [
+        "Module 01: Computer Forensics in Today’s World",
+        "Module 02: Computer Forensics Investigation Process",
+        "Module 03: Understanding Hard Disks and File Systems",
+        "Module 04: Data Acquisition and Duplication",
+        "Module 05: Defeating Anti-Forensics Techniques",
+        "Module 06: Windows Forensics",
+        "Module 07: Linux and Mac Forensics",
+        "Module 08: Network Forensics",
+        "Module 09: Malware Forensics",
+        "Module 10: Investigating Web Attacks",
+        "Module 11: Dark Web Forensics",
+        "Module 12: Cloud Forensics",
+        "Module 13: Email and Social Media Forensics",
+        "Module 14: Mobile Forensics",
+        "Module 15: IoT Forensics"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp. 21.000.000 Rp. 18.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "CHFI (Computer Hacking Forensic Investigator)",
+    "content_hash": "2c19de157ffeb5ab1f2d42d8a9a2fe91e1cf40be89635c6b0b2b4de32579a43b",
+    "template_type": "BETTERDOCS"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training iOS lanjutan merupakan training yang berisikan lanjutan dari materi iOS dasar untuk mendalami pengembangan pemrograman iOS. Materi yang ada lebih ke kompleksitas sebuah aplikasi iOS. Bahasa pemrograman yang digunakan masih sama dengan yang dasar yaitu Swift. Syarat untuk bisa training iOS lanjutan : Memahami dasar bahasa pemrograman swift Semangat belajar pemrograman swift",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "Waktu Training",
+      "source_text": "Waktu Training 4 hari *full day : Jam 09.00 – 17.00 WIB",
+      "confidence": 1.0
+    },
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Membuat Aplikasi Restoran Membuat Web Service dengan Code Igniter Membuat Database dan Table di MySQL Testing Web Service menggunakan Postman Install pod AlamofireSwiftyJSON Menampilkan data dengan Custom Table View Konfigurasi Navigation Controller Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Mengatur session dengan UserDefaults Membuat fungsi Login user Membuat fungsi Register user Membuat Aplikasi Data Peserta Training Konfigurasi Core Data Mengatur Entity di Core Data Menampilkan data dengan Custom Table View Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Membuat fungsi pencarian data Firebase & Admob Install pod Firebase dan Admob Konfigurasi Realtime Database Menampilkan data dengan Simple Table View Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Konfigurasi Admob Menampilkan Iklan di aplikasi MapKit Menentukan lokasi dengan latitude dan longitude Konfigurasi GPS Menentukan lokasi awal dan tujuan Memberi jalur/polyline dari lokasi awal dan tujuan Menghitung jarak dan waktu dari lokasi awal dan tujuan",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Bisa mencustom UI sesuai dengan kebutuhan -> custom alert, custom seque (pindah halaman) Bisa menampilkan notification dari local dan notification dari server menggunakan firebase Bisa membuat navigation drawer untuk menampilkan menu di iphone Bisa membuat slide Image Bisa capture gambar dari camera dan gallery Bisa membuat aplikasi e-commerce sederhana dengan web server PHP Bisa membuat route menggunakan google maps Bisa menghitung jarak lokasi awal dan tujuan dengan google maps Bisa search location menggunakan google places",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/ios-lanjutan/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Asadullah Al Hamasy (ATC android certified application developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Page title",
+        "source_text": "IOS Intermediate",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Training registry",
+        "source_text": "IOS",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/ios-lanjutan/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

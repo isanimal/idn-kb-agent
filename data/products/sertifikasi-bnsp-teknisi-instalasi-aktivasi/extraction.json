@@ -1,0 +1,14 @@
+{
+  "training_source_id": 94,
+  "canonical_url": "https://www.idn.id/training/sertifikasi-bnsp-teknisi-instalasi-aktivasi/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "a2679ea59a1fd334851dbe1de928f5b8c53f54071d9a6b3139ac5ba7fd78bdef",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:06.359513+00:00",
+  "facts_path": "data\\products\\sertifikasi-bnsp-teknisi-instalasi-aktivasi\\facts.json",
+  "evidence_path": "data\\products\\sertifikasi-bnsp-teknisi-instalasi-aktivasi\\evidence.json",
+  "raw_snapshot_path": "data\\products\\sertifikasi-bnsp-teknisi-instalasi-aktivasi\\raw.html",
+  "last_error": null
+}

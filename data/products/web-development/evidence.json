@@ -1,0 +1,102 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Pemrograman Web merupakan istilah yang erat kaitannya dengan internet dan website . Memang benar, karena pemrograman web merupakan suatu proses pembuatan website untuk keperluan internet. Orang banyak mengenal web dengan istilah WWW atau World Wide Web . World Wide Web adalah halaman-halaman website yang terkoneksi satu dengan lainnya atau disebut juga dengan hyperlink yang membentuk samudera informasi yang berjalan dengan protokol HyperText Transfer Protocol (HTTP). Dalam semua ilmu tentang pemrograman baik itu desktop , mobile, game maupun software atau aplikasi lainnya pasti selalu ada bahasa-bahasa pemrograman yang digunakan untuk membuat aplikasi tersebut yang berisi statement-statement , perintah, atau pun fungsi agar aplikasi yang dibuat sesuai dengan apa yang telah didesain oleh si programmer . Oleh karena itu pemrograman web pun memiliki banyak bahasa yang digunakan. Adapun dalam training web development di ID-Networkers bahasa pemrograman yang digunakan adalah PHP dengan rincian sbb: Framework : Codeigniter 3 / Bootstrap Bahasa Pemrograman : PHP 7 Database : MySQL (XAMPP) Code Editor : Visual Studio Code / Sublime Text",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum Pengenalan codeigniter Persiapan dan Instalasi Konsep MVC Controller Model View Helpers dan Library Login dan Register Session CRUD ⁃ Swetalert ⁃ Toastr ⁃ Data tables ⁃ Form Validation ⁃ Select 2 SB Admin 2 MySQL Studi kasus : catet (aplikasi managemen keuangan keluarga) Deploy ke shared hosting",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan dalam proses pemrograman web Memahami dasar-dasar pemrograman web dapat memahami bahasa pemrograman PHP Peserta dapat membuat project website sendiri secara mandiri",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training Sertifikat Kaos Modul Goodie Bag, Notebook, dll",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Fahmi Nuradi (Google Certified & Web Developer) Nurfiah Bin Sutarwo (Web Developer, Mobile Developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/web-development/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training Sertifikat Kaos Modul Goodie Bag",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/web-development/",
+        "source_section": "Page title",
+        "source_text": "Pemrograman Web Codeigniter",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/web-development/",
+        "source_section": "Training registry",
+        "source_text": "Pemrograman Web",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/web-development/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/web-development/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

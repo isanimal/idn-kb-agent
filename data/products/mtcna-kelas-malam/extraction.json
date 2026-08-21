@@ -1,0 +1,14 @@
+{
+  "training_source_id": 8,
+  "canonical_url": "https://www.idn.id/training/mtcna-kelas-malam/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "b8922337e288c7263b744023b2c22600770dff4df09a1b5e49ca6c9de3a63ccf",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:11.578679+00:00",
+  "facts_path": "data\\products\\mtcna-kelas-malam\\facts.json",
+  "evidence_path": "data\\products\\mtcna-kelas-malam\\evidence.json",
+  "raw_snapshot_path": "data\\products\\mtcna-kelas-malam\\raw.html",
+  "last_error": null
+}

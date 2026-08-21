@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien. Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Mengapa demikian ? Karena Laravel memberikan seperangkat alat dan sumber daya untuk membangun aplikasi berbasis PHP. Laravel memiliki ekosistem yang lengkap didukung oleh package dan ekstensi yang kompatibel. Laravel telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. Hal ini juga ditunjukan dengan semakin besarnya minat developer untuk menggunakan framework Laravel karena dapat menyederhanakan pengembangan aplikasi. Framework Laravel memiliki fitur yang kaya karena merupakan gabungan fitur dasar beberapa framework PHP populer seperti CodeIgniter, Yii, dan Ruby on Rails. Jika kamu sebelumnya sudah familiar dengan Core PHP atau Advance PHP, Laravel akan membuat proses pengembangan aplikasi web lebih efektif dan efisien, selain itu Laravel juga lebih aman dari berbagai jenis ancaman siber.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum Introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views) Blade & MVC Architecture blade template engine create simple model create simple views create simple controller Routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix) Database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship Simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link manage authentication simple multiple level user create middleware for user access",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag, Notebook, dll pemberitahuan lowongan kerja kepada peserta Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Asadullah Al Hamasy, S.Kom (ATC android certified application developer) Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer) Fahmi Nuradi, S.Kom (Google Certified & Web Developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Page title",
+        "source_text": "Pemrograman Web Laravel",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Training registry",
+        "source_text": "Pemrograman Web",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

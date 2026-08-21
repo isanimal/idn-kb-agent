@@ -1,0 +1,14 @@
+{
+  "training_source_id": 31,
+  "canonical_url": "https://www.idn.id/training/network-programming/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "d823bce14a60af8a8245cc83b816dbb2adfb6ff384eda61dddec88974912e60f",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:27.235687+00:00",
+  "facts_path": "data\\products\\network-programming\\facts.json",
+  "evidence_path": "data\\products\\network-programming\\evidence.json",
+  "raw_snapshot_path": "data\\products\\network-programming\\raw.html",
+  "last_error": null
+}

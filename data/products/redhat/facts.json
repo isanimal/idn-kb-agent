@@ -1,0 +1,393 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "RedHat System Administration",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/redhat/",
+          "source_section": "Page title",
+          "source_text": "RedHat System Administration",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "System Admin",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/redhat/",
+          "source_section": "Training registry",
+          "source_text": "System Admin",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/redhat/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/redhat/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/redhat/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Red Hat adalah salah satu distro linux enterprise terbaik yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training Red Hat, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Red Hat Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. Training Red Hat Linux di IDN merupakan training Red Hat non-authorized, akan tetapi peserta tetap akan mendapatkan ilmu yang bisa digunakan nantinya untuk mengambil ujian RHCSA maupun RHCE. NOTE: Jika masih pemula di bidang linux, disarankan untuk mengikuti training linux fundamentals terlebih dahulu. >>> https://www.idn.id/training/linux-fundamentals/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Red Hat adalah salah satu distro linux enterprise terbaik yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training Red Hat, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Red Hat Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. Training Red Hat Linux di IDN merupakan training Red Hat non-authorized, akan tetapi peserta tetap akan mendapatkan ilmu yang bisa digunakan nantinya untuk mengambil ujian RHCSA maupun RHCE. NOTE: Jika masih pemula di bidang linux, disarankan untuk mengikuti training linux fundamentals terlebih dahulu. >>> https://www.idn.id/training/linux-fundamentals/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Registration",
+        "items": [
+          "Lab 1 Register account",
+          "Lab 2 Request Subscription Trial",
+          "Lab 1 Install Red Hat",
+          "Lab 1 Configuration Basic Settings",
+          "Lab 2 Assessment Server",
+          "Lab 3 File Management",
+          "Lab 4 Folder Management",
+          "Lab 5 User & Group Management",
+          "Lab 6 File System Hierarchy",
+          "Lab 7 File & Folder Permission",
+          "Lab 1 Setting IP Static",
+          "Lab 1 Registering Subscription",
+          "Lab 2 Manage Repository",
+          "Lab 3 Remove Subscription",
+          "Lab 1 Checking Update System",
+          "Lab 2: Update System",
+          "Lab 3 Management Paket",
+          "Mode SELinux",
+          "Lab 1 Mengubah izin SELinux",
+          "Lab 2 Semanage Port",
+          "Lab 3 Semanage fcontext",
+          "Lab 4 Semanage boolean",
+          "Lab 5 Restorecon",
+          "Lab 1 Skenario SCP",
+          "Lab 1 Skenario Cron Jobs",
+          "BIND9/BIND",
+          "Lab 1 Konfigurasi BIND",
+          "Lab 2 Konfigurasi Server Slave BIND",
+          "Lab 3 Konfigurasi Multi-Master DNS",
+          "Lab 1 Konfigurasi Web Service (NGINX)",
+          "Lab 2 Konfigurasi SSL",
+          "Lab 3 Konfigurasi CA (Certification Authorities)",
+          "Lab 4 Konfigurasi Vhost",
+          "Lab 1 Konfigurasi Database",
+          "Lab 2 Konfigurasi PHPMyAdmin",
+          "Lab 3 Konfigurasi Replication (Galera Cluster)",
+          "Lab 1 Install & Konfigurasi Load Balance Nginx",
+          "Lab 2 Konfigurasi ssl di Load Balance",
+          "Lab Konfigurasi LVM"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Registration Lab 1 Register account Lab 2 Request Subscription Trial Installation Lab 1 Install Red Hat Red Hat Linux Fundamental Lab 1 Configuration Basic Settings Lab 2 Assessment Server Lab 3 File Management Lab 4 Folder Management Lab 5 User & Group Management Lab 6 File System Hierarchy Lab 7 File & Folder Permission Network Setting Lab 1 Setting IP Static Subscription Lab 1 Registering Subscription Lab 2 Manage Repository Lab 3 Remove Subscription Packet Management Lab 1 Checking Update System Lab 2: Update System Lab 3 Management Paket Selinux Mode SELinux Lab 1 Mengubah izin SELinux Lab 2 Semanage Port Lab 3 Semanage fcontext Lab 4 Semanage boolean Lab 5 Restorecon File Transfer Lab 1 Skenario SCP Cronjob Lab 1 Skenario Cron Jobs DNS Services BIND9/BIND Lab 1 Konfigurasi BIND Lab 2 Konfigurasi Server Slave BIND Lab 3 Konfigurasi Multi-Master DNS Web Service Lab 1 Konfigurasi Web Service (NGINX) Lab 2 Konfigurasi SSL Lab 3 Konfigurasi CA (Certification Authorities) Lab 4 Konfigurasi Vhost Database Service Lab 1 Konfigurasi Database Lab 2 Konfigurasi PHPMyAdmin Lab 3 Konfigurasi Replication (Galera Cluster) Load Balance Lab 1 Install & Konfigurasi Load Balance Nginx Lab 2 Konfigurasi ssl di Load Balance LVM/Storage Lab Konfigurasi LVM Podman Lab 1 Installation Podman Lab 2 install Nginx on Podman",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi server dengan system operasi Red Hat Linux Server.",
+      "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Red Hat Linux Server.",
+      "Peserta juga akan bergabung di grup WhatsApp Training Red Hat. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Red Hat Linux Server.",
+      "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi server dengan system operasi Red Hat Linux Server. Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Red Hat Linux Server. Peserta juga akan bergabung di grup WhatsApp Training Red Hat. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Red Hat Linux Server. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+      "AJi Mufti Zakaria (COA, CKA)",
+      "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, CKS, LINUX +, Microsoft Certified Trainer)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, CKS, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Redhat di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Biaya murah dibanding tempat training yang lain Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri",
+      "items": [
+        "Biaya murah dibanding tempat training yang lain",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Red Hat adalah salah satu distro linux enterprise terbaik yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training Red Hat, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Red Hat Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. Training Red Hat Linux di IDN merupakan training Red Hat non-authorized, akan tetapi peserta tetap akan mendapatkan ilmu yang bisa digunakan nantinya untuk mengambil ujian RHCSA maupun RHCE. NOTE: Jika masih pemula di bidang linux, disarankan untuk mengikuti training linux fundamentals terlebih dahulu. >>> https://www.idn.id/training/linux-fundamentals/",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi server dengan system operasi Red Hat Linux Server. Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Red Hat Linux Server. Peserta juga akan bergabung di grup WhatsApp Training Red Hat. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Red Hat Linux Server. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "items": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi server dengan system operasi Red Hat Linux Server.",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Red Hat Linux Server.",
+        "Peserta juga akan bergabung di grup WhatsApp Training Red Hat. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Red Hat Linux Server.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, CKS, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert)",
+        "AJi Mufti Zakaria (COA, CKA)",
+        "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, CKS, LINUX +, Microsoft Certified Trainer)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Banyak tahu sebelumnya tidak sebanyak ini, fast respon saat ditanya peserta, tempat trainingnya nyaman, dan fasilitas lengkap, makan siang enak “, Zulkifli “infonya materi yg disampaikan bagus dan yg ikut training banyak yg lulus sertifikasi”, Iqbal Anggalarang “trainer santai di selingi2 candaan membuat training menyenangkan cara penyampaian mudah di mengerti”, Ferry Setiawan",
+      "items": []
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Registration Lab 1 Register account Lab 2 Request Subscription Trial Installation Lab 1 Install Red Hat Red Hat Linux Fundamental Lab 1 Configuration Basic Settings Lab 2 Assessment Server Lab 3 File Management Lab 4 Folder Management Lab 5 User & Group Management Lab 6 File System Hierarchy Lab 7 File & Folder Permission Network Setting Lab 1 Setting IP Static Subscription Lab 1 Registering Subscription Lab 2 Manage Repository Lab 3 Remove Subscription Packet Management Lab 1 Checking Update System Lab 2: Update System Lab 3 Management Paket Selinux Mode SELinux Lab 1 Mengubah izin SELinux Lab 2 Semanage Port Lab 3 Semanage fcontext Lab 4 Semanage boolean Lab 5 Restorecon File Transfer Lab 1 Skenario SCP Cronjob Lab 1 Skenario Cron Jobs DNS Services BIND9/BIND Lab 1 Konfigurasi BIND Lab 2 Konfigurasi Server Slave BIND Lab 3 Konfigurasi Multi-Master DNS Web Service Lab 1 Konfigurasi Web Service (NGINX) Lab 2 Konfigurasi SSL Lab 3 Konfigurasi CA (Certification Authorities) Lab 4 Konfigurasi Vhost Database Service Lab 1 Konfigurasi Database Lab 2 Konfigurasi PHPMyAdmin Lab 3 Konfigurasi Replication (Galera Cluster) Load Balance Lab 1 Install & Konfigurasi Load Balance Nginx Lab 2 Konfigurasi ssl di Load Balance LVM/Storage Lab Konfigurasi LVM Podman Lab 1 Installation Podman Lab 2 install Nginx on Podman",
+      "items": [
+        {
+          "title": "Registration",
+          "items": [
+            "Lab 1 Register account",
+            "Lab 2 Request Subscription Trial",
+            "Lab 1 Install Red Hat",
+            "Lab 1 Configuration Basic Settings",
+            "Lab 2 Assessment Server",
+            "Lab 3 File Management",
+            "Lab 4 Folder Management",
+            "Lab 5 User & Group Management",
+            "Lab 6 File System Hierarchy",
+            "Lab 7 File & Folder Permission",
+            "Lab 1 Setting IP Static",
+            "Lab 1 Registering Subscription",
+            "Lab 2 Manage Repository",
+            "Lab 3 Remove Subscription",
+            "Lab 1 Checking Update System",
+            "Lab 2: Update System",
+            "Lab 3 Management Paket",
+            "Mode SELinux",
+            "Lab 1 Mengubah izin SELinux",
+            "Lab 2 Semanage Port",
+            "Lab 3 Semanage fcontext",
+            "Lab 4 Semanage boolean",
+            "Lab 5 Restorecon",
+            "Lab 1 Skenario SCP",
+            "Lab 1 Skenario Cron Jobs",
+            "BIND9/BIND",
+            "Lab 1 Konfigurasi BIND",
+            "Lab 2 Konfigurasi Server Slave BIND",
+            "Lab 3 Konfigurasi Multi-Master DNS",
+            "Lab 1 Konfigurasi Web Service (NGINX)",
+            "Lab 2 Konfigurasi SSL",
+            "Lab 3 Konfigurasi CA (Certification Authorities)",
+            "Lab 4 Konfigurasi Vhost",
+            "Lab 1 Konfigurasi Database",
+            "Lab 2 Konfigurasi PHPMyAdmin",
+            "Lab 3 Konfigurasi Replication (Galera Cluster)",
+            "Lab 1 Install & Konfigurasi Load Balance Nginx",
+            "Lab 2 Konfigurasi ssl di Load Balance",
+            "Lab Konfigurasi LVM"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "RedHat System Administration",
+    "content_hash": "a7fcf41970e18ea09ce1728c92beff5db557b48c94148b3d333bc8ea37e8bb44",
+    "template_type": "BETTERDOCS"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 35,
+  "canonical_url": "https://www.idn.id/training/fortinet-nse7/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "884e2f4448b2bc76642c798d8351eafda2ac3458398722019f844e4241675c70",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:29.878990+00:00",
+  "facts_path": "data\\products\\fortinet-nse7\\facts.json",
+  "evidence_path": "data\\products\\fortinet-nse7\\evidence.json",
+  "raw_snapshot_path": "data\\products\\fortinet-nse7\\raw.html",
+  "last_error": null
+}

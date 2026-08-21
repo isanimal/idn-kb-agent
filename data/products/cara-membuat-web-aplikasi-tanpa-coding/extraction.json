@@ -1,0 +1,14 @@
+{
+  "training_source_id": 88,
+  "canonical_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "c2a26036602bd16d26f6095ef9152138dafa0a90b05df0740b9ca17c5197e9f1",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:03.205463+00:00",
+  "facts_path": "data\\products\\cara-membuat-web-aplikasi-tanpa-coding\\facts.json",
+  "evidence_path": "data\\products\\cara-membuat-web-aplikasi-tanpa-coding\\evidence.json",
+  "raw_snapshot_path": "data\\products\\cara-membuat-web-aplikasi-tanpa-coding\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 74,
+  "canonical_url": "https://www.idn.id/training/palo-alto-ngfw/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "4562c91d2198c43698f53eca7896345a98ab49d15923a42fa4c89323bf5569f2",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:54.550965+00:00",
+  "facts_path": "data\\products\\palo-alto-ngfw\\facts.json",
+  "evidence_path": "data\\products\\palo-alto-ngfw\\evidence.json",
+  "raw_snapshot_path": "data\\products\\palo-alto-ngfw\\raw.html",
+  "last_error": null
+}

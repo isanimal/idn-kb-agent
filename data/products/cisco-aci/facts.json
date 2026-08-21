@@ -1,0 +1,268 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Cisco ACI for Data Center",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cisco-aci/",
+          "source_section": "Page title",
+          "source_text": "Cisco ACI for Data Center",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Cisco",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cisco-aci/",
+          "source_section": "Training registry",
+          "source_text": "Cisco",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/cisco-aci/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cisco-aci/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/cisco-aci/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kursus Implementing Cisco Application Centric Infrastructure (DCACI) akan memberikan gambaran kepada Anda cara menerapkan dan mengelola Switch Cisco® Nexus® 9000 Series dalam mode Cisco Application Centric Infrastructure (Cisco ACI®). Anda akan mempelajari cara mengonfigurasi dan mengelola Switch Cisco Nexus 9000 Series dalam mode ACI, cara menghubungkan Cisco ACI fabric ke jaringan dan layanan eksternal, dan dasar-dasar integrasi Virtual Machine Manager (VMM). Anda akan mendapatkan praktik langsung dalam mengimplementasikan kemampuan utama seperti fabric discovery, kebijakan, konektivitas, VMM integration, dan banyak lagi.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kursus Implementing Cisco Application Centric Infrastructure (DCACI) akan memberikan gambaran kepada Anda cara menerapkan dan mengelola Switch Cisco® Nexus® 9000 Series dalam mode Cisco Application Centric Infrastructure (Cisco ACI®). Anda akan mempelajari cara mengonfigurasi dan mengelola Switch Cisco Nexus 9000 Series dalam mode ACI, cara menghubungkan Cisco ACI fabric ke jaringan dan layanan eksternal, dan dasar-dasar integrasi Virtual Machine Manager (VMM). Anda akan mendapatkan praktik langsung dalam mengimplementasikan kemampuan utama seperti fabric discovery, kebijakan, konektivitas, VMM integration, dan banyak lagi.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.500.000",
+      "amount": 3500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Biaya Investasi : Rp 3.500.000,-",
+        "source_text": "Biaya Investasi : Rp 3.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Cisco ACI Architecture",
+      "Leaf-n-Spine Design",
+      "APIC Overview",
+      "Zero Touch Provisioning",
+      "Nexus Overview",
+      "Underlay & Overlay",
+      "Configure the Basics",
+      "Connecting VMware ESXi to Cisco ACI",
+      "Create Tenant, EPGs and Port Groups in APIC",
+      "Working with Contracts",
+      "Configuring Application Profile"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cisco-aci/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum ACI Basic Introduction Cisco ACI Cisco ACI Architecture Leaf-n-Spine Design APIC Overview Zero Touch Provisioning Nexus Overview Underlay & Overlay ACI Tenant Components Configure the Basics Connecting VMware ESXi to Cisco ACI Create Tenant, EPGs and Port Groups in APIC Working with Contracts Configuring Application Profile",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Cisco ACI for Data Center di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman implementasi Cisco ACI di berbagai perusahaan",
+      "items": [
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup",
+        "Biaya training murah dibanding tempat-tempat yang lain",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman implementasi Cisco ACI di berbagai perusahaan"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kursus Implementing Cisco Application Centric Infrastructure (DCACI) akan memberikan gambaran kepada Anda cara menerapkan dan mengelola Switch Cisco® Nexus® 9000 Series dalam mode Cisco Application Centric Infrastructure (Cisco ACI®). Anda akan mempelajari cara mengonfigurasi dan mengelola Switch Cisco Nexus 9000 Series dalam mode ACI, cara menghubungkan Cisco ACI fabric ke jaringan dan layanan eksternal, dan dasar-dasar integrasi Virtual Machine Manager (VMM). Anda akan mendapatkan praktik langsung dalam mengimplementasikan kemampuan utama seperti fabric discovery, kebijakan, konektivitas, VMM integration, dan banyak lagi.",
+      "items": []
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "ACI Basic Introduction Cisco ACI Cisco ACI Architecture Leaf-n-Spine Design APIC Overview Zero Touch Provisioning Nexus Overview Underlay & Overlay ACI Tenant Components Configure the Basics Connecting VMware ESXi to Cisco ACI Create Tenant, EPGs and Port Groups in APIC Working with Contracts Configuring Application Profile",
+      "items": [
+        "Cisco ACI Architecture",
+        "Leaf-n-Spine Design",
+        "APIC Overview",
+        "Zero Touch Provisioning",
+        "Nexus Overview",
+        "Underlay & Overlay",
+        "Configure the Basics",
+        "Connecting VMware ESXi to Cisco ACI",
+        "Create Tenant, EPGs and Port Groups in APIC",
+        "Working with Contracts",
+        "Configuring Application Profile"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 6,
+    "fields_not_found": 10,
+    "coverage": 0.375
+  },
+  "metadata": {
+    "registry_name": "Cisco ACI for Data Center",
+    "content_hash": "acf8dc69975a3a7bb2429e0835631c898ad9f0db3276654046aef5f8814687b7",
+    "template_type": "BETTERDOCS"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 40,
+  "canonical_url": "https://www.idn.id/training/ubiquiti-broadband-wireless-admin/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "8708c8844b8c9a7753fbfbe2000506e0c2ae8c49a081f4391ad1a6be37ff8275",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:32.876097+00:00",
+  "facts_path": "data\\products\\ubiquiti-broadband-wireless-admin\\facts.json",
+  "evidence_path": "data\\products\\ubiquiti-broadband-wireless-admin\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ubiquiti-broadband-wireless-admin\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Robotik + Internet of Things (IoT) merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan dengan perintah suara. Training ini dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam membangun serta mengembangkan sistem robotik modern yang terintegrasi dengan Internet of Things (IoT). Peserta akan belajar mulai dari dasar pemrograman mikrokontroler, sensor, aktuator, hingga cara menghubungkan perangkat ke jaringan internet untuk mengontrol dan memantau robot secara real-time. Melalui pendekatan praktik langsung (hands-on project), peserta tidak hanya memahami teori, tetapi juga mampu menciptakan solusi inovatif berbasis robotik dan IoT yang relevan dengan kebutuhan industri, pendidikan, maupun kehidupan sehari-hari.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "Biaya Investasi : Rp 2.000.000,-",
+      "source_text": "Biaya Investasi : Rp 2.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM A. Mengenal Dasar IoT dan Arduino Memahami apa itu IoT Memahami apa itu Arduino Memahami instalasi rangkaian pada project board Installasi IDE arduino Pemrograman arduino B. Input-Output Arduino dan Sensor Menghidupkan dan mematikan LED Menghubungkan LED dan push button dengan arduino Menggunakan relay untuk on/off lampu rumah Sinyal analog, PWM, dan Baca-Tulis Sinyal Analog Menampilkan data dengan LCD Menggunakan sensor gerak (PIR) sebagai input sinyal digital Menggunakan sensor suhu (LM35) sebagai input sinyal analog C. Pengendalian Motor dan Komunikasi 12C Mengenal motor DC dan pengendaliannya Mengenal motor Servo dan pengendaliannya Mengenal motor Stepper dan pengendaliannya Mengenal komunikasi I2C Menggunakan LCD dengan modul I2C Menggunakan RTC (Real Time Clock) DS1307 D. Komunikasi Arduino dengan Internet Pengendalian modul WiFi ESP8266 dengan AT Command Mengenal Platform IoT Mengendalikan lampu via web Mengirim data ke web",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Menguasai materi yang tersedia di curriculum Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/robotik-iot/",
+      "source_section": "Fasilitas Peserta :",
+      "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Page title",
+        "source_text": "Robotik + IoT",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Training registry",
+        "source_text": "IOT & Robotik",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/robotik-iot/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/robotik-iot/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

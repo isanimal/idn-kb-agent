@@ -1,0 +1,326 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Fortigate Firewall Security (NSE 4)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortigate/",
+          "source_section": "Page title",
+          "source_text": "Fortigate Firewall Security (NSE 4)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Fortinet",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortigate/",
+          "source_section": "Training registry",
+          "source_text": "Fortinet",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/fortigate/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortigate/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/fortigate/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": [
+      "Knowledge of OSI layers",
+      "Knowledge of network protocols",
+      "Knowledge of firewall concepts in an IPv4 network",
+      "Basic understanding of firewall concepts"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortigate/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Saat ini salah satu skills yang sangat dibutuhkan oleh seorang network engineer adalah mengamankan jaringan yang sudah dia buat. bagaimana tidak dalam sebuah perusahaan pastinya ada banyak data-data penting dan server-server penting yang harus diamankan dari para orang-orang jail diluar sana. dan salah satu perangkat yang bisa menjadi solusi adalah Fortinet fortigate. Fortigate itu sendiri merupakan sebuah perangkat firewall yang dikeluarkan oleh perusahaan yang bernama fortinet. IDN membuka training untuk para network engineer yang ingin meningkatkan skills nya di dunia security dan networking, tentunya dengan materi yang up to date dan menyesuaikan trend technology saat ini. Di training fortigate firewall security IDN sendiri, kita akan belajar mengkonfigurasi perangkat, manajemen, monitoring dan tentunya troubleshoot. selain belajar hard skills kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Untuk Prerequisites mengikuti training ini peserta minimal paham beberapa knowledge dibawah ini : Knowledge of OSI layers Knowledge of network protocols Knowledge of firewall concepts in an IPv4 network Basic understanding of firewall concepts Bagi yang belum memahami Prerequisites diatas, bisa mengikuti pembelajarannya terlebih dahulu melalui materi jaringan dasar, gratis melalui link berikut: https://lms.idn.id/courses/jaringan-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortigate/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortigate/",
+        "source_section": "Biaya Investasi : Rp 3.000.000,-",
+        "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Introduction and Initial Configuration",
+      "Firewall Policies",
+      "Network Address Translation",
+      "Firewall Authentication",
+      "Logging and Monitoring",
+      "Certificate Operations",
+      "Web Filtering",
+      "Application Control",
+      "Antivirus",
+      "Intrusion Prevention and Denial of Service",
+      "Security Fabric"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortigate/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Introduction and Initial Configuration Firewall Policies Network Address Translation Firewall Authentication Logging and Monitoring Certificate Operations Web Filtering Application Control Antivirus Intrusion Prevention and Denial of Service Security Fabric",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Deploy the appropriate operation mode for your network",
+      "Use the GUI and CLI for administration",
+      "Control network access to configured networks using firewall policies",
+      "Apply port forwarding, source NAT, and destination NAT",
+      "Authenticate users using firewall policies",
+      "Understand encryption functions and certificates",
+      "Inspect SSL/TLS-secured traffic to prevent encryption used to bypass security policies",
+      "Configure security profiles to neutralize threats and misuse, including viruses, torrents, and inappropriate websites",
+      "Apply application control techniques to monitor and control network applications that might use standard or non-standard protocols and ports",
+      "Fight hacking and denial of service (DoS)",
+      "Collect and interpret log entries",
+      "Identify the characteristics of the Fortinet Security Fabric"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortigate/",
+        "source_section": "BENEFIT",
+        "source_text": "BENEFIT After completing this course, you will be able to: Deploy the appropriate operation mode for your network Use the GUI and CLI for administration Control network access to configured networks using firewall policies Apply port forwarding, source NAT, and destination NAT Authenticate users using firewall policies Understand encryption functions and certificates Inspect SSL/TLS-secured traffic to prevent encryption used to bypass security policies Configure security profiles to neutralize threats and misuse, including viruses, torrents, and inappropriate websites Apply application control techniques to monitor and control network applications that might use standard or non-standard protocols and ports Fight hacking and denial of service (DoS) Collect and interpret log entries Identify the characteristics of the Fortinet Security Fabric",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Ari Pangarso (NSE7)",
+      "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "Aditya Firman Nugroho (Security+, Pentest+, CySA+, MTCINE, NSE 4, eJPTv2)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortigate/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Ari Pangarso (NSE7) Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Aditya Firman Nugroho (Security+, Pentest+, CySA+, MTCINE, NSE 4, eJPTv2)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Saat ini salah satu skills yang sangat dibutuhkan oleh seorang network engineer adalah mengamankan jaringan yang sudah dia buat. bagaimana tidak dalam sebuah perusahaan pastinya ada banyak data-data penting dan server-server penting yang harus diamankan dari para orang-orang jail diluar sana. dan salah satu perangkat yang bisa menjadi solusi adalah Fortinet fortigate. Fortigate itu sendiri merupakan sebuah perangkat firewall yang dikeluarkan oleh perusahaan yang bernama fortinet. IDN membuka training untuk para network engineer yang ingin meningkatkan skills nya di dunia security dan networking, tentunya dengan materi yang up to date dan menyesuaikan trend technology saat ini. Di training fortigate firewall security IDN sendiri, kita akan belajar mengkonfigurasi perangkat, manajemen, monitoring dan tentunya troubleshoot. selain belajar hard skills kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Untuk Prerequisites mengikuti training ini peserta minimal paham beberapa knowledge dibawah ini : Knowledge of OSI layers Knowledge of network protocols Knowledge of firewall concepts in an IPv4 network Basic understanding of firewall concepts Bagi yang belum memahami Prerequisites diatas, bisa mengikuti pembelajarannya terlebih dahulu melalui materi jaringan dasar, gratis melalui link berikut: https://lms.idn.id/courses/jaringan-dasar/",
+      "items": [
+        "Knowledge of OSI layers",
+        "Knowledge of network protocols",
+        "Knowledge of firewall concepts in an IPv4 network",
+        "Basic understanding of firewall concepts"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Ari Pangarso (NSE7) Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Aditya Firman Nugroho (Security+, Pentest+, CySA+, MTCINE, NSE 4, eJPTv2)",
+      "items": [
+        "Ari Pangarso (NSE7)",
+        "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+        "Aditya Firman Nugroho (Security+, Pentest+, CySA+, MTCINE, NSE 4, eJPTv2)"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Introduction and Initial Configuration Firewall Policies Network Address Translation Firewall Authentication Logging and Monitoring Certificate Operations Web Filtering Application Control Antivirus Intrusion Prevention and Denial of Service Security Fabric",
+      "items": [
+        "Introduction and Initial Configuration",
+        "Firewall Policies",
+        "Network Address Translation",
+        "Firewall Authentication",
+        "Logging and Monitoring",
+        "Certificate Operations",
+        "Web Filtering",
+        "Application Control",
+        "Antivirus",
+        "Intrusion Prevention and Denial of Service",
+        "Security Fabric"
+      ]
+    },
+    {
+      "heading": "BENEFIT",
+      "semantic_type": "BENEFITS",
+      "content": "After completing this course, you will be able to: Deploy the appropriate operation mode for your network Use the GUI and CLI for administration Control network access to configured networks using firewall policies Apply port forwarding, source NAT, and destination NAT Authenticate users using firewall policies Understand encryption functions and certificates Inspect SSL/TLS-secured traffic to prevent encryption used to bypass security policies Configure security profiles to neutralize threats and misuse, including viruses, torrents, and inappropriate websites Apply application control techniques to monitor and control network applications that might use standard or non-standard protocols and ports Fight hacking and denial of service (DoS) Collect and interpret log entries Identify the characteristics of the Fortinet Security Fabric",
+      "items": [
+        "Deploy the appropriate operation mode for your network",
+        "Use the GUI and CLI for administration",
+        "Control network access to configured networks using firewall policies",
+        "Apply port forwarding, source NAT, and destination NAT",
+        "Authenticate users using firewall policies",
+        "Understand encryption functions and certificates",
+        "Inspect SSL/TLS-secured traffic to prevent encryption used to bypass security policies",
+        "Configure security profiles to neutralize threats and misuse, including viruses, torrents, and inappropriate websites",
+        "Apply application control techniques to monitor and control network applications that might use standard or non-standard protocols and ports",
+        "Fight hacking and denial of service (DoS)",
+        "Collect and interpret log entries",
+        "Identify the characteristics of the Fortinet Security Fabric"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Fortigate Firewall Security (NSE 4)",
+    "content_hash": "9c763f4705de174737d3e0da59012ed26b65555bf6982343d3e9923ef9611b3a",
+    "template_type": "BETTERDOCS"
+  }
+}

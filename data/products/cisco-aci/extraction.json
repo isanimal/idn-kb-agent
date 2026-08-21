@@ -1,0 +1,14 @@
+{
+  "training_source_id": 5,
+  "canonical_url": "https://www.idn.id/training/cisco-aci/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "acf8dc69975a3a7bb2429e0835631c898ad9f0db3276654046aef5f8814687b7",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:09.618812+00:00",
+  "facts_path": "data\\products\\cisco-aci\\facts.json",
+  "evidence_path": "data\\products\\cisco-aci\\evidence.json",
+  "raw_snapshot_path": "data\\products\\cisco-aci\\raw.html",
+  "last_error": null
+}

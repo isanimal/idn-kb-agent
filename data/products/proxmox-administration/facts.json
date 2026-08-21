@@ -1,0 +1,485 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Proxmox Administration",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/proxmox-administration/",
+          "source_section": "Page title",
+          "source_text": "Proxmox Administration",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Virtualization",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/proxmox-administration/",
+          "source_section": "Training registry",
+          "source_text": "Virtualization",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/proxmox-administration/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/proxmox-administration/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/proxmox-administration/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Selamat datang di Training Proxmox Basic, program yang dirancang khusus untuk membantu Anda memahami dan menguasai platform virtualisasi Proxmox VE. Dalam era digital yang terus berkembang, kemampuan dalam manajemen virtualisasi menjadi salah satu keterampilan yang sangat dibutuhkan di dunia TI saat ini. Apa itu Proxmox VE? Proxmox Virtual Environment (VE) adalah solusi open-source yang memungkinkan Anda untuk mengelola dan mengoptimalkan sumber daya server virtual dengan cara yang efisien. Dengan Proxmox, Anda dapat melakukan virtualisasi dengan mudah menggunakan teknologi KVM untuk virtualisasi penuh dan LXC untuk kontainer, serta mengelola semua VM dan kontainer melalui satu antarmuka yang intuitif.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Selamat datang di Training Proxmox Basic, program yang dirancang khusus untuk membantu Anda memahami dan menguasai platform virtualisasi Proxmox VE. Dalam era digital yang terus berkembang, kemampuan dalam manajemen virtualisasi menjadi salah satu keterampilan yang sangat dibutuhkan di dunia TI saat ini. Apa itu Proxmox VE? Proxmox Virtual Environment (VE) adalah solusi open-source yang memungkinkan Anda untuk mengelola dan mengoptimalkan sumber daya server virtual dengan cara yang efisien. Dengan Proxmox, Anda dapat melakukan virtualisasi dengan mudah menggunakan teknologi KVM untuk virtualisasi penuh dan LXC untuk kontainer, serta mengelola semua VM dan kontainer melalui satu antarmuka yang intuitif.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 3.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Biaya Investasi : Rp 2.500.000",
+        "source_text": "Biaya Investasi : Rp 2.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Concept & Definition",
+      "Traditional vs Virtualization",
+      "Advantages Virtualization",
+      "Definition",
+      "Type 1 vs Type 2",
+      "Platform and Use case",
+      "Introduction to Proxmox VE",
+      "Proxmox VE Features",
+      "Other Proxmox Solutions",
+      "Installation Method",
+      "System Requirements",
+      "Storage Options",
+      "Access Proxmox",
+      "User & Realms",
+      "Group",
+      "Roles & Privileges",
+      "Object & Path",
+      "API Proxmox",
+      "Two-Factor",
+      "Resource Pool",
+      "Provide ISO Image",
+      "Provide CT Templates",
+      "Setup Repos",
+      "Upgrade Patch",
+      "Introduction KVM",
+      "KVM Features",
+      "Manage KVM",
+      "Install Guest Linux",
+      "Assessment VM",
+      "Install Driver",
+      "Snapshot",
+      "Extend Disk",
+      "Monitor",
+      "Cloud-Init",
+      "Introduction LXC",
+      "Container Proxmox vs Other Container",
+      "LXC Features",
+      "Assessment LXC",
+      "Manage LXC",
+      "Privileged vs Unprivileged",
+      "RAID Introduction",
+      "RAID Level",
+      "Cloud Storage Level",
+      "Storage on Proxmox",
+      "Image Format",
+      "Manage Local Storage",
+      "Manage Share Storage",
+      "Network VM/LXC",
+      "Network Redundancy",
+      "VLAN",
+      "Virtual Router, Config VLAN, DHCP, SNAT",
+      "Publish Web (DNAT)",
+      "OVS Introduction",
+      "Simple SDN"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM 1. Virtualization Fundamentals Concept & Definition Traditional vs Virtualization Advantages Virtualization 2. Hypervisor Definition Type 1 vs Type 2 Platform and Use case 3. Proxmox VE Introduction & Installation Introduction to Proxmox VE Proxmox VE Features Other Proxmox Solutions Installation Method System Requirements Storage Options Access Proxmox 4. Basic Auth and User Management User & Realms Group Roles & Privileges Object & Path API Proxmox Two-Factor Resource Pool 5. Basic Setup Provide ISO Image Provide CT Templates Setup Repos Upgrade Patch 6. KVM Proxmox VE Introduction KVM KVM Features Manage KVM Install Guest Linux Assessment VM Install Driver Snapshot Extend Disk Monitor Cloud-Init 7. LXC Container Introduction LXC Container Proxmox vs Other Container LXC Features Assessment LXC Manage LXC Privileged vs Unprivileged 8. Storage Model Proxmox VE RAID Introduction RAID Level Cloud Storage Level Storage on Proxmox Image Format Manage Local Storage Manage Share Storage 9. Network Model Proxmox VE Network VM/LXC Network Redundancy VLAN Virtual Router, Config VLAN, DHCP, SNAT Publish Web (DNAT) OVS Introduction Simple SDN",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Melakukan instalasi dan konfigurasi Proxmox VE",
+      "Membangun sebuah klaster Proxmox VE",
+      "Memahami langkah-langkah troubleshooting Proxmox VE",
+      "Melakukan administrasi dan manajemen Proxmox VE dengan memanfaatkan berbagai fiturnya."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Setelah mengikuti training ini, peserta diharapkan mampu: Melakukan instalasi dan konfigurasi Proxmox VE Membangun sebuah klaster Proxmox VE Memahami langkah-langkah troubleshooting Proxmox VE Melakukan administrasi dan manajemen Proxmox VE dengan memanfaatkan berbagai fiturnya.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Modul",
+      "Kaos, dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Pengetahuan dasar tentang TCP/IP atau Network Fundamentals",
+      "Pengetahuan dasar tentang komputer dan server akan sangat membantu"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar tentang TCP/IP atau Network Fundamentals Pengetahuan dasar tentang komputer dan server akan sangat membantu",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": [
+      "IT support dan administrator sistem",
+      "Pengembang yang ingin memahami virtualisasi",
+      "Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Training ini sangat cocok untuk: IT support dan administrator sistem Pengembang yang ingin memahami virtualisasi Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/proxmox-administration/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Selamat datang di Training Proxmox Basic, program yang dirancang khusus untuk membantu Anda memahami dan menguasai platform virtualisasi Proxmox VE. Dalam era digital yang terus berkembang, kemampuan dalam manajemen virtualisasi menjadi salah satu keterampilan yang sangat dibutuhkan di dunia TI saat ini. Apa itu Proxmox VE? Proxmox Virtual Environment (VE) adalah solusi open-source yang memungkinkan Anda untuk mengelola dan mengoptimalkan sumber daya server virtual dengan cara yang efisien. Dengan Proxmox, Anda dapat melakukan virtualisasi dengan mudah menggunakan teknologi KVM untuk virtualisasi penuh dan LXC untuk kontainer, serta mengelola semua VM dan kontainer melalui satu antarmuka yang intuitif.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Anda Harus Mengikuti Training Ini?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Training Proxmox Basic ini dirancang untuk para pemula dan profesional yang ingin memperdalam pengetahuan dan keterampilan mereka dalam menggunakan Proxmox. Di tempat ini, Anda akan mendapatkan: Pelatihan Praktis: Kelas interaktif dengan banyak latihan langsung, sehingga Anda dapat langsung menerapkan apa yang Anda pelajari. Materi Komprehensif: Dari instalasi hingga konfigurasi dan manajemen, semua aspek penting Proxmox akan dibahas secara mendalam. Dukungan Profesional: Akses ke instruktur berpengalaman yang siap membantu Anda dalam setiap langkah.",
+      "items": [
+        "Pelatihan Praktis: Kelas interaktif dengan banyak latihan langsung, sehingga Anda dapat langsung menerapkan apa yang Anda pelajari.",
+        "Materi Komprehensif: Dari instalasi hingga konfigurasi dan manajemen, semua aspek penting Proxmox akan dibahas secara mendalam.",
+        "Dukungan Profesional: Akses ke instruktur berpengalaman yang siap membantu Anda dalam setiap langkah."
+      ]
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Training ini sangat cocok untuk: IT support dan administrator sistem Pengembang yang ingin memahami virtualisasi Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi",
+      "items": [
+        "IT support dan administrator sistem",
+        "Pengembang yang ingin memahami virtualisasi",
+        "Siapa pun yang ingin memperluas keterampilan mereka di bidang virtualisasi"
+      ]
+    },
+    {
+      "heading": "Mengapa Harus Training Proxmox di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Perangkat proxmox sudah disediakan sehingga memudahkan praktik langsung dengan devices Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training proxmox di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang proxmox administration",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Perangkat proxmox sudah disediakan sehingga memudahkan praktik langsung dengan devices",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training proxmox di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang proxmox administration"
+      ]
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar tentang TCP/IP atau Network Fundamentals Pengetahuan dasar tentang komputer dan server akan sangat membantu",
+      "items": [
+        "Pengetahuan dasar tentang TCP/IP atau Network Fundamentals",
+        "Pengetahuan dasar tentang komputer dan server akan sangat membantu"
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Setelah mengikuti training ini, peserta diharapkan mampu: Melakukan instalasi dan konfigurasi Proxmox VE Membangun sebuah klaster Proxmox VE Memahami langkah-langkah troubleshooting Proxmox VE Melakukan administrasi dan manajemen Proxmox VE dengan memanfaatkan berbagai fiturnya.",
+      "items": [
+        "Melakukan instalasi dan konfigurasi Proxmox VE",
+        "Membangun sebuah klaster Proxmox VE",
+        "Memahami langkah-langkah troubleshooting Proxmox VE",
+        "Melakukan administrasi dan manajemen Proxmox VE dengan memanfaatkan berbagai fiturnya."
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Modul",
+        "Kaos, dll"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "1. Virtualization Fundamentals Concept & Definition Traditional vs Virtualization Advantages Virtualization 2. Hypervisor Definition Type 1 vs Type 2 Platform and Use case 3. Proxmox VE Introduction & Installation Introduction to Proxmox VE Proxmox VE Features Other Proxmox Solutions Installation Method System Requirements Storage Options Access Proxmox 4. Basic Auth and User Management User & Realms Group Roles & Privileges Object & Path API Proxmox Two-Factor Resource Pool 5. Basic Setup Provide ISO Image Provide CT Templates Setup Repos Upgrade Patch 6. KVM Proxmox VE Introduction KVM KVM Features Manage KVM Install Guest Linux Assessment VM Install Driver Snapshot Extend Disk Monitor Cloud-Init 7. LXC Container Introduction LXC Container Proxmox vs Other Container LXC Features Assessment LXC Manage LXC Privileged vs Unprivileged 8. Storage Model Proxmox VE RAID Introduction RAID Level Cloud Storage Level Storage on Proxmox Image Format Manage Local Storage Manage Share Storage 9. Network Model Proxmox VE Network VM/LXC Network Redundancy VLAN Virtual Router, Config VLAN, DHCP, SNAT Publish Web (DNAT) OVS Introduction Simple SDN",
+      "items": [
+        "Concept & Definition",
+        "Traditional vs Virtualization",
+        "Advantages Virtualization",
+        "Definition",
+        "Type 1 vs Type 2",
+        "Platform and Use case",
+        "Introduction to Proxmox VE",
+        "Proxmox VE Features",
+        "Other Proxmox Solutions",
+        "Installation Method",
+        "System Requirements",
+        "Storage Options",
+        "Access Proxmox",
+        "User & Realms",
+        "Group",
+        "Roles & Privileges",
+        "Object & Path",
+        "API Proxmox",
+        "Two-Factor",
+        "Resource Pool",
+        "Provide ISO Image",
+        "Provide CT Templates",
+        "Setup Repos",
+        "Upgrade Patch",
+        "Introduction KVM",
+        "KVM Features",
+        "Manage KVM",
+        "Install Guest Linux",
+        "Assessment VM",
+        "Install Driver",
+        "Snapshot",
+        "Extend Disk",
+        "Monitor",
+        "Cloud-Init",
+        "Introduction LXC",
+        "Container Proxmox vs Other Container",
+        "LXC Features",
+        "Assessment LXC",
+        "Manage LXC",
+        "Privileged vs Unprivileged",
+        "RAID Introduction",
+        "RAID Level",
+        "Cloud Storage Level",
+        "Storage on Proxmox",
+        "Image Format",
+        "Manage Local Storage",
+        "Manage Share Storage",
+        "Network VM/LXC",
+        "Network Redundancy",
+        "VLAN",
+        "Virtual Router, Config VLAN, DHCP, SNAT",
+        "Publish Web (DNAT)",
+        "OVS Introduction",
+        "Simple SDN"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "items": [
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 11,
+    "fields_not_found": 5,
+    "coverage": 0.6875
+  },
+  "metadata": {
+    "registry_name": "Proxmox Administration",
+    "content_hash": "eaf67055e185d6ddfecdb720b676338d387e456b8ade6f17ca7d53bab86f9102",
+    "template_type": "BETTERDOCS"
+  }
+}

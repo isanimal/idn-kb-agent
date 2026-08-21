@@ -1,0 +1,14 @@
+{
+  "training_source_id": 78,
+  "canonical_url": "https://www.idn.id/training/comptia-network-include-exam/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "7f0480ddff16b9970908334b2d64ac3d6aa9f32c39749bf43ac7dcac1079a6c9",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:57.328779+00:00",
+  "facts_path": "data\\products\\comptia-network-include-exam\\facts.json",
+  "evidence_path": "data\\products\\comptia-network-include-exam\\evidence.json",
+  "raw_snapshot_path": "data\\products\\comptia-network-include-exam\\raw.html",
+  "last_error": null
+}

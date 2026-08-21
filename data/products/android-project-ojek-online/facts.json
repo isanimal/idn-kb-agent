@@ -1,0 +1,384 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Android Project Ojek Online",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+          "source_section": "Page title",
+          "source_text": "Android Project Ojek Online",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Android",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+          "source_section": "Training registry",
+          "source_text": "Android",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/android-project-ojek-online/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/android-project-ojek-online/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Apa itu Kelas Project Ojek Online? Siapa sih yang tidak tau Go-Jek / Grab ? solusi untuk yang ngga mau macet dan ngga tau jalan ketika hendak bepergian. Kemudahan dan manfaat aplikasi yang diberikan membuat pengguna terus bergantung hingga menjadi kebutuhan. Selain menjadi pengguna, penasaran ngga sih gimana cara buatnya ? Kok bisa nampilin Map, memilih titik jemput dan titik tujuan, menggambar rute, menghitung tarif berdasarkan jarak dan banyak lagi ? Tenang…. dikelas Project Ojek Online IDN kita akan membahas itu semua. Sesuai dengan study kasusnya “Membuat Aplikasi Ojek Online” tidak hanya aplikasi untuk Penumpang tapi juga Aplikasi untuk Driver. Yap benar, kita akan membuat 2 aplikasi dikelas ini ! Lebih spesifiknya kita akan mempelajari penggunakan Google Maps API, Google Direction API, Google Place API, Firebase notifications, REST API, user login & register dan banyak lagi. Jika Anda seorang Pengembang yang hendak mengembangkan produk dengan kebutuhan yang sama dengan Project ini, Anda dapat langsung mengkonsultasikanya dengan Trainer ketika kelas berlangsung. Syarat Mengikuti Kelas Ojek Online ? Kelas Project Ojek Online akan lebih maksimal jika anda telah memenuhi point-point berikut : – Pernah mengikuti kelas Android dasar / Lanjutan – Memahami pemograman Android tingkat lanjutan – Memahami penggunaan REST API – Memahami tentang penggunaan Library – Memahami konsep CRUD menggunakan MySQL dan PHP – Memahami penggunaan Google API",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Apa itu Kelas Project Ojek Online? Siapa sih yang tidak tau Go-Jek / Grab ? solusi untuk yang ngga mau macet dan ngga tau jalan ketika hendak bepergian. Kemudahan dan manfaat aplikasi yang diberikan membuat pengguna terus bergantung hingga menjadi kebutuhan. Selain menjadi pengguna, penasaran ngga sih gimana cara buatnya ? Kok bisa nampilin Map, memilih titik jemput dan titik tujuan, menggambar rute, menghitung tarif berdasarkan jarak dan banyak lagi ? Tenang…. dikelas Project Ojek Online IDN kita akan membahas itu semua. Sesuai dengan study kasusnya “Membuat Aplikasi Ojek Online” tidak hanya aplikasi untuk Penumpang tapi juga Aplikasi untuk Driver. Yap benar, kita akan membuat 2 aplikasi dikelas ini ! Lebih spesifiknya kita akan mempelajari penggunakan Google Maps API, Google Direction API, Google Place API, Firebase notifications, REST API, user login & register dan banyak lagi. Jika Anda seorang Pengembang yang hendak mengembangkan produk dengan kebutuhan yang sama dengan Project ini, Anda dapat langsung mengkonsultasikanya dengan Trainer ketika kelas berlangsung. Syarat Mengikuti Kelas Ojek Online ? Kelas Project Ojek Online akan lebih maksimal jika anda telah memenuhi point-point berikut : – Pernah mengikuti kelas Android dasar / Lanjutan – Memahami pemograman Android tingkat lanjutan – Memahami penggunaan REST API – Memahami tentang penggunaan Library – Memahami konsep CRUD menggunakan MySQL dan PHP – Memahami penggunaan Google API",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Biaya Investasi : Rp 3.000.000,-",
+        "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DESIGN DATABASE & DEVELOP WEB SERVICE",
+        "items": [
+          "Perancangan dan pembuatan database ojek online",
+          "Parsing dan akses data dari server ke android",
+          "Pembuatan Web Service Login User dan Driver",
+          "Pembuatan Web Service Terkait Booking"
+        ]
+      },
+      {
+        "title": "ANDROID INTENT SERVICE",
+        "items": [
+          "Pengelanan Android Intent Service",
+          "Penggunaan Android Intent Service"
+        ]
+      },
+      {
+        "title": "GOOGLE MAPS API v2",
+        "items": [
+          "Penganalan Maps",
+          "Mendapatkan API Google Maps API V2",
+          "Panduan download dan menggunakan Google Play Service SDK",
+          "Menampilkan Maps Menggunakan Android Maps API v2 dan MapFragment",
+          "Menampilkan Lokasi Pengguna di Peta",
+          "Menampilkan Marker dan InfoWindow di Peta",
+          "Mendapatkan GoogleMap Asynchronous Menggunakan getMapAsync() pada Android Maps API v2",
+          "Menggunakan Map Toolbar pada android maps API v2",
+          "Menampilkan Area Polygon",
+          "Menampilkan Rute Tercepat (Driving Direction) Antara Dua Koordinat pada Android Maps v2",
+          "Menampilkan Lokasi Driver dan Pengguna Terdekat",
+          "Menghitung jarak lokasi awal dan tujuan"
+        ]
+      },
+      {
+        "title": "GOOGLE CLOUD MESSAGING",
+        "items": [
+          "Pengelanan Google Cloud Messaging",
+          "Pendaftaran Google Cloud Messaging",
+          "Penggunaan Google Cloud Messaging untuk notifikasi order booking"
+        ]
+      },
+      {
+        "title": "ANDROID SHARED PREPERENCES (SESSION MANAGER)",
+        "items": [
+          "Pengenalan Android Shared Preperences",
+          "Penggunaan Android Shared Preferences"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum DESIGN DATABASE & DEVELOP WEB SERVICE Perancangan dan pembuatan database ojek online Parsing dan akses data dari server ke android Pembuatan Web Service Login User dan Driver Pembuatan Web Service Terkait Booking ANDROID INTENT SERVICE Pengelanan Android Intent Service Penggunaan Android Intent Service GOOGLE MAPS API v2 Penganalan Maps Mendapatkan API Google Maps API V2 Panduan download dan menggunakan Google Play Service SDK Menampilkan Maps Menggunakan Android Maps API v2 dan MapFragment Menampilkan Lokasi Pengguna di Peta Menampilkan Marker dan InfoWindow di Peta Mendapatkan GoogleMap Asynchronous Menggunakan getMapAsync() pada Android Maps API v2 Menggunakan Map Toolbar pada android maps API v2 Menampilkan Area Polygon Menampilkan Rute Tercepat (Driving Direction) Antara Dua Koordinat pada Android Maps v2 Menampilkan Lokasi Driver dan Pengguna Terdekat Menghitung jarak lokasi awal dan tujuan GOOGLE CLOUD MESSAGING Pengelanan Google Cloud Messaging Pendaftaran Google Cloud Messaging Penggunaan Google Cloud Messaging untuk notifikasi order booking ANDROID SHARED PREPERENCES (SESSION MANAGER) Pengenalan Android Shared Preperences Penggunaan Android Shared Preferences",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": "– Dapat membuat aplikasi Ojek Online – Dapat memahami penggunaan Google API – Dapat memahami lebih dalam tentang REST API – Dapat mengimplementasikan Firebase untuk real project – Dapat berkonsultasi langsung dengan Trainer",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Benefits",
+        "source_text": "Benefits – Dapat membuat aplikasi Ojek Online – Dapat memahami penggunaan Google API – Dapat memahami lebih dalam tentang REST API – Dapat mengimplementasikan Firebase untuk real project – Dapat berkonsultasi langsung dengan Trainer",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Project Ojek Online di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training android di Indonesia Free makan siang dan coffe break selama training Disediakan penginapan gratis bagi peserta training yang dari luar kota pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang android Akses Internet Lunch & Coffebreak Sertifikat Kaos",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training android di Indonesia",
+        "Free makan siang dan coffe break selama training",
+        "Disediakan penginapan gratis bagi peserta training yang dari luar kota",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang android",
+        "Akses Internet",
+        "Lunch & Coffebreak",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Apa itu Kelas Project Ojek Online? Siapa sih yang tidak tau Go-Jek / Grab ? solusi untuk yang ngga mau macet dan ngga tau jalan ketika hendak bepergian. Kemudahan dan manfaat aplikasi yang diberikan membuat pengguna terus bergantung hingga menjadi kebutuhan. Selain menjadi pengguna, penasaran ngga sih gimana cara buatnya ? Kok bisa nampilin Map, memilih titik jemput dan titik tujuan, menggambar rute, menghitung tarif berdasarkan jarak dan banyak lagi ? Tenang…. dikelas Project Ojek Online IDN kita akan membahas itu semua. Sesuai dengan study kasusnya “Membuat Aplikasi Ojek Online” tidak hanya aplikasi untuk Penumpang tapi juga Aplikasi untuk Driver. Yap benar, kita akan membuat 2 aplikasi dikelas ini ! Lebih spesifiknya kita akan mempelajari penggunakan Google Maps API, Google Direction API, Google Place API, Firebase notifications, REST API, user login & register dan banyak lagi. Jika Anda seorang Pengembang yang hendak mengembangkan produk dengan kebutuhan yang sama dengan Project ini, Anda dapat langsung mengkonsultasikanya dengan Trainer ketika kelas berlangsung. Syarat Mengikuti Kelas Ojek Online ? Kelas Project Ojek Online akan lebih maksimal jika anda telah memenuhi point-point berikut : – Pernah mengikuti kelas Android dasar / Lanjutan – Memahami pemograman Android tingkat lanjutan – Memahami penggunaan REST API – Memahami tentang penggunaan Library – Memahami konsep CRUD menggunakan MySQL dan PHP – Memahami penggunaan Google API",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "– Dapat membuat aplikasi Ojek Online – Dapat memahami penggunaan Google API – Dapat memahami lebih dalam tentang REST API – Dapat mengimplementasikan Firebase untuk real project – Dapat berkonsultasi langsung dengan Trainer",
+      "items": []
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)",
+      "items": []
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“The staff were very helpful and gave several useful and necessary training for the Android Programming class”, Khartika “Mantap gan, tempat bagus, modul training jelas dan terstruktur. Trainer berpengalaman dalam berbagai project. Dan apabila ada hal yang belum dipahami terkait materi training, bisa datang lagi dengan biaya FREE. Mantaps”, Sebian adhi Aripani",
+      "items": []
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "DESIGN DATABASE & DEVELOP WEB SERVICE Perancangan dan pembuatan database ojek online Parsing dan akses data dari server ke android Pembuatan Web Service Login User dan Driver Pembuatan Web Service Terkait Booking ANDROID INTENT SERVICE Pengelanan Android Intent Service Penggunaan Android Intent Service GOOGLE MAPS API v2 Penganalan Maps Mendapatkan API Google Maps API V2 Panduan download dan menggunakan Google Play Service SDK Menampilkan Maps Menggunakan Android Maps API v2 dan MapFragment Menampilkan Lokasi Pengguna di Peta Menampilkan Marker dan InfoWindow di Peta Mendapatkan GoogleMap Asynchronous Menggunakan getMapAsync() pada Android Maps API v2 Menggunakan Map Toolbar pada android maps API v2 Menampilkan Area Polygon Menampilkan Rute Tercepat (Driving Direction) Antara Dua Koordinat pada Android Maps v2 Menampilkan Lokasi Driver dan Pengguna Terdekat Menghitung jarak lokasi awal dan tujuan GOOGLE CLOUD MESSAGING Pengelanan Google Cloud Messaging Pendaftaran Google Cloud Messaging Penggunaan Google Cloud Messaging untuk notifikasi order booking ANDROID SHARED PREPERENCES (SESSION MANAGER) Pengenalan Android Shared Preperences Penggunaan Android Shared Preferences",
+      "items": [
+        {
+          "title": "DESIGN DATABASE & DEVELOP WEB SERVICE",
+          "items": [
+            "Perancangan dan pembuatan database ojek online",
+            "Parsing dan akses data dari server ke android",
+            "Pembuatan Web Service Login User dan Driver",
+            "Pembuatan Web Service Terkait Booking"
+          ]
+        },
+        {
+          "title": "ANDROID INTENT SERVICE",
+          "items": [
+            "Pengelanan Android Intent Service",
+            "Penggunaan Android Intent Service"
+          ]
+        },
+        {
+          "title": "GOOGLE MAPS API v2",
+          "items": [
+            "Penganalan Maps",
+            "Mendapatkan API Google Maps API V2",
+            "Panduan download dan menggunakan Google Play Service SDK",
+            "Menampilkan Maps Menggunakan Android Maps API v2 dan MapFragment",
+            "Menampilkan Lokasi Pengguna di Peta",
+            "Menampilkan Marker dan InfoWindow di Peta",
+            "Mendapatkan GoogleMap Asynchronous Menggunakan getMapAsync() pada Android Maps API v2",
+            "Menggunakan Map Toolbar pada android maps API v2",
+            "Menampilkan Area Polygon",
+            "Menampilkan Rute Tercepat (Driving Direction) Antara Dua Koordinat pada Android Maps v2",
+            "Menampilkan Lokasi Driver dan Pengguna Terdekat",
+            "Menghitung jarak lokasi awal dan tujuan"
+          ]
+        },
+        {
+          "title": "GOOGLE CLOUD MESSAGING",
+          "items": [
+            "Pengelanan Google Cloud Messaging",
+            "Pendaftaran Google Cloud Messaging",
+            "Penggunaan Google Cloud Messaging untuk notifikasi order booking"
+          ]
+        },
+        {
+          "title": "ANDROID SHARED PREPERENCES (SESSION MANAGER)",
+          "items": [
+            "Pengenalan Android Shared Preperences",
+            "Penggunaan Android Shared Preferences"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Android Project Ojek Online",
+    "content_hash": "fd4d0dbf4c35d11e221f5d4f772a71e6ed5f60c6afb8a80718cda330615a5a31",
+    "template_type": "BETTERDOCS"
+  }
+}

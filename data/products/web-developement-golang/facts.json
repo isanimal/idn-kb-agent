@@ -1,0 +1,650 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Web Developement Golang",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/web-developement-golang/",
+          "source_section": "Page title",
+          "source_text": "Web Developement Golang",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Pemrograman Web",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/web-developement-golang/",
+          "source_section": "Training registry",
+          "source_text": "Pemrograman Web",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/web-developement-golang/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/web-developement-golang/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/web-developement-golang/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Bergabunglah dengan kami dalam program pelatihan intensif ini dan tingkatkan keterampilan web development Anda menggunakan bahasa pemrograman Go (Golang). Dari pemula hingga mahir, kami siap bantu tingkatkan skill untuk kemajuan karir Anda.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Tingkatkan Skill dan Karir Anda dengan mengikuti pelatihan web development menggunakan golang!",
+        "source_text": "Tingkatkan Skill dan Karir Anda dengan mengikuti pelatihan web development menggunakan golang! Bergabunglah dengan kami dalam program pelatihan intensif ini dan tingkatkan keterampilan web development Anda menggunakan bahasa pemrograman Go (Golang). Dari pemula hingga mahir, kami siap bantu tingkatkan skill untuk kemajuan karir Anda.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Promo Berlaku Dalam 00 Hari 00 Jam 00 Menit 00 Detik",
+      "days": 0.0,
+      "hours": 0.0,
+      "daily_schedule": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Promo Berlaku Dalam",
+        "source_text": "Promo Berlaku Dalam 00 Hari 00 Jam 00 Menit 00 Detik",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 2.500.000",
+        "amount": 2500000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 2.000.000",
+        "amount": 2000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Biaya Investasi Training Web Development Golang",
+        "source_text": "Biaya Investasi Training Web Development Golang",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Rp 2.500.000,-",
+        "source_text": "Rp 2.500.000,-",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Rp 2.000.000,-",
+        "source_text": "Rp 2.000.000,-",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Modul 1",
+        "objective": null,
+        "items": [
+          "Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang",
+          "Apa Itu Golang",
+          "Sejarah Singkat Golang",
+          "Kelebihan Golang",
+          "Fitur Utama Golang",
+          "Instalasi Golang",
+          "Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier",
+          "Go Command",
+          "Membuat Project Golang",
+          "Package dan Import",
+          "Tipe Data & Tipe Data Khusus",
+          "Variabel dan Const",
+          "Konversi Tipe Data",
+          "Type Assertions",
+          "Operator",
+          "Expression",
+          "Function",
+          "Closure",
+          "Defer, Panic dan Recover",
+          "Struct",
+          "Pointer",
+          "Access Modifier"
+        ],
+        "raw": "Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 2",
+        "objective": null,
+        "items": [
+          "Golang Web HTTP Handler Validation Routes Session Database MySQL",
+          "HTTP Handler",
+          "Validation",
+          "Routes",
+          "Session",
+          "Database MySQL",
+          "Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data",
+          "Authentication (Login & Register)",
+          "Middleware",
+          "Insert, Update, Delete data",
+          "List data"
+        ],
+        "raw": "Golang Web HTTP Handler Validation Routes Session Database MySQL Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Modul 3",
+        "objective": null,
+        "items": [
+          "Gin Framework Route HTTP Method (Get, Post, Put, Delete)",
+          "Route",
+          "HTTP Method (Get, Post, Put, Delete)",
+          "Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+          "Advance Configuration – Viper",
+          "Go Object Relational Mapping (GORM)",
+          "Validation",
+          "Authentication (Login & Register)",
+          "Middleware & JSON Web Token (JWT)",
+          "Insert, Update, Delete data",
+          "Pagination",
+          "Redis",
+          "API Response Standarization"
+        ],
+        "raw": "Gin Framework Route HTTP Method (Get, Post, Put, Delete) Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+        "structure_type": "MODULED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Apa yang Akan Anda Pelajari?",
+        "source_text": "Apa yang Akan Anda Pelajari? MODUL 1 Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier MODUL 2 Golang Web HTTP Handler Validation Routes Session Database MySQL Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data MODUL 3 Gin Framework Route HTTP Method (Get, Post, Put, Delete) Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffee Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "penginapan gratis"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Fasilitas lengkap",
+        "source_text": "Fasilitas lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dan penginapan gratis.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Pemula dalam Pemrograman Jika Anda baru memulai perjalanan coding Anda, kami akan membimbing Anda dari dasar-dasar hingga mahir dalam pengembangan web menggunakan Golang. Developer yang Ingin Menguasai Golang Bagi Anda yang sudah memiliki pengalaman dalam bahasa pemrograman lain (seperti Java, Python, atau JavaScript) dan ingin memperluas keterampilan ke Golang, kami menyediakan materi yang dirancang untuk membantu Anda beradaptasi dengan cepat. Mahasiswa Teknologi Informasi Bagi mahasiswa yang mengambil jurusan Teknologi Informasi atau bidang terkait, pelatihan ini akan memberikan keunggulan dalam pengetahuan web development dan menambah nilai jual di pasar kerja. Software Engineer Jika Anda seorang software engineer yang ingin meningkatkan kompetensi dalam pengembangan aplikasi web atau microservices, pelatihan ini akan membantu Anda memahami dan memanfaatkan kekuatan Golang dalam membuat aplikasi yang efisien dan skalabel.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Pemula dalam Pemrograman Jika Anda baru memulai perjalanan coding Anda, kami akan membimbing Anda dari dasar-dasar hingga mahir dalam pengembangan web menggunakan Golang. Developer yang Ingin Menguasai Golang Bagi Anda yang sudah memiliki pengalaman dalam bahasa pemrograman lain (seperti Java, Python, atau JavaScript) dan ingin memperluas keterampilan ke Golang, kami menyediakan materi yang dirancang untuk membantu Anda beradaptasi dengan cepat. Mahasiswa Teknologi Informasi Bagi mahasiswa yang mengambil jurusan Teknologi Informasi atau bidang terkait, pelatihan ini akan memberikan keunggulan dalam pengetahuan web development dan menambah nilai jual di pasar kerja. Software Engineer Jika Anda seorang software engineer yang ingin meningkatkan kompetensi dalam pengembangan aplikasi web atau microservices, pelatihan ini akan membantu Anda memahami dan memanfaatkan kekuatan Golang dalam membuat aplikasi yang efisien dan skalabel.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Trainer Bersertifikasi",
+        "source_text": "Trainer Bersertifikasi Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "FOUND",
+    "value": "Kerjakan proyek nyata untuk membangun portofolio Anda.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Proyek Praktis",
+        "source_text": "Proyek Praktis Kerjakan proyek nyata untuk membangun portofolio Anda.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan",
+        "source_text": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Free Mengulang",
+        "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Tingkatkan Skill dan Karir Anda dengan mengikuti pelatihan web development menggunakan golang!",
+      "semantic_type": "HERO",
+      "content": "Bergabunglah dengan kami dalam program pelatihan intensif ini dan tingkatkan keterampilan web development Anda menggunakan bahasa pemrograman Go (Golang). Dari pemula hingga mahir, kami siap bantu tingkatkan skill untuk kemajuan karir Anda. Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Apa yang Membuat Golang Istimewa?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Golang atau Go adalah bahasa pemrograman yang mengutamakan kesederhanaan dan performa. Dengan sintaks yang bersih dan fitur concurrency yang kuat, Golang memungkinkan Anda untuk menulis kode yang efisien dan mudah dipelajari. Berikut adalah beberapa aspek unggulan yang akan Anda eksplorasi dalam pelatihan ini:",
+      "items": []
+    },
+    {
+      "heading": "Kecepatan dan Performa Tinggi",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Golang dirancang untuk aplikasi berperforma tinggi. Anda akan belajar cara memanfaatkan fitur bahasa untuk membangun aplikasi yang responsif dan cepat.",
+      "items": []
+    },
+    {
+      "heading": "Kemudahan Pengembangan",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Dengan pendekatan yang sederhana, Anda dapat mengembangkan fitur baru dengan cepat dan melakukan pemeliharaan kode dengan mudah.",
+      "items": []
+    },
+    {
+      "heading": "Dukungan untuk Concurrency",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pelajari cara menggunakan goroutines dan channel untuk mengelola tugas paralel, sehingga aplikasi Anda dapat menangani banyak proses secara bersamaan dengan efisiensi yang lebih baik.",
+      "items": []
+    },
+    {
+      "heading": "Ekosistem yang Kuat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Anda akan mengenal berbagai library dan framework yang mendukung pengembangan web dengan Golang, sehingga Anda dapat membangun aplikasi yang fungsional dan bermanfaat.",
+      "items": []
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Pemula dalam Pemrograman Jika Anda baru memulai perjalanan coding Anda, kami akan membimbing Anda dari dasar-dasar hingga mahir dalam pengembangan web menggunakan Golang. Developer yang Ingin Menguasai Golang Bagi Anda yang sudah memiliki pengalaman dalam bahasa pemrograman lain (seperti Java, Python, atau JavaScript) dan ingin memperluas keterampilan ke Golang, kami menyediakan materi yang dirancang untuk membantu Anda beradaptasi dengan cepat. Mahasiswa Teknologi Informasi Bagi mahasiswa yang mengambil jurusan Teknologi Informasi atau bidang terkait, pelatihan ini akan memberikan keunggulan dalam pengetahuan web development dan menambah nilai jual di pasar kerja. Software Engineer Jika Anda seorang software engineer yang ingin meningkatkan kompetensi dalam pengembangan aplikasi web atau microservices, pelatihan ini akan membantu Anda memahami dan memanfaatkan kekuatan Golang dalam membuat aplikasi yang efisien dan skalabel.",
+      "items": []
+    },
+    {
+      "heading": "Apa yang Akan Anda Pelajari?",
+      "semantic_type": "CURRICULUM",
+      "content": "MODUL 1 Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier MODUL 2 Golang Web HTTP Handler Validation Routes Session Database MySQL Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data MODUL 3 Gin Framework Route HTTP Method (Get, Post, Put, Delete) Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+      "items": [
+        "Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang",
+        "Apa Itu Golang",
+        "Sejarah Singkat Golang",
+        "Kelebihan Golang",
+        "Fitur Utama Golang",
+        "Instalasi Golang",
+        "Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier",
+        "Go Command",
+        "Membuat Project Golang",
+        "Package dan Import",
+        "Tipe Data & Tipe Data Khusus",
+        "Variabel dan Const",
+        "Konversi Tipe Data",
+        "Type Assertions",
+        "Operator",
+        "Expression",
+        "Function",
+        "Closure",
+        "Defer, Panic dan Recover",
+        "Struct",
+        "Pointer",
+        "Access Modifier",
+        "Golang Web HTTP Handler Validation Routes Session Database MySQL",
+        "HTTP Handler",
+        "Validation",
+        "Routes",
+        "Session",
+        "Database MySQL",
+        "Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data",
+        "Authentication (Login & Register)",
+        "Middleware",
+        "Insert, Update, Delete data",
+        "List data",
+        "Gin Framework Route HTTP Method (Get, Post, Put, Delete)",
+        "Route",
+        "HTTP Method (Get, Post, Put, Delete)",
+        "Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+        "Advance Configuration – Viper",
+        "Go Object Relational Mapping (GORM)",
+        "Validation",
+        "Authentication (Login & Register)",
+        "Middleware & JSON Web Token (JWT)",
+        "Insert, Update, Delete data",
+        "Pagination",
+        "Redis",
+        "API Response Standarization"
+      ]
+    },
+    {
+      "heading": "Modul 1",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier",
+      "items": [
+        "Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang",
+        "Apa Itu Golang",
+        "Sejarah Singkat Golang",
+        "Kelebihan Golang",
+        "Fitur Utama Golang",
+        "Instalasi Golang",
+        "Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier",
+        "Go Command",
+        "Membuat Project Golang",
+        "Package dan Import",
+        "Tipe Data & Tipe Data Khusus",
+        "Variabel dan Const",
+        "Konversi Tipe Data",
+        "Type Assertions",
+        "Operator",
+        "Expression",
+        "Function",
+        "Closure",
+        "Defer, Panic dan Recover",
+        "Struct",
+        "Pointer",
+        "Access Modifier"
+      ]
+    },
+    {
+      "heading": "Modul 2",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Golang Web HTTP Handler Validation Routes Session Database MySQL Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data",
+      "items": [
+        "Golang Web HTTP Handler Validation Routes Session Database MySQL",
+        "HTTP Handler",
+        "Validation",
+        "Routes",
+        "Session",
+        "Database MySQL",
+        "Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data",
+        "Authentication (Login & Register)",
+        "Middleware",
+        "Insert, Update, Delete data",
+        "List data"
+      ]
+    },
+    {
+      "heading": "Modul 3",
+      "semantic_type": "CURRICULUM_UNIT",
+      "content": "Gin Framework Route HTTP Method (Get, Post, Put, Delete) Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+      "items": [
+        "Gin Framework Route HTTP Method (Get, Post, Put, Delete)",
+        "Route",
+        "HTTP Method (Get, Post, Put, Delete)",
+        "Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+        "Advance Configuration – Viper",
+        "Go Object Relational Mapping (GORM)",
+        "Validation",
+        "Authentication (Login & Register)",
+        "Middleware & JSON Web Token (JWT)",
+        "Insert, Update, Delete data",
+        "Pagination",
+        "Redis",
+        "API Response Standarization"
+      ]
+    },
+    {
+      "heading": "Fasilitas Training di ID-Networkers",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Materi pembalajaran lengkap dan terstruktur",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Materi yang up to date dan menyesuaikan trend technology saat ini. Dapatkan akses ke modul pembelajaran yang mendetail dan terstruktur.",
+      "items": []
+    },
+    {
+      "heading": "Proyek Praktis",
+      "semantic_type": "PRACTICE",
+      "content": "Kerjakan proyek nyata untuk membangun portofolio Anda.",
+      "items": []
+    },
+    {
+      "heading": "Free Mengulang",
+      "semantic_type": "REPEAT_POLICY",
+      "content": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+      "items": []
+    },
+    {
+      "heading": "Trainer Bersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri.",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dan penginapan gratis.",
+      "items": []
+    },
+    {
+      "heading": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan",
+      "semantic_type": "SUPPORT",
+      "content": "Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+      "items": []
+    },
+    {
+      "heading": "Our Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "Apa kata mereka yang sudah merasakan trainingnya ? Dimas Candra Purwantoro      \"Pelatihan ini benar-benar mengubah cara pandang saya terhadap pengembangan web! Pembelajaran yang interaktif dan instruktur yang berpengalaman membuat semuanya lebih mudah.\" Tio Ramadhan      \"Dengan pelatihan ini, saya berhasil mendapatkan pekerjaan pertama saya sebagai developer Golang!\" Zulfikar      \"Tempatnya sangat bagus dan nyaman dan sangat cocok buat training dan ambil sertifikat jaringan dan harganya terjangkau\" Ibnu Fachrizal      \"IDN merupakan tempat training untuk mendapatkan Sertifikat international bidang networking, programming, sysadmin, cuber security terbaik, dan buku² yg dibuat oleh IDN sangat berguna untuk mempelajari materi², semoga IDN kedepannya sukses terus dalam menyelenggarakan training yang berkualitas.\"",
+      "items": []
+    },
+    {
+      "heading": "Jadwal Training Terdekat",
+      "semantic_type": "SCHEDULE_WIDGET",
+      "content": "Embed Golang Training",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi Training Web Development Golang",
+      "semantic_type": "PRICE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Rp 2.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Promo Berlaku Dalam",
+      "semantic_type": "CTA",
+      "content": "00 Hari 00 Jam 00 Menit 00 Detik",
+      "items": [
+        "00 Hari",
+        "00 Jam",
+        "00 Menit",
+        "00 Detik"
+      ]
+    },
+    {
+      "heading": "Jangan lewatkan kesempatan untuk mengubah karir Anda! Daftar sekarang dan ambil langkah pertama menjadi developer Golang yang terampil!",
+      "semantic_type": "CTA",
+      "content": "Jika ingin langsung mendaftar bisa klik tombol dibawah ini. Daftar Sekarang!",
+      "items": [
+        "00 Hari",
+        "00 Jam",
+        "00 Menit",
+        "00 Detik"
+      ]
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Apa yang Membuat Golang Istimewa?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Golang atau Go adalah bahasa pemrograman yang mengutamakan kesederhanaan dan performa. Dengan sintaks yang bersih dan fitur concurrency yang kuat, Golang memungkinkan Anda untuk menulis kode yang efisien dan mudah dipelajari. Berikut adalah beberapa aspek unggulan yang akan Anda eksplorasi dalam pelatihan ini:",
+      "items": []
+    },
+    {
+      "heading": "Kecepatan dan Performa Tinggi",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Golang dirancang untuk aplikasi berperforma tinggi. Anda akan belajar cara memanfaatkan fitur bahasa untuk membangun aplikasi yang responsif dan cepat.",
+      "items": []
+    },
+    {
+      "heading": "Kemudahan Pengembangan",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Dengan pendekatan yang sederhana, Anda dapat mengembangkan fitur baru dengan cepat dan melakukan pemeliharaan kode dengan mudah.",
+      "items": []
+    },
+    {
+      "heading": "Dukungan untuk Concurrency",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pelajari cara menggunakan goroutines dan channel untuk mengelola tugas paralel, sehingga aplikasi Anda dapat menangani banyak proses secara bersamaan dengan efisiensi yang lebih baik.",
+      "items": []
+    },
+    {
+      "heading": "Ekosistem yang Kuat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Anda akan mengenal berbagai library dan framework yang mendukung pengembangan web dengan Golang, sehingga Anda dapat membangun aplikasi yang fungsional dan bermanfaat.",
+      "items": []
+    },
+    {
+      "heading": "Materi pembalajaran lengkap dan terstruktur",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Materi yang up to date dan menyesuaikan trend technology saat ini. Dapatkan akses ke modul pembelajaran yang mendetail dan terstruktur.",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Web Developement Golang",
+    "content_hash": "42c5e4201ffce42e0c8ac9af5e4f330706cc2d338fb966a64026dedcc5b0051c",
+    "template_type": "ELEMENTOR"
+  }
+}

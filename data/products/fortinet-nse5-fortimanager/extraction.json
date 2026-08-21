@@ -1,0 +1,14 @@
+{
+  "training_source_id": 34,
+  "canonical_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "dd59b7347d82c260b6764e5be3c513a3c1183c5bbc34400b666abfec62f094eb",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:29.215674+00:00",
+  "facts_path": "data\\products\\fortinet-nse5-fortimanager\\facts.json",
+  "evidence_path": "data\\products\\fortinet-nse5-fortimanager\\evidence.json",
+  "raw_snapshot_path": "data\\products\\fortinet-nse5-fortimanager\\raw.html",
+  "last_error": null
+}

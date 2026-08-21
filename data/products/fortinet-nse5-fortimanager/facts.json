@@ -1,0 +1,332 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Fortinet NSE 5 – FortiManager",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+          "source_section": "Page title",
+          "source_text": "Fortinet NSE 5 – FortiManager",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Fortinet",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+          "source_section": "Training registry",
+          "source_text": "Fortinet",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Centralized Administration adalah alat yang tidak boleh absen dalam perusahaan modern. Memiliki banyak perangkat dan harus mengelolanya secara independent tentu tidak efisien dan menghabiskan banyak tenaga dan pikiran, bayangkan kita memiliki 10,20,100 atau bahkan 1000 perangkat dan Ketika kita ingin melakukan perubahan konfigurasi tertentu, kita harus mengeluarkan effort yang sangat banyak dan memakan waktu yang cukup lama. Fortinet memiliki Product bernama FortiManager, yang dapat mengkonsolidasikan semua manajemen dan administrasi peralatan Fortinet kita, serta mengimplementasikan konfigurasi ke banyak perangkat hanya dengan beberapa klik, yang tidak hanya meningkatkan efisiensi tetapi juga memudahkan administrator dalam mengelola banyak perangkat Fortinet, perubahaan Policy, dan masih banyak lagi. Dalam kursus ini, Anda akan belajar cara mendeploy produk FortiManager dari Fortinet untuk pengelolaan firewall terpusat langkah demi langkah. Dan kita juga akan belajar mengenai use case dilapangan, Selain mengasah kemampuan hard skills, kita juga akan mengembangkan soft skills yang esensial. Ini dimulai dengan membentuk pola pikir yang kuat ketika kita dihadapkan pada situasi troubleshoot, menggali akar masalah dengan cermat, dan melangkah dengan tindakan yang terstruktur secara berurutan.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Centralized Administration adalah alat yang tidak boleh absen dalam perusahaan modern. Memiliki banyak perangkat dan harus mengelolanya secara independent tentu tidak efisien dan menghabiskan banyak tenaga dan pikiran, bayangkan kita memiliki 10,20,100 atau bahkan 1000 perangkat dan Ketika kita ingin melakukan perubahan konfigurasi tertentu, kita harus mengeluarkan effort yang sangat banyak dan memakan waktu yang cukup lama. Fortinet memiliki Product bernama FortiManager, yang dapat mengkonsolidasikan semua manajemen dan administrasi peralatan Fortinet kita, serta mengimplementasikan konfigurasi ke banyak perangkat hanya dengan beberapa klik, yang tidak hanya meningkatkan efisiensi tetapi juga memudahkan administrator dalam mengelola banyak perangkat Fortinet, perubahaan Policy, dan masih banyak lagi. Dalam kursus ini, Anda akan belajar cara mendeploy produk FortiManager dari Fortinet untuk pengelolaan firewall terpusat langkah demi langkah. Dan kita juga akan belajar mengenai use case dilapangan, Selain mengasah kemampuan hard skills, kita juga akan mengembangkan soft skills yang esensial. Ini dimulai dengan membentuk pola pikir yang kuat ketika kita dihadapkan pada situasi troubleshoot, menggali akar masalah dengan cermat, dan melangkah dengan tindakan yang terstruktur secara berurutan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Biaya Investasi : Rp 3.000.000",
+        "source_text": "Biaya Investasi : Rp 3.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "Lab 1 : Initial Configuration 1.1. Konfigurasi Dasar FortiManager 1.2. Mengakses Melalui GUI 1.3. Dasar Command Line Interface Lab 2 : Administration and Management 2.1. Melakukan Backup dan Restore Konfigurasi 2.1.1. Melakukan Backup Konfigurasi 2.1.2. Melakukan Restore Konfigurasi 2.2. Konfigurasi ADOM Training 2.2.1. Mengaktifkan Fitur ADOM 2.2.2. Membuat ADOM Baru 2.3. Mengkonfigurasi Administrator Account 2.3.1. Konfigurasi Admin Profile 2.3.2. Konfigurasi Administrator Baru 2.3.3. Verifikasi Administrator Baru 2.4. Mengkonfigurasi ADOM Locking Lab 3 – Device Registration 3.1. Konfigurasi Dasar FortiGate HQ 3.2. Konfigurasi Dasar FortiGate Branch 3.3. Konfigurasi IP Address SRV dan Client 3.4. Menambahkan HQ-FW ke FortiManager 3.5. Menambahkan Branch01 ke FortiManager 3.6. Konfigurasi Device Groups Lab 4 : Device-Level Configuration and Installation 4.1. Konfigurasi System Template 4.2. Konfigurasi Device Level Settings (DNS) HQ 4.3. Konfigurasi Script (DNS) Branch01 Lab 5 : Policy and Object 5.1. Mengaktifkan Display Options and Delete CA 5.2. Konfigurasi Firewall Address Object 5.3. Konfigurasi Firewall Policy HQ 5.3.1. Membuat Firewall HQ-Policy 5.3.2. Verifikasi Firewall Policy 5.4. Konfigurasi Firewall Policy Branch 5.4.1 Membuat Firewall Branch-Policy 5.4.2. Verifikasi Firewall Policy 5.5. Konfigurasi ADOM Revision Lab 6 : Global ADOM Policy Configuration 6.1. Konfigurasi Header Policy (Deny All) Lab 7 : Central Management VPN 7.1. Konfigurasi VPN Community 7.2. Konfigurasi IPSec VPN Gateway 7.2.1 Konfigurasi IPSec VPN Gateway HQ 7.2.2 Konfigurasi IPSec VPN Gateway Branch 7.2.3. Install Konfigurasi VPN Ke FortiGate 7.2.4. Verifikasi VPN Gateway 7.3. Konfigurasi Normalized Interfaces 7.4. Konfigurasi Firewall Policy for VPN 7.4.1. Konfigurasi Firewall Policy Branch dan HQ 7.4.2 Verifikasi Konfigurasi Firewall Policy"
+        ],
+        "raw": "Lab 1 : Initial Configuration 1.1. Konfigurasi Dasar FortiManager 1.2. Mengakses Melalui GUI 1.3. Dasar Command Line Interface Lab 2 : Administration and Management 2.1. Melakukan Backup dan Restore Konfigurasi 2.1.1. Melakukan Backup Konfigurasi 2.1.2. Melakukan Restore Konfigurasi 2.2. Konfigurasi ADOM Training 2.2.1. Mengaktifkan Fitur ADOM 2.2.2. Membuat ADOM Baru 2.3. Mengkonfigurasi Administrator Account 2.3.1. Konfigurasi Admin Profile 2.3.2. Konfigurasi Administrator Baru 2.3.3. Verifikasi Administrator Baru 2.4. Mengkonfigurasi ADOM Locking Lab 3 – Device Registration 3.1. Konfigurasi Dasar FortiGate HQ 3.2. Konfigurasi Dasar FortiGate Branch 3.3. Konfigurasi IP Address SRV dan Client 3.4. Menambahkan HQ-FW ke FortiManager 3.5. Menambahkan Branch01 ke FortiManager 3.6. Konfigurasi Device Groups Lab 4 : Device-Level Configuration and Installation 4.1. Konfigurasi System Template 4.2. Konfigurasi Device Level Settings (DNS) HQ 4.3. Konfigurasi Script (DNS) Branch01 Lab 5 : Policy and Object 5.1. Mengaktifkan Display Options and Delete CA 5.2. Konfigurasi Firewall Address Object 5.3. Konfigurasi Firewall Policy HQ 5.3.1. Membuat Firewall HQ-Policy 5.3.2. Verifikasi Firewall Policy 5.4. Konfigurasi Firewall Policy Branch 5.4.1 Membuat Firewall Branch-Policy 5.4.2. Verifikasi Firewall Policy 5.5. Konfigurasi ADOM Revision Lab 6 : Global ADOM Policy Configuration 6.1. Konfigurasi Header Policy (Deny All) Lab 7 : Central Management VPN 7.1. Konfigurasi VPN Community 7.2. Konfigurasi IPSec VPN Gateway 7.2.1 Konfigurasi IPSec VPN Gateway HQ 7.2.2 Konfigurasi IPSec VPN Gateway Branch 7.2.3. Install Konfigurasi VPN Ke FortiGate 7.2.4. Verifikasi VPN Gateway 7.3. Konfigurasi Normalized Interfaces 7.4. Konfigurasi Firewall Policy for VPN 7.4.1. Konfigurasi Firewall Policy Branch dan HQ 7.4.2 Verifikasi Konfigurasi Firewall Policy",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Lab 1 : Initial Configuration 1.1. Konfigurasi Dasar FortiManager 1.2. Mengakses Melalui GUI 1.3. Dasar Command Line Interface Lab 2 : Administration and Management 2.1. Melakukan Backup dan Restore Konfigurasi 2.1.1. Melakukan Backup Konfigurasi 2.1.2. Melakukan Restore Konfigurasi 2.2. Konfigurasi ADOM Training 2.2.1. Mengaktifkan Fitur ADOM 2.2.2. Membuat ADOM Baru 2.3. Mengkonfigurasi Administrator Account 2.3.1. Konfigurasi Admin Profile 2.3.2. Konfigurasi Administrator Baru 2.3.3. Verifikasi Administrator Baru 2.4. Mengkonfigurasi ADOM Locking Lab 3 – Device Registration 3.1. Konfigurasi Dasar FortiGate HQ 3.2. Konfigurasi Dasar FortiGate Branch 3.3. Konfigurasi IP Address SRV dan Client 3.4. Menambahkan HQ-FW ke FortiManager 3.5. Menambahkan Branch01 ke FortiManager 3.6. Konfigurasi Device Groups Lab 4 : Device-Level Configuration and Installation 4.1. Konfigurasi System Template 4.2. Konfigurasi Device Level Settings (DNS) HQ 4.3. Konfigurasi Script (DNS) Branch01 Lab 5 : Policy and Object 5.1. Mengaktifkan Display Options and Delete CA 5.2. Konfigurasi Firewall Address Object 5.3. Konfigurasi Firewall Policy HQ 5.3.1. Membuat Firewall HQ-Policy 5.3.2. Verifikasi Firewall Policy 5.4. Konfigurasi Firewall Policy Branch 5.4.1 Membuat Firewall Branch-Policy 5.4.2. Verifikasi Firewall Policy 5.5. Konfigurasi ADOM Revision Lab 6 : Global ADOM Policy Configuration 6.1. Konfigurasi Header Policy (Deny All) Lab 7 : Central Management VPN 7.1. Konfigurasi VPN Community 7.2. Konfigurasi IPSec VPN Gateway 7.2.1 Konfigurasi IPSec VPN Gateway HQ 7.2.2 Konfigurasi IPSec VPN Gateway Branch 7.2.3. Install Konfigurasi VPN Ke FortiGate 7.2.4. Verifikasi VPN Gateway 7.3. Konfigurasi Normalized Interfaces 7.4. Konfigurasi Firewall Policy for VPN 7.4.1. Konfigurasi Firewall Policy Branch dan HQ 7.4.2 Verifikasi Konfigurasi Firewall Policy",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Memperluas jaringan relasi dengan teman-teman baru yang berbagi minat belajar yang sama.",
+      "Membuka peluang untuk memperluas lingkaran teman dan rekanan yang dapat membantu dalam perjalanan belajar Anda.",
+      "Pemahaman mendalam tentang fitur-fitur unggulan dan kapabilitas FortiManager.",
+      "Kemampuan untuk melakukan Implementasi FortiManager dengan percaya diri.",
+      "Keterampilan dalam mendeploy Administrative Domains (ADOMs) untuk mendukung berbagai pelanggan pada satu FortiManager.",
+      "Kemampuan untuk mengontrol dan mengatur akses ke ADOM secara efisien melalui penggunaan workspaces.",
+      "Keahlian dalam menggunakan template provisioning untuk mengubah konfigurasi pada banyak perangkat.",
+      "Kemampuan untuk mengidentifikasi status sinkronisasi, melakukan modifikasi, dan mengelola riwayat revisi perangkat yang dikelola.",
+      "Keterampilan dalam mengelola kebijakan firewall pada beragam perangkat FortiGate menggunakan policy packages dengan Object dan Dynamic Objects",
+      "Kemampuan untuk mengelola IPSec VPN dan SSL VPN pada berbagai perangkat FortiGate melalui VPN Manager.",
+      "Keterampilan dalam mendeploy kebijakan dan objek dari ADOM global ke berbagai ADOM.",
+      "Pemahaman yang kuat tentang Fortinet Security Fabric dengan FortiManager.",
+      "Kemampuan untuk mendiagnosis dan mengatasi masalah saat menambahkan perangkat dan melakukan instalasi dengan lebih baik."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Setelah menyelesaikan pelatihan ini, Anda akan merasakan manfaat berikut: Memperluas jaringan relasi dengan teman-teman baru yang berbagi minat belajar yang sama. Membuka peluang untuk memperluas lingkaran teman dan rekanan yang dapat membantu dalam perjalanan belajar Anda. Pemahaman mendalam tentang fitur-fitur unggulan dan kapabilitas FortiManager. Kemampuan untuk melakukan Implementasi FortiManager dengan percaya diri. Keterampilan dalam mendeploy Administrative Domains (ADOMs) untuk mendukung berbagai pelanggan pada satu FortiManager. Kemampuan untuk mengontrol dan mengatur akses ke ADOM secara efisien melalui penggunaan workspaces. Keahlian dalam menggunakan template provisioning untuk mengubah konfigurasi pada banyak perangkat. Kemampuan untuk mengidentifikasi status sinkronisasi, melakukan modifikasi, dan mengelola riwayat revisi perangkat yang dikelola. Keterampilan dalam mengelola kebijakan firewall pada beragam perangkat FortiGate menggunakan policy packages dengan Object dan Dynamic Objects Kemampuan untuk mengelola IPSec VPN dan SSL VPN pada berbagai perangkat FortiGate melalui VPN Manager. Keterampilan dalam mendeploy kebijakan dan objek dari ADOM global ke berbagai ADOM. Pemahaman yang kuat tentang Fortinet Security Fabric dengan FortiManager. Kemampuan untuk mendiagnosis dan mengatasi masalah saat menambahkan perangkat dan melakukan instalasi dengan lebih baik.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Memahami Konsep Firewall",
+      "Memahami Konfigurasi FortiGate seperti : IP Address, Routing, Firewall Policy, NAT Serta IPSec VPN",
+      "Familiarity with all topics in the FortiGate Security and FortiGate Infrastructure courses"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Memahami Konsep Firewall Memahami Konfigurasi FortiGate seperti : IP Address, Routing, Firewall Policy, NAT Serta IPSec VPN Familiarity with all topics in the FortiGate Security and FortiGate Infrastructure courses",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Sahrul Hidayat ( Fortinet NSE-5 FortiManager, Fortinet NSE-5 FortiAnalyzer, Fortinet NSE-7 SDWAN, CCNA, CCNP Enterprise, CCNP Data Center Core, JNCIS-Enterprise, JNCIP-Data Center, PCNSE)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Sahrul Hidayat ( Fortinet NSE-5 FortiManager, Fortinet NSE-5 FortiAnalyzer, Fortinet NSE-7 SDWAN, CCNA, CCNP Enterprise, CCNP Data Center Core, JNCIS-Enterprise, JNCIP-Data Center, PCNSE)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Fortinet NSE5 FortiManager di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Perangkat lab lengkap sehingga bisa praktik secara langsung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Dipandu Trainer tersertifikasi dan berpengalaman di bidangnya.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Perangkat lab lengkap sehingga bisa praktik secara langsung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Dipandu Trainer tersertifikasi dan berpengalaman di bidangnya."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Centralized Administration adalah alat yang tidak boleh absen dalam perusahaan modern. Memiliki banyak perangkat dan harus mengelolanya secara independent tentu tidak efisien dan menghabiskan banyak tenaga dan pikiran, bayangkan kita memiliki 10,20,100 atau bahkan 1000 perangkat dan Ketika kita ingin melakukan perubahan konfigurasi tertentu, kita harus mengeluarkan effort yang sangat banyak dan memakan waktu yang cukup lama. Fortinet memiliki Product bernama FortiManager, yang dapat mengkonsolidasikan semua manajemen dan administrasi peralatan Fortinet kita, serta mengimplementasikan konfigurasi ke banyak perangkat hanya dengan beberapa klik, yang tidak hanya meningkatkan efisiensi tetapi juga memudahkan administrator dalam mengelola banyak perangkat Fortinet, perubahaan Policy, dan masih banyak lagi. Dalam kursus ini, Anda akan belajar cara mendeploy produk FortiManager dari Fortinet untuk pengelolaan firewall terpusat langkah demi langkah. Dan kita juga akan belajar mengenai use case dilapangan, Selain mengasah kemampuan hard skills, kita juga akan mengembangkan soft skills yang esensial. Ini dimulai dengan membentuk pola pikir yang kuat ketika kita dihadapkan pada situasi troubleshoot, menggali akar masalah dengan cermat, dan melangkah dengan tindakan yang terstruktur secara berurutan.",
+      "items": []
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Memahami Konsep Firewall Memahami Konfigurasi FortiGate seperti : IP Address, Routing, Firewall Policy, NAT Serta IPSec VPN Familiarity with all topics in the FortiGate Security and FortiGate Infrastructure courses",
+      "items": [
+        "Memahami Konsep Firewall",
+        "Memahami Konfigurasi FortiGate seperti : IP Address, Routing, Firewall Policy, NAT Serta IPSec VPN",
+        "Familiarity with all topics in the FortiGate Security and FortiGate Infrastructure courses"
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Setelah menyelesaikan pelatihan ini, Anda akan merasakan manfaat berikut: Memperluas jaringan relasi dengan teman-teman baru yang berbagi minat belajar yang sama. Membuka peluang untuk memperluas lingkaran teman dan rekanan yang dapat membantu dalam perjalanan belajar Anda. Pemahaman mendalam tentang fitur-fitur unggulan dan kapabilitas FortiManager. Kemampuan untuk melakukan Implementasi FortiManager dengan percaya diri. Keterampilan dalam mendeploy Administrative Domains (ADOMs) untuk mendukung berbagai pelanggan pada satu FortiManager. Kemampuan untuk mengontrol dan mengatur akses ke ADOM secara efisien melalui penggunaan workspaces. Keahlian dalam menggunakan template provisioning untuk mengubah konfigurasi pada banyak perangkat. Kemampuan untuk mengidentifikasi status sinkronisasi, melakukan modifikasi, dan mengelola riwayat revisi perangkat yang dikelola. Keterampilan dalam mengelola kebijakan firewall pada beragam perangkat FortiGate menggunakan policy packages dengan Object dan Dynamic Objects Kemampuan untuk mengelola IPSec VPN dan SSL VPN pada berbagai perangkat FortiGate melalui VPN Manager. Keterampilan dalam mendeploy kebijakan dan objek dari ADOM global ke berbagai ADOM. Pemahaman yang kuat tentang Fortinet Security Fabric dengan FortiManager. Kemampuan untuk mendiagnosis dan mengatasi masalah saat menambahkan perangkat dan melakukan instalasi dengan lebih baik.",
+      "items": [
+        "Memperluas jaringan relasi dengan teman-teman baru yang berbagi minat belajar yang sama.",
+        "Membuka peluang untuk memperluas lingkaran teman dan rekanan yang dapat membantu dalam perjalanan belajar Anda.",
+        "Pemahaman mendalam tentang fitur-fitur unggulan dan kapabilitas FortiManager.",
+        "Kemampuan untuk melakukan Implementasi FortiManager dengan percaya diri.",
+        "Keterampilan dalam mendeploy Administrative Domains (ADOMs) untuk mendukung berbagai pelanggan pada satu FortiManager.",
+        "Kemampuan untuk mengontrol dan mengatur akses ke ADOM secara efisien melalui penggunaan workspaces.",
+        "Keahlian dalam menggunakan template provisioning untuk mengubah konfigurasi pada banyak perangkat.",
+        "Kemampuan untuk mengidentifikasi status sinkronisasi, melakukan modifikasi, dan mengelola riwayat revisi perangkat yang dikelola.",
+        "Keterampilan dalam mengelola kebijakan firewall pada beragam perangkat FortiGate menggunakan policy packages dengan Object dan Dynamic Objects",
+        "Kemampuan untuk mengelola IPSec VPN dan SSL VPN pada berbagai perangkat FortiGate melalui VPN Manager.",
+        "Keterampilan dalam mendeploy kebijakan dan objek dari ADOM global ke berbagai ADOM.",
+        "Pemahaman yang kuat tentang Fortinet Security Fabric dengan FortiManager.",
+        "Kemampuan untuk mendiagnosis dan mengatasi masalah saat menambahkan perangkat dan melakukan instalasi dengan lebih baik."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Sahrul Hidayat ( Fortinet NSE-5 FortiManager, Fortinet NSE-5 FortiAnalyzer, Fortinet NSE-7 SDWAN, CCNA, CCNP Enterprise, CCNP Data Center Core, JNCIS-Enterprise, JNCIP-Data Center, PCNSE)",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Lab 1 : Initial Configuration 1.1. Konfigurasi Dasar FortiManager 1.2. Mengakses Melalui GUI 1.3. Dasar Command Line Interface Lab 2 : Administration and Management 2.1. Melakukan Backup dan Restore Konfigurasi 2.1.1. Melakukan Backup Konfigurasi 2.1.2. Melakukan Restore Konfigurasi 2.2. Konfigurasi ADOM Training 2.2.1. Mengaktifkan Fitur ADOM 2.2.2. Membuat ADOM Baru 2.3. Mengkonfigurasi Administrator Account 2.3.1. Konfigurasi Admin Profile 2.3.2. Konfigurasi Administrator Baru 2.3.3. Verifikasi Administrator Baru 2.4. Mengkonfigurasi ADOM Locking Lab 3 – Device Registration 3.1. Konfigurasi Dasar FortiGate HQ 3.2. Konfigurasi Dasar FortiGate Branch 3.3. Konfigurasi IP Address SRV dan Client 3.4. Menambahkan HQ-FW ke FortiManager 3.5. Menambahkan Branch01 ke FortiManager 3.6. Konfigurasi Device Groups Lab 4 : Device-Level Configuration and Installation 4.1. Konfigurasi System Template 4.2. Konfigurasi Device Level Settings (DNS) HQ 4.3. Konfigurasi Script (DNS) Branch01 Lab 5 : Policy and Object 5.1. Mengaktifkan Display Options and Delete CA 5.2. Konfigurasi Firewall Address Object 5.3. Konfigurasi Firewall Policy HQ 5.3.1. Membuat Firewall HQ-Policy 5.3.2. Verifikasi Firewall Policy 5.4. Konfigurasi Firewall Policy Branch 5.4.1 Membuat Firewall Branch-Policy 5.4.2. Verifikasi Firewall Policy 5.5. Konfigurasi ADOM Revision Lab 6 : Global ADOM Policy Configuration 6.1. Konfigurasi Header Policy (Deny All) Lab 7 : Central Management VPN 7.1. Konfigurasi VPN Community 7.2. Konfigurasi IPSec VPN Gateway 7.2.1 Konfigurasi IPSec VPN Gateway HQ 7.2.2 Konfigurasi IPSec VPN Gateway Branch 7.2.3. Install Konfigurasi VPN Ke FortiGate 7.2.4. Verifikasi VPN Gateway 7.3. Konfigurasi Normalized Interfaces 7.4. Konfigurasi Firewall Policy for VPN 7.4.1. Konfigurasi Firewall Policy Branch dan HQ 7.4.2 Verifikasi Konfigurasi Firewall Policy",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Fortinet NSE 5 – FortiManager",
+    "content_hash": "dd59b7347d82c260b6764e5be3c513a3c1183c5bbc34400b666abfec62f094eb",
+    "template_type": "BETTERDOCS"
+  }
+}

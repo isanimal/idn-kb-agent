@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/mtcine/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training MikroTik Certified Internetworking Engineer (MTCINE) adalah sebuah program sertifikasi dari MikroTik untuk teknisi (Network Engineer) pada tingkatan expert. Dalam sertifikasi ini akan dibahas materi yang berhubungan dengan Internet Service Provider (ISP), yaitu routing protocol Border Gateway Protocol (BGP), serta teknologi Multi Protocol Layer Protocol (MPLS). Nah, untuk teman – teman yang ingin mempelajari materi BGP dan MPLS dalam sertifikasi MTCINE ini, syaratnya harus memiliki sertifikat MTCRE.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/mtcine/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 08.00 s.d 22.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/mtcine/",
+      "source_section": "Biaya Investasi : Rp 5.500.000 Rp 4.500.000",
+      "source_text": "Biaya Investasi : Rp 5.500.000 Rp 4.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/mtcine/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM BGP What is Autonomous System What is BGP Path Vector algorithm BGP Transport and packet types iBGP and eBGP + LAB Stub network scenarios and private AS removal + LaB Non-stub scenarios + LAB iBGP and eBGP multihop and loopback usage + LAB Route distribution and routing filters + LAB BGP best path selection algorithm BGP Prefix attributes and their usage + LAB BGP Route reflectors and confederations + LAB MPLS What is MPLS (basic) Static Label Mapping + LAB Label Distribution (LDP) + LAB What is Penultimate-hop-popping MPLS traceroute differences LDP based VPLS tunnels + LAB What is Bridge Split Horizon + LAB VPLS Control Word (CW) usage and MPLS L2MTU importance nd MPLS fragmentation BGP Based VPLS + LAB VRF and route leaking + LAB L3VPN (BGP based Layer3 tunnels) + LAB OSPF as CE-PE protocol Traffic Engineering Traffic Engineering What is traffic engineering and how it works RSVP, Static path, dynamic path (CSPF) + LAB Bandwidth allocation and bandwidth limitation differences and setting + LAB",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/mtcine/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Ketika bekerja sebagai Network Engineer, NOC, dan lain nya, terutama bekerja di Internet Service Provider (ISP), akan menemukan beberapa kasus atau konfigurasi BGP, dan layanan MPLS. Maka dari itu, banyak ISP dan System Integrator membutuhkan Engineer yang mengerti mengenai BGP dan MPLS baik teori, konsep, maupun praktek. Teman – teman yang akan mempelajari materi MTCINE akan dibimbing oleh Trainer yang telah berpengalaman dalam bidang BGP dan MPLS. Bahkan ada trainer kita yang mengikuti Workshop di luar negeri untuk mempelajari lebih detail BGP dan MPLS, dan siap untuk di share keteman teman semua.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/mtcine/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Mikrotik Certified Trainer, CISCO CCNA RS, CCNP Enterprise, CCNP Service Provider, Ubiquity UBWA, UEWA)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Page title",
+        "source_text": "MIKROTIK MTCINE + EXAM",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Training registry",
+        "source_text": "Mikrotik",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/mtcine/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/mtcine/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

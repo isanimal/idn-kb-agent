@@ -1,0 +1,14 @@
+{
+  "training_source_id": 10,
+  "canonical_url": "https://www.idn.id/training/mikrotik-mtcume/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "2f23511ceadde4f57fbf8f795838f159162ba1f2b6c5fe29bf0a15e3f9c5841f",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:12.957199+00:00",
+  "facts_path": "data\\products\\mikrotik-mtcume\\facts.json",
+  "evidence_path": "data\\products\\mikrotik-mtcume\\evidence.json",
+  "raw_snapshot_path": "data\\products\\mikrotik-mtcume\\raw.html",
+  "last_error": null
+}

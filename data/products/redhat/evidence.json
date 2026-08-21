@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/redhat/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Red Hat adalah salah satu distro linux enterprise terbaik yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training Red Hat, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Red Hat Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. Training Red Hat Linux di IDN merupakan training Red Hat non-authorized, akan tetapi peserta tetap akan mendapatkan ilmu yang bisa digunakan nantinya untuk mengambil ujian RHCSA maupun RHCE. NOTE: Jika masih pemula di bidang linux, disarankan untuk mengikuti training linux fundamentals terlebih dahulu. >>> https://www.idn.id/training/linux-fundamentals/",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/redhat/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/redhat/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/redhat/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum Registration Lab 1 Register account Lab 2 Request Subscription Trial Installation Lab 1 Install Red Hat Red Hat Linux Fundamental Lab 1 Configuration Basic Settings Lab 2 Assessment Server Lab 3 File Management Lab 4 Folder Management Lab 5 User & Group Management Lab 6 File System Hierarchy Lab 7 File & Folder Permission Network Setting Lab 1 Setting IP Static Subscription Lab 1 Registering Subscription Lab 2 Manage Repository Lab 3 Remove Subscription Packet Management Lab 1 Checking Update System Lab 2: Update System Lab 3 Management Paket Selinux Mode SELinux Lab 1 Mengubah izin SELinux Lab 2 Semanage Port Lab 3 Semanage fcontext Lab 4 Semanage boolean Lab 5 Restorecon File Transfer Lab 1 Skenario SCP Cronjob Lab 1 Skenario Cron Jobs DNS Services BIND9/BIND Lab 1 Konfigurasi BIND Lab 2 Konfigurasi Server Slave BIND Lab 3 Konfigurasi Multi-Master DNS Web Service Lab 1 Konfigurasi Web Service (NGINX) Lab 2 Konfigurasi SSL Lab 3 Konfigurasi CA (Certification Authorities) Lab 4 Konfigurasi Vhost Database Service Lab 1 Konfigurasi Database Lab 2 Konfigurasi PHPMyAdmin Lab 3 Konfigurasi Replication (Galera Cluster) Load Balance Lab 1 Install & Konfigurasi Load Balance Nginx Lab 2 Konfigurasi ssl di Load Balance LVM/Storage Lab Konfigurasi LVM Podman Lab 1 Installation Podman Lab 2 install Nginx on Podman",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/redhat/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi server dengan system operasi Red Hat Linux Server. Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Red Hat Linux Server. Peserta juga akan bergabung di grup WhatsApp Training Red Hat. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Red Hat Linux Server. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/redhat/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, CKS, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Page title",
+        "source_text": "RedHat System Administration",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Training registry",
+        "source_text": "System Admin",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/redhat/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/redhat/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

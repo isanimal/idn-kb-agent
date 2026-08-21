@@ -1,0 +1,14 @@
+{
+  "training_source_id": 83,
+  "canonical_url": "https://www.idn.id/training/ecih/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "4e6905254af5343436fa414c25d4a35816e9a58417312968227c0557201fbb88",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:36:00.296214+00:00",
+  "facts_path": "data\\products\\ecih\\facts.json",
+  "evidence_path": "data\\products\\ecih\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ecih\\raw.html",
+  "last_error": null
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 79,
+  "canonical_url": "https://www.idn.id/training/cpent/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "45373f8d402f42f2134e2a0e5f4979761e7e9b4913c10421bf286bcfa5fd9730",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:35:57.828636+00:00",
+  "facts_path": "data\\products\\cpent\\facts.json",
+  "evidence_path": "data\\products\\cpent\\evidence.json",
+  "raw_snapshot_path": "data\\products\\cpent\\raw.html",
+  "last_error": null
+}

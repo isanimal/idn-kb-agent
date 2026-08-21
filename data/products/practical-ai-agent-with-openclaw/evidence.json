@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training OpenClaw adalah AI Agent open-source yang bersifat local-first: ia bukan sekadar chatbot yang menunggu perintah di browser, melainkan agen yang berjalan terus-menerus di mesin Anda, terhubung ke aplikasi chat (Telegram, WhatsApp, Slack, Discord, dan lainnya), dan mampu menjalankan tugas nyata — membaca/menulis file, mengirim email, merangkum dokumen, mencari informasi, hingga menjalankan perintah otomatis. Pelatihan satu hari ini membawa peserta dari nol hingga memiliki AI assistant pribadi yang benar-benar berjalan dan mengotomatiskan minimal satu pekerjaan harian sesuai profesi masing-masing. Pendekatannya hands-on: setiap konsep langsung dipraktikkan, dan sesi ditutup dengan mini project (capstone) yang dipresentasikan peserta.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Biaya Investasi : Rp 1.000.000,-",
+      "source_text": "Biaya Investasi : Rp 1.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Kurikulum",
+      "source_text": "Kurikulum",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta memahami konsep AI Agent dan cara memanfaatkannya untuk meningkatkan produktivitas kerja sehari-hari. Peserta mampu menginstal, mengonfigurasi, dan menjalankan OpenClaw secara mandiri. Peserta dapat membangun AI Assistant pribadi yang terhubung dengan Telegram dan siap digunakan. Peserta memahami cara menghubungkan OpenClaw dengan berbagai model AI seperti OpenAI, Gemini, Anthropic, maupun Ollama. Peserta mampu membuat workflow otomatisasi sederhana untuk membantu pekerjaan administratif, riset, dokumentasi, maupun task management. Peserta mendapatkan pengalaman hands-on melalui studi kasus dan praktik langsung selama training berlangsung. Peserta memperoleh modul training, sertifikat training, serta akses ke grup alumni untuk diskusi dan pengembangan lebih lanjut. Peserta memiliki fondasi yang kuat untuk mengembangkan AI Agent dan Automation Workflow yang lebih kompleks di masa depan.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Prerequisites & Persiapan Peserta",
+      "source_text": "Prerequisites & Persiapan Peserta Perangkat & Software Laptop (Windows / macOS / Linux) dengan hak akses admin untuk instalasi. Node.js versi LTS terbaru sudah terpasang (OpenClaw berjalan sebagai proses Node.js). Terminal & Code Editor (mis. VS Code) untuk konfigurasi dan mengedit file skill. Koneksi internet stabil sepanjang sesi. Akun & Akses API Key model AI minimal salah satu: Anthropic, OpenAI, atau Google. (Alternatif: model lokal via Ollama / LM Studio bagi yang ingin sepenuhnya offline). Akun aplikasi chat direkomendasikan Telegram untuk workshop karena setup bot-nya paling cepat. Kompetensi Awal (Disarankan) Tidak diperlukan kemampuan coding lanjutan peserta non-teknis tetap bisa mengikuti. Familiar menjalankan perintah dasar di terminal (cd, ls, menjalankan perintah).",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "source_section": "Mengapa Harus Training Practical AI Agent with OpenClaw di IDN?",
+      "source_text": "Mengapa Harus Training Practical AI Agent with OpenClaw di IDN? Gratis mengulang training sebanyak 2x Free join mailing list IDN",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Page title",
+        "source_text": "Practical AI Agent with OpenClaw",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Training registry",
+        "source_text": "AI & Automation",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

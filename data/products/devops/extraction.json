@@ -1,0 +1,14 @@
+{
+  "training_source_id": 57,
+  "canonical_url": "https://www.idn.id/training/devops/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "95ed42109eeed12b5904508de87a01a5bc39925d916dc5324980384763c57216",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:43.273190+00:00",
+  "facts_path": "data\\products\\devops\\facts.json",
+  "evidence_path": "data\\products\\devops\\evidence.json",
+  "raw_snapshot_path": "data\\products\\devops\\raw.html",
+  "last_error": null
+}

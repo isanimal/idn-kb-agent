@@ -1,0 +1,14 @@
+{
+  "training_source_id": 25,
+  "canonical_url": "https://www.idn.id/training/training-android-atc/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "dc5ab3552589c2bd34811511271b14e0622679d1a1ce9337a7cd43531299c4b5",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:23.177870+00:00",
+  "facts_path": "data\\products\\training-android-atc\\facts.json",
+  "evidence_path": "data\\products\\training-android-atc\\evidence.json",
+  "raw_snapshot_path": "data\\products\\training-android-atc\\raw.html",
+  "last_error": null
+}

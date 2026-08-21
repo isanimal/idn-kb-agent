@@ -1,0 +1,330 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Palo Alto PCNSA",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+          "source_section": "Page title",
+          "source_text": "Palo Alto PCNSA",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Palo Alto",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+          "source_section": "Training registry",
+          "source_text": "Palo Alto",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/palo-alto-pcnsa/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/palo-alto-pcnsa/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Kursus PCNSA (Palo Alto Networks Certified Network Security Administrator) dirancang untuk memberikan pengetahuan dan keterampilan mendalam yang diperlukan untuk mengkonfigurasi dan mengelola firewall Palo Alto Networks secara efektif. Melalui kombinasi teori dan praktik, peserta akan dilatih untuk menjadi administrator jaringan yang handal dan siap menghadapi tantangan keamanan yang kompleks. Program ini dirancang untuk administrator keamanan jaringan yang bertanggung jawab untuk mengelola dan mengamankan infrastruktur jaringan di organisasi dari semua skala. Dalam kursus ini, Anda akan mempelajari berbagai topik penting seperti pengenalan dan konfigurasi dasar firewall Palo Alto, manajemen lalu lintas jaringan, konfigurasi dan pemantauan keamanan, serta pengelolaan log dan laporan. Selain itu, Anda akan mendapatkan pemahaman mendalam tentang fitur-fitur seperti Security Policies, NAT (Network Address Translation), App-ID, Content-ID, User-ID, Decryption, Wildfire. Setelah menyelesaikan program PCNSA, peserta akan memiliki pemahaman komprehensif tentang teknologi keamanan jaringan dan mampu mengelola dan mengamankan infrastruktur jaringan secara efektif. Mereka juga akan dibekali dengan keterampilan dan pengetahuan yang diperlukan untuk menerapkan dan memelihara solusi Palo Alto Networks, memastikan bahwa organisasi mereka terlindungi dari ancaman dunia maya terkini. Jika Anda ingin meningkatkan kemampuan jaringan dan keamanan Anda, kursus PCNSA adalah pilihan yang terbaik untuk Anda.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Kursus PCNSA (Palo Alto Networks Certified Network Security Administrator) dirancang untuk memberikan pengetahuan dan keterampilan mendalam yang diperlukan untuk mengkonfigurasi dan mengelola firewall Palo Alto Networks secara efektif. Melalui kombinasi teori dan praktik, peserta akan dilatih untuk menjadi administrator jaringan yang handal dan siap menghadapi tantangan keamanan yang kompleks. Program ini dirancang untuk administrator keamanan jaringan yang bertanggung jawab untuk mengelola dan mengamankan infrastruktur jaringan di organisasi dari semua skala. Dalam kursus ini, Anda akan mempelajari berbagai topik penting seperti pengenalan dan konfigurasi dasar firewall Palo Alto, manajemen lalu lintas jaringan, konfigurasi dan pemantauan keamanan, serta pengelolaan log dan laporan. Selain itu, Anda akan mendapatkan pemahaman mendalam tentang fitur-fitur seperti Security Policies, NAT (Network Address Translation), App-ID, Content-ID, User-ID, Decryption, Wildfire. Setelah menyelesaikan program PCNSA, peserta akan memiliki pemahaman komprehensif tentang teknologi keamanan jaringan dan mampu mengelola dan mengamankan infrastruktur jaringan secara efektif. Mereka juga akan dibekali dengan keterampilan dan pengetahuan yang diperlukan untuk menerapkan dan memelihara solusi Palo Alto Networks, memastikan bahwa organisasi mereka terlindungi dari ancaman dunia maya terkini. Jika Anda ingin meningkatkan kemampuan jaringan dan keamanan Anda, kursus PCNSA adalah pilihan yang terbaik untuk Anda.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 3.500.000",
+        "amount": 3500000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp. 3.000.000",
+        "amount": 3000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+        "source_section": "Biaya Investasi : Rp 3.500.000,- Rp. 3.000.000",
+        "source_text": "Biaya Investasi : Rp 3.500.000,- Rp. 3.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "Domain 1 : Device Management and Services 1.1. Firewall management interfaces 1.2. Provision Local Administrator 1.3. Assign Role-based authentication 1.4. Maintain Firewall Configuration 1.5. Security Zone Firewall 1.6. Identify and Configure Firewall interfaces 1.7. Maintain Virtual Router 1.8. Maintain Firewall Configuration 1.9. Maintain Firewall Configuration Domain 2 : Managing Object 2.1 Create and Maintain address & address group 2.2 Create and Maintain services & services group 2.3 Create and maintain external dynamic lists 2.4 Configure and maintain application filters and application Domain 3 : Policy Evaluation and Management 3.1 Develop the appropriate application-based Security policy 3.2 Differentiate specific security rule types 3.3 Configure security policy match conditions, actions, and logging options 3.4 Identify and implement proper NAT policies 3.5 Optimize Security policies using appropriate tools 3.6 Develop the appropriate application-based Security policy Domain 4 : Securing Traffic 4.1 Compare and contrast different types of Security 4.2 Create, modify, add, and apply the appropriate 4.3 Differentiate between Security profile actions 4.4 Use information available in logs 4.5 Enable DNS Security to control traffic based on domains 4.6 Create and deploy URL-filtering-based controls 4.7 Differentiate between group mapping and IP-to-user mapping"
+        ],
+        "raw": "Domain 1 : Device Management and Services 1.1. Firewall management interfaces 1.2. Provision Local Administrator 1.3. Assign Role-based authentication 1.4. Maintain Firewall Configuration 1.5. Security Zone Firewall 1.6. Identify and Configure Firewall interfaces 1.7. Maintain Virtual Router 1.8. Maintain Firewall Configuration 1.9. Maintain Firewall Configuration Domain 2 : Managing Object 2.1 Create and Maintain address & address group 2.2 Create and Maintain services & services group 2.3 Create and maintain external dynamic lists 2.4 Configure and maintain application filters and application Domain 3 : Policy Evaluation and Management 3.1 Develop the appropriate application-based Security policy 3.2 Differentiate specific security rule types 3.3 Configure security policy match conditions, actions, and logging options 3.4 Identify and implement proper NAT policies 3.5 Optimize Security policies using appropriate tools 3.6 Develop the appropriate application-based Security policy Domain 4 : Securing Traffic 4.1 Compare and contrast different types of Security 4.2 Create, modify, add, and apply the appropriate 4.3 Differentiate between Security profile actions 4.4 Use information available in logs 4.5 Enable DNS Security to control traffic based on domains 4.6 Create and deploy URL-filtering-based controls 4.7 Differentiate between group mapping and IP-to-user mapping",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Domain 1 : Device Management and Services 1.1. Firewall management interfaces 1.2. Provision Local Administrator 1.3. Assign Role-based authentication 1.4. Maintain Firewall Configuration 1.5. Security Zone Firewall 1.6. Identify and Configure Firewall interfaces 1.7. Maintain Virtual Router 1.8. Maintain Firewall Configuration 1.9. Maintain Firewall Configuration Domain 2 : Managing Object 2.1 Create and Maintain address & address group 2.2 Create and Maintain services & services group 2.3 Create and maintain external dynamic lists 2.4 Configure and maintain application filters and application Domain 3 : Policy Evaluation and Management 3.1 Develop the appropriate application-based Security policy 3.2 Differentiate specific security rule types 3.3 Configure security policy match conditions, actions, and logging options 3.4 Identify and implement proper NAT policies 3.5 Optimize Security policies using appropriate tools 3.6 Develop the appropriate application-based Security policy Domain 4 : Securing Traffic 4.1 Compare and contrast different types of Security 4.2 Create, modify, add, and apply the appropriate 4.3 Differentiate between Security profile actions 4.4 Use information available in logs 4.5 Enable DNS Security to control traffic based on domains 4.6 Create and deploy URL-filtering-based controls 4.7 Differentiate between group mapping and IP-to-user mapping",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Understanding the architecture and basic functions of Palo Alto firewalls to gain in-depth knowledge of the security platform.",
+      "Mastering the initial steps in configuring firewalls to meet network security needs quickly and efficiently.",
+      "Ability to develop and implement effective security policies to protect networks from various types of attacks.",
+      "Implementation of NAT techniques for IP address management and enhanced network security by gaining more control over traffic flow.",
+      "Identifying applications and controlling content to prevent application-based and content-based threats from entering the network.",
+      "Utilizing user identities for more granular access control and increased security.",
+      "Learning SSL Decryption concepts to understand the implementation of SSL decryption in monitoring and protecting encrypted traffic.",
+      "Leveraging WildFire cloud services for advanced threat detection and zero-day threat prevention to enhance network security proactively.",
+      "Getting hands-on experience through exercises and practical labs to deepen understanding and practical skills.",
+      "Focusing on developing analytical and troubleshooting skills to quickly identify and resolve network security issues.",
+      "Implementing DNS Security for protection against malicious domain resolution.",
+      "Utilizing URL filtering to control and block access to malicious or inappropriate websites.",
+      "Configuring zone protection to secure network zones from various types of threats."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+        "source_section": "Benefit",
+        "source_text": "Benefit After completing this course, you will be able to: Understanding the architecture and basic functions of Palo Alto firewalls to gain in-depth knowledge of the security platform. Mastering the initial steps in configuring firewalls to meet network security needs quickly and efficiently. Ability to develop and implement effective security policies to protect networks from various types of attacks. Implementation of NAT techniques for IP address management and enhanced network security by gaining more control over traffic flow. Identifying applications and controlling content to prevent application-based and content-based threats from entering the network. Utilizing user identities for more granular access control and increased security. Learning SSL Decryption concepts to understand the implementation of SSL decryption in monitoring and protecting encrypted traffic. Leveraging WildFire cloud services for advanced threat detection and zero-day threat prevention to enhance network security proactively. Getting hands-on experience through exercises and practical labs to deepen understanding and practical skills. Focusing on developing analytical and troubleshooting skills to quickly identify and resolve network security issues. Implementing DNS Security for protection against malicious domain resolution. Utilizing URL filtering to control and block access to malicious or inappropriate websites. Configuring zone protection to secure network zones from various types of threats.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Pengetahuan dasar jaringan (Network Fundamental)",
+      "Pemahaman tentang firewall"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/palo-alto-pcnsa/",
+        "source_section": "Prerequisites",
+        "source_text": "Prerequisites Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar jaringan (Network Fundamental) Pemahaman tentang firewall",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Palo Alto PCNSA",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Konsultasi Gratis Setelah Training (jika diperlukan, dapat dilanjutkan ke proyek). Fasilitas Lab yang Komprehensif untuk Praktik Langsung. Bergabung Gratis dengan Mailing List IDN, Mencari Informasi Kerja, dan Diskusi di Grup. Kebebasan Menggunakan Laboratorium di IDN di Luar Jam Training Khusus untuk Peserta Training. Gratis Menginap di Tempat Training untuk Peserta yang Berasal dari Luar Kota. Pembimbing oleh Trainer yang Bersertifikasi dan Berpengalaman di Bidang Palo Alto",
+      "items": [
+        "Fasilitas Lab yang Komprehensif untuk Praktik Langsung.",
+        "Bergabung Gratis dengan Mailing List IDN, Mencari Informasi Kerja, dan Diskusi di Grup.",
+        "Kebebasan Menggunakan Laboratorium di IDN di Luar Jam Training Khusus untuk Peserta Training.",
+        "Gratis Menginap di Tempat Training untuk Peserta yang Berasal dari Luar Kota.",
+        "Pembimbing oleh Trainer yang Bersertifikasi dan Berpengalaman di Bidang Palo Alto"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Kursus PCNSA (Palo Alto Networks Certified Network Security Administrator) dirancang untuk memberikan pengetahuan dan keterampilan mendalam yang diperlukan untuk mengkonfigurasi dan mengelola firewall Palo Alto Networks secara efektif. Melalui kombinasi teori dan praktik, peserta akan dilatih untuk menjadi administrator jaringan yang handal dan siap menghadapi tantangan keamanan yang kompleks. Program ini dirancang untuk administrator keamanan jaringan yang bertanggung jawab untuk mengelola dan mengamankan infrastruktur jaringan di organisasi dari semua skala. Dalam kursus ini, Anda akan mempelajari berbagai topik penting seperti pengenalan dan konfigurasi dasar firewall Palo Alto, manajemen lalu lintas jaringan, konfigurasi dan pemantauan keamanan, serta pengelolaan log dan laporan. Selain itu, Anda akan mendapatkan pemahaman mendalam tentang fitur-fitur seperti Security Policies, NAT (Network Address Translation), App-ID, Content-ID, User-ID, Decryption, Wildfire. Setelah menyelesaikan program PCNSA, peserta akan memiliki pemahaman komprehensif tentang teknologi keamanan jaringan dan mampu mengelola dan mengamankan infrastruktur jaringan secara efektif. Mereka juga akan dibekali dengan keterampilan dan pengetahuan yang diperlukan untuk menerapkan dan memelihara solusi Palo Alto Networks, memastikan bahwa organisasi mereka terlindungi dari ancaman dunia maya terkini. Jika Anda ingin meningkatkan kemampuan jaringan dan keamanan Anda, kursus PCNSA adalah pilihan yang terbaik untuk Anda.",
+      "items": []
+    },
+    {
+      "heading": "Prerequisites",
+      "semantic_type": "PREREQUISITES",
+      "content": "Syarat-syarat yang diperlukan sebelum mengikuti pelatihan ini: Pengetahuan dasar jaringan (Network Fundamental) Pemahaman tentang firewall",
+      "items": [
+        "Pengetahuan dasar jaringan (Network Fundamental)",
+        "Pemahaman tentang firewall"
+      ]
+    },
+    {
+      "heading": "Benefit",
+      "semantic_type": "BENEFITS",
+      "content": "After completing this course, you will be able to: Understanding the architecture and basic functions of Palo Alto firewalls to gain in-depth knowledge of the security platform. Mastering the initial steps in configuring firewalls to meet network security needs quickly and efficiently. Ability to develop and implement effective security policies to protect networks from various types of attacks. Implementation of NAT techniques for IP address management and enhanced network security by gaining more control over traffic flow. Identifying applications and controlling content to prevent application-based and content-based threats from entering the network. Utilizing user identities for more granular access control and increased security. Learning SSL Decryption concepts to understand the implementation of SSL decryption in monitoring and protecting encrypted traffic. Leveraging WildFire cloud services for advanced threat detection and zero-day threat prevention to enhance network security proactively. Getting hands-on experience through exercises and practical labs to deepen understanding and practical skills. Focusing on developing analytical and troubleshooting skills to quickly identify and resolve network security issues. Implementing DNS Security for protection against malicious domain resolution. Utilizing URL filtering to control and block access to malicious or inappropriate websites. Configuring zone protection to secure network zones from various types of threats.",
+      "items": [
+        "Understanding the architecture and basic functions of Palo Alto firewalls to gain in-depth knowledge of the security platform.",
+        "Mastering the initial steps in configuring firewalls to meet network security needs quickly and efficiently.",
+        "Ability to develop and implement effective security policies to protect networks from various types of attacks.",
+        "Implementation of NAT techniques for IP address management and enhanced network security by gaining more control over traffic flow.",
+        "Identifying applications and controlling content to prevent application-based and content-based threats from entering the network.",
+        "Utilizing user identities for more granular access control and increased security.",
+        "Learning SSL Decryption concepts to understand the implementation of SSL decryption in monitoring and protecting encrypted traffic.",
+        "Leveraging WildFire cloud services for advanced threat detection and zero-day threat prevention to enhance network security proactively.",
+        "Getting hands-on experience through exercises and practical labs to deepen understanding and practical skills.",
+        "Focusing on developing analytical and troubleshooting skills to quickly identify and resolve network security issues.",
+        "Implementing DNS Security for protection against malicious domain resolution.",
+        "Utilizing URL filtering to control and block access to malicious or inappropriate websites.",
+        "Configuring zone protection to secure network zones from various types of threats."
+      ]
+    },
+    {
+      "heading": "Profile Trainer",
+      "semantic_type": "TRAINER_DETAIL",
+      "content": "Oka Prasetiyo ( PCNSE, Fortinet NSE4, Fortinet NSE-7 Enterprise Firewall , CCNA, CCNP Enterprise, MTCINE )",
+      "items": []
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Domain 1 : Device Management and Services 1.1. Firewall management interfaces 1.2. Provision Local Administrator 1.3. Assign Role-based authentication 1.4. Maintain Firewall Configuration 1.5. Security Zone Firewall 1.6. Identify and Configure Firewall interfaces 1.7. Maintain Virtual Router 1.8. Maintain Firewall Configuration 1.9. Maintain Firewall Configuration Domain 2 : Managing Object 2.1 Create and Maintain address & address group 2.2 Create and Maintain services & services group 2.3 Create and maintain external dynamic lists 2.4 Configure and maintain application filters and application Domain 3 : Policy Evaluation and Management 3.1 Develop the appropriate application-based Security policy 3.2 Differentiate specific security rule types 3.3 Configure security policy match conditions, actions, and logging options 3.4 Identify and implement proper NAT policies 3.5 Optimize Security policies using appropriate tools 3.6 Develop the appropriate application-based Security policy Domain 4 : Securing Traffic 4.1 Compare and contrast different types of Security 4.2 Create, modify, add, and apply the appropriate 4.3 Differentiate between Security profile actions 4.4 Use information available in logs 4.5 Enable DNS Security to control traffic based on domains 4.6 Create and deploy URL-filtering-based controls 4.7 Differentiate between group mapping and IP-to-user mapping",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.500.000,- Rp. 3.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Palo Alto PCNSA",
+    "content_hash": "a422e4353690f2ab1f1ead56947ba8ac64105b596914fcb13bc679b5a68588f4",
+    "template_type": "BETTERDOCS"
+  }
+}

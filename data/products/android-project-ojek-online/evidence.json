@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Apa itu Kelas Project Ojek Online? Siapa sih yang tidak tau Go-Jek / Grab ? solusi untuk yang ngga mau macet dan ngga tau jalan ketika hendak bepergian. Kemudahan dan manfaat aplikasi yang diberikan membuat pengguna terus bergantung hingga menjadi kebutuhan. Selain menjadi pengguna, penasaran ngga sih gimana cara buatnya ? Kok bisa nampilin Map, memilih titik jemput dan titik tujuan, menggambar rute, menghitung tarif berdasarkan jarak dan banyak lagi ? Tenang…. dikelas Project Ojek Online IDN kita akan membahas itu semua. Sesuai dengan study kasusnya “Membuat Aplikasi Ojek Online” tidak hanya aplikasi untuk Penumpang tapi juga Aplikasi untuk Driver. Yap benar, kita akan membuat 2 aplikasi dikelas ini ! Lebih spesifiknya kita akan mempelajari penggunakan Google Maps API, Google Direction API, Google Place API, Firebase notifications, REST API, user login & register dan banyak lagi. Jika Anda seorang Pengembang yang hendak mengembangkan produk dengan kebutuhan yang sama dengan Project ini, Anda dapat langsung mengkonsultasikanya dengan Trainer ketika kelas berlangsung. Syarat Mengikuti Kelas Ojek Online ? Kelas Project Ojek Online akan lebih maksimal jika anda telah memenuhi point-point berikut : – Pernah mengikuti kelas Android dasar / Lanjutan – Memahami pemograman Android tingkat lanjutan – Memahami penggunaan REST API – Memahami tentang penggunaan Library – Memahami konsep CRUD menggunakan MySQL dan PHP – Memahami penggunaan Google API",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+      "source_section": "Biaya Investasi : Rp 3.000.000,-",
+      "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum DESIGN DATABASE & DEVELOP WEB SERVICE Perancangan dan pembuatan database ojek online Parsing dan akses data dari server ke android Pembuatan Web Service Login User dan Driver Pembuatan Web Service Terkait Booking ANDROID INTENT SERVICE Pengelanan Android Intent Service Penggunaan Android Intent Service GOOGLE MAPS API v2 Penganalan Maps Mendapatkan API Google Maps API V2 Panduan download dan menggunakan Google Play Service SDK Menampilkan Maps Menggunakan Android Maps API v2 dan MapFragment Menampilkan Lokasi Pengguna di Peta Menampilkan Marker dan InfoWindow di Peta Mendapatkan GoogleMap Asynchronous Menggunakan getMapAsync() pada Android Maps API v2 Menggunakan Map Toolbar pada android maps API v2 Menampilkan Area Polygon Menampilkan Rute Tercepat (Driving Direction) Antara Dua Koordinat pada Android Maps v2 Menampilkan Lokasi Driver dan Pengguna Terdekat Menghitung jarak lokasi awal dan tujuan GOOGLE CLOUD MESSAGING Pengelanan Google Cloud Messaging Pendaftaran Google Cloud Messaging Penggunaan Google Cloud Messaging untuk notifikasi order booking ANDROID SHARED PREPERENCES (SESSION MANAGER) Pengenalan Android Shared Preperences Penggunaan Android Shared Preferences",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+      "source_section": "Benefits",
+      "source_text": "Benefits – Dapat membuat aplikasi Ojek Online – Dapat memahami penggunaan Google API – Dapat memahami lebih dalam tentang REST API – Dapat mengimplementasikan Firebase untuk real project – Dapat berkonsultasi langsung dengan Trainer",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Asadullah Elhamasy (Mobile Developer, ATC android certified application developer) Tubagus Adhitya Permana (Certified Associate Android Developer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Page title",
+        "source_text": "Android Project Ojek Online",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Training registry",
+        "source_text": "Android",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/android-project-ojek-online/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/android-project-ojek-online/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MikroTik Certified Routing Engineer (MTCRE) , salah satu dari kelas MikroTik tingkat Mahir membahas topik tentang Routing dan Swithching. Diperuntukkan bagi mereka yang ingin mempelajari lebih lanjut tentang routing di MikroTik, untuk mengikuti training dan ujian sertifikasi MTCRE peserta harus telah lulus ujian MTCNA.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Connected Route Apa itu Connected Route Kegunaan Connected Route Flag DAC Connected Route LAB Static Route Kapan buat static route ? Apa beda nya DAS dan AS pada IP – Route + LAB Studi Kasus Static Route 1 + LAB Studi Kasus Static Route 2 + LAB Recursive Next Hop + LAB Failover kalau ada 2 ISP/lebih + LAB Loadbalance kalau ada 2 ISP/lebih + LAB Policy Routing + Mangle + LAB Route Type + LAB Time to Live + LAB Dynamic Routing Apa itu Dynamic Routing ? Static Route vs Dynamic Route + LAB IGP vs EGP Perbedaan RIP, OSPF, BGP Apa itu OSPF ? Cara kerja OSPF OSPF Single Area + LAB OSPF Multi-Area + LAB OSPF Virtual Link + LAB OSPF DR-BDR + LAB OSPF Network Type (PTP, NBMA, etc) + LAB OSPF Redistribution (Type1,Type2) + LAB OSPF Cost Calculation + LAB OSPF Failover + LAB OSPF Loadbalance + LAB OSPF Routing Filter + LAB VLAN Apa itu VLAN Bagaimana cara kerja VLAN Dengan VLAN vs Tanpa VLAN Vlan Access dan VLAN Trunk Studi Kasus VLAN + LAB VPN Apa itu VPN Perbedaan VPN satu dan lain nya di MikroTik Hubungkan Kantor Pusat – Cabang dengan VPN EoIP + LAB PPTP + LAB L2TP + LAB SSTP + LAB PPPoE + LAB OSPF over VPN MME",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Diharapkan peserta mahir membahas topik tentang Routing dan Swithching Peserta dapat mengerti konsep dan implementasi routing di mikrotik Peserta dapat memahami perbedaan setiap routing dynamic Peserta dapat mengimplementasikan best practice penggunakan setiap routing protocol di lapangan Peserta dapat melakukan analisa awal dan troubleshooting jika terjadi kesalahan dalam routing protocol",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA) Miftahul Huda (CCNA, MTCNA, MTCRE, MTCWE, UBWA, UBWS, UEWA) Mahesa Yudha Pratama (CCNP, MTCNA, MTCRE, MTCTCE, MTCWE, MTCINE, MTCSE, Mikrotik Certified Trainer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "source_section": "Mengapa Harus Training MTCRE di IDN ?",
+      "source_text": "Mengapa Harus Training MTCRE di IDN ? gratis karena gagal exam apabila memenuhi syarat mengulang",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+        "source_section": "Page title",
+        "source_text": "MIKROTIK MTCRE + EXAM",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+        "source_section": "Training registry",
+        "source_text": "Mikrotik",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcre/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/mikrotik-mtcre/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

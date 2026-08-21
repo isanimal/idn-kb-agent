@@ -1,0 +1,345 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Web Basic Programming",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/web-basic-programming/",
+          "source_section": "Page title",
+          "source_text": "Web Basic Programming",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Pemrograman Web",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/web-basic-programming/",
+          "source_section": "Training registry",
+          "source_text": "Pemrograman Web",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/web-basic-programming/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/web-basic-programming/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/web-basic-programming/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 2.000.000",
+        "amount": 2000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 1.500.000",
+        "amount": 1500000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Biaya Investasi : Rp 2.000.000 Rp 1.500.000",
+        "source_text": "Biaya Investasi : Rp 2.000.000 Rp 1.500.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+        ],
+        "raw": "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Gratis Mengulang training kapanpun",
+      "Video recording after training online",
+      "Sertifikat",
+      "Kaos",
+      "Modul",
+      "Goodie Bag, Notebook, dll",
+      "pemberitahuan lowongan kerja kepada peserta",
+      "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+      "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+      "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag, Notebook, dll pemberitahuan lowongan kerja kepada peserta Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": [
+      "Pemula yang ingin belajar programming dari nol",
+      "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+      "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Pemula yang ingin belajar programming dari nol Siapa pun yang tertarik untuk membangun website pribadi atau profesional Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Fahmi Nuradi (Google Certified & Web Developer) Tubagus Adhitya Permana (Web Developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Fahmi Nuradi (Google Certified & Web Developer) Tubagus Adhitya Permana (Web Developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/web-basic-programming/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Mempelajari Training Web Basic Programming",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Fundamental untuk Pengembangan Web: Mempelajari web basic programming memberikan Anda dasar yang kuat dalam bahasa pemrograman yang digunakan untuk membuat dan merancang situs web. Dengan memahami HTML, CSS, dan JavaScript, Anda akan memiliki kemampuan untuk membangun dan mengelola website secara efektif. Peluang Karier yang Luas: Dalam dunia yang semakin digital, permintaan untuk pengembang web terus meningkat. Menguasai dasar-dasar web programming membuka berbagai peluang karier, baik sebagai pengembang web, desainer UI/UX, atau bahkan freelancer. Meningkatkan Kreativitas: Mempelajari web programming memungkinkan Anda untuk menyalurkan kreativitas Anda. Anda bisa merancang dan membangun situs web yang sesuai dengan visi dan ide Anda sendiri, menjadikannya alat ekspresi yang efektif. Memahami Teknologi Modern: Dengan dasar pengetahuan dalam web programming, Anda akan lebih mudah memahami teknologi dan platform web modern yang lebih kompleks. Hal ini juga membantu Anda beradaptasi dengan cepat terhadap tren dan evolusi dalam industri. Meningkatkan Problem-Solving Skills: Proses belajar programming melatih Anda untuk berpikir kritis dan menyelesaikan masalah. Ini adalah keterampilan berharga yang dapat diterapkan di berbagai bidang, tidak hanya dalam pemrograman. Dasar untuk Pembelajaran Lanjutan: Web basic programming adalah langkah pertama menuju pemrograman yang lebih kompleks. Setelah menguasainya, Anda dapat melanjutkan untuk mempelajari framework, bahasa pemrograman lainnya, dan teknologi lanjutan seperti pengembangan aplikasi web. Membuat Proyek Pribadi: Dengan pengetahuan dasar ini, Anda dapat mulai membangun proyek pribadi, baik untuk hobi atau portofolio profesional. Ini menciptakan peluang untuk menunjukkan keterampilan Anda kepada calon pemberi kerja atau klien. Komunitas dan Dukungan: Dunia pengembangan web memiliki komunitas yang besar dan suportif. Anda dapat bergabung dengan berbagai forum, kursus online, dan kelompok belajar untuk terus berkembang dan mendapatkan bantuan saat Anda belajar. Dengan memahami dan menguasai Web Basic Programming, Anda akan memberdayakan diri untuk menjelajahi berbagai peluang dan teknologi yang ada di dunia digital ini!",
+      "items": [
+        "Fundamental untuk Pengembangan Web: Mempelajari web basic programming memberikan Anda dasar yang kuat dalam bahasa pemrograman yang digunakan untuk membuat dan merancang situs web. Dengan memahami HTML, CSS, dan JavaScript, Anda akan memiliki kemampuan untuk membangun dan mengelola website secara efektif.",
+        "Peluang Karier yang Luas: Dalam dunia yang semakin digital, permintaan untuk pengembang web terus meningkat. Menguasai dasar-dasar web programming membuka berbagai peluang karier, baik sebagai pengembang web, desainer UI/UX, atau bahkan freelancer.",
+        "Meningkatkan Kreativitas: Mempelajari web programming memungkinkan Anda untuk menyalurkan kreativitas Anda. Anda bisa merancang dan membangun situs web yang sesuai dengan visi dan ide Anda sendiri, menjadikannya alat ekspresi yang efektif.",
+        "Memahami Teknologi Modern: Dengan dasar pengetahuan dalam web programming, Anda akan lebih mudah memahami teknologi dan platform web modern yang lebih kompleks. Hal ini juga membantu Anda beradaptasi dengan cepat terhadap tren dan evolusi dalam industri.",
+        "Meningkatkan Problem-Solving Skills: Proses belajar programming melatih Anda untuk berpikir kritis dan menyelesaikan masalah. Ini adalah keterampilan berharga yang dapat diterapkan di berbagai bidang, tidak hanya dalam pemrograman.",
+        "Dasar untuk Pembelajaran Lanjutan: Web basic programming adalah langkah pertama menuju pemrograman yang lebih kompleks. Setelah menguasainya, Anda dapat melanjutkan untuk mempelajari framework, bahasa pemrograman lainnya, dan teknologi lanjutan seperti pengembangan aplikasi web.",
+        "Membuat Proyek Pribadi: Dengan pengetahuan dasar ini, Anda dapat mulai membangun proyek pribadi, baik untuk hobi atau portofolio profesional. Ini menciptakan peluang untuk menunjukkan keterampilan Anda kepada calon pemberi kerja atau klien.",
+        "Komunitas dan Dukungan: Dunia pengembangan web memiliki komunitas yang besar dan suportif. Anda dapat bergabung dengan berbagai forum, kursus online, dan kelompok belajar untuk terus berkembang dan mendapatkan bantuan saat Anda belajar."
+      ]
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Pemula yang ingin belajar programming dari nol Siapa pun yang tertarik untuk membangun website pribadi atau profesional Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+      "items": [
+        "Pemula yang ingin belajar programming dari nol",
+        "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+        "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Fahmi Nuradi (Google Certified & Web Developer) Tubagus Adhitya Permana (Web Developer)",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag, Notebook, dll pemberitahuan lowongan kerja kepada peserta Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+      "items": [
+        "Gratis Mengulang training kapanpun",
+        "Video recording after training online",
+        "Sertifikat",
+        "Kaos",
+        "Modul",
+        "Goodie Bag, Notebook, dll",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.000.000 Rp 1.500.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "Web Basic Programming",
+    "content_hash": "24e0aadd4485510e32279853ed4e2cc32a8f70155b3e101403a199970aa7aa18",
+    "template_type": "BETTERDOCS"
+  }
+}

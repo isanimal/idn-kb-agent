@@ -1,0 +1,306 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "ECIH (EC-Council Certified Incident Handler)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ecih/",
+          "source_section": "Page title",
+          "source_text": "ECIH (EC-Council Certified Incident Handler)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "EC-Council",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ecih/",
+          "source_section": "Training registry",
+          "source_text": "EC-Council",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ecih/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ecih/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ecih/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Pelatihan EC-Council ECIH (Certified Incident Handler) adalah program sertifikasi yang dirancang untuk memberikan pengetahuan dan keterampilan yang diperlukan dalam menangani dan merespons insiden keamanan siber. Sertifikasi ini sangat penting di era digital saat ini, di mana ancaman dan serangan terhadap sistem informasi menjadi semakin umum dan kompleks. ECIH berfokus pada teknik penanganan insiden keamanan siber, mulai dari identifikasi, mitigasi, hingga pemulihan pasca-serangan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ecih/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Pelatihan EC-Council ECIH (Certified Incident Handler) adalah program sertifikasi yang dirancang untuk memberikan pengetahuan dan keterampilan yang diperlukan dalam menangani dan merespons insiden keamanan siber. Sertifikasi ini sangat penting di era digital saat ini, di mana ancaman dan serangan terhadap sistem informasi menjadi semakin umum dan kompleks. ECIH berfokus pada teknik penanganan insiden keamanan siber, mulai dari identifikasi, mitigasi, hingga pemulihan pasca-serangan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ecih/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp. 15.000.000",
+      "amount": 15000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ecih/",
+        "source_section": "Biaya Investasi : Rp. 15.000.000",
+        "source_text": "Biaya Investasi : Rp. 15.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Module 01: Introduction to Incident Handling and Response",
+      "Module 02: Incident Handling and Response Process",
+      "Module 03: First Response",
+      "Module 04: Handling and Responding to Malware Incidents",
+      "Module 05: Handling and Responding to Email Security Incidents",
+      "Module 06: Handling and Responding to Network Security Incidents",
+      "Module 07: Handling and Responding to Web Application Security Incidents",
+      "Module 08: Handling and Responding to Cloud Security Incidents",
+      "Module 09: Handling and Responding to Insider Threats",
+      "Module 10: Handling and Responding to Endpoint Security Incidents"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ecih/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Module 01: Introduction to Incident Handling and Response Module 02: Incident Handling and Response Process Module 03: First Response Module 04: Handling and Responding to Malware Incidents Module 05: Handling and Responding to Email Security Incidents Module 06: Handling and Responding to Network Security Incidents Module 07: Handling and Responding to Web Application Security Incidents Module 08: Handling and Responding to Cloud Security Incidents Module 09: Handling and Responding to Insider Threats Module 10: Handling and Responding to Endpoint Security Incidents",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ecih/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ecih/",
+        "source_section": "Fasilitas Training",
+        "source_text": "Fasilitas Training Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Pelatihan EC-Council ECIH (Certified Incident Handler) adalah program sertifikasi yang dirancang untuk memberikan pengetahuan dan keterampilan yang diperlukan dalam menangani dan merespons insiden keamanan siber. Sertifikasi ini sangat penting di era digital saat ini, di mana ancaman dan serangan terhadap sistem informasi menjadi semakin umum dan kompleks. ECIH berfokus pada teknik penanganan insiden keamanan siber, mulai dari identifikasi, mitigasi, hingga pemulihan pasca-serangan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training dan mempelajari EC-Council ECIH (Certified Incident Handler)?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Berikut adalah beberapa alasan mengapa Anda harus mempelajari pelatihan EC-Council ECIH (Certified Incident Handler): Keterampilan dalam Penanganan Insiden : ECIH memberikan pengetahuan dan keterampilan yang diperlukan untuk menangani dan merespon insiden keamanan siber secara efektif. Ini penting untuk meminimalkan kerugian dan dampak dari serangan siber. Peningkatan Karir : Sertifikasi ECIH dapat meningkatkan peluang karir Anda di bidang keamanan siber. Banyak perusahaan mencari profesional yang terlatih dalam penanganan insiden. Standar Internasional : Sertifikasi ini diakui secara internasional, yang berarti keahlian Anda dapat dihargai di berbagai negara dan pasar kerja. Pemahaman Mendalam Tentang Keamanan Siber : Pelatihan ini mencakup berbagai aspek keamanan siber, termasuk identifikasi ancaman, analisis, dan penanggulangan insiden, memberikan pemahaman yang lebih baik tentang bagaimana melindungi organisasi dari serangan. Konsultasi dan Strategi Keamanan : Pelatihan ini juga membekali Anda dengan pengetahuan untuk memberikan konsultasi dan pengembangan strategi keamanan yang tepat untuk organisasi Anda. Jaringan Profesional : Bergabung dalam pelatihan ini memberi Anda kesempatan untuk bertemu dan berinteraksi dengan profesional lain di bidang keamanan siber, membuka jaringan yang dapat bermanfaat bagi karir Anda. Kesadaran tentang Regulasi dan Kebijakan : Anda akan mempelajari berbagai regulasi dan kebijakan terkait keamanan informasi, yang sangat penting untuk memastikan bahwa organisasi Anda mematuhi hukum dan standar yang berlaku. Simulasi dan Praktik Langsung : Banyak program ECIH mencakup studi kasus dan simulasi, memungkinkan peserta untuk menguji keterampilan mereka dalam lingkungan yang aman dan terkendali. Dengan mempelajari dan mendapatkan sertifikasi ECIH, Anda dapat menjadi aset yang berharga bagi organisasi yang berfokus pada keamanan siber, membantu mereka dalam mengidentifikasi, mencegah, dan menangani insiden keamanan secara efektif.",
+      "items": [
+        "Keterampilan dalam Penanganan Insiden : ECIH memberikan pengetahuan dan keterampilan yang diperlukan untuk menangani dan merespon insiden keamanan siber secara efektif. Ini penting untuk meminimalkan kerugian dan dampak dari serangan siber.",
+        "Peningkatan Karir : Sertifikasi ECIH dapat meningkatkan peluang karir Anda di bidang keamanan siber. Banyak perusahaan mencari profesional yang terlatih dalam penanganan insiden.",
+        "Standar Internasional : Sertifikasi ini diakui secara internasional, yang berarti keahlian Anda dapat dihargai di berbagai negara dan pasar kerja.",
+        "Pemahaman Mendalam Tentang Keamanan Siber : Pelatihan ini mencakup berbagai aspek keamanan siber, termasuk identifikasi ancaman, analisis, dan penanggulangan insiden, memberikan pemahaman yang lebih baik tentang bagaimana melindungi organisasi dari serangan.",
+        "Konsultasi dan Strategi Keamanan : Pelatihan ini juga membekali Anda dengan pengetahuan untuk memberikan konsultasi dan pengembangan strategi keamanan yang tepat untuk organisasi Anda.",
+        "Jaringan Profesional : Bergabung dalam pelatihan ini memberi Anda kesempatan untuk bertemu dan berinteraksi dengan profesional lain di bidang keamanan siber, membuka jaringan yang dapat bermanfaat bagi karir Anda.",
+        "Kesadaran tentang Regulasi dan Kebijakan : Anda akan mempelajari berbagai regulasi dan kebijakan terkait keamanan informasi, yang sangat penting untuk memastikan bahwa organisasi Anda mematuhi hukum dan standar yang berlaku.",
+        "Simulasi dan Praktik Langsung : Banyak program ECIH mencakup studi kasus dan simulasi, memungkinkan peserta untuk menguji keterampilan mereka dalam lingkungan yang aman dan terkendali."
+      ]
+    },
+    {
+      "heading": "Fasilitas Training",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "FREE Mengulang Training Sebanyak 2 kali",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)",
+      "items": [
+        "Aditya Firman Nugroho (MTCNA, MTCRE, MTCINE, MTCSE, CompTIA Pentest+, NSE1, NSE2, NSE3, NSE4,)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 01: Introduction to Incident Handling and Response Module 02: Incident Handling and Response Process Module 03: First Response Module 04: Handling and Responding to Malware Incidents Module 05: Handling and Responding to Email Security Incidents Module 06: Handling and Responding to Network Security Incidents Module 07: Handling and Responding to Web Application Security Incidents Module 08: Handling and Responding to Cloud Security Incidents Module 09: Handling and Responding to Insider Threats Module 10: Handling and Responding to Endpoint Security Incidents",
+      "items": [
+        "Module 01: Introduction to Incident Handling and Response",
+        "Module 02: Incident Handling and Response Process",
+        "Module 03: First Response",
+        "Module 04: Handling and Responding to Malware Incidents",
+        "Module 05: Handling and Responding to Email Security Incidents",
+        "Module 06: Handling and Responding to Network Security Incidents",
+        "Module 07: Handling and Responding to Web Application Security Incidents",
+        "Module 08: Handling and Responding to Cloud Security Incidents",
+        "Module 09: Handling and Responding to Insider Threats",
+        "Module 10: Handling and Responding to Endpoint Security Incidents"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp. 15.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "ECIH (EC-Council Certified Incident Handler)",
+    "content_hash": "4e6905254af5343436fa414c25d4a35816e9a58417312968227c0557201fbb88",
+    "template_type": "BETTERDOCS"
+  }
+}

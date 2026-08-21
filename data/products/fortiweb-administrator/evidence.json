@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Dalam kursus ini, Anda akan mempelajari cara menerapkan, mengonfigurasi, dan memecahkan masalah FortiWeb. Anda akan mempelajari konsep-konsep kunci keamanan aplikasi web, serta mengeksplorasi fitur-fitur perlindungan dan performanya. Anda akan mengalami simulasi lalu lintas dan serangan yang menggunakan aplikasi web nyata. Anda akan mempelajari cara mendistribusikan beban dari server virtual ke server nyata, sekaligus menerapkan logical parameters, memeriksa alur, dan mengamankan cookies sesi HTTP. Anda juga akan mempelajari cara melatih dan mengonfigurasi machine learning, serta cara mengonfigurasi perlindungan API dan bot mitigation.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "Biaya Investasi : Rp 3.000.000,-",
+      "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Initial Setup Basic Configuration Web Vulnerability Scanner Authentication and Access Control Signature Configuration DoS Attack Mitigation Machine Learning SSL/TLS Application Delivery Bot Mitigation Additional Configuration Troubleshooting",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "Objectives",
+      "source_text": "Objectives After completing this course, you will be able to: Define web application firewall and describe its role in the network Perform basic configuration and initial deployment Configure FortiWeb for deployment in a load balanced network environment Implement FortiWeb machine learning capabilities Configure and customize FortiWeb signatures Configure FortiWeb to protect against DoS and defacement attacks Configure API protection and bot mitigation Implement SSL/TLS encryption, including inspection and offloading Configure user authentication and access control features Configure FortiWeb to ensure PCI DSS compliance of your web applications Configure FortiWeb to perform caching and compression tasks Configure FortiWeb to perform HTTP content based routing, rewriting, and redirection Perform basic troubleshooting of FortiWeb",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "Prerequisites",
+      "source_text": "Prerequisites Untuk Prerequisites mengikuti training ini peserta minimal paham beberapa knowledge dibawah ini : You must have an understanding of the topics covered in FCP – FortiGate Administrator, or have equivalent experience. It is also recommended that you have an understanding of the following topics: HTTP protocol Basic knowledge of HTML, JavaScript, and server-side dynamic page languages, such as PHP Bagi yang belum memahami Prerequisites diatas, bisa mengikuti pembelajarannya terlebih dahulu melalui materi jaringan dasar, gratis melalui link berikut: https://lms.idn.id/courses/jaringan-dasar/",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Ari Pangarso (NSE7) Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Aditya Firman Nugroho (Security+, Pentest+, CySA+, MTCINE, NSE 4, eJPTv2)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+        "source_section": "Page title",
+        "source_text": "FortiWeb Administrator",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+        "source_section": "Training registry",
+        "source_text": "Fortinet",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/fortiweb-administrator/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/fortiweb-administrator/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

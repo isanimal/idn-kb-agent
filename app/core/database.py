@@ -70,6 +70,16 @@ class Database:
                     created_at TEXT NOT NULL,
                     updated_at TEXT NOT NULL
                 );
+                CREATE TABLE IF NOT EXISTS training_extractions (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    training_source_id INTEGER NOT NULL UNIQUE REFERENCES training_sources(id),
+                    canonical_url TEXT NOT NULL,
+                    status TEXT NOT NULL DEFAULT 'PENDING'
+                        CHECK(status IN ('PENDING','FETCHING','EXTRACTING','COMPLETED','PARTIAL','FAILED')),
+                    fetch_method TEXT, http_status INTEGER, content_hash TEXT, template_type TEXT,
+                    extracted_at TEXT, updated_at TEXT NOT NULL, retry_count INTEGER NOT NULL DEFAULT 0,
+                    last_error TEXT, facts_path TEXT, evidence_path TEXT, raw_snapshot_path TEXT
+                );
             """)
 
     def create_job(self, job_type: str, product_name: str | None = None,
@@ -170,3 +180,32 @@ class Database:
     def count_training_sources(self) -> int:
         with self._connect() as connection:
             return int(connection.execute("SELECT COUNT(*) FROM training_sources").fetchone()[0])
+
+    def list_training_sources(self) -> list[dict[str, Any]]:
+        with self._connect() as connection:
+            return [dict(row) for row in connection.execute("SELECT * FROM training_sources ORDER BY id")]
+
+    def get_training_extraction(self, training_source_id: int) -> dict[str, Any] | None:
+        with self._connect() as connection:
+            row = connection.execute("SELECT * FROM training_extractions WHERE training_source_id=?",
+                                     (training_source_id,)).fetchone()
+            return dict(row) if row else None
+
+    def upsert_training_extraction(self, training_source_id: int, canonical_url: str, status: str, **values: Any) -> None:
+        allowed = {"fetch_method", "http_status", "content_hash", "template_type", "extracted_at", "retry_count",
+                   "last_error", "facts_path", "evidence_path", "raw_snapshot_path"}
+        unknown = set(values) - allowed
+        if unknown: raise ValueError(f"Unknown extraction columns: {sorted(unknown)}")
+        now = _now()
+        columns = ["training_source_id", "canonical_url", "status", "updated_at", *values]
+        params = [training_source_id, canonical_url, status, now, *values.values()]
+        updates = ["canonical_url=excluded.canonical_url", "status=excluded.status", "updated_at=excluded.updated_at"]
+        updates += [f"{key}=excluded.{key}" for key in values]
+        with self._connect() as connection:
+            connection.execute(
+                f"INSERT INTO training_extractions ({','.join(columns)}) VALUES ({','.join('?' for _ in columns)}) "
+                f"ON CONFLICT(training_source_id) DO UPDATE SET {','.join(updates)}", params)
+
+    def list_training_extractions(self) -> list[dict[str, Any]]:
+        with self._connect() as connection:
+            return [dict(row) for row in connection.execute("SELECT * FROM training_extractions ORDER BY training_source_id")]

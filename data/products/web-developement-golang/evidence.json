@@ -1,0 +1,128 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Tingkatkan Skill dan Karir Anda dengan mengikuti pelatihan web development menggunakan golang!",
+      "source_text": "Tingkatkan Skill dan Karir Anda dengan mengikuti pelatihan web development menggunakan golang! Bergabunglah dengan kami dalam program pelatihan intensif ini dan tingkatkan keterampilan web development Anda menggunakan bahasa pemrograman Go (Golang). Dari pemula hingga mahir, kami siap bantu tingkatkan skill untuk kemajuan karir Anda.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Promo Berlaku Dalam",
+      "source_text": "Promo Berlaku Dalam 00 Hari 00 Jam 00 Menit 00 Detik",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Biaya Investasi Training Web Development Golang",
+      "source_text": "Biaya Investasi Training Web Development Golang",
+      "confidence": 1.0
+    },
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Rp 2.500.000,-",
+      "source_text": "Rp 2.500.000,-",
+      "confidence": 1.0
+    },
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Rp 2.000.000,-",
+      "source_text": "Rp 2.000.000,-",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Apa yang Akan Anda Pelajari?",
+      "source_text": "Apa yang Akan Anda Pelajari? MODUL 1 Pendahuluan Apa Itu Golang Sejarah Singkat Golang Kelebihan Golang Fitur Utama Golang Instalasi Golang Golang Dasar Go Command Membuat Project Golang Package dan Import Tipe Data & Tipe Data Khusus Variabel dan Const Konversi Tipe Data Type Assertions Operator Expression Function Closure Defer, Panic dan Recover Struct Pointer Access Modifier MODUL 2 Golang Web HTTP Handler Validation Routes Session Database MySQL Studi Kasus: Financial Record Authentication (Login & Register) Middleware Insert, Update, Delete data List data MODUL 3 Gin Framework Route HTTP Method (Get, Post, Put, Delete) Studi Kasus: Restful API (Application Programming Interface) Advance Configuration – Viper Go Object Relational Mapping (GORM) Validation Authentication (Login & Register) Middleware & JSON Web Token (JWT) Insert, Update, Delete data Pagination Redis API Response Standarization",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Fasilitas lengkap",
+      "source_text": "Fasilitas lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dan penginapan gratis.",
+      "confidence": 1.0
+    }
+  ],
+  "prerequisites": [],
+  "target_audiences": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+      "source_text": "Siapa yang Cocok Mengikuti Training Ini? Pemula dalam Pemrograman Jika Anda baru memulai perjalanan coding Anda, kami akan membimbing Anda dari dasar-dasar hingga mahir dalam pengembangan web menggunakan Golang. Developer yang Ingin Menguasai Golang Bagi Anda yang sudah memiliki pengalaman dalam bahasa pemrograman lain (seperti Java, Python, atau JavaScript) dan ingin memperluas keterampilan ke Golang, kami menyediakan materi yang dirancang untuk membantu Anda beradaptasi dengan cepat. Mahasiswa Teknologi Informasi Bagi mahasiswa yang mengambil jurusan Teknologi Informasi atau bidang terkait, pelatihan ini akan memberikan keunggulan dalam pengetahuan web development dan menambah nilai jual di pasar kerja. Software Engineer Jika Anda seorang software engineer yang ingin meningkatkan kompetensi dalam pengembangan aplikasi web atau microservices, pelatihan ini akan membantu Anda memahami dan memanfaatkan kekuatan Golang dalam membuat aplikasi yang efisien dan skalabel.",
+      "confidence": 1.0
+    }
+  ],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Trainer Bersertifikasi",
+      "source_text": "Trainer Bersertifikasi Trainer Bersertifikasi Internasional dan Berpengalaman mengajar di dalam maupun luar negeri.",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Proyek Praktis",
+      "source_text": "Proyek Praktis Kerjakan proyek nyata untuk membangun portofolio Anda.",
+      "confidence": 1.0
+    }
+  ],
+  "support_information": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan",
+      "source_text": "Sesi Tanya Jawab dan Dukungan Pasca-Pelatihan Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+      "confidence": 1.0
+    }
+  ],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/web-developement-golang/",
+      "source_section": "Free Mengulang",
+      "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat.",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Page title",
+        "source_text": "Web Developement Golang",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Training registry",
+        "source_text": "Pemrograman Web",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/web-developement-golang/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/web-developement-golang/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

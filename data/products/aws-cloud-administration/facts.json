@@ -1,0 +1,393 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "AWS CLOUD ADMINISTRATION",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+          "source_section": "Page title",
+          "source_text": "AWS CLOUD ADMINISTRATION",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Clouds",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+          "source_section": "Training registry",
+          "source_text": "Clouds",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/aws-cloud-administration/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/aws-cloud-administration/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Amazon Web Service (AWS) adalah salah satu layanan cloud-computing terkemuka di dunia dengan kekayaan fitur yang bisa dimanfaatkan bagi pengembangan teknologi perusahaan anda. Sekarang ini, banyak sekali perusahaan besar maupun start-up yang menggunakan layanan cloud dari AWS untuk menunjang kebutuhan infrastruktur mereka. Bagi anda yang ingin belajar mengenai administrasi pada AWS adalah langkah bagus untuk meningkatkan skill anda dalam berkarir. Dan IDN adalah alasan tepat untuk itu semua. Apabila anda memilih IDN sebagai training partner anda dalam menguasai administrasi dan menejemen AWS merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator AWS ketika telah selesai mengikuti training ini.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Amazon Web Service (AWS) adalah salah satu layanan cloud-computing terkemuka di dunia dengan kekayaan fitur yang bisa dimanfaatkan bagi pengembangan teknologi perusahaan anda. Sekarang ini, banyak sekali perusahaan besar maupun start-up yang menggunakan layanan cloud dari AWS untuk menunjang kebutuhan infrastruktur mereka. Bagi anda yang ingin belajar mengenai administrasi pada AWS adalah langkah bagus untuk meningkatkan skill anda dalam berkarir. Dan IDN adalah alasan tepat untuk itu semua. Apabila anda memilih IDN sebagai training partner anda dalam menguasai administrasi dan menejemen AWS merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator AWS ketika telah selesai mengikuti training ini.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Introduction to cloud computing",
+      "Advantages of cloud computing",
+      "Introduction to Amazon Web Services (AWS)",
+      "AWS Cloud Adoption Framework (AWS CAF)",
+      "Fundamental of pricing",
+      "Total Cost of Ownership",
+      "AWS Organization",
+      "AWS Billing and Cost Management",
+      "Technical Support",
+      "AWS Global Infrastructure",
+      "AWS service and service category overview",
+      "AWS shared responsibility model",
+      "AWS Identity and Access Management (IAM)",
+      "Securing a new AWS account",
+      "Securing account",
+      "Securing data on AWS",
+      "Working to ensure compliance",
+      "Network Basic",
+      "Amazon VPC",
+      "VPC Networking",
+      "VPC Security",
+      "Amazon Route53",
+      "Amazon CloudFront",
+      "Compute service overview",
+      "Amazon EC2",
+      "Amazon EC2 cost optimization",
+      "Container Service",
+      "Introduction to AWS Lambda",
+      "Introduction to AWS Elastic Beanstalk",
+      "Amazon Elastic Block Store (Amazon EBS)",
+      "Amazon Simple Storage Service (Amazon S3)",
+      "Amazon Elastic File System (Amazon EFS)",
+      "Amazon Simple Storage Service Glacier",
+      "Amazon Relational Database Service (Amazon RDS)",
+      "Amazon DynamoDB",
+      "Amazon Redshift",
+      "Amazon Aurora",
+      "AWS Well-Architected Framework",
+      "Reliability and high availability",
+      "AWS Trusted Advisor",
+      "Elastic Load Balancing",
+      "Amazon CloudWatch",
+      "Amazon EC2 Auto Scaling"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Cloud Concept Overview: Introduction to cloud computing Advantages of cloud computing Introduction to Amazon Web Services (AWS) AWS Cloud Adoption Framework (AWS CAF) Cloud Economic and Billing: Fundamental of pricing Total Cost of Ownership AWS Organization AWS Billing and Cost Management Technical Support AWS Global Infrastructure Overview: AWS Global Infrastructure AWS service and service category overview AWS Cloud Security: AWS shared responsibility model AWS Identity and Access Management (IAM) Securing a new AWS account Securing account Securing data on AWS Working to ensure compliance Networking and Content Delivery: Network Basic Amazon VPC VPC Networking VPC Security Amazon Route53 Amazon CloudFront Compute: Compute service overview Amazon EC2 Amazon EC2 cost optimization Container Service Introduction to AWS Lambda Introduction to AWS Elastic Beanstalk Storage: Amazon Elastic Block Store (Amazon EBS) Amazon Simple Storage Service (Amazon S3) Amazon Elastic File System (Amazon EFS) Amazon Simple Storage Service Glacier Database: Amazon Relational Database Service (Amazon RDS) Amazon DynamoDB Amazon Redshift Amazon Aurora Cloud Architecture: AWS Well-Architected Framework Reliability and high availability AWS Trusted Advisor Automastic Scaling and Monitoring: Elastic Load Balancing Amazon CloudWatch Amazon EC2 Auto Scaling",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta diharapkan setelah training mampu untuk melakukan administrasi dan manajemen pada AWS",
+      "Peserta dapat memahami langkah-langkah troubleshooting pada layanan cloud computing AWS",
+      "Peserta juga akan bergabung di grup WhatsApp TrainingAWS. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan AWS.",
+      "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung.",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "Peserta akan dipinjami akun AWS selama proses training berlangsung."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan administrasi dan manajemen pada AWS Peserta dapat memahami langkah-langkah troubleshooting pada layanan cloud computing AWS Peserta juga akan bergabung di grup WhatsApp TrainingAWS. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan AWS. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung. Peserta akan dipinjami akun AWS selama proses training berlangsung.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "AJi Mufti Zakaria (COA, CKA)",
+      "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer)",
+      "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+      "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+      "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Trainer",
+        "source_text": "Trainer AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/aws-cloud-administration/",
+        "source_section": "Mengapa harus training AWS Cloud Aministration di IDN ?",
+        "source_text": "Mengapa harus training AWS Cloud Aministration di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa harus training AWS Cloud Aministration di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung, peserta akan dipinjamkan akun AWS secara gratis",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Gratis mengulang training sebanyak 2x",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri",
+        "Selama training berlangsung, peserta akan dipinjamkan akun AWS secara gratis"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Amazon Web Service (AWS) adalah salah satu layanan cloud-computing terkemuka di dunia dengan kekayaan fitur yang bisa dimanfaatkan bagi pengembangan teknologi perusahaan anda. Sekarang ini, banyak sekali perusahaan besar maupun start-up yang menggunakan layanan cloud dari AWS untuk menunjang kebutuhan infrastruktur mereka. Bagi anda yang ingin belajar mengenai administrasi pada AWS adalah langkah bagus untuk meningkatkan skill anda dalam berkarir. Dan IDN adalah alasan tepat untuk itu semua. Apabila anda memilih IDN sebagai training partner anda dalam menguasai administrasi dan menejemen AWS merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill system administrator AWS ketika telah selesai mengikuti training ini.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta diharapkan setelah training mampu untuk melakukan administrasi dan manajemen pada AWS Peserta dapat memahami langkah-langkah troubleshooting pada layanan cloud computing AWS Peserta juga akan bergabung di grup WhatsApp TrainingAWS. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan AWS. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung. Peserta akan dipinjami akun AWS selama proses training berlangsung.",
+      "items": [
+        "Peserta diharapkan setelah training mampu untuk melakukan administrasi dan manajemen pada AWS",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada layanan cloud computing AWS",
+        "Peserta juga akan bergabung di grup WhatsApp TrainingAWS. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan AWS.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "Peserta akan dipinjami akun AWS selama proses training berlangsung."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "items": [
+        "AJi Mufti Zakaria (COA, CKA)",
+        "Moch Rafi Riadi (AWS SA, KCNA, CKA, CKAD, LINUX +, Microsoft Certified Trainer)",
+        "Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD)",
+        "Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA)",
+        "Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Cloud Concept Overview: Introduction to cloud computing Advantages of cloud computing Introduction to Amazon Web Services (AWS) AWS Cloud Adoption Framework (AWS CAF) Cloud Economic and Billing: Fundamental of pricing Total Cost of Ownership AWS Organization AWS Billing and Cost Management Technical Support AWS Global Infrastructure Overview: AWS Global Infrastructure AWS service and service category overview AWS Cloud Security: AWS shared responsibility model AWS Identity and Access Management (IAM) Securing a new AWS account Securing account Securing data on AWS Working to ensure compliance Networking and Content Delivery: Network Basic Amazon VPC VPC Networking VPC Security Amazon Route53 Amazon CloudFront Compute: Compute service overview Amazon EC2 Amazon EC2 cost optimization Container Service Introduction to AWS Lambda Introduction to AWS Elastic Beanstalk Storage: Amazon Elastic Block Store (Amazon EBS) Amazon Simple Storage Service (Amazon S3) Amazon Elastic File System (Amazon EFS) Amazon Simple Storage Service Glacier Database: Amazon Relational Database Service (Amazon RDS) Amazon DynamoDB Amazon Redshift Amazon Aurora Cloud Architecture: AWS Well-Architected Framework Reliability and high availability AWS Trusted Advisor Automastic Scaling and Monitoring: Elastic Load Balancing Amazon CloudWatch Amazon EC2 Auto Scaling",
+      "items": [
+        "Introduction to cloud computing",
+        "Advantages of cloud computing",
+        "Introduction to Amazon Web Services (AWS)",
+        "AWS Cloud Adoption Framework (AWS CAF)",
+        "Fundamental of pricing",
+        "Total Cost of Ownership",
+        "AWS Organization",
+        "AWS Billing and Cost Management",
+        "Technical Support",
+        "AWS Global Infrastructure",
+        "AWS service and service category overview",
+        "AWS shared responsibility model",
+        "AWS Identity and Access Management (IAM)",
+        "Securing a new AWS account",
+        "Securing account",
+        "Securing data on AWS",
+        "Working to ensure compliance",
+        "Network Basic",
+        "Amazon VPC",
+        "VPC Networking",
+        "VPC Security",
+        "Amazon Route53",
+        "Amazon CloudFront",
+        "Compute service overview",
+        "Amazon EC2",
+        "Amazon EC2 cost optimization",
+        "Container Service",
+        "Introduction to AWS Lambda",
+        "Introduction to AWS Elastic Beanstalk",
+        "Amazon Elastic Block Store (Amazon EBS)",
+        "Amazon Simple Storage Service (Amazon S3)",
+        "Amazon Elastic File System (Amazon EFS)",
+        "Amazon Simple Storage Service Glacier",
+        "Amazon Relational Database Service (Amazon RDS)",
+        "Amazon DynamoDB",
+        "Amazon Redshift",
+        "Amazon Aurora",
+        "AWS Well-Architected Framework",
+        "Reliability and high availability",
+        "AWS Trusted Advisor",
+        "Elastic Load Balancing",
+        "Amazon CloudWatch",
+        "Amazon EC2 Auto Scaling"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "AWS CLOUD ADMINISTRATION",
+    "content_hash": "2277349293e470e6baac56f45f61013ca3f67dc038d983e7a66500ef2f2e1f2e",
+    "template_type": "BETTERDOCS"
+  }
+}

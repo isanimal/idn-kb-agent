@@ -1,0 +1,14 @@
+{
+  "training_source_id": 9,
+  "canonical_url": "https://www.idn.id/training/mikrotik-mtcre/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "3e3bf8f0e2ef40f2d71fa140c6eb3464c17e91f16b098d621d7f2fec0dcf3487",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:12.262729+00:00",
+  "facts_path": "data\\products\\mikrotik-mtcre\\facts.json",
+  "evidence_path": "data\\products\\mikrotik-mtcre\\evidence.json",
+  "raw_snapshot_path": "data\\products\\mikrotik-mtcre\\raw.html",
+  "last_error": null
+}

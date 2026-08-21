@@ -1,0 +1,14 @@
+{
+  "training_source_id": 33,
+  "canonical_url": "https://www.idn.id/training/fortiweb-administrator/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "e4135180407843b64a77f968356f74da5bae59eea7417855f550eacd1737af6f",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:28.520964+00:00",
+  "facts_path": "data\\products\\fortiweb-administrator\\facts.json",
+  "evidence_path": "data\\products\\fortiweb-administrator\\evidence.json",
+  "raw_snapshot_path": "data\\products\\fortiweb-administrator\\raw.html",
+  "last_error": null
+}

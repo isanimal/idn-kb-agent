@@ -1,0 +1,293 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Fortinet NSE 7 – SD-WAN",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortinet-nse7/",
+          "source_section": "Page title",
+          "source_text": "Fortinet NSE 7 – SD-WAN",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Fortinet",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortinet-nse7/",
+          "source_section": "Training registry",
+          "source_text": "Fortinet",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/fortinet-nse7/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/fortinet-nse7/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/fortinet-nse7/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Fortinet NSE 7 (Network Security Architect) mengidentifikasi keterampilan tingkat lanjut Anda dalam menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet. Kurikulum ini menawarkan kursus untuk profesional jaringan dan keamanan yang terlibat dalam administrasi tingkat lanjut dan dukungan infrastruktur keamanan menggunakan solusi Fortinet.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse7/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Fortinet NSE 7 (Network Security Architect) mengidentifikasi keterampilan tingkat lanjut Anda dalam menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet. Kurikulum ini menawarkan kursus untuk profesional jaringan dan keamanan yang terlibat dalam administrasi tingkat lanjut dan dukungan infrastruktur keamanan menggunakan solusi Fortinet.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse7/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse7/",
+        "source_section": "Biaya Investasi : Rp 3.000.000,-",
+        "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": null,
+        "objective": null,
+        "items": [
+          "Lab 1 : Initial Configuration 1.1. Konfigurasi Internet dan MPLS Cloud 1.2. Konfigurasi FortiGate HQ dan Branch 1.3. Konfigurasi Docker HQ dan Branch 1.4. Konfigurasi Web Server dan R-Client 1.5. Verifikasi Konfigurasi Lab 2 : SD-WAN – Local Breakout 2.1. Konfigurasi FW-HQ 2.1.1. Konfigurasi SDWAN Member 2.1.2. Konfigurasi Static Route 2.1.3. Konfigurasi DNS Server 2.1.4. Konfigurasi Firewall Policy 2.1.5. Verifikasi Local Breakout pada Web-Server 2.2. Konfigurasi FW-BRANCH 2.2.1. Konfigurasi SDWAN Member 2.2.2. Konfigurasi Static Route 2.2.3. Konfigurasi DNS Server 2.2.4. Konfigurasi Firewall Policy 2.2.5. Verifikasi Local Breakout pada R-Client Lab 3 : Performance SLA 3.1. Konfigurasi FW-HQ 3.1.1. Konfigurasi Performance SLA 3.1.2. Verifikasi Performance SLA 3.2. Konfigurasi FW-BRANCH 3.2.1. Konfigurasi Performance SLA 3.2.2. Verifikasi Performance SLA Lab 4 : SD-WAN Rules 4.1. Konfigurasi FW-HQ 4.1.1. Konfigurasi SD-WAN Rules #Skenario 1 4.1.2. Verifikasi SD-WAN Rules #Skenario 1 4.1.3. Konfigurasi SD-WAN Rules #Skenario 2 4.1.4. Konfigurasi Static Route #Skenario 2 4.1.5. Konfigurasi Firewall Policy #Skenario 2 4.2. Konfigurasi FW-BRANCH 4.2.1. Konfigurasi SD-WAN Rules 4.2.2. Konfigurasi Static Route 4.2.3. Konfigurasi Firewall Policy 4.2.4. Verifikasi SD-WAN Rules Lab 5 : Traffic Shaping 5.1. Konfigurasi FW-BRANCH 5.1.1. Konfigurasi Traffic Shapers 5.1.2. Konfigurasi Traffic Shaping Policy 5.1.3. Verifikasi Pada Docker-Client1 Lab 6 : IPSec VPN 6.1. Konfigurasi FW-HQ 6.1.1. Konfigurasi Dialup IPSec 6.1.2. Konfigurasi SD-WAN Member 6.1.3. Konfigurasi SD-WAN Rules 6.1.4. Konfigurasi Firewall Policy 6.1.5. Konfigurasi Static Route 6.2. Konfigurasi FW-BRANCH 6.2.1. Konfigurasi IPSec VPN 6.2.2. Konfigurasi SD-WAN Member 6.2.3. Konfigurasi SD-WAN Rules 6.2.4. Konfigurasi Firewall Policy 6.2.5. Konfigurasi Static Route 6.2.6. Konfigurasi Performance SLA 6.2.7. Verifikasi IPSec VPN Lab 7 : Integration to FortiManager 7.1. Initial Configuration 7.1.1. Konfigurasi Dasar FortiManager 7.1.2. Add FW-BRANCH ke FMG-HQ 7.1.3. Add FW-HQ ke FMG-HQ 7.1.4. Konfigurasi Meta Fields 7.1.5. Konfigurasi Value to FortiGate Variabels 7.1.6. Konfigurasi CLI Script 7.1.7. Applying CLI template ke FW-BRANCH 7.1.8. Verifikasi pada FW-BRANCH Lab 8 : ADVPN 8.1. Konfigurasi FW-HUB 8.1.1. Initial Configuration 8.1.2. Konfigurasi ADVPN 8.1.3. Konfigurasi BGP Routing 8.1.4. Konfigurasi Firewall Policy 8.2. Konfigurasi Spoke-01 8.2.1. Initial Configuration 8.2.2. Konfigurasi ADVPN 8.2.3. Konfigurasi BGP Routing 8.2.4. Konfigurasi Firewall Policy 8.3. Konfigurasi Spoke-02 8.3.1. Initial Configuration 8.3.2. Konfigurasi ADVPN 8.3.3. Konfigurasi BGP Routing 8.3.4. Konfigurasi Firewall Policy 8.4. Verifikasi Pada HUB 8.5. Verifikasi Pada Spoke-01 8.6. Verifikasi Pada Spoke-02"
+        ],
+        "raw": "Lab 1 : Initial Configuration 1.1. Konfigurasi Internet dan MPLS Cloud 1.2. Konfigurasi FortiGate HQ dan Branch 1.3. Konfigurasi Docker HQ dan Branch 1.4. Konfigurasi Web Server dan R-Client 1.5. Verifikasi Konfigurasi Lab 2 : SD-WAN – Local Breakout 2.1. Konfigurasi FW-HQ 2.1.1. Konfigurasi SDWAN Member 2.1.2. Konfigurasi Static Route 2.1.3. Konfigurasi DNS Server 2.1.4. Konfigurasi Firewall Policy 2.1.5. Verifikasi Local Breakout pada Web-Server 2.2. Konfigurasi FW-BRANCH 2.2.1. Konfigurasi SDWAN Member 2.2.2. Konfigurasi Static Route 2.2.3. Konfigurasi DNS Server 2.2.4. Konfigurasi Firewall Policy 2.2.5. Verifikasi Local Breakout pada R-Client Lab 3 : Performance SLA 3.1. Konfigurasi FW-HQ 3.1.1. Konfigurasi Performance SLA 3.1.2. Verifikasi Performance SLA 3.2. Konfigurasi FW-BRANCH 3.2.1. Konfigurasi Performance SLA 3.2.2. Verifikasi Performance SLA Lab 4 : SD-WAN Rules 4.1. Konfigurasi FW-HQ 4.1.1. Konfigurasi SD-WAN Rules #Skenario 1 4.1.2. Verifikasi SD-WAN Rules #Skenario 1 4.1.3. Konfigurasi SD-WAN Rules #Skenario 2 4.1.4. Konfigurasi Static Route #Skenario 2 4.1.5. Konfigurasi Firewall Policy #Skenario 2 4.2. Konfigurasi FW-BRANCH 4.2.1. Konfigurasi SD-WAN Rules 4.2.2. Konfigurasi Static Route 4.2.3. Konfigurasi Firewall Policy 4.2.4. Verifikasi SD-WAN Rules Lab 5 : Traffic Shaping 5.1. Konfigurasi FW-BRANCH 5.1.1. Konfigurasi Traffic Shapers 5.1.2. Konfigurasi Traffic Shaping Policy 5.1.3. Verifikasi Pada Docker-Client1 Lab 6 : IPSec VPN 6.1. Konfigurasi FW-HQ 6.1.1. Konfigurasi Dialup IPSec 6.1.2. Konfigurasi SD-WAN Member 6.1.3. Konfigurasi SD-WAN Rules 6.1.4. Konfigurasi Firewall Policy 6.1.5. Konfigurasi Static Route 6.2. Konfigurasi FW-BRANCH 6.2.1. Konfigurasi IPSec VPN 6.2.2. Konfigurasi SD-WAN Member 6.2.3. Konfigurasi SD-WAN Rules 6.2.4. Konfigurasi Firewall Policy 6.2.5. Konfigurasi Static Route 6.2.6. Konfigurasi Performance SLA 6.2.7. Verifikasi IPSec VPN Lab 7 : Integration to FortiManager 7.1. Initial Configuration 7.1.1. Konfigurasi Dasar FortiManager 7.1.2. Add FW-BRANCH ke FMG-HQ 7.1.3. Add FW-HQ ke FMG-HQ 7.1.4. Konfigurasi Meta Fields 7.1.5. Konfigurasi Value to FortiGate Variabels 7.1.6. Konfigurasi CLI Script 7.1.7. Applying CLI template ke FW-BRANCH 7.1.8. Verifikasi pada FW-BRANCH Lab 8 : ADVPN 8.1. Konfigurasi FW-HUB 8.1.1. Initial Configuration 8.1.2. Konfigurasi ADVPN 8.1.3. Konfigurasi BGP Routing 8.1.4. Konfigurasi Firewall Policy 8.2. Konfigurasi Spoke-01 8.2.1. Initial Configuration 8.2.2. Konfigurasi ADVPN 8.2.3. Konfigurasi BGP Routing 8.2.4. Konfigurasi Firewall Policy 8.3. Konfigurasi Spoke-02 8.3.1. Initial Configuration 8.3.2. Konfigurasi ADVPN 8.3.3. Konfigurasi BGP Routing 8.3.4. Konfigurasi Firewall Policy 8.4. Verifikasi Pada HUB 8.5. Verifikasi Pada Spoke-01 8.6. Verifikasi Pada Spoke-02",
+        "structure_type": "RAW"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse7/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Lab 1 : Initial Configuration 1.1. Konfigurasi Internet dan MPLS Cloud 1.2. Konfigurasi FortiGate HQ dan Branch 1.3. Konfigurasi Docker HQ dan Branch 1.4. Konfigurasi Web Server dan R-Client 1.5. Verifikasi Konfigurasi Lab 2 : SD-WAN – Local Breakout 2.1. Konfigurasi FW-HQ 2.1.1. Konfigurasi SDWAN Member 2.1.2. Konfigurasi Static Route 2.1.3. Konfigurasi DNS Server 2.1.4. Konfigurasi Firewall Policy 2.1.5. Verifikasi Local Breakout pada Web-Server 2.2. Konfigurasi FW-BRANCH 2.2.1. Konfigurasi SDWAN Member 2.2.2. Konfigurasi Static Route 2.2.3. Konfigurasi DNS Server 2.2.4. Konfigurasi Firewall Policy 2.2.5. Verifikasi Local Breakout pada R-Client Lab 3 : Performance SLA 3.1. Konfigurasi FW-HQ 3.1.1. Konfigurasi Performance SLA 3.1.2. Verifikasi Performance SLA 3.2. Konfigurasi FW-BRANCH 3.2.1. Konfigurasi Performance SLA 3.2.2. Verifikasi Performance SLA Lab 4 : SD-WAN Rules 4.1. Konfigurasi FW-HQ 4.1.1. Konfigurasi SD-WAN Rules #Skenario 1 4.1.2. Verifikasi SD-WAN Rules #Skenario 1 4.1.3. Konfigurasi SD-WAN Rules #Skenario 2 4.1.4. Konfigurasi Static Route #Skenario 2 4.1.5. Konfigurasi Firewall Policy #Skenario 2 4.2. Konfigurasi FW-BRANCH 4.2.1. Konfigurasi SD-WAN Rules 4.2.2. Konfigurasi Static Route 4.2.3. Konfigurasi Firewall Policy 4.2.4. Verifikasi SD-WAN Rules Lab 5 : Traffic Shaping 5.1. Konfigurasi FW-BRANCH 5.1.1. Konfigurasi Traffic Shapers 5.1.2. Konfigurasi Traffic Shaping Policy 5.1.3. Verifikasi Pada Docker-Client1 Lab 6 : IPSec VPN 6.1. Konfigurasi FW-HQ 6.1.1. Konfigurasi Dialup IPSec 6.1.2. Konfigurasi SD-WAN Member 6.1.3. Konfigurasi SD-WAN Rules 6.1.4. Konfigurasi Firewall Policy 6.1.5. Konfigurasi Static Route 6.2. Konfigurasi FW-BRANCH 6.2.1. Konfigurasi IPSec VPN 6.2.2. Konfigurasi SD-WAN Member 6.2.3. Konfigurasi SD-WAN Rules 6.2.4. Konfigurasi Firewall Policy 6.2.5. Konfigurasi Static Route 6.2.6. Konfigurasi Performance SLA 6.2.7. Verifikasi IPSec VPN Lab 7 : Integration to FortiManager 7.1. Initial Configuration 7.1.1. Konfigurasi Dasar FortiManager 7.1.2. Add FW-BRANCH ke FMG-HQ 7.1.3. Add FW-HQ ke FMG-HQ 7.1.4. Konfigurasi Meta Fields 7.1.5. Konfigurasi Value to FortiGate Variabels 7.1.6. Konfigurasi CLI Script 7.1.7. Applying CLI template ke FW-BRANCH 7.1.8. Verifikasi pada FW-BRANCH Lab 8 : ADVPN 8.1. Konfigurasi FW-HUB 8.1.1. Initial Configuration 8.1.2. Konfigurasi ADVPN 8.1.3. Konfigurasi BGP Routing 8.1.4. Konfigurasi Firewall Policy 8.2. Konfigurasi Spoke-01 8.2.1. Initial Configuration 8.2.2. Konfigurasi ADVPN 8.2.3. Konfigurasi BGP Routing 8.2.4. Konfigurasi Firewall Policy 8.3. Konfigurasi Spoke-02 8.3.1. Initial Configuration 8.3.2. Konfigurasi ADVPN 8.3.3. Konfigurasi BGP Routing 8.3.4. Konfigurasi Firewall Policy 8.4. Verifikasi Pada HUB 8.5. Verifikasi Pada Spoke-01 8.6. Verifikasi Pada Spoke-02",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+      "Peserta mendapat skill yang dapat dimanfaatkan untuk menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet.",
+      "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional NSE"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse7/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet. Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional NSE",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Sahrul Hidayat ( Fortinet NSE-5 FortiManager, Fortinet NSE-5 FortiAnalyzer, Fortinet NSE-7 SDWAN, CCNA, CCNP Enterprise, CCNP Data Center Core, JNCIS-Enterprise, JNCIP-Data Center, PCNSE)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/fortinet-nse7/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Sahrul Hidayat ( Fortinet NSE-5 FortiManager, Fortinet NSE-5 FortiAnalyzer, Fortinet NSE-7 SDWAN, CCNA, CCNP Enterprise, CCNP Data Center Core, JNCIS-Enterprise, JNCIP-Data Center, PCNSE)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training Fortinet NSE 7 – SD-WAN di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Perangkat lengkap sehingga praktik secara langsung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Perangkat lengkap sehingga praktik secara langsung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Fortinet NSE 7 (Network Security Architect) mengidentifikasi keterampilan tingkat lanjut Anda dalam menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet. Kurikulum ini menawarkan kursus untuk profesional jaringan dan keamanan yang terlibat dalam administrasi tingkat lanjut dan dukungan infrastruktur keamanan menggunakan solusi Fortinet.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet. Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional NSE",
+      "items": [
+        "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk menerapkan, mengelola, dan memecahkan masalah solusi keamanan Fortinet.",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional NSE"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Sahrul Hidayat ( Fortinet NSE-5 FortiManager, Fortinet NSE-5 FortiAnalyzer, Fortinet NSE-7 SDWAN, CCNA, CCNP Enterprise, CCNP Data Center Core, JNCIS-Enterprise, JNCIP-Data Center, PCNSE)",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Lab 1 : Initial Configuration 1.1. Konfigurasi Internet dan MPLS Cloud 1.2. Konfigurasi FortiGate HQ dan Branch 1.3. Konfigurasi Docker HQ dan Branch 1.4. Konfigurasi Web Server dan R-Client 1.5. Verifikasi Konfigurasi Lab 2 : SD-WAN – Local Breakout 2.1. Konfigurasi FW-HQ 2.1.1. Konfigurasi SDWAN Member 2.1.2. Konfigurasi Static Route 2.1.3. Konfigurasi DNS Server 2.1.4. Konfigurasi Firewall Policy 2.1.5. Verifikasi Local Breakout pada Web-Server 2.2. Konfigurasi FW-BRANCH 2.2.1. Konfigurasi SDWAN Member 2.2.2. Konfigurasi Static Route 2.2.3. Konfigurasi DNS Server 2.2.4. Konfigurasi Firewall Policy 2.2.5. Verifikasi Local Breakout pada R-Client Lab 3 : Performance SLA 3.1. Konfigurasi FW-HQ 3.1.1. Konfigurasi Performance SLA 3.1.2. Verifikasi Performance SLA 3.2. Konfigurasi FW-BRANCH 3.2.1. Konfigurasi Performance SLA 3.2.2. Verifikasi Performance SLA Lab 4 : SD-WAN Rules 4.1. Konfigurasi FW-HQ 4.1.1. Konfigurasi SD-WAN Rules #Skenario 1 4.1.2. Verifikasi SD-WAN Rules #Skenario 1 4.1.3. Konfigurasi SD-WAN Rules #Skenario 2 4.1.4. Konfigurasi Static Route #Skenario 2 4.1.5. Konfigurasi Firewall Policy #Skenario 2 4.2. Konfigurasi FW-BRANCH 4.2.1. Konfigurasi SD-WAN Rules 4.2.2. Konfigurasi Static Route 4.2.3. Konfigurasi Firewall Policy 4.2.4. Verifikasi SD-WAN Rules Lab 5 : Traffic Shaping 5.1. Konfigurasi FW-BRANCH 5.1.1. Konfigurasi Traffic Shapers 5.1.2. Konfigurasi Traffic Shaping Policy 5.1.3. Verifikasi Pada Docker-Client1 Lab 6 : IPSec VPN 6.1. Konfigurasi FW-HQ 6.1.1. Konfigurasi Dialup IPSec 6.1.2. Konfigurasi SD-WAN Member 6.1.3. Konfigurasi SD-WAN Rules 6.1.4. Konfigurasi Firewall Policy 6.1.5. Konfigurasi Static Route 6.2. Konfigurasi FW-BRANCH 6.2.1. Konfigurasi IPSec VPN 6.2.2. Konfigurasi SD-WAN Member 6.2.3. Konfigurasi SD-WAN Rules 6.2.4. Konfigurasi Firewall Policy 6.2.5. Konfigurasi Static Route 6.2.6. Konfigurasi Performance SLA 6.2.7. Verifikasi IPSec VPN Lab 7 : Integration to FortiManager 7.1. Initial Configuration 7.1.1. Konfigurasi Dasar FortiManager 7.1.2. Add FW-BRANCH ke FMG-HQ 7.1.3. Add FW-HQ ke FMG-HQ 7.1.4. Konfigurasi Meta Fields 7.1.5. Konfigurasi Value to FortiGate Variabels 7.1.6. Konfigurasi CLI Script 7.1.7. Applying CLI template ke FW-BRANCH 7.1.8. Verifikasi pada FW-BRANCH Lab 8 : ADVPN 8.1. Konfigurasi FW-HUB 8.1.1. Initial Configuration 8.1.2. Konfigurasi ADVPN 8.1.3. Konfigurasi BGP Routing 8.1.4. Konfigurasi Firewall Policy 8.2. Konfigurasi Spoke-01 8.2.1. Initial Configuration 8.2.2. Konfigurasi ADVPN 8.2.3. Konfigurasi BGP Routing 8.2.4. Konfigurasi Firewall Policy 8.3. Konfigurasi Spoke-02 8.3.1. Initial Configuration 8.3.2. Konfigurasi ADVPN 8.3.3. Konfigurasi BGP Routing 8.3.4. Konfigurasi Firewall Policy 8.4. Verifikasi Pada HUB 8.5. Verifikasi Pada Spoke-01 8.6. Verifikasi Pada Spoke-02",
+      "items": []
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Fortinet NSE 7 – SD-WAN",
+    "content_hash": "884e2f4448b2bc76642c798d8351eafda2ac3458398722019f844e4241675c70",
+    "template_type": "BETTERDOCS"
+  }
+}

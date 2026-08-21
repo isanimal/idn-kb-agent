@@ -1,0 +1,371 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Training UniFi – UFSP",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+          "source_section": "Page title",
+          "source_text": "Training UniFi – UFSP",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Ubiquiti",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+          "source_section": "Training registry",
+          "source_text": "Ubiquiti",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/training-unifi-ufsp/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/training-unifi-ufsp/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "UniFi Full Stack Professional (UFSP) merupakan program pelatihan komprehensif dari Ubiquiti yang dirancang untuk para Network Engineer, System Administrator, IT Support, hingga profesional IT yang ingin menguasai implementasi ekosistem UniFi secara menyeluruh. Melalui training ini, peserta akan mempelajari bagaimana merancang, mengelola, dan melakukan troubleshooting jaringan berbasis UniFi mulai dari skala kecil hingga enterprise. Training UFSP memberikan pemahaman mendalam mengenai arsitektur UniFi, konsep manajemen terpusat, pengelolaan multi-site, hingga implementasi berbagai solusi UniFi seperti Network, Protect, Access, Connect, dan Identity. Tidak hanya teori, training ini juga mengombinasikan pembelajaran konsep dengan latihan praktikum dan studi kasus dunia nyata, sehingga peserta siap langsung mengaplikasikan di lingkungan produksi. Selama training, peserta akan diperkenalkan dengan berbagai komponen penting seperti Global Site Manager, Cloud Gateways, SD-WAN & Site Magic, serta pemanfaatan UniFi Controller untuk pengelolaan perangkat jaringan yang efisien dan terintegrasi. Peserta juga akan mempelajari bagaimana UniFi digunakan untuk membangun infrastruktur jaringan perusahaan, sekolah, kampus, hotel, retail, hingga lingkungan bisnis berskala besar dengan standar profesional. Untuk mengikuti training ini, disarankan peserta telah memiliki dasar pemahaman networking seperti IP addressing, VLAN, routing dasar, dan konsep wireless. NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training UniFi Full Stack Professional (UFSP) merupakan program pelatihan komprehensif dari Ubiquiti yang dirancang untuk para Network Engineer, System Administrator, IT Support, hingga profesional IT yang ingin menguasai implementasi ekosistem UniFi secara menyeluruh. Melalui training ini, peserta akan mempelajari bagaimana merancang, mengelola, dan melakukan troubleshooting jaringan berbasis UniFi mulai dari skala kecil hingga enterprise. Training UFSP memberikan pemahaman mendalam mengenai arsitektur UniFi, konsep manajemen terpusat, pengelolaan multi-site, hingga implementasi berbagai solusi UniFi seperti Network, Protect, Access, Connect, dan Identity. Tidak hanya teori, training ini juga mengombinasikan pembelajaran konsep dengan latihan praktikum dan studi kasus dunia nyata, sehingga peserta siap langsung mengaplikasikan di lingkungan produksi. Selama training, peserta akan diperkenalkan dengan berbagai komponen penting seperti Global Site Manager, Cloud Gateways, SD-WAN & Site Magic, serta pemanfaatan UniFi Controller untuk pengelolaan perangkat jaringan yang efisien dan terintegrasi. Peserta juga akan mempelajari bagaimana UniFi digunakan untuk membangun infrastruktur jaringan perusahaan, sekolah, kampus, hotel, retail, hingga lingkungan bisnis berskala besar dengan standar profesional. Untuk mengikuti training ini, disarankan peserta telah memiliki dasar pemahaman networking seperti IP addressing, VLAN, routing dasar, dan konsep wireless. NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 1.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "UniFi Overview",
+        "items": [
+          "Global Site Manager",
+          "Admin & User Management",
+          "Cloud Gateways",
+          "SD-WAN & Site Magic"
+        ]
+      },
+      {
+        "title": "Site Manager & Admins",
+        "items": []
+      },
+      {
+        "title": "Cloud Gateways",
+        "items": []
+      },
+      {
+        "title": "UniFi Applications",
+        "items": [
+          "UniFi Network",
+          "UniFi Protect",
+          "UniFi Access",
+          "UniFi Connect",
+          "UniFi Identity",
+          "UniFi Design Center"
+        ]
+      },
+      {
+        "title": "UniFi Identity",
+        "items": []
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum UniFi Overview Global Site Manager Admin & User Management Cloud Gateways SD-WAN & Site Magic Site Manager & Admins Cloud Gateways UniFi Applications UniFi Network UniFi Protect UniFi Access UniFi Connect UniFi Identity UniFi Design Center UniFi Identity",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Memahami konsep ekosistem UniFi secara menyeluruh",
+      "Mengelola site dan multi-site deployment dengan efektif",
+      "Mengimplementasikan berbagai aplikasi UniFi sesuai kebutuhan jaringan",
+      "Melakukan monitoring, maintenance, dan troubleshooting secara tepat"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Memahami konsep ekosistem UniFi secara menyeluruh Mengelola site dan multi-site deployment dengan efektif Mengimplementasikan berbagai aplikasi UniFi sesuai kebutuhan jaringan Melakukan monitoring, maintenance, dan troubleshooting secara tepat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Oky Tria Saputra, M.Kom ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+      "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "Mahesa Yudha Pratama (CCNP, MTCNA, MTCRE, MTCTCE, MTCWE, MTCINE, MTCSE, Mikrotik Certified Trainer)",
+      "Muhammad Ghaniyu Dzaky Ali (MTCNA, MTCRE, NSE4, MTCTCE, MTCSE, MTCINE)",
+      "At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Oky Tria Saputra, M.Kom ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Mahesa Yudha Pratama (CCNP, MTCNA, MTCRE, MTCTCE, MTCWE, MTCINE, MTCSE, Mikrotik Certified Trainer) Muhammad Ghaniyu Dzaky Ali (MTCNA, MTCRE, NSE4, MTCTCE, MTCSE, MTCINE) At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis mengulang training sebanyak 2x Free join mailing list IDN",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/training-unifi-ufsp/",
+        "source_section": "Mengapa Harus Training UniFi – UFSP di IDN ?",
+        "source_text": "Mengapa Harus Training UniFi – UFSP di IDN ? Gratis mengulang training sebanyak 2x Free join mailing list IDN",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "UniFi Full Stack Professional (UFSP) merupakan program pelatihan komprehensif dari Ubiquiti yang dirancang untuk para Network Engineer, System Administrator, IT Support, hingga profesional IT yang ingin menguasai implementasi ekosistem UniFi secara menyeluruh. Melalui training ini, peserta akan mempelajari bagaimana merancang, mengelola, dan melakukan troubleshooting jaringan berbasis UniFi mulai dari skala kecil hingga enterprise. Training UFSP memberikan pemahaman mendalam mengenai arsitektur UniFi, konsep manajemen terpusat, pengelolaan multi-site, hingga implementasi berbagai solusi UniFi seperti Network, Protect, Access, Connect, dan Identity. Tidak hanya teori, training ini juga mengombinasikan pembelajaran konsep dengan latihan praktikum dan studi kasus dunia nyata, sehingga peserta siap langsung mengaplikasikan di lingkungan produksi. Selama training, peserta akan diperkenalkan dengan berbagai komponen penting seperti Global Site Manager, Cloud Gateways, SD-WAN & Site Magic, serta pemanfaatan UniFi Controller untuk pengelolaan perangkat jaringan yang efisien dan terintegrasi. Peserta juga akan mempelajari bagaimana UniFi digunakan untuk membangun infrastruktur jaringan perusahaan, sekolah, kampus, hotel, retail, hingga lingkungan bisnis berskala besar dengan standar profesional. Untuk mengikuti training ini, disarankan peserta telah memiliki dasar pemahaman networking seperti IP addressing, VLAN, routing dasar, dan konsep wireless. NOTE: Jika masih pemula atau awam di bidang Jaringan Komputer, disarankan untuk mempelajari materi Network Fundamentals terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/jaringan-dasar/",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training UniFi – UFSP di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek. Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung. Gratis mengulang training sebanyak 2x Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia.",
+      "items": [
+        "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek.",
+        "Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung.",
+        "Gratis mengulang training sebanyak 2x",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia."
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Memahami konsep ekosistem UniFi secara menyeluruh Mengelola site dan multi-site deployment dengan efektif Mengimplementasikan berbagai aplikasi UniFi sesuai kebutuhan jaringan Melakukan monitoring, maintenance, dan troubleshooting secara tepat",
+      "items": [
+        "Memahami konsep ekosistem UniFi secara menyeluruh",
+        "Mengelola site dan multi-site deployment dengan efektif",
+        "Mengimplementasikan berbagai aplikasi UniFi sesuai kebutuhan jaringan",
+        "Melakukan monitoring, maintenance, dan troubleshooting secara tepat"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Oky Tria Saputra, M.Kom ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Mahesa Yudha Pratama (CCNP, MTCNA, MTCRE, MTCTCE, MTCWE, MTCINE, MTCSE, Mikrotik Certified Trainer) Muhammad Ghaniyu Dzaky Ali (MTCNA, MTCRE, NSE4, MTCTCE, MTCSE, MTCINE) At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS)",
+      "items": [
+        "Oky Tria Saputra, M.Kom ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+        "Miftahul Huda, M.Kom (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+        "Mahesa Yudha Pratama (CCNP, MTCNA, MTCRE, MTCTCE, MTCWE, MTCINE, MTCSE, Mikrotik Certified Trainer)",
+        "Muhammad Ghaniyu Dzaky Ali (MTCNA, MTCRE, NSE4, MTCTCE, MTCSE, MTCINE)",
+        "At-thoriq Firdaus Ramadhan (MTCNA,MTCRE,MTCTCE,MTCSE,MTCUME,MTCWE,MTCIPv6,MTCINE,CCNA-Enterprise, CCNP-Enterprise, JNCIA-Junos, JNCIS-SP, NSE4, UEWA, UBWA, RCNA-RS)"
+      ]
+    },
+    {
+      "heading": "Testimoni Peserta Training",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Sesuai jadwal, materi yang dibutuhkan sesuai dengan ujian sertifikasi, cukup menghibur dan cukup jelas dalam memberikan materi, cukup lengkap untuk memahami dasar dari mikrotik”, Azizi “Praktek langsung ke Network Device, Materi yang disampaikan mudah dipahami, Materi langsung ke praktek lab”, Arie Sampurno",
+      "items": []
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "UniFi Overview Global Site Manager Admin & User Management Cloud Gateways SD-WAN & Site Magic Site Manager & Admins Cloud Gateways UniFi Applications UniFi Network UniFi Protect UniFi Access UniFi Connect UniFi Identity UniFi Design Center UniFi Identity",
+      "items": [
+        {
+          "title": "UniFi Overview",
+          "items": [
+            "Global Site Manager",
+            "Admin & User Management",
+            "Cloud Gateways",
+            "SD-WAN & Site Magic"
+          ]
+        },
+        {
+          "title": "Site Manager & Admins",
+          "items": []
+        },
+        {
+          "title": "Cloud Gateways",
+          "items": []
+        },
+        {
+          "title": "UniFi Applications",
+          "items": [
+            "UniFi Network",
+            "UniFi Protect",
+            "UniFi Access",
+            "UniFi Connect",
+            "UniFi Identity",
+            "UniFi Design Center"
+          ]
+        },
+        {
+          "title": "UniFi Identity",
+          "items": []
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "1 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Training UniFi – UFSP",
+    "content_hash": "1d727e2697102d7e080686a965e812e0937845f1ccecb3b2c1986b89329ed882",
+    "template_type": "BETTERDOCS"
+  }
+}

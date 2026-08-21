@@ -1,0 +1,769 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Content Creator & Social Media Mastery",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+          "source_section": "Page title",
+          "source_text": "Content Creator & Social Media Mastery",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Content Creator",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+          "source_section": "Training registry",
+          "source_text": "Content Creator",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/content-creator-social-media-mastery/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/content-creator-social-media-mastery/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Jago Jadi Content Creator & Kuasai Social Media Tanpa Ribet - Bahkan Jika Anda Mulai dari Nol",
+        "source_text": "Jago Jadi Content Creator & Kuasai Social Media Tanpa Ribet - Bahkan Jika Anda Mulai dari Nol Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Biaya Investasi Content Creator & Social Media Mastery Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Content Creator & Social Media Mastery Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 1,5 JT",
+      "amount": 1500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Content Creator & Social Media Mastery Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "DAY 1",
+        "objective": null,
+        "items": [
+          {
+            "title": "1. Pengenalan Dunia Konten Digital",
+            "items": [
+              "Mengapa konten menjadi aset penting di era digital?",
+              "Peran content creator dalam kebutuhan personal branding & bisnis",
+              "Sosial media sebagai media distribusi utama saat ini",
+              "Pengenalan jenis-jenis konten video"
+            ]
+          },
+          {
+            "title": "2. Planning Konten",
+            "items": [
+              "Menetapkan tujuan konten",
+              "Menentukan target audiens yang tepat",
+              "Memahami apa itu niche dan mengapa penting",
+              "Menentukan niche yang sesuai dengan minat dan potensi",
+              "Menyiapkan ide konten yang relevan dan berkelanjutan",
+              "Praktik menentukan tujuan & niche konten"
+            ]
+          },
+          {
+            "title": "3. Content Pillar sebagai Fondasi Strategi Konten",
+            "items": [
+              "Pengertian content pillar dan fungsinya",
+              "Jenis-jenis content pillar",
+              "Manfaat content pillar dalam menjaga konsistensi konten",
+              "Menyusun content plan mingguan dan bulanan",
+              "Pemanfaatan AI & Canva untuk membantu perencanaan konten",
+              "Praktik membuat content plan sederhana"
+            ]
+          },
+          {
+            "title": "4. Pembuatan Script & Copywriting Konten",
+            "items": [
+              "Elemen penting dari konten yang efektif",
+              "Teknik membuat hook di 3 detik awal",
+              "Teknik penulisan naskah promosi dengan metode AIDA",
+              "Teknik menambahkan Call to Action (CTA) yang tepat",
+              "Membuat caption konten dengan bantuan AI",
+              "Praktik menulis script dan caption konten"
+            ]
+          },
+          {
+            "title": "5. Persiapan Produksi Konten (Pra-Produksi)",
+            "items": [
+              "Pengenalan tim produksi konten (content strategist, talent, editor, clipper)",
+              "Peralatan ngonten",
+              "Persiapan aset konten dan branding",
+              "Cara menggunakan aset dari sumber lain secara legal",
+              "Backup data dan manajemen file konten"
+            ]
+          },
+          {
+            "title": "6. Teknik Shooting Konten Menggunakan Smartphone",
+            "items": [
+              "Jenis angle & shot video",
+              "Gerakan kamera dan gerakan objek",
+              "Tips berbicara di depan kamera agar lebih percaya diri",
+              "Teknik voice over agar penonton betah menonton",
+              "Praktik shooting konten"
+            ]
+          }
+        ],
+        "raw": "",
+        "structure_type": "DAY_BASED"
+      },
+      {
+        "title": "DAY 2",
+        "objective": null,
+        "items": [
+          {
+            "title": "7. Praktik Editing Video Menggunakan CapCut",
+            "items": [
+              "Pengenalan aplikasi CapCut",
+              "Teknik cutting dan penyusunan alur video",
+              "Menambahkan elemen pendukung (teks, musik, transisi, efek)",
+              "Tips menjaga pace video agar tidak membosankan",
+              "Edit video dengan bantuan AI",
+              "Peningkatan kualitas audio",
+              "Pengenalan tools AI video",
+              "Praktik editing video"
+            ]
+          },
+          {
+            "title": "8. Desain Visual Pendukung Konten",
+            "items": [
+              "Pentingnya visual dalam konten digital",
+              "Desain thumbnail dan sampul video menggunakan Canva",
+              "Menjaga konsistensi branding visual",
+              "Praktik membuat thumbnail konten"
+            ]
+          },
+          {
+            "title": "9. Pengenalan Peran Clipper Konten",
+            "items": [
+              "Apa itu clipper dan perannya dalam tim konten",
+              "Cara mengambil bagian penting (highlight) dari video panjang",
+              "Teknik clipping untuk TikTok, Reels, dan Shorts",
+              "Alur kerja clipper konten",
+              "Praktik membuat konten short dari video panjang"
+            ]
+          },
+          {
+            "title": "10. Strategi Upload, Distribusi & Pasca Produksi Konten",
+            "items": [
+              "Waktu upload dan konsistensi posting",
+              "Cara kerja algoritma TikTok secara sederhana",
+              "4 cara konten lebih mudah dikenali algoritma TikTok",
+              "Basic SEO konten",
+              "Perbandingan quantity vs quality",
+              "Strategi promosi konten dan iklan"
+            ]
+          },
+          {
+            "title": "11. Optimasi Akun Sosial Media",
+            "items": [
+              "Mengoptimalkan profil dan bio akun",
+              "Cara membuat akun terlihat aktif dan kredibel",
+              "Pemanfaatan fitur pin dan highlight",
+              "Optimasi akun TikTok & Instagram",
+              "Praktik optimasi akun sosial media"
+            ]
+          },
+          {
+            "title": "12. Evaluasi & Analisa Konten",
+            "items": [
+              "Cara mengukur keberhasilan konten dan iklan",
+              "Membaca insight dan performa konten",
+              "Perbedaan FYP dan PYP",
+              "Tips evaluasi konten untuk kebutuhan marketing",
+              "Strategi perbaikan konten selanjutnya"
+            ]
+          },
+          {
+            "title": "13. Monetisasi Konten Digital",
+            "items": [
+              "Pengertian dan tujuan monetisasi konten",
+              "Platform yang menyediakan fitur monetisasi",
+              "Model monetisasi konten yang umum digunakan",
+              "Strategi awal monetisasi untuk content creator pemula"
+            ]
+          },
+          {
+            "title": "14. Hak Cipta & Etika di Dunia Konten",
+            "items": [
+              "Pengenalan dasar hak cipta",
+              "Etika dalam membuat dan membagikan konten",
+              "Cara menggunakan musik, gambar, dan video dari sumber lain secara legal",
+              "Risiko dan contoh pelanggaran yang sering terjadi"
+            ]
+          }
+        ],
+        "raw": "",
+        "structure_type": "DAY_BASED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Silabus Training",
+        "source_text": "Silabus Training DAY 1 1. Pengenalan Dunia Konten Digital Mengapa konten menjadi aset penting di era digital? Peran content creator dalam kebutuhan personal branding & bisnis Sosial media sebagai media distribusi utama saat ini Pengenalan jenis-jenis konten video 2. Planning Konten Menetapkan tujuan konten Menentukan target audiens yang tepat Memahami apa itu niche dan mengapa penting Menentukan niche yang sesuai dengan minat dan potensi Menyiapkan ide konten yang relevan dan berkelanjutan Praktik menentukan tujuan & niche konten 3. Content Pillar sebagai Fondasi Strategi Konten Pengertian content pillar dan fungsinya Jenis-jenis content pillar Manfaat content pillar dalam menjaga konsistensi konten Menyusun content plan mingguan dan bulanan Pemanfaatan AI & Canva untuk membantu perencanaan konten Praktik membuat content plan sederhana 4. Pembuatan Script & Copywriting Konten Elemen penting dari konten yang efektif Teknik membuat hook di 3 detik awal Teknik penulisan naskah promosi dengan metode AIDA Teknik menambahkan Call to Action (CTA) yang tepat Membuat caption konten dengan bantuan AI Praktik menulis script dan caption konten 5. Persiapan Produksi Konten (Pra-Produksi) Pengenalan tim produksi konten (content strategist, talent, editor, clipper) Peralatan ngonten Persiapan aset konten dan branding Cara menggunakan aset dari sumber lain secara legal Backup data dan manajemen file konten 6. Teknik Shooting Konten Menggunakan Smartphone Jenis angle & shot video Gerakan kamera dan gerakan objek Tips berbicara di depan kamera agar lebih percaya diri Teknik voice over agar penonton betah menonton Praktik shooting konten DAY 2 7. Praktik Editing Video Menggunakan CapCut Pengenalan aplikasi CapCut Teknik cutting dan penyusunan alur video Menambahkan elemen pendukung (teks, musik, transisi, efek) Tips menjaga pace video agar tidak membosankan Edit video dengan bantuan AI Peningkatan kualitas audio Pengenalan tools AI video Praktik editing video 8. Desain Visual Pendukung Konten Pentingnya visual dalam konten digital Desain thumbnail dan sampul video menggunakan Canva Menjaga konsistensi branding visual Praktik membuat thumbnail konten 9. Pengenalan Peran Clipper Konten Apa itu clipper dan perannya dalam tim konten Cara mengambil bagian penting (highlight) dari video panjang Teknik clipping untuk TikTok, Reels, dan Shorts Alur kerja clipper konten Praktik membuat konten short dari video panjang 10. Strategi Upload, Distribusi & Pasca Produksi Konten Waktu upload dan konsistensi posting Cara kerja algoritma TikTok secara sederhana 4 cara konten lebih mudah dikenali algoritma TikTok Basic SEO konten Perbandingan quantity vs quality Strategi promosi konten dan iklan 11. Optimasi Akun Sosial Media Mengoptimalkan profil dan bio akun Cara membuat akun terlihat aktif dan kredibel Pemanfaatan fitur pin dan highlight Optimasi akun TikTok & Instagram Praktik optimasi akun sosial media 12. Evaluasi & Analisa Konten Cara mengukur keberhasilan konten dan iklan Membaca insight dan performa konten Perbedaan FYP dan PYP Tips evaluasi konten untuk kebutuhan marketing Strategi perbaikan konten selanjutnya 13. Monetisasi Konten Digital Pengertian dan tujuan monetisasi konten Platform yang menyediakan fitur monetisasi Model monetisasi konten yang umum digunakan Strategi awal monetisasi untuk content creator pemula 14. Hak Cipta & Etika di Dunia Konten Pengenalan dasar hak cipta Etika dalam membuat dan membagikan konten Cara menggunakan musik, gambar, dan video dari sumber lain secara legal Risiko dan contoh pelanggaran yang sering terjadi",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffe Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Fasilitas Lengkap",
+        "source_text": "Fasilitas Lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Siapa yang cocok ikut training ini:",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Siapa yang cocok ikut training ini:",
+        "source_text": "Siapa yang cocok ikut training ini:",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Trainer Tersertifikasi",
+        "source_text": "Trainer Tersertifikasi Trainer bersertifikasi, praktisi, dan berpengalaman mengajar",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "After sales yang baik",
+        "source_text": "After sales yang baik After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang Training 2 Kali tanpa syarat",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+        "source_section": "Free Mengulang",
+        "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Jago Jadi Content Creator & Kuasai Social Media Tanpa Ribet - Bahkan Jika Anda Mulai dari Nol",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital. Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Apakah Anda pernah merasa:",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Training Content Creator & Social Media Mastery dirancang untuk membantu Anda:",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Memahami mindset dan strategi content creator profesional",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membuat konten yang relevan dan powerful",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Mengoptimalkan algoritma social media",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membangun personal branding yang kuat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Mengubah hobi menjadi peluang income",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Siapa yang cocok ikut training ini:",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Training di IDNetworkers :",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training di IDN",
+      "items": []
+    },
+    {
+      "heading": "Free Mengulang",
+      "semantic_type": "REPEAT_POLICY",
+      "content": "Gratis Mengulang Training 2 Kali tanpa syarat",
+      "items": []
+    },
+    {
+      "heading": "Menginap Gratis",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Peserta training diperbolehkan menginap di lokasi pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Materi lengkap & update",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi terlengkap dan terupdate disesuaikan dengan trend dan algoritma terbaru dari sosial media, bukan hanya materi tapi praktik secara langsung",
+      "items": []
+    },
+    {
+      "heading": "Murah & Berkualitas",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi Berkualitas dan Harga Training Termurah untuk sekelas training content creator",
+      "items": []
+    },
+    {
+      "heading": "Trainer Tersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer bersertifikasi, praktisi, dan berpengalaman mengajar",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+      "items": []
+    },
+    {
+      "heading": "After sales yang baik",
+      "semantic_type": "SUPPORT",
+      "content": "After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "items": []
+    },
+    {
+      "heading": "Silabus Training",
+      "semantic_type": "CURRICULUM",
+      "content": "DAY 1 1. Pengenalan Dunia Konten Digital Mengapa konten menjadi aset penting di era digital? Peran content creator dalam kebutuhan personal branding & bisnis Sosial media sebagai media distribusi utama saat ini Pengenalan jenis-jenis konten video 2. Planning Konten Menetapkan tujuan konten Menentukan target audiens yang tepat Memahami apa itu niche dan mengapa penting Menentukan niche yang sesuai dengan minat dan potensi Menyiapkan ide konten yang relevan dan berkelanjutan Praktik menentukan tujuan & niche konten 3. Content Pillar sebagai Fondasi Strategi Konten Pengertian content pillar dan fungsinya Jenis-jenis content pillar Manfaat content pillar dalam menjaga konsistensi konten Menyusun content plan mingguan dan bulanan Pemanfaatan AI & Canva untuk membantu perencanaan konten Praktik membuat content plan sederhana 4. Pembuatan Script & Copywriting Konten Elemen penting dari konten yang efektif Teknik membuat hook di 3 detik awal Teknik penulisan naskah promosi dengan metode AIDA Teknik menambahkan Call to Action (CTA) yang tepat Membuat caption konten dengan bantuan AI Praktik menulis script dan caption konten 5. Persiapan Produksi Konten (Pra-Produksi) Pengenalan tim produksi konten (content strategist, talent, editor, clipper) Peralatan ngonten Persiapan aset konten dan branding Cara menggunakan aset dari sumber lain secara legal Backup data dan manajemen file konten 6. Teknik Shooting Konten Menggunakan Smartphone Jenis angle & shot video Gerakan kamera dan gerakan objek Tips berbicara di depan kamera agar lebih percaya diri Teknik voice over agar penonton betah menonton Praktik shooting konten DAY 2 7. Praktik Editing Video Menggunakan CapCut Pengenalan aplikasi CapCut Teknik cutting dan penyusunan alur video Menambahkan elemen pendukung (teks, musik, transisi, efek) Tips menjaga pace video agar tidak membosankan Edit video dengan bantuan AI Peningkatan kualitas audio Pengenalan tools AI video Praktik editing video 8. Desain Visual Pendukung Konten Pentingnya visual dalam konten digital Desain thumbnail dan sampul video menggunakan Canva Menjaga konsistensi branding visual Praktik membuat thumbnail konten 9. Pengenalan Peran Clipper Konten Apa itu clipper dan perannya dalam tim konten Cara mengambil bagian penting (highlight) dari video panjang Teknik clipping untuk TikTok, Reels, dan Shorts Alur kerja clipper konten Praktik membuat konten short dari video panjang 10. Strategi Upload, Distribusi & Pasca Produksi Konten Waktu upload dan konsistensi posting Cara kerja algoritma TikTok secara sederhana 4 cara konten lebih mudah dikenali algoritma TikTok Basic SEO konten Perbandingan quantity vs quality Strategi promosi konten dan iklan 11. Optimasi Akun Sosial Media Mengoptimalkan profil dan bio akun Cara membuat akun terlihat aktif dan kredibel Pemanfaatan fitur pin dan highlight Optimasi akun TikTok & Instagram Praktik optimasi akun sosial media 12. Evaluasi & Analisa Konten Cara mengukur keberhasilan konten dan iklan Membaca insight dan performa konten Perbedaan FYP dan PYP Tips evaluasi konten untuk kebutuhan marketing Strategi perbaikan konten selanjutnya 13. Monetisasi Konten Digital Pengertian dan tujuan monetisasi konten Platform yang menyediakan fitur monetisasi Model monetisasi konten yang umum digunakan Strategi awal monetisasi untuk content creator pemula 14. Hak Cipta & Etika di Dunia Konten Pengenalan dasar hak cipta Etika dalam membuat dan membagikan konten Cara menggunakan musik, gambar, dan video dari sumber lain secara legal Risiko dan contoh pelanggaran yang sering terjadi",
+      "items": [
+        {
+          "title": "DAY 1",
+          "objective": null,
+          "items": [
+            {
+              "title": "1. Pengenalan Dunia Konten Digital",
+              "items": [
+                "Mengapa konten menjadi aset penting di era digital?",
+                "Peran content creator dalam kebutuhan personal branding & bisnis",
+                "Sosial media sebagai media distribusi utama saat ini",
+                "Pengenalan jenis-jenis konten video"
+              ]
+            },
+            {
+              "title": "2. Planning Konten",
+              "items": [
+                "Menetapkan tujuan konten",
+                "Menentukan target audiens yang tepat",
+                "Memahami apa itu niche dan mengapa penting",
+                "Menentukan niche yang sesuai dengan minat dan potensi",
+                "Menyiapkan ide konten yang relevan dan berkelanjutan",
+                "Praktik menentukan tujuan & niche konten"
+              ]
+            },
+            {
+              "title": "3. Content Pillar sebagai Fondasi Strategi Konten",
+              "items": [
+                "Pengertian content pillar dan fungsinya",
+                "Jenis-jenis content pillar",
+                "Manfaat content pillar dalam menjaga konsistensi konten",
+                "Menyusun content plan mingguan dan bulanan",
+                "Pemanfaatan AI & Canva untuk membantu perencanaan konten",
+                "Praktik membuat content plan sederhana"
+              ]
+            },
+            {
+              "title": "4. Pembuatan Script & Copywriting Konten",
+              "items": [
+                "Elemen penting dari konten yang efektif",
+                "Teknik membuat hook di 3 detik awal",
+                "Teknik penulisan naskah promosi dengan metode AIDA",
+                "Teknik menambahkan Call to Action (CTA) yang tepat",
+                "Membuat caption konten dengan bantuan AI",
+                "Praktik menulis script dan caption konten"
+              ]
+            },
+            {
+              "title": "5. Persiapan Produksi Konten (Pra-Produksi)",
+              "items": [
+                "Pengenalan tim produksi konten (content strategist, talent, editor, clipper)",
+                "Peralatan ngonten",
+                "Persiapan aset konten dan branding",
+                "Cara menggunakan aset dari sumber lain secara legal",
+                "Backup data dan manajemen file konten"
+              ]
+            },
+            {
+              "title": "6. Teknik Shooting Konten Menggunakan Smartphone",
+              "items": [
+                "Jenis angle & shot video",
+                "Gerakan kamera dan gerakan objek",
+                "Tips berbicara di depan kamera agar lebih percaya diri",
+                "Teknik voice over agar penonton betah menonton",
+                "Praktik shooting konten"
+              ]
+            }
+          ],
+          "raw": "",
+          "structure_type": "DAY_BASED"
+        },
+        {
+          "title": "DAY 2",
+          "objective": null,
+          "items": [
+            {
+              "title": "7. Praktik Editing Video Menggunakan CapCut",
+              "items": [
+                "Pengenalan aplikasi CapCut",
+                "Teknik cutting dan penyusunan alur video",
+                "Menambahkan elemen pendukung (teks, musik, transisi, efek)",
+                "Tips menjaga pace video agar tidak membosankan",
+                "Edit video dengan bantuan AI",
+                "Peningkatan kualitas audio",
+                "Pengenalan tools AI video",
+                "Praktik editing video"
+              ]
+            },
+            {
+              "title": "8. Desain Visual Pendukung Konten",
+              "items": [
+                "Pentingnya visual dalam konten digital",
+                "Desain thumbnail dan sampul video menggunakan Canva",
+                "Menjaga konsistensi branding visual",
+                "Praktik membuat thumbnail konten"
+              ]
+            },
+            {
+              "title": "9. Pengenalan Peran Clipper Konten",
+              "items": [
+                "Apa itu clipper dan perannya dalam tim konten",
+                "Cara mengambil bagian penting (highlight) dari video panjang",
+                "Teknik clipping untuk TikTok, Reels, dan Shorts",
+                "Alur kerja clipper konten",
+                "Praktik membuat konten short dari video panjang"
+              ]
+            },
+            {
+              "title": "10. Strategi Upload, Distribusi & Pasca Produksi Konten",
+              "items": [
+                "Waktu upload dan konsistensi posting",
+                "Cara kerja algoritma TikTok secara sederhana",
+                "4 cara konten lebih mudah dikenali algoritma TikTok",
+                "Basic SEO konten",
+                "Perbandingan quantity vs quality",
+                "Strategi promosi konten dan iklan"
+              ]
+            },
+            {
+              "title": "11. Optimasi Akun Sosial Media",
+              "items": [
+                "Mengoptimalkan profil dan bio akun",
+                "Cara membuat akun terlihat aktif dan kredibel",
+                "Pemanfaatan fitur pin dan highlight",
+                "Optimasi akun TikTok & Instagram",
+                "Praktik optimasi akun sosial media"
+              ]
+            },
+            {
+              "title": "12. Evaluasi & Analisa Konten",
+              "items": [
+                "Cara mengukur keberhasilan konten dan iklan",
+                "Membaca insight dan performa konten",
+                "Perbedaan FYP dan PYP",
+                "Tips evaluasi konten untuk kebutuhan marketing",
+                "Strategi perbaikan konten selanjutnya"
+              ]
+            },
+            {
+              "title": "13. Monetisasi Konten Digital",
+              "items": [
+                "Pengertian dan tujuan monetisasi konten",
+                "Platform yang menyediakan fitur monetisasi",
+                "Model monetisasi konten yang umum digunakan",
+                "Strategi awal monetisasi untuk content creator pemula"
+              ]
+            },
+            {
+              "title": "14. Hak Cipta & Etika di Dunia Konten",
+              "items": [
+                "Pengenalan dasar hak cipta",
+                "Etika dalam membuat dan membagikan konten",
+                "Cara menggunakan musik, gambar, dan video dari sumber lain secara legal",
+                "Risiko dan contoh pelanggaran yang sering terjadi"
+              ]
+            }
+          ],
+          "raw": "",
+          "structure_type": "DAY_BASED"
+        }
+      ]
+    },
+    {
+      "heading": "Our Training Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya melalui Training ID-Networkers, dan terus bertambah!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Cek Jadwal Trainingnya Sekarang!",
+      "semantic_type": "SCHEDULE_WIDGET",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi? Yuk daftar dan upgrade skillmu sekarang juga!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi",
+      "semantic_type": "PRICE",
+      "content": "Content Creator & Social Media Mastery Rp 1,5 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, Goodie Bag, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG",
+      "items": [
+        "Materi Terstruktur Disesuaikan dengan Kebutuhan Industri",
+        "Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya)",
+        "Sertifikat, Modul, Notebook, Goodie Bag, dll",
+        "Instruktur Expert dan Berpengalaman Di bidangnya",
+        "Gratis Mengulang Training Sebanyak 2x Jika Belum Paham"
+      ]
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Jago Jadi Content Creator & Kuasai Social Media Tanpa Ribet - Bahkan Jika Anda Mulai dari Nol",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital. Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Apakah Anda pernah merasa:",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Training Content Creator & Social Media Mastery dirancang untuk membantu Anda:",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Memahami mindset dan strategi content creator profesional",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membuat konten yang relevan dan powerful",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Mengoptimalkan algoritma social media",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Membangun personal branding yang kuat",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Mengubah hobi menjadi peluang income",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Content Creator & Social Media Mastery",
+    "content_hash": "65ea21289bc8280a7c2c01b83ad0403adf1281aea6b7910ca78a81834088e098",
+    "template_type": "ELEMENTOR"
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Certified Penetration Testing Professional (CPENT)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cpent/",
+          "source_section": "Page title",
+          "source_text": "Certified Penetration Testing Professional (CPENT)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "EC-Council",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cpent/",
+          "source_section": "Training registry",
+          "source_text": "EC-Council",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/cpent/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cpent/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/cpent/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Instruktur Berpengalaman Dapatkan ilmu dari instruktur yang merupakan praktisi keamanan siber dengan pengalaman bertahun-tahun di industri. Kurikulum Komprehensif Dengan pendekatan praktis dan teori yang seimbang, Anda akan mempelajari teknik terbaru dalam pengujian keamanan, exploitasi, dan mitigasi kerentanan. Sertifikasi Terkemuka CPENT adalah sertifikasi internasional yang diakui di seluruh dunia, menunjukkan bahwa Anda memiliki kemampuan profesional dalam pengujian penetrasi yang mendalam. Proyek Praktis dan Dukungan Komunitas Praktik studi kasus yang akan melatih Anda dalam situasi yang mendekati real-time. Bergabung dengan jaringan profesional yang luas dan terhubung dengan sesama peserta yang berbagi minat yang sama, dan tersedia group info lowongan kerja Pelatihan Khusus untuk Sertifikasi Selain sertifikat dari ID Networkers, kursus ini juga mempersiapkan peserta untuk ujian sertifikasi international resmi Certified Penetration Testing Professional (CPENT). Biaya training sudah include ujian sertifikasi. Testimoni dan Rekam Jejak ID Networkers memiliki rekam jejak yang terbukti dalam menghasilkan profesional CEH yang sukses, didukung oleh testimoni positif dari alumni yang telah menempuh kursus ini.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Mengapa Memilih Pelatihan CPENT di ID-Networkers?",
+        "source_text": "Mengapa Memilih Pelatihan CPENT di ID-Networkers? Instruktur Berpengalaman Dapatkan ilmu dari instruktur yang merupakan praktisi keamanan siber dengan pengalaman bertahun-tahun di industri. Kurikulum Komprehensif Dengan pendekatan praktis dan teori yang seimbang, Anda akan mempelajari teknik terbaru dalam pengujian keamanan, exploitasi, dan mitigasi kerentanan. Sertifikasi Terkemuka CPENT adalah sertifikasi internasional yang diakui di seluruh dunia, menunjukkan bahwa Anda memiliki kemampuan profesional dalam pengujian penetrasi yang mendalam. Proyek Praktis dan Dukungan Komunitas Praktik studi kasus yang akan melatih Anda dalam situasi yang mendekati real-time. Bergabung dengan jaringan profesional yang luas dan terhubung dengan sesama peserta yang berbagi minat yang sama, dan tersedia group info lowongan kerja Pelatihan Khusus untuk Sertifikasi Selain sertifikat dari ID Networkers, kursus ini juga mempersiapkan peserta untuk ujian sertifikasi international resmi Certified Penetration Testing Professional (CPENT). Biaya training sudah include ujian sertifikasi. Testimoni dan Rekam Jejak ID Networkers memiliki rekam jejak yang terbukti dalam menghasilkan profesional CEH yang sukses, didukung oleh testimoni positif dari alumni yang telah menempuh kursus ini.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "price": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 01 Introduction to Penetration Testing and Methodologies",
+        "objective": null,
+        "items": [],
+        "raw": "Module 01 Introduction to Penetration Testing and Methodologies",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 02 Penetration Testing Scoping and Engagement",
+        "objective": null,
+        "items": [],
+        "raw": "Module 02 Penetration Testing Scoping and Engagement",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 03 Open-Source Intelligence (OSINT) and Attack Surface Mapping",
+        "objective": null,
+        "items": [],
+        "raw": "Module 03 Open-Source Intelligence (OSINT) and Attack Surface Mapping",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 04 Social Engineering Penetration Testing",
+        "objective": null,
+        "items": [],
+        "raw": "Module 04 Social Engineering Penetration Testing",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 05 Web Application Penetration Testing",
+        "objective": null,
+        "items": [],
+        "raw": "Module 05 Web Application Penetration Testing",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 06 API and Java Web Token Penetration Testing",
+        "objective": null,
+        "items": [],
+        "raw": "Module 06 API and Java Web Token Penetration Testing",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 07 Perimeter Defense Evasion Techniques",
+        "objective": null,
+        "items": [],
+        "raw": "Module 07 Perimeter Defense Evasion Techniques",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 08 Windows Exploitation and Privilege Escalation",
+        "objective": null,
+        "items": [],
+        "raw": "Module 08 Windows Exploitation and Privilege Escalation",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 09 Active Directory Penetration Testing",
+        "objective": null,
+        "items": [],
+        "raw": "Module 09 Active Directory Penetration Testing",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 10 Linux Exploitation and Privilege Escalation",
+        "objective": null,
+        "items": [],
+        "raw": "Module 10 Linux Exploitation and Privilege Escalation",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 11 Reverse Engineering, Fuzzing, and Binary Exploitation",
+        "objective": null,
+        "items": [],
+        "raw": "Module 11 Reverse Engineering, Fuzzing, and Binary Exploitation",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 12 Lateral Movement and Pivoting",
+        "objective": null,
+        "items": [],
+        "raw": "Module 12 Lateral Movement and Pivoting",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 13 IoT Penetration Testing",
+        "objective": null,
+        "items": [],
+        "raw": "Module 13 IoT Penetration Testing",
+        "structure_type": "MODULED"
+      },
+      {
+        "title": "Module 14 Report Writing and Post-Testing Actions",
+        "objective": null,
+        "items": [],
+        "raw": "Module 14 Report Writing and Post-Testing Actions",
+        "structure_type": "MODULED"
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Apa Saja Yang Akan Anda Pelajari di Training Certified Penetration Testing Professional (CPENT) ini? Berikut Kurikulumnya!",
+        "source_text": "Apa Saja Yang Akan Anda Pelajari di Training Certified Penetration Testing Professional (CPENT) ini? Berikut Kurikulumnya! Module 01 Introduction to Penetration Testing and Methodologies Module 02 Penetration Testing Scoping and Engagement Module 03 Open-Source Intelligence (OSINT) and Attack Surface Mapping Module 04 Social Engineering Penetration Testing Module 05 Web Application Penetration Testing Module 06 API and Java Web Token Penetration Testing Module 07 Perimeter Defense Evasion Techniques Module 08 Windows Exploitation and Privilege Escalation Module 09 Active Directory Penetration Testing Module 10 Linux Exploitation and Privilege Escalation Module 11 Reverse Engineering, Fuzzing, and Binary Exploitation Module 12 Lateral Movement and Pivoting Module 13 IoT Penetration Testing Module 14 Report Writing and Post-Testing Actions",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffee Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Fasilitas Lengkap",
+        "source_text": "Fasilitas Lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": "Profesional Keamanan Siber Penetration Tester Auditor Keamanan Siapa saja yang ingin meningkatkan kemampuannya dalam dunia keamanan siber",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Training Ini Sangat Direkomendasikan Untuk",
+        "source_text": "Training Ini Sangat Direkomendasikan Untuk Profesional Keamanan Siber Penetration Tester Auditor Keamanan Siapa saja yang ingin meningkatkan kemampuannya dalam dunia keamanan siber",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "FOUND",
+    "value": "Setelah menyelesaikan pelatihan, Anda akan menerima sertifikat CPENT yang diakui secara internasional, membuka lebih banyak peluang karir dan pengakuan dalam industri.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Sertifikat dan Pengakuan",
+        "source_text": "Sertifikat dan Pengakuan Setelah menyelesaikan pelatihan, Anda akan menerima sertifikat CPENT yang diakui secara internasional, membuka lebih banyak peluang karir dan pengakuan dalam industri.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Trainer Tersertifikasi",
+        "source_text": "Trainer Tersertifikasi Trainer bersertifikasi tingkat internasional, praktisi dan berpengalaman lebih dari 5 tahun di bidang CPENT",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "Kuasai CPENT Bersama Instruktur Berpengalaman Dari ID-Networkers",
+        "source_text": "Kuasai CPENT Bersama Instruktur Berpengalaman Dari ID-Networkers",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cpent/",
+        "source_section": "After sales yang baik",
+        "source_text": "After sales yang baik After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Apakah Anda siap untuk mengambil langkah besar dalam karir keamanan siber Anda? Bergabunglah dengan pelatihan Certified Penetration Testing Professional (CPENT) dan tunjukkan kemampuan Anda setingkat lebih tinggi!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "PERHATIAN!!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Training ini Khusus Untuk Anda Yang Ingin Menjadi Profesional Keamanan Siber dan mendapatkan Penghasilan Fantastis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Ambil Kesempatan Ini Sekarang Juga!!",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Memilih Pelatihan CPENT di ID-Networkers?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Instruktur Berpengalaman Dapatkan ilmu dari instruktur yang merupakan praktisi keamanan siber dengan pengalaman bertahun-tahun di industri. Kurikulum Komprehensif Dengan pendekatan praktis dan teori yang seimbang, Anda akan mempelajari teknik terbaru dalam pengujian keamanan, exploitasi, dan mitigasi kerentanan. Sertifikasi Terkemuka CPENT adalah sertifikasi internasional yang diakui di seluruh dunia, menunjukkan bahwa Anda memiliki kemampuan profesional dalam pengujian penetrasi yang mendalam. Proyek Praktis dan Dukungan Komunitas Praktik studi kasus yang akan melatih Anda dalam situasi yang mendekati real-time. Bergabung dengan jaringan profesional yang luas dan terhubung dengan sesama peserta yang berbagi minat yang sama, dan tersedia group info lowongan kerja Pelatihan Khusus untuk Sertifikasi Selain sertifikat dari ID Networkers, kursus ini juga mempersiapkan peserta untuk ujian sertifikasi international resmi Certified Penetration Testing Professional (CPENT). Biaya training sudah include ujian sertifikasi. Testimoni dan Rekam Jejak ID Networkers memiliki rekam jejak yang terbukti dalam menghasilkan profesional CEH yang sukses, didukung oleh testimoni positif dari alumni yang telah menempuh kursus ini.",
+      "items": []
+    },
+    {
+      "heading": "Saatnya Anda Berhasil!!",
+      "semantic_type": "CTA",
+      "content": "Dapatkan Kemampuan Certified Penetration Testing Professional (CPENT) dan Gaji Paling Kompetitif dengan Metode Belajar Yang Sudah Terbukti!",
+      "items": []
+    },
+    {
+      "heading": "berikut testimoni alumni kami",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "kami membantu puluhan ribu orang untuk mencapai karir impian mereka!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Beberapa Dari Mereka Ada yang Sudah Bekerja Perusahaan Multi Nasional hingga luar negeri!",
+      "items": []
+    },
+    {
+      "heading": "Mirza Eka Putra",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Andries Siregar",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Gilbert",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "45000+ Orang Dari Level Mahasiswa, Professional Corporate, Manager, Hingga Business Owner Telah Bergabung Dengan Kami. Sekarang Giliran Anda!!",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Masih Ragu? Simak Benefit Berikut Karna Hanya di ID-Networkers Kamu Bisa Mendapatkan 8 Keuntungan Menarik Ini",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Training Sudah Include Sertifikasi",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Biaya training sudah include sertifikasi resmi international Certified Penetration Testing Professional (CPENT)",
+      "items": []
+    },
+    {
+      "heading": "Menginap Gratis",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Peserta training diperbolehkan menginap di lokasi pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Materi terstruktur",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi training terstruktur, mudah dipahami, dan disesuaikan dengan kebutuhan industri",
+      "items": []
+    },
+    {
+      "heading": "Disediakan Quiz & Info Sertifikasi Gratis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah selesai training akan disediakan quiz dan pemberitahuan info sertifikasi gratis untuk mengevaluasi materi",
+      "items": []
+    },
+    {
+      "heading": "Hemat & Berkualitas",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi Berkualitas dan Harga Training Paling terjangkau untuk sekelas training CPENT",
+      "items": []
+    },
+    {
+      "heading": "Trainer Tersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer bersertifikasi tingkat internasional, praktisi dan berpengalaman lebih dari 5 tahun di bidang CPENT",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffee Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+      "items": []
+    },
+    {
+      "heading": "After sales yang baik",
+      "semantic_type": "SUPPORT",
+      "content": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "items": []
+    },
+    {
+      "heading": "Apa Saja Yang Akan Anda Pelajari di Training Certified Penetration Testing Professional (CPENT) ini? Berikut Kurikulumnya!",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 01 Introduction to Penetration Testing and Methodologies Module 02 Penetration Testing Scoping and Engagement Module 03 Open-Source Intelligence (OSINT) and Attack Surface Mapping Module 04 Social Engineering Penetration Testing Module 05 Web Application Penetration Testing Module 06 API and Java Web Token Penetration Testing Module 07 Perimeter Defense Evasion Techniques Module 08 Windows Exploitation and Privilege Escalation Module 09 Active Directory Penetration Testing Module 10 Linux Exploitation and Privilege Escalation Module 11 Reverse Engineering, Fuzzing, and Binary Exploitation Module 12 Lateral Movement and Pivoting Module 13 IoT Penetration Testing Module 14 Report Writing and Post-Testing Actions",
+      "items": []
+    },
+    {
+      "heading": "Training Ini Sangat Direkomendasikan Untuk",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Profesional Keamanan Siber Penetration Tester Auditor Keamanan Siapa saja yang ingin meningkatkan kemampuannya dalam dunia keamanan siber",
+      "items": []
+    },
+    {
+      "heading": "Kuasai CPENT Bersama Instruktur Berpengalaman Dari ID-Networkers",
+      "semantic_type": "TRAINERS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Booking Jadwal Terdekat Sekarang! Seat Terbatas!",
+      "semantic_type": "CTA",
+      "content": "Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Sertifikat dan Pengakuan",
+      "semantic_type": "CERTIFICATIONS",
+      "content": "Setelah menyelesaikan pelatihan, Anda akan menerima sertifikat CPENT yang diakui secara internasional, membuka lebih banyak peluang karir dan pengakuan dalam industri.",
+      "items": []
+    },
+    {
+      "heading": "Ambil Langkah Pertama Menuju Karir Impian Anda! Jadilah bagian dari generasi profesional keamanan siber yang mendefinisikan masa depan. Daftar sekarang dan tingkatkan keahlian Anda dengan CPENT!",
+      "semantic_type": "CTA",
+      "content": "Daftar Sekarang",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Apakah Anda siap untuk mengambil langkah besar dalam karir keamanan siber Anda? Bergabunglah dengan pelatihan Certified Penetration Testing Professional (CPENT) dan tunjukkan kemampuan Anda setingkat lebih tinggi!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Daftar Sekarang",
+      "items": []
+    },
+    {
+      "heading": "Training ini Khusus Untuk Anda Yang Ingin Menjadi Profesional Keamanan Siber dan mendapatkan Penghasilan Fantastis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Ambil Kesempatan Ini Sekarang Juga!!",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Memilih Pelatihan CPENT di ID-Networkers?",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Instruktur Berpengalaman Dapatkan ilmu dari instruktur yang merupakan praktisi keamanan siber dengan pengalaman bertahun-tahun di industri. Kurikulum Komprehensif Dengan pendekatan praktis dan teori yang seimbang, Anda akan mempelajari teknik terbaru dalam pengujian keamanan, exploitasi, dan mitigasi kerentanan. Sertifikasi Terkemuka CPENT adalah sertifikasi internasional yang diakui di seluruh dunia, menunjukkan bahwa Anda memiliki kemampuan profesional dalam pengujian penetrasi yang mendalam. Proyek Praktis dan Dukungan Komunitas Praktik studi kasus yang akan melatih Anda dalam situasi yang mendekati real-time. Bergabung dengan jaringan profesional yang luas dan terhubung dengan sesama peserta yang berbagi minat yang sama, dan tersedia group info lowongan kerja Pelatihan Khusus untuk Sertifikasi Selain sertifikat dari ID Networkers, kursus ini juga mempersiapkan peserta untuk ujian sertifikasi international resmi Certified Penetration Testing Professional (CPENT). Biaya training sudah include ujian sertifikasi. Testimoni dan Rekam Jejak ID Networkers memiliki rekam jejak yang terbukti dalam menghasilkan profesional CEH yang sukses, didukung oleh testimoni positif dari alumni yang telah menempuh kursus ini.",
+      "items": []
+    },
+    {
+      "heading": "kami membantu puluhan ribu orang untuk mencapai karir impian mereka!",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Beberapa Dari Mereka Ada yang Sudah Bekerja Perusahaan Multi Nasional hingga luar negeri!",
+      "items": []
+    },
+    {
+      "heading": "Mirza Eka Putra",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Andries Siregar",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Gilbert",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Google Review",
+      "items": []
+    },
+    {
+      "heading": "Masih Ragu? Simak Benefit Berikut Karna Hanya di ID-Networkers Kamu Bisa Mendapatkan 8 Keuntungan Menarik Ini",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Training Sudah Include Sertifikasi",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Biaya training sudah include sertifikasi resmi international Certified Penetration Testing Professional (CPENT)",
+      "items": []
+    },
+    {
+      "heading": "Disediakan Quiz & Info Sertifikasi Gratis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah selesai training akan disediakan quiz dan pemberitahuan info sertifikasi gratis untuk mengevaluasi materi",
+      "items": []
+    }
+  ],
+  "quality_flags": [
+    "MISSING_PRICE",
+    "MISSING_DURATION",
+    "UNKNOWN_SECTIONS",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "Certified Penetration Testing Professional (CPENT)",
+    "content_hash": "45373f8d402f42f2134e2a0e5f4979761e7e9b4913c10421bf286bcfa5fd9730",
+    "template_type": "ELEMENTOR"
+  }
+}

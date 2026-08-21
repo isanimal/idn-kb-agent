@@ -1,0 +1,326 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Pemrograman Web Laravel",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "source_section": "Page title",
+          "source_text": "Pemrograman Web Laravel",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Pemrograman Web",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "source_section": "Training registry",
+          "source_text": "Pemrograman Web",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien. Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Mengapa demikian ? Karena Laravel memberikan seperangkat alat dan sumber daya untuk membangun aplikasi berbasis PHP. Laravel memiliki ekosistem yang lengkap didukung oleh package dan ekstensi yang kompatibel. Laravel telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. Hal ini juga ditunjukan dengan semakin besarnya minat developer untuk menggunakan framework Laravel karena dapat menyederhanakan pengembangan aplikasi. Framework Laravel memiliki fitur yang kaya karena merupakan gabungan fitur dasar beberapa framework PHP populer seperti CodeIgniter, Yii, dan Ruby on Rails. Jika kamu sebelumnya sudah familiar dengan Core PHP atau Advance PHP, Laravel akan membuat proses pengembangan aplikasi web lebih efektif dan efisien, selain itu Laravel juga lebih aman dari berbagai jenis ancaman siber.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien. Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Mengapa demikian ? Karena Laravel memberikan seperangkat alat dan sumber daya untuk membangun aplikasi berbasis PHP. Laravel memiliki ekosistem yang lengkap didukung oleh package dan ekstensi yang kompatibel. Laravel telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. Hal ini juga ditunjukan dengan semakin besarnya minat developer untuk menggunakan framework Laravel karena dapat menyederhanakan pengembangan aplikasi. Framework Laravel memiliki fitur yang kaya karena merupakan gabungan fitur dasar beberapa framework PHP populer seperti CodeIgniter, Yii, dan Ruby on Rails. Jika kamu sebelumnya sudah familiar dengan Core PHP atau Advance PHP, Laravel akan membuat proses pengembangan aplikasi web lebih efektif dan efisien, selain itu Laravel juga lebih aman dari berbagai jenis ancaman siber.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views)",
+      "Blade & MVC Architecture blade template engine create simple model create simple views create simple controller",
+      "Routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix)",
+      "Database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship",
+      "Simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link",
+      "manage authentication simple multiple level user create middleware for user access"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views) Blade & MVC Architecture blade template engine create simple model create simple views create simple controller Routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix) Database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship Simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link manage authentication simple multiple level user create middleware for user access",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Gratis Mengulang training kapanpun",
+      "Video recording after training online",
+      "Sertifikat",
+      "Kaos",
+      "Modul",
+      "Goodie Bag, Notebook, dll",
+      "pemberitahuan lowongan kerja kepada peserta",
+      "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+      "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+      "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag, Notebook, dll pemberitahuan lowongan kerja kepada peserta Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+      "Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer)",
+      "Fahmi Nuradi, S.Kom (Google Certified & Web Developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Asadullah Al Hamasy, S.Kom (ATC android certified application developer) Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer) Fahmi Nuradi, S.Kom (Google Certified & Web Developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien. Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Mengapa demikian ? Karena Laravel memberikan seperangkat alat dan sumber daya untuk membangun aplikasi berbasis PHP. Laravel memiliki ekosistem yang lengkap didukung oleh package dan ekstensi yang kompatibel. Laravel telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. Hal ini juga ditunjukan dengan semakin besarnya minat developer untuk menggunakan framework Laravel karena dapat menyederhanakan pengembangan aplikasi. Framework Laravel memiliki fitur yang kaya karena merupakan gabungan fitur dasar beberapa framework PHP populer seperti CodeIgniter, Yii, dan Ruby on Rails. Jika kamu sebelumnya sudah familiar dengan Core PHP atau Advance PHP, Laravel akan membuat proses pengembangan aplikasi web lebih efektif dan efisien, selain itu Laravel juga lebih aman dari berbagai jenis ancaman siber.",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Mempelajari Training Pemrograman Web Laravel ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Mempelajari web programming dengan Laravel memiliki banyak keuntungan. Berikut adalah beberapa alasan mengapa Anda harus mempertimbangkan untuk mempelajarinya: Framework Populer : Laravel adalah salah satu framework PHP yang paling populer saat ini. Dengan banyaknya pengguna, Anda akan menemukan banyak komunitas yang siap membantu, serta banyak sumber daya, tutorial, dan dokumentasi. Struktur yang Bersih dan Terorganisir : Laravel menerapkan prinsip arsitektur MVC (Model-View-Controller), yang membantu pengembang untuk menjaga kode mereka terorganisir dan bersih. Ini memudahkan dalam pengembangan dan pemeliharaan aplikasi. Keamanan : Laravel memiliki fitur keamanan yang kuat, seperti proteksi terhadap serangan CSRF (Cross-Site Request Forgery) dan XSS (Cross-Site Scripting). Ini sangat penting untuk aplikasi web yang berurusan dengan data sensitif. Pengembangan yang Cepat : Dengan fitur-fitur seperti Eloquent ORM (Object Relational Mapping), built-in authentication, dan routing yang mudah, Laravel memungkinkan pengembang untuk membangun aplikasi dengan cepat. Komunitas dan Ekosistem yang Kuat : Laravel memiliki ekosistem yang kaya dengan berbagai paket dan tools, seperti Laravel Forge, Laravel Vapor, dan Laravel Mix, yang mempercepat proses pengembangan dan deployment aplikasi. Learning Path yang Jelas : Documentasi Laravel sangat lengkap dan mudah dipahami. Anda akan menemukan pelajaran yang terstruktur dengan baik, dari tingkat pemula hingga fitur-fitur lanjutan. Dukungan untuk API dan Microservices : Laravel menyediakan dukungan yang baik untuk membangun API RESTful dan aplikasi berbasis mikroservices, yang sangat relevan dengan tren pengembangan aplikasi saat ini. Peluang Karir : Menguasai Laravel dapat meningkatkan nilai Anda di pasar kerja. Banyak perusahaan mencari pengembang yang berpengalaman dengan Laravel untuk pekerjaan pengembangan web. Flexibilitas dan Skalabilitas : Dengan Laravel, Anda dapat dengan mudah membangun aplikasi kecil hingga besar yang dapat diskalakan seiring pertumbuhan kebutuhan aplikasi. Inovasi dan Pembaruan : Laravel terus diperbarui dengan fitur-fitur baru dan perbaikan, menjaga framework tetap relevan dengan perkembangan teknologi dan kebutuhan pasar. Dengan alasan-alasan ini, mempelajari Laravel bisa menjadi pilihan yang sangat baik untuk pengembang web, baik yang baru memulai maupun yang ingin mengembangkan keterampilan mereka.",
+      "items": [
+        "Framework Populer : Laravel adalah salah satu framework PHP yang paling populer saat ini. Dengan banyaknya pengguna, Anda akan menemukan banyak komunitas yang siap membantu, serta banyak sumber daya, tutorial, dan dokumentasi.",
+        "Struktur yang Bersih dan Terorganisir : Laravel menerapkan prinsip arsitektur MVC (Model-View-Controller), yang membantu pengembang untuk menjaga kode mereka terorganisir dan bersih. Ini memudahkan dalam pengembangan dan pemeliharaan aplikasi.",
+        "Keamanan : Laravel memiliki fitur keamanan yang kuat, seperti proteksi terhadap serangan CSRF (Cross-Site Request Forgery) dan XSS (Cross-Site Scripting). Ini sangat penting untuk aplikasi web yang berurusan dengan data sensitif.",
+        "Pengembangan yang Cepat : Dengan fitur-fitur seperti Eloquent ORM (Object Relational Mapping), built-in authentication, dan routing yang mudah, Laravel memungkinkan pengembang untuk membangun aplikasi dengan cepat.",
+        "Komunitas dan Ekosistem yang Kuat : Laravel memiliki ekosistem yang kaya dengan berbagai paket dan tools, seperti Laravel Forge, Laravel Vapor, dan Laravel Mix, yang mempercepat proses pengembangan dan deployment aplikasi.",
+        "Learning Path yang Jelas : Documentasi Laravel sangat lengkap dan mudah dipahami. Anda akan menemukan pelajaran yang terstruktur dengan baik, dari tingkat pemula hingga fitur-fitur lanjutan.",
+        "Dukungan untuk API dan Microservices : Laravel menyediakan dukungan yang baik untuk membangun API RESTful dan aplikasi berbasis mikroservices, yang sangat relevan dengan tren pengembangan aplikasi saat ini.",
+        "Peluang Karir : Menguasai Laravel dapat meningkatkan nilai Anda di pasar kerja. Banyak perusahaan mencari pengembang yang berpengalaman dengan Laravel untuk pekerjaan pengembangan web.",
+        "Flexibilitas dan Skalabilitas : Dengan Laravel, Anda dapat dengan mudah membangun aplikasi kecil hingga besar yang dapat diskalakan seiring pertumbuhan kebutuhan aplikasi.",
+        "Inovasi dan Pembaruan : Laravel terus diperbarui dengan fitur-fitur baru dan perbaikan, menjaga framework tetap relevan dengan perkembangan teknologi dan kebutuhan pasar."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Asadullah Al Hamasy, S.Kom (ATC android certified application developer) Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer) Fahmi Nuradi, S.Kom (Google Certified & Web Developer)",
+      "items": [
+        "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+        "Tubagus Adhitya Permana, S.Kom (Certified Associate Android Developer)",
+        "Fahmi Nuradi, S.Kom (Google Certified & Web Developer)"
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag, Notebook, dll pemberitahuan lowongan kerja kepada peserta Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+      "items": [
+        "Gratis Mengulang training kapanpun",
+        "Video recording after training online",
+        "Sertifikat",
+        "Kaos",
+        "Modul",
+        "Goodie Bag, Notebook, dll",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views) Blade & MVC Architecture blade template engine create simple model create simple views create simple controller Routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix) Database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship Simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link manage authentication simple multiple level user create middleware for user access",
+      "items": [
+        "Introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views)",
+        "Blade & MVC Architecture blade template engine create simple model create simple views create simple controller",
+        "Routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix)",
+        "Database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship",
+        "Simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link",
+        "manage authentication simple multiple level user create middleware for user access"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Online Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Pemrograman Web Laravel",
+    "content_hash": "efef71015c7527a2b5f53b157b3612f58d09f0715a2ba1674df4df78f833ffbe",
+    "template_type": "BETTERDOCS"
+  }
+}

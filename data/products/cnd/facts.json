@@ -1,0 +1,338 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "CND (Certified Network Defender)",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cnd/",
+          "source_section": "Page title",
+          "source_text": "CND (Certified Network Defender)",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "EC-Council",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cnd/",
+          "source_section": "Training registry",
+          "source_text": "EC-Council",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/cnd/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/cnd/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/cnd/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Certified Network Defender (CND) adalah program sertifikasi yang dirancang oleh EC-Council untuk memberikan pengetahuan dan keterampilan dalam melindungi jaringan dari ancaman dan serangan siber. Pelatihan ini berfokus pada pengembangan keterampilan yang diperlukan untuk membangun, mengelola, dan mempertahankan infrastruktur jaringan yang aman. CND dirancang untuk membangun keterampilan dalam melindungi, mendeteksi, dan merespons ancaman keamanan jaringan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Certified Network Defender (CND) adalah program sertifikasi yang dirancang oleh EC-Council untuk memberikan pengetahuan dan keterampilan dalam melindungi jaringan dari ancaman dan serangan siber. Pelatihan ini berfokus pada pengembangan keterampilan yang diperlukan untuk membangun, mengelola, dan mempertahankan infrastruktur jaringan yang aman. CND dirancang untuk membangun keterampilan dalam melindungi, mendeteksi, dan merespons ancaman keamanan jaringan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 5.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp. 20.000.000",
+        "amount": 20000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp. 17.000.000",
+        "amount": 17000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Biaya Investasi : Rp. 20.000.000 Rp. 17.000.000",
+        "source_text": "Biaya Investasi : Rp. 20.000.000 Rp. 17.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Module 01: Network Attacks and Defense Strategies",
+      "Module 02: Administrative Network Security",
+      "Module 03: Technical Network Security",
+      "Module 04: Network Perimeter Security",
+      "Module 05: Endpoint Security – Windows Systems",
+      "Module 06: Endpoint Security – Linux Systems",
+      "Module 07: Endpoint Security – Mobile Devices",
+      "Module 08: Endpoint Security – IoT Devices",
+      "Module 09: Administrative Application Security",
+      "Module 10: Data Security",
+      "Module 11: Enterprise Virtual Network Security",
+      "Module 12: Enterprise Cloud Security",
+      "Module 13: Enterprise Wireless Network Security",
+      "Module 14: Network Traffic Monitoring and Analysis",
+      "Module 15: Network Logs Monitoring and Analysis",
+      "Module 16: Incident Response and Forensics Investigation",
+      "Module 17: Business Continuity and Disaster Recovery",
+      "Module 18: Risk Anticipation with Risk Management",
+      "Module 19: Threat Assessment with Attack Surface Analysis",
+      "Module 20: Threat Prediction with Cyber Threat Intelligence"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum Module 01: Network Attacks and Defense Strategies Module 02: Administrative Network Security Module 03: Technical Network Security Module 04: Network Perimeter Security Module 05: Endpoint Security – Windows Systems Module 06: Endpoint Security – Linux Systems Module 07: Endpoint Security – Mobile Devices Module 08: Endpoint Security – IoT Devices Module 09: Administrative Application Security Module 10: Data Security Module 11: Enterprise Virtual Network Security Module 12: Enterprise Cloud Security Module 13: Enterprise Wireless Network Security Module 14: Network Traffic Monitoring and Analysis Module 15: Network Logs Monitoring and Analysis Module 16: Incident Response and Forensics Investigation Module 17: Business Continuity and Disaster Recovery Module 18: Risk Anticipation with Risk Management Module 19: Threat Assessment with Attack Surface Analysis Module 20: Threat Prediction with Cyber Threat Intelligence",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Miftahul Huda, M.Kom (CND)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Miftahul Huda, M.Kom (CND)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/cnd/",
+        "source_section": "Fasilitas Training",
+        "source_text": "Fasilitas Training Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Certified Network Defender (CND) adalah program sertifikasi yang dirancang oleh EC-Council untuk memberikan pengetahuan dan keterampilan dalam melindungi jaringan dari ancaman dan serangan siber. Pelatihan ini berfokus pada pengembangan keterampilan yang diperlukan untuk membangun, mengelola, dan mempertahankan infrastruktur jaringan yang aman. CND dirancang untuk membangun keterampilan dalam melindungi, mendeteksi, dan merespons ancaman keamanan jaringan. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+      "items": []
+    },
+    {
+      "heading": "Mengapa Harus Training dan mempelajari CND (Certified Network Defender)?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Berikut adalah beberapa alasan penting untuk mempelajari pelatihan Certified Network Defender (CND) : Keamanan Jaringan yang Semakin Penting : Dengan meningkatnya ancaman siber dan serangan terhadap jaringan, pemahaman mendalam tentang keamanan jaringan menjadi sangat penting. Pelatihan CND memberikan keterampilan yang diperlukan untuk melindungi infrastruktur jaringan. Permintaan Profesional Keamanan Jaringan : Di pasar kerja saat ini, ada permintaan tinggi untuk profesional yang terlatih dalam keamanan jaringan. Sertifikasi CND diakui secara internasional dan dapat meningkatkan peluang karir Anda di berbagai industri. Pengetahuan yang Komprehensif : CND mencakup berbagai aspek keamanan jaringan, termasuk teknologi firewall, VPN, Intrusion Detection Systems (IDS), dan Intrusion Prevention Systems (IPS). Dengan pengetahuan ini, Anda dapat menganalisis dan meningkatkan keamanan jaringan secara keseluruhan. Keterampilan Praktis : Program pelatihan ini menyediakan kesempatan untuk menerapkan pengetahuan dalam praktik langsung. Anda akan belajar bagaimana melakukan analisis, pemantauan, dan penanggulangan ancaman dalam situasi nyata, yang dapat langsung diterapkan di tempat kerja. Kemampuan Mitigasi Risiko : Melalui pelatihan ini, Anda akan memahami konsep manajemen risiko dan pembangkitan kebijakan keamanan, yang sangat penting untuk mengelola risiko yang dihadapi oleh organisasi. Sertifikasi yang Diakui Secara Internasional : Mendapatkan sertifikasi CND memberikan kredibilitas tambahan di mata calon pemberi kerja, menunjukkan bahwa Anda memiliki keterampilan dan pengetahuan yang relevan di bidang keamanan jaringan. Pengembangan Karir yang Lebih Baik : Sertifikasi ini dapat membuka peluang untuk posisi yang lebih tinggi atau spesialis di bidang keamanan jaringan, meningkatkan potensi penghasilan dan pertumbuhan karir Anda. Memahami Peraturan dan Kebijakan Keamanan : Anda akan belajar tentang kebijakan keamanan yang berlaku dan bagaimana menerapkannya dalam organisasi, membantu perusahaan mematuhi regulasi yang relevan. Lingkungan Belajar yang Dinamis : Pelatihan ini sering kali dilakukan di lingkungan yang interaktif dan kolaboratif, memberi Anda kesempatan untuk berdiskusi dan belajar dari instruktur dan rekan-rekan Anda yang memiliki latar belakang berbeda. Kesiapan untuk Menghadapi Serangan Nyata : Dengan pelatihan CND, Anda akan diberdayakan untuk merespons insiden keamanan dengan lebih efektif dan cepat, memperkuat keberlanjutan dan ketahanan organisasi Anda terhadap ancaman. Dengan mempelajari pelatihan Certified Network Defender (CND), Anda tidak hanya memperkuat keterampilan teknis, tetapi juga meningkatkan kemampuan analitis dan manajerial yang diperlukan untuk melindungi jaringan dari ancaman yang terus berkembang di dunia digital.",
+      "items": [
+        "Keamanan Jaringan yang Semakin Penting : Dengan meningkatnya ancaman siber dan serangan terhadap jaringan, pemahaman mendalam tentang keamanan jaringan menjadi sangat penting. Pelatihan CND memberikan keterampilan yang diperlukan untuk melindungi infrastruktur jaringan.",
+        "Permintaan Profesional Keamanan Jaringan : Di pasar kerja saat ini, ada permintaan tinggi untuk profesional yang terlatih dalam keamanan jaringan. Sertifikasi CND diakui secara internasional dan dapat meningkatkan peluang karir Anda di berbagai industri.",
+        "Pengetahuan yang Komprehensif : CND mencakup berbagai aspek keamanan jaringan, termasuk teknologi firewall, VPN, Intrusion Detection Systems (IDS), dan Intrusion Prevention Systems (IPS). Dengan pengetahuan ini, Anda dapat menganalisis dan meningkatkan keamanan jaringan secara keseluruhan.",
+        "Keterampilan Praktis : Program pelatihan ini menyediakan kesempatan untuk menerapkan pengetahuan dalam praktik langsung. Anda akan belajar bagaimana melakukan analisis, pemantauan, dan penanggulangan ancaman dalam situasi nyata, yang dapat langsung diterapkan di tempat kerja.",
+        "Kemampuan Mitigasi Risiko : Melalui pelatihan ini, Anda akan memahami konsep manajemen risiko dan pembangkitan kebijakan keamanan, yang sangat penting untuk mengelola risiko yang dihadapi oleh organisasi.",
+        "Sertifikasi yang Diakui Secara Internasional : Mendapatkan sertifikasi CND memberikan kredibilitas tambahan di mata calon pemberi kerja, menunjukkan bahwa Anda memiliki keterampilan dan pengetahuan yang relevan di bidang keamanan jaringan.",
+        "Pengembangan Karir yang Lebih Baik : Sertifikasi ini dapat membuka peluang untuk posisi yang lebih tinggi atau spesialis di bidang keamanan jaringan, meningkatkan potensi penghasilan dan pertumbuhan karir Anda.",
+        "Memahami Peraturan dan Kebijakan Keamanan : Anda akan belajar tentang kebijakan keamanan yang berlaku dan bagaimana menerapkannya dalam organisasi, membantu perusahaan mematuhi regulasi yang relevan.",
+        "Lingkungan Belajar yang Dinamis : Pelatihan ini sering kali dilakukan di lingkungan yang interaktif dan kolaboratif, memberi Anda kesempatan untuk berdiskusi dan belajar dari instruktur dan rekan-rekan Anda yang memiliki latar belakang berbeda.",
+        "Kesiapan untuk Menghadapi Serangan Nyata : Dengan pelatihan CND, Anda akan diberdayakan untuk merespons insiden keamanan dengan lebih efektif dan cepat, memperkuat keberlanjutan dan ketahanan organisasi Anda terhadap ancaman."
+      ]
+    },
+    {
+      "heading": "Fasilitas Training",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "FREE Mengulang Training Sebanyak 2 kali",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Miftahul Huda, M.Kom (CND)",
+      "items": [
+        "Miftahul Huda, M.Kom (CND)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 01: Network Attacks and Defense Strategies Module 02: Administrative Network Security Module 03: Technical Network Security Module 04: Network Perimeter Security Module 05: Endpoint Security – Windows Systems Module 06: Endpoint Security – Linux Systems Module 07: Endpoint Security – Mobile Devices Module 08: Endpoint Security – IoT Devices Module 09: Administrative Application Security Module 10: Data Security Module 11: Enterprise Virtual Network Security Module 12: Enterprise Cloud Security Module 13: Enterprise Wireless Network Security Module 14: Network Traffic Monitoring and Analysis Module 15: Network Logs Monitoring and Analysis Module 16: Incident Response and Forensics Investigation Module 17: Business Continuity and Disaster Recovery Module 18: Risk Anticipation with Risk Management Module 19: Threat Assessment with Attack Surface Analysis Module 20: Threat Prediction with Cyber Threat Intelligence",
+      "items": [
+        "Module 01: Network Attacks and Defense Strategies",
+        "Module 02: Administrative Network Security",
+        "Module 03: Technical Network Security",
+        "Module 04: Network Perimeter Security",
+        "Module 05: Endpoint Security – Windows Systems",
+        "Module 06: Endpoint Security – Linux Systems",
+        "Module 07: Endpoint Security – Mobile Devices",
+        "Module 08: Endpoint Security – IoT Devices",
+        "Module 09: Administrative Application Security",
+        "Module 10: Data Security",
+        "Module 11: Enterprise Virtual Network Security",
+        "Module 12: Enterprise Cloud Security",
+        "Module 13: Enterprise Wireless Network Security",
+        "Module 14: Network Traffic Monitoring and Analysis",
+        "Module 15: Network Logs Monitoring and Analysis",
+        "Module 16: Incident Response and Forensics Investigation",
+        "Module 17: Business Continuity and Disaster Recovery",
+        "Module 18: Risk Anticipation with Risk Management",
+        "Module 19: Threat Assessment with Attack Surface Analysis",
+        "Module 20: Threat Prediction with Cyber Threat Intelligence"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "5 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp. 20.000.000 Rp. 17.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training CEK jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "CND (Certified Network Defender)",
+    "content_hash": "d3f673dc3ef70ff02461b1927c4472ba6a4a23db858d0b160f9aadf274c49b62",
+    "template_type": "BETTERDOCS"
+  }
+}

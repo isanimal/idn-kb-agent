@@ -1,0 +1,95 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training ID-Networkers / IDN merupakan Mikrotik training partner terbaik no. 1 di Asia dengan Rating saat ini : 4.9/5 (1385 votes) Average student result: 72%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. Mikrotik Certified Security Engineer (MTCSE) merupakan sertifikasi baru yang dikeluarkan oleh Mikrotik. Sertifikasi ini akan fokus membahas tentang Security di Mikrotik. Setelah mengikuti kursus ini, Anda akan bisa menyusun rancangan & mengimplementasikan security pada jaringan Mikrotik. Training ini akan dilaksanakan selama 2 hari mulai pukul 09.00 s.d 17.00 wib tiap harinya, dan dihari terakhir training peserta akan langsung mengikuti sertifikasi internasional MTCSE resmi dari Mikrotik.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Modul 1 – Introduction Attacks, mechanisms and services The most common threats RouterOS security deployment Modul 2 – Firewall Packet flow, firewall chains Stateful firewall RAW table SYN flood mitigation using RAW table RouterOS default configuration Best practices for management access Detecting an attack to critical infrastructure services Bridge filter Advanced options in firewall filter ICMP filtering Modul 3 – OSI Layer Attacks MNDP attacks and prevention DHCP: rogue servers, starvation attacks and prevention TCP SYN attacks and prevention UDP attacks and prevention ICMP Smurf attacks and prevention FTP, telnet and SSH brute-force attacks and prevention Port scan detection and prevention Modul 4 – Cryptography Introduction to cryptography and terminology Encryption methods Algorithms – symmetric, asymmetric Public key infrastructure (PKI) Certificates Self-signed certificates Free of charge valid certificates Using the certificates in RouterOS Modul 5 – Securing The Router Port knocking Secure connections (HTTPS, SSH, WinBox) Default ports for the services Tunneling through SSH Modul 6 – Secure Tunnels Introduction to IPsec L2TP + IPsec SSTP with certificates",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta mendapat sertifikat internasional MTCSE untuk menunjang pekerjaan Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, hususnya mikrotik Peserta mendapat skill untuk melakukan monitoring dan trobleshooting dan Security jaringan Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Oky Tria Saputra (MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer) Ziad Sobri (Mikrotik Certified Trainer)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/mtcse/",
+      "source_section": "Mengapa Harus Training MTCSE di IDN ?",
+      "source_text": "Mengapa Harus Training MTCSE di IDN ? Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Jika peserta training gagal dalam ujian pertama, maka akan mendapatkan kesempatan ujian lagi FREE (satu kali) dengan jangka waktu 1 bulan dihitung sejak dilaksanakan ujian. GRATIS mengulang training sebanyak 2 kali jika dirasa belum paham GRATIS penginapan bagi peserta training dari luar kota",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/mtcse/",
+        "source_section": "Page title",
+        "source_text": "MIKROTIK MTCSE + EXAM",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/mtcse/",
+        "source_section": "Training registry",
+        "source_text": "Mikrotik",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/mtcse/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/mtcse/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

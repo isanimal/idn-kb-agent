@@ -1,0 +1,403 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "RCNA Routing Switching + Exam",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+          "source_section": "Page title",
+          "source_text": "RCNA Routing Switching + Exam",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Ruijie",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+          "source_section": "Training registry",
+          "source_text": "Ruijie",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/rcna-routing-switching/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/rcna-routing-switching/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training Ruijie RCNA (Ruijie Certified Network Associate) Routing Switching adalah program pelatihan bersertifikasi yang dirancang untuk memberikan pemahaman dan keterampilan dasar dalam jaringan komputer menggunakan perangkat Ruijie. Pelatihan ini sangat penting bagi para profesional IT yang ingin memperdalam pengetahuan mereka tentang teknologi jaringan, terutama bagi mereka yang bekerja dengan perangkat dan solusi dari Ruijie Networks. Apa itu Ruijie Networks? Ruijie Networks adalah salah satu penyedia solusi jaringan terkemuka di Asia, khususnya di bidang perangkat keras dan perangkat lunak jaringan yang inovatif. Perusahaan ini menawarkan berbagai produk, termasuk switch, router, access point, dan solusi keamanan jaringan.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training Ruijie RCNA (Ruijie Certified Network Associate) Routing Switching adalah program pelatihan bersertifikasi yang dirancang untuk memberikan pemahaman dan keterampilan dasar dalam jaringan komputer menggunakan perangkat Ruijie. Pelatihan ini sangat penting bagi para profesional IT yang ingin memperdalam pengetahuan mereka tentang teknologi jaringan, terutama bagi mereka yang bekerja dengan perangkat dan solusi dari Ruijie Networks. Apa itu Ruijie Networks? Ruijie Networks adalah salah satu penyedia solusi jaringan terkemuka di Asia, khususnya di bidang perangkat keras dan perangkat lunak jaringan yang inovatif. Perusahaan ini menawarkan berbagai produk, termasuk switch, router, access point, dan solusi keamanan jaringan.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 3.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 3.000.000",
+        "amount": 3000000,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 2.000.000",
+        "amount": 2000000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Biaya Investasi : Rp 3.000.000 Rp 2.000.000",
+        "source_text": "Biaya Investasi : Rp 3.000.000 Rp 2.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      "Enterprise Router Product",
+      "Enterprise Switch Product",
+      "Enterprise Wireless Product",
+      "Firewall Product – Ruijie Cloud (Enterprise Product)",
+      "RGOS daily management operations",
+      "L2 Switch Principle",
+      "VLAN Principle",
+      "STP Principle",
+      "Link Aggregation Principle",
+      "VSU Technology Principle Routing Technology",
+      "IP Routing Technology",
+      "Direct Routing and Static Routing Principle",
+      "OSPF Dynamic Routing",
+      "IPv6 Basics & Labs IP Service Technology",
+      "DHCP Protocol principles",
+      "VRRP Principle",
+      "IP Access Control List",
+      "NAT Principles",
+      "IPsec VPN Principle",
+      "802.1X (LAN) Wireless Technology",
+      "WLAN Concept Introduction",
+      "WLAN Technology Basics",
+      "WLAN Devices",
+      "WLAN Networking Model",
+      "WLAN Data Forwarding Principles",
+      "WLAN Devices Basic Configurations",
+      "WLAN Security"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Introduction Product & Special Feature Enterprise Router Product Enterprise Switch Product Enterprise Wireless Product Firewall Product – Ruijie Cloud (Enterprise Product) RGOS daily management operations Switching Technology L2 Switch Principle VLAN Principle STP Principle Link Aggregation Principle VSU Technology Principle Routing Technology IP Routing Technology Direct Routing and Static Routing Principle OSPF Dynamic Routing IPv6 Basics & Labs IP Service Technology DHCP Protocol principles VRRP Principle IP Access Control List NAT Principles IPsec VPN Principle 802.1X (LAN) Wireless Technology WLAN Concept Introduction WLAN Technology Basics WLAN Devices WLAN Networking Model WLAN Data Forwarding Principles WLAN Devices Basic Configurations WLAN Security",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat",
+      "Modul",
+      "Kaos, dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "FOUND",
+    "value": [
+      "Fresh Graduates : Lulusan dari jurusan teknik informatika, jaringan komputer, atau disiplin ilmu terkait yang ingin memulai karir di bidang jaringan.",
+      "Teknisi Jaringan : Profesional IT yang bekerja di lapangan dan ingin meningkatkan keterampilan serta pengetahuan mereka dalam konfigurasi dan pengelolaan perangkat Ruijie.",
+      "Administrators Jaringan : Para administrator jaringan yang bertanggung jawab untuk memelihara dan mengelola infrastruktur jaringan, terutama yang menggunakan perangkat dari Ruijie.",
+      "Manajer IT : Individu yang memiliki peran dalam manajemen tim layanan IT dan perlu memahami aspek teknis jaringan untuk pengambilan keputusan yang lebih baik.",
+      "Spesialis Keamanan Jaringan : Profesional yang ingin memperdalam pengetahuan mereka dalam keamanan jaringan dan bagaimana perangkat Ruijie dapat diimplementasikan dalam kebijakan keamanan.",
+      "Pegawai Perusahaan Teknologi : Anggota tim IT di perusahaan yang menggunakan solusi dan produk Ruijie yang ingin memahami lebih baik penggunaan perangkat dalam setting nyata.",
+      "Orang yang Berubah Karir : Individu yang ingin berpindah ke bidang jaringan dan mencari pendidikan yang terstruktur untuk memasuki area ini."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Siapa yang Cocok Mengikuti Training Ini?",
+        "source_text": "Siapa yang Cocok Mengikuti Training Ini? Training Ruijie RCNA cocok untuk berbagai individu yang tertarik untuk mengembangkan keterampilan mereka di bidang jaringan komputer. Berikut adalah beberapa tipe orang yang dapat diuntungkan dari pelatihan ini: Fresh Graduates : Lulusan dari jurusan teknik informatika, jaringan komputer, atau disiplin ilmu terkait yang ingin memulai karir di bidang jaringan. Teknisi Jaringan : Profesional IT yang bekerja di lapangan dan ingin meningkatkan keterampilan serta pengetahuan mereka dalam konfigurasi dan pengelolaan perangkat Ruijie. Administrators Jaringan : Para administrator jaringan yang bertanggung jawab untuk memelihara dan mengelola infrastruktur jaringan, terutama yang menggunakan perangkat dari Ruijie. Manajer IT : Individu yang memiliki peran dalam manajemen tim layanan IT dan perlu memahami aspek teknis jaringan untuk pengambilan keputusan yang lebih baik. Spesialis Keamanan Jaringan : Profesional yang ingin memperdalam pengetahuan mereka dalam keamanan jaringan dan bagaimana perangkat Ruijie dapat diimplementasikan dalam kebijakan keamanan. Pegawai Perusahaan Teknologi : Anggota tim IT di perusahaan yang menggunakan solusi dan produk Ruijie yang ingin memahami lebih baik penggunaan perangkat dalam setting nyata. Orang yang Berubah Karir : Individu yang ingin berpindah ke bidang jaringan dan mencari pendidikan yang terstruktur untuk memasuki area ini. Dengan pelatihan ini, peserta dapat memperluas wawasan mereka tentang teknologi jaringan, meningkatkan keterampilan praktis, dan mempersiapkan diri untuk ujian sertifikasi Ruijie, yang dapat meningkatkan daya saing mereka di pasar kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "At-Thoriq Firdaus",
+      "Miftahul Huda"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Trainer",
+        "source_text": "Trainer At-Thoriq Firdaus Miftahul Huda",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "source_section": "Fasilitas Peserta :",
+        "source_text": "Fasilitas Peserta : Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training Ruijie RCNA (Ruijie Certified Network Associate) Routing Switching adalah program pelatihan bersertifikasi yang dirancang untuk memberikan pemahaman dan keterampilan dasar dalam jaringan komputer menggunakan perangkat Ruijie. Pelatihan ini sangat penting bagi para profesional IT yang ingin memperdalam pengetahuan mereka tentang teknologi jaringan, terutama bagi mereka yang bekerja dengan perangkat dan solusi dari Ruijie Networks. Apa itu Ruijie Networks? Ruijie Networks adalah salah satu penyedia solusi jaringan terkemuka di Asia, khususnya di bidang perangkat keras dan perangkat lunak jaringan yang inovatif. Perusahaan ini menawarkan berbagai produk, termasuk switch, router, access point, dan solusi keamanan jaringan.",
+      "items": []
+    },
+    {
+      "heading": "Manfaat mengikuti training Ruijie RCNA",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Pemahaman Dasar Jaringan : Peserta akan memperoleh pengetahuan tentang konsep dasar jaringan, termasuk topologi, protokol, dan arsitektur jaringan yang umum digunakan. Penguasaan Perangkat Ruijie : Pelatihan ini fokus pada penggunaan perangkat Ruijie, memungkinkan peserta untuk memahami konfigurasi, pengelolaan, dan pengoptimalan perangkat tersebut dalam infrastruktur jaringan. Keterampilan Praktis : Training ini menyediakan sesi praktikum yang memungkinkan peserta langsung berinteraksi dengan perangkat keras, memberikan pengalaman nyata dalam pengaturan dan pemecahan masalah jaringan. Kesiapan untuk Sertifikasi : Program ini mempersiapkan peserta untuk mengikuti ujian sertifikasi Ruijie RCNA, yang sangat dihargai di industri dan dapat meningkatkan kredibilitas serta prospek karir. Networking dengan Profesional Lain : Peserta akan memiliki kesempatan untuk berkenalan dan berkolaborasi dengan sesama profesional di bidang jaringan, yang dapat memberikan wawasan tambahan serta membuka peluang karir.",
+      "items": []
+    },
+    {
+      "heading": "Siapa yang Cocok Mengikuti Training Ini?",
+      "semantic_type": "TARGET_AUDIENCE",
+      "content": "Training Ruijie RCNA cocok untuk berbagai individu yang tertarik untuk mengembangkan keterampilan mereka di bidang jaringan komputer. Berikut adalah beberapa tipe orang yang dapat diuntungkan dari pelatihan ini: Fresh Graduates : Lulusan dari jurusan teknik informatika, jaringan komputer, atau disiplin ilmu terkait yang ingin memulai karir di bidang jaringan. Teknisi Jaringan : Profesional IT yang bekerja di lapangan dan ingin meningkatkan keterampilan serta pengetahuan mereka dalam konfigurasi dan pengelolaan perangkat Ruijie. Administrators Jaringan : Para administrator jaringan yang bertanggung jawab untuk memelihara dan mengelola infrastruktur jaringan, terutama yang menggunakan perangkat dari Ruijie. Manajer IT : Individu yang memiliki peran dalam manajemen tim layanan IT dan perlu memahami aspek teknis jaringan untuk pengambilan keputusan yang lebih baik. Spesialis Keamanan Jaringan : Profesional yang ingin memperdalam pengetahuan mereka dalam keamanan jaringan dan bagaimana perangkat Ruijie dapat diimplementasikan dalam kebijakan keamanan. Pegawai Perusahaan Teknologi : Anggota tim IT di perusahaan yang menggunakan solusi dan produk Ruijie yang ingin memahami lebih baik penggunaan perangkat dalam setting nyata. Orang yang Berubah Karir : Individu yang ingin berpindah ke bidang jaringan dan mencari pendidikan yang terstruktur untuk memasuki area ini. Dengan pelatihan ini, peserta dapat memperluas wawasan mereka tentang teknologi jaringan, meningkatkan keterampilan praktis, dan mempersiapkan diri untuk ujian sertifikasi Ruijie, yang dapat meningkatkan daya saing mereka di pasar kerja.",
+      "items": [
+        "Fresh Graduates : Lulusan dari jurusan teknik informatika, jaringan komputer, atau disiplin ilmu terkait yang ingin memulai karir di bidang jaringan.",
+        "Teknisi Jaringan : Profesional IT yang bekerja di lapangan dan ingin meningkatkan keterampilan serta pengetahuan mereka dalam konfigurasi dan pengelolaan perangkat Ruijie.",
+        "Administrators Jaringan : Para administrator jaringan yang bertanggung jawab untuk memelihara dan mengelola infrastruktur jaringan, terutama yang menggunakan perangkat dari Ruijie.",
+        "Manajer IT : Individu yang memiliki peran dalam manajemen tim layanan IT dan perlu memahami aspek teknis jaringan untuk pengambilan keputusan yang lebih baik.",
+        "Spesialis Keamanan Jaringan : Profesional yang ingin memperdalam pengetahuan mereka dalam keamanan jaringan dan bagaimana perangkat Ruijie dapat diimplementasikan dalam kebijakan keamanan.",
+        "Pegawai Perusahaan Teknologi : Anggota tim IT di perusahaan yang menggunakan solusi dan produk Ruijie yang ingin memahami lebih baik penggunaan perangkat dalam setting nyata.",
+        "Orang yang Berubah Karir : Individu yang ingin berpindah ke bidang jaringan dan mencari pendidikan yang terstruktur untuk memasuki area ini."
+      ]
+    },
+    {
+      "heading": "Mengapa Harus Training Ruijie RCNA di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Training sudah include Exam sertifikasi international resmi dari Ruijie Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training Ruijie RCNA Design di Indonesia pemberitahuan lowongan kerja kepada peserta join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang Ruijie",
+      "items": [
+        "Training sudah include Exam sertifikasi international resmi dari Ruijie",
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training Ruijie RCNA Design di Indonesia",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang Ruijie"
+      ]
+    },
+    {
+      "heading": "Fasilitas Peserta :",
+      "semantic_type": "FACILITIES",
+      "content": "Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos, dll",
+      "items": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat",
+        "Modul",
+        "Kaos, dll"
+      ]
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Introduction Product & Special Feature Enterprise Router Product Enterprise Switch Product Enterprise Wireless Product Firewall Product – Ruijie Cloud (Enterprise Product) RGOS daily management operations Switching Technology L2 Switch Principle VLAN Principle STP Principle Link Aggregation Principle VSU Technology Principle Routing Technology IP Routing Technology Direct Routing and Static Routing Principle OSPF Dynamic Routing IPv6 Basics & Labs IP Service Technology DHCP Protocol principles VRRP Principle IP Access Control List NAT Principles IPsec VPN Principle 802.1X (LAN) Wireless Technology WLAN Concept Introduction WLAN Technology Basics WLAN Devices WLAN Networking Model WLAN Data Forwarding Principles WLAN Devices Basic Configurations WLAN Security",
+      "items": [
+        "Enterprise Router Product",
+        "Enterprise Switch Product",
+        "Enterprise Wireless Product",
+        "Firewall Product – Ruijie Cloud (Enterprise Product)",
+        "RGOS daily management operations",
+        "L2 Switch Principle",
+        "VLAN Principle",
+        "STP Principle",
+        "Link Aggregation Principle",
+        "VSU Technology Principle Routing Technology",
+        "IP Routing Technology",
+        "Direct Routing and Static Routing Principle",
+        "OSPF Dynamic Routing",
+        "IPv6 Basics & Labs IP Service Technology",
+        "DHCP Protocol principles",
+        "VRRP Principle",
+        "IP Access Control List",
+        "NAT Principles",
+        "IPsec VPN Principle",
+        "802.1X (LAN) Wireless Technology",
+        "WLAN Concept Introduction",
+        "WLAN Technology Basics",
+        "WLAN Devices",
+        "WLAN Networking Model",
+        "WLAN Data Forwarding Principles",
+        "WLAN Devices Basic Configurations",
+        "WLAN Security"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "At-Thoriq Firdaus Miftahul Huda",
+      "items": [
+        "At-Thoriq Firdaus",
+        "Miftahul Huda"
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "3 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000 Rp 2.000.000",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [
+    "MULTIPLE_PRICE_VALUES"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 9,
+    "fields_not_found": 7,
+    "coverage": 0.5625
+  },
+  "metadata": {
+    "registry_name": "RCNA Routing Switching + Exam",
+    "content_hash": "48729436c247e7e784d29fc1dc340ed36251ec6a718acd99db49d869285a2b18",
+    "template_type": "BETTERDOCS"
+  }
+}

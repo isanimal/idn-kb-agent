@@ -1,0 +1,14 @@
+{
+  "training_source_id": 84,
+  "canonical_url": "https://www.idn.id/training/ui-ux-design/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "f4ae5b722e084bfd057fd8da42ac2d384c482831f6430a2a420e20a3025a3f16",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:00.941710+00:00",
+  "facts_path": "data\\products\\ui-ux-design\\facts.json",
+  "evidence_path": "data\\products\\ui-ux-design\\evidence.json",
+  "raw_snapshot_path": "data\\products\\ui-ux-design\\raw.html",
+  "last_error": null
+}

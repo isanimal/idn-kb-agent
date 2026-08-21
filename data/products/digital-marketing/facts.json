@@ -1,0 +1,1290 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "Digital Marketing",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/digital-marketing/",
+          "source_section": "Page title",
+          "source_text": "Digital Marketing",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Digital Marketing",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/digital-marketing/",
+          "source_section": "Training registry",
+          "source_text": "Digital Marketing",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/digital-marketing/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/digital-marketing/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/digital-marketing/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training di ID-Networkers",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Fasilitas Training Digital Marketing di ID-Networkers :",
+        "source_text": "Fasilitas Training Digital Marketing di ID-Networkers : Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training di ID-Networkers",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Biaya Investasi Training Digital Marketing Rp 2.5 Rp 1,8 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Training Digital Marketing Rp 2.5 Rp 1,8 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Rp 2.5",
+        "amount": 25,
+        "currency": "IDR",
+        "qualifier": null
+      },
+      {
+        "raw": "Rp 1,8 JT",
+        "amount": 1800000,
+        "currency": "IDR",
+        "qualifier": null
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Biaya Investasi",
+        "source_text": "Biaya Investasi Training Digital Marketing Rp 2.5 Rp 1,8 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "FOUND",
+    "value": "Offline & Online Class",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Offline & Online Class",
+        "source_text": "Offline & Online Class",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "curriculum": {
+    "status": "PARSE_ERROR",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "[Kurikulum Training Digital Marketing] Materi Apa Saja Yang Akan Kamu Pelajari?",
+        "source_text": "[Kurikulum Training Digital Marketing] Materi Apa Saja Yang Akan Kamu Pelajari?",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "FOUND",
+    "value": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffe Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Fasilitas Lengkap",
+        "source_text": "Fasilitas Lengkap Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "prerequisites": {
+    "status": "FOUND",
+    "value": [
+      "Sudah memiliki akun Facebook sebelumnya",
+      "Sudah memiliki akun Instagram bisnis sebelumnya (Opsional)",
+      "Memiliki akun Gmail yang akan dipakai untuk mengelola bisnis/poduk/jasa",
+      "Persiapkan nama bisnis/produk/jasa yang akan di iklankan",
+      "Sudah memiliki website sebelumnya (opsional)",
+      "Terbiasa mengoperasikan komputer"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Hal-Hal Yang Perlu Dipersiapkan Sebelum Mengikuti Training Digital Marketing",
+        "source_text": "Hal-Hal Yang Perlu Dipersiapkan Sebelum Mengikuti Training Digital Marketing Sudah memiliki akun Facebook sebelumnya Sudah memiliki akun Instagram bisnis sebelumnya (Opsional) Memiliki akun Gmail yang akan dipakai untuk mengelola bisnis/poduk/jasa Persiapkan nama bisnis/produk/jasa yang akan di iklankan Sudah memiliki website sebelumnya (opsional) Terbiasa mengoperasikan komputer",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Trainer Tersertifikasi",
+        "source_text": "Trainer Tersertifikasi Trainer bersertifikasi BNSP, praktisi dan berpengalaman lebih dari 5 tahun di bidang Digital Marketing",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Belajar Digital Marketing Langsung dari instruktur Berpengalaman",
+        "source_text": "Belajar Digital Marketing Langsung dari instruktur Berpengalaman",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "FOUND",
+    "value": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "After sales yang baik",
+        "source_text": "After sales yang baik After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Gratis Mengulang Training 2 Kali tanpa syarat",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/digital-marketing/",
+        "source_section": "Free Mengulang",
+        "source_text": "Free Mengulang Gratis Mengulang Training 2 Kali tanpa syarat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Upgrade Skill & Karirmu dengan mempelajari Digital Marketing",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Offline & Online Class",
+      "semantic_type": "TRAINING_FORMAT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Expert Instructors",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Beginner Friendly",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Kenapa harus Belajar dan Menguasai Digital Marketing ?",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Our Training Clients",
+      "semantic_type": "CLIENTS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Training Digital Marketing di ID-Networkers :",
+      "semantic_type": "SECTION_CONTAINER",
+      "content": "Berbagai fasilitas tambahan kami sediakan spesial untuk para peserta yang training di ID-Networkers",
+      "items": []
+    },
+    {
+      "heading": "Free Mengulang",
+      "semantic_type": "REPEAT_POLICY",
+      "content": "Gratis Mengulang Training 2 Kali tanpa syarat",
+      "items": []
+    },
+    {
+      "heading": "Menginap Gratis",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Peserta training diperbolehkan menginap di lokasi pelaksanaan training",
+      "items": []
+    },
+    {
+      "heading": "Materi terstruktur",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi training terstruktur, mudah dipahami, dan disesuaikan dengan kebutuhan industri",
+      "items": []
+    },
+    {
+      "heading": "Disediakan Quizzes & Info Sertifikasi Gratis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah selesai training akan disediakan quizzes dan pemberitahuan info sertifikasi gratis untuk mengevaluasi materi",
+      "items": []
+    },
+    {
+      "heading": "Murah & Berkualitas",
+      "semantic_type": "MARKETING_BENEFIT",
+      "content": "Materi Berkualitas dan Harga Training Termurah untuk sekelas training Digital Marketing",
+      "items": []
+    },
+    {
+      "heading": "Trainer Tersertifikasi",
+      "semantic_type": "TRAINERS",
+      "content": "Trainer bersertifikasi BNSP, praktisi dan berpengalaman lebih dari 5 tahun di bidang Digital Marketing",
+      "items": []
+    },
+    {
+      "heading": "Fasilitas Lengkap",
+      "semantic_type": "FACILITIES",
+      "content": "Sertifikat, Modul, T-shirt, Makan siang, Coffe Break, Goodie Bag, Notebook, Ruangan Ber AC, dll",
+      "items": []
+    },
+    {
+      "heading": "After sales yang baik",
+      "semantic_type": "SUPPORT",
+      "content": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "items": []
+    },
+    {
+      "heading": "[Kurikulum Training Digital Marketing] Materi Apa Saja Yang Akan Kamu Pelajari?",
+      "semantic_type": "CURRICULUM",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Fundamental Digital Marketing",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Apa itu Digital Marketing dan Kenapa Penting? Digital Marketing vs Traditional Marketing Digital Marketing Funnels & Channels Marketing Research dengan Google Trends",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Google Business Profile",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Google Business Profile Manfaat Google Business Profile Tutorial Google Business Profile",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Content Marketing & Copywriting",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Konten Marketing Jenis-Jenis Konten Marketing Praktik Membuat Konten Marketing dengan Canva Pengenalan Copywriting Tips-Tips Copywriting Praktik Membuat Copywriting",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Facebook & Instagram Ads",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Facebook & Instagram Ads Manfaat Beriklan di Facebook & Instagram Cara Pasang Iklan dan Penjelasan Dashboard Metode Pembayaran FB Ads Custom Audiences Pixel Management",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Website and Landing Page",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Manfaat Website Membuat Website dengan WordPress Kelebihan WordPress Pengenalan Landing Pages Manfaat Landing Pages Tips Membuat Landing Pages yang Menghasilkan Membuat Landing Pages dengan Elementor",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Google Analytics",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Google Analytics Manfaat Google Analytics Tutorial Menggunakan Google Analytics",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Search Engine Optimization (SEO)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan SEO Keyword Research SEO On-Page SEO Off-Page Google Search Console",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Customer Relationship Management",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan CRM Manfaat CRM Email Marketing",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Quizzes",
+      "semantic_type": "FACILITY_DETAIL",
+      "content": "Quiz Evaluasi Materi Training Info Sertifikasi dari Google dan Facebook",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Hal-Hal Yang Perlu Dipersiapkan Sebelum Mengikuti Training Digital Marketing",
+      "semantic_type": "PREREQUISITES",
+      "content": "Sudah memiliki akun Facebook sebelumnya Sudah memiliki akun Instagram bisnis sebelumnya (Opsional) Memiliki akun Gmail yang akan dipakai untuk mengelola bisnis/poduk/jasa Persiapkan nama bisnis/produk/jasa yang akan di iklankan Sudah memiliki website sebelumnya (opsional) Terbiasa mengoperasikan komputer",
+      "items": [
+        "Sudah memiliki akun Facebook sebelumnya",
+        "Sudah memiliki akun Instagram bisnis sebelumnya (Opsional)",
+        "Memiliki akun Gmail yang akan dipakai untuk mengelola bisnis/poduk/jasa",
+        "Persiapkan nama bisnis/produk/jasa yang akan di iklankan",
+        "Sudah memiliki website sebelumnya (opsional)",
+        "Terbiasa mengoperasikan komputer"
+      ]
+    },
+    {
+      "heading": "Proses Pendaftaran",
+      "semantic_type": "LOGISTICS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Belajar Digital Marketing Langsung dari instruktur Berpengalaman",
+      "semantic_type": "TRAINERS",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "sandi nugraha",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Meta Certified Digital Marketing BNSP Certified Trainer BNSP Certified Digital Marketing",
+      "items": [
+        "",
+        ""
+      ]
+    },
+    {
+      "heading": "Meta Certified Digital Marketing BNSP Certified Trainer BNSP Certified Digital Marketing",
+      "semantic_type": "TRAINER_DETAIL",
+      "content": "sandi nugraha Meta Certified Digital Marketing BNSP Certified Trainer BNSP Certified Digital Marketing",
+      "items": [
+        "",
+        ""
+      ]
+    },
+    {
+      "heading": "BUDIMAN HENDRY RUDOLEP",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "BNSP certified digital marketing",
+      "items": [
+        "",
+        ""
+      ]
+    },
+    {
+      "heading": "BNSP certified digital marketing",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "BUDIMAN HENDRY RUDOLEP BNSP certified digital marketing",
+      "items": [
+        "",
+        ""
+      ]
+    },
+    {
+      "heading": "35.000+ Alumni Telah Mengupgrade Skill dan Karirnya melalui Training ID-Networkers, dan terus bertambah!",
+      "semantic_type": "TESTIMONIAL",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Beberapa Dokumentasi Training Digital Marketing IDN",
+      "semantic_type": "DOCUMENTATION",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Tunggu Apalagi, Kuota Peserta terbatas! Yuk daftar dan upgrade skillmu sekarang juga!",
+      "semantic_type": "CTA",
+      "content": "",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi",
+      "semantic_type": "PRICE",
+      "content": "Training Digital Marketing Rp 2.5 Rp 1,8 JT Materi Terstruktur Disesuaikan dengan Kebutuhan Industri Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya) Sertifikat, Modul, Notebook, dll Instruktur Expert dan Berpengalaman Di bidangnya Gratis Mengulang Training Sebanyak 2x Jika Belum Paham DAFTAR SEKARANG Best Price",
+      "items": [
+        "Materi Terstruktur Disesuaikan dengan Kebutuhan Industri",
+        "Durasi Training 2 Hari (Jam 09.00 s.d 17.00 WIB Setiap Harinya)",
+        "Sertifikat, Modul, Notebook, dll",
+        "Instruktur Expert dan Berpengalaman Di bidangnya",
+        "Gratis Mengulang Training Sebanyak 2x Jika Belum Paham"
+      ]
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Disediakan Quizzes & Info Sertifikasi Gratis",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah selesai training akan disediakan quizzes dan pemberitahuan info sertifikasi gratis untuk mengevaluasi materi",
+      "items": []
+    },
+    {
+      "heading": "Fundamental Digital Marketing",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Apa itu Digital Marketing dan Kenapa Penting? Digital Marketing vs Traditional Marketing Digital Marketing Funnels & Channels Marketing Research dengan Google Trends",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Google Business Profile",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Google Business Profile Manfaat Google Business Profile Tutorial Google Business Profile",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Content Marketing & Copywriting",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Konten Marketing Jenis-Jenis Konten Marketing Praktik Membuat Konten Marketing dengan Canva Pengenalan Copywriting Tips-Tips Copywriting Praktik Membuat Copywriting",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Facebook & Instagram Ads",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Facebook & Instagram Ads Manfaat Beriklan di Facebook & Instagram Cara Pasang Iklan dan Penjelasan Dashboard Metode Pembayaran FB Ads Custom Audiences Pixel Management",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Website and Landing Page",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Manfaat Website Membuat Website dengan WordPress Kelebihan WordPress Pengenalan Landing Pages Manfaat Landing Pages Tips Membuat Landing Pages yang Menghasilkan Membuat Landing Pages dengan Elementor",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Google Analytics",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan Google Analytics Manfaat Google Analytics Tutorial Menggunakan Google Analytics",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Search Engine Optimization (SEO)",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan SEO Keyword Research SEO On-Page SEO Off-Page Google Search Console",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "Customer Relationship Management",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Pengenalan CRM Manfaat CRM Email Marketing",
+      "items": [
+        "Apa itu Digital Marketing dan Kenapa Penting?",
+        "Digital Marketing vs Traditional Marketing",
+        "Digital Marketing Funnels & Channels",
+        "Marketing Research dengan Google Trends",
+        "Pengenalan Google Business Profile",
+        "Manfaat Google Business Profile",
+        "Tutorial Google Business Profile",
+        "Pengenalan Konten Marketing",
+        "Jenis-Jenis Konten Marketing",
+        "Praktik Membuat Konten Marketing dengan Canva",
+        "Pengenalan Copywriting",
+        "Tips-Tips Copywriting",
+        "Praktik Membuat Copywriting",
+        "Pengenalan Facebook & Instagram Ads",
+        "Manfaat Beriklan di Facebook & Instagram",
+        "Cara Pasang Iklan dan Penjelasan Dashboard",
+        "Metode Pembayaran FB Ads",
+        "Custom Audiences",
+        "Pixel Management",
+        "Manfaat Website",
+        "Membuat Website dengan WordPress",
+        "Kelebihan WordPress",
+        "Pengenalan Landing Pages",
+        "Manfaat Landing Pages",
+        "Tips Membuat Landing Pages yang Menghasilkan",
+        "Membuat Landing Pages dengan Elementor",
+        "Pengenalan Google Analytics",
+        "Manfaat Google Analytics",
+        "Tutorial Menggunakan Google Analytics",
+        "Pengenalan SEO",
+        "Keyword Research",
+        "SEO On-Page",
+        "SEO Off-Page",
+        "Google Search Console",
+        "Pengenalan CRM",
+        "Manfaat CRM",
+        "Email Marketing",
+        "Quiz Evaluasi Materi Training",
+        "Info Sertifikasi dari Google dan Facebook"
+      ]
+    },
+    {
+      "heading": "sandi nugraha",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Meta Certified Digital Marketing BNSP Certified Trainer BNSP Certified Digital Marketing",
+      "items": [
+        "",
+        ""
+      ]
+    },
+    {
+      "heading": "BUDIMAN HENDRY RUDOLEP",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "BNSP certified digital marketing",
+      "items": [
+        "",
+        ""
+      ]
+    },
+    {
+      "heading": "BNSP certified digital marketing",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "BUDIMAN HENDRY RUDOLEP BNSP certified digital marketing",
+      "items": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "quality_flags": [
+    "NO_CURRICULUM",
+    "MULTIPLE_PRICE_VALUES",
+    "UNKNOWN_SECTIONS",
+    "PARSER_WARNING",
+    "GENERIC_TRAINER_TEXT"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 7,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "Digital Marketing",
+    "content_hash": "765f0a2da1afcdc045999943273070f3cb2edf0f79389433f3bc588c08cca34f",
+    "template_type": "ELEMENTOR"
+  }
+}

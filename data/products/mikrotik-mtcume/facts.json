@@ -1,0 +1,684 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "MIKROTIK MTCUME + EXAM",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+          "source_section": "Page title",
+          "source_text": "MIKROTIK MTCUME + EXAM",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Mikrotik",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+          "source_section": "Training registry",
+          "source_text": "Mikrotik",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/mikrotik-mtcume/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/mikrotik-mtcume/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MikroTik Certified User Management Engineer (MTCUME) adalah salah satu program training lanjutan dari MikroTik untuk para penggiat IT khusus nya di bidang Networking yang ingin mempelajari bagaimana cara memanage dengan secure MikroTik Router dengan system centralized. Training akan diadakan 2 hari, hari pertama membahas PPP, PPTP. L2TP, MTU, IPSecurity, PPPoE, Bridging, IPSec, Hotspot, Radius dan lain sebagai nya. Minimal sudah MTCNA untuk dapat mengikuti training+exam MTCUME.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MikroTik Certified User Management Engineer (MTCUME) adalah salah satu program training lanjutan dari MikroTik untuk para penggiat IT khusus nya di bidang Networking yang ingin mempelajari bagaimana cara memanage dengan secure MikroTik Router dengan system centralized. Training akan diadakan 2 hari, hari pertama membahas PPP, PPTP. L2TP, MTU, IPSecurity, PPPoE, Bridging, IPSec, Hotspot, Radius dan lain sebagai nya. Minimal sudah MTCNA untuk dapat mengikuti training+exam MTCUME.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Module 1 PPP",
+        "items": [
+          "PPP Profile Local and remote addresses Incoming and outgoing filters Address list Change TCP-MSS Use encryption Session timeout Rate-limit configuration Only-one setting",
+          "Local and remote addresses",
+          "Incoming and outgoing filters",
+          "Address list",
+          "Change TCP-MSS",
+          "Use encryption",
+          "Session timeout",
+          "Rate-limit configuration",
+          "Only-one setting",
+          "PPP Secret Service and Profile Local and Remote address Local and Remote address Routes configuration Limit Bytes In/Limit Bytes Out configuration IP Pool Set addresses ranges Next pool options",
+          "Service and Profile",
+          "Local and Remote address",
+          "Local and Remote address",
+          "Routes configuration",
+          "Limit Bytes In/Limit Bytes Out configuration",
+          "IP Pool",
+          "Set addresses ranges",
+          "Next pool options"
+        ]
+      },
+      {
+        "title": "Module 2 PPTP, LT2P",
+        "items": [
+          "PPTP and L2TP Theory Comparison",
+          "Theory",
+          "Comparison",
+          "PPTP Client Configuration Client Setup Set profile Dial on demand Add default route and static route",
+          "Client Setup",
+          "Set profile",
+          "Dial on demand",
+          "Add default route and static route",
+          "PPTP Server Configuration Enable server Setup profiles Add clients to PPP secret Set static interfaces for clients",
+          "Enable server",
+          "Setup profiles",
+          "Add clients to PPP secret",
+          "Set static interfaces for clients",
+          "L2TP Client Configuration Client setup Configure profile Dial on demand Add default route and static routes",
+          "Client setup",
+          "Configure profile",
+          "Dial on demand",
+          "Add default route and static routes",
+          "L2TP Server Configuration Enable server Set profiles Add clients to PPP secret Set Static interfaces for clients",
+          "Enable server",
+          "Set profiles",
+          "Add clients to PPP secret",
+          "Set Static interfaces for clients"
+        ]
+      },
+      {
+        "title": "Module 3 PPPoE",
+        "items": [
+          "PPPoE Server and Client Theory Usage Environment Comparison to other PPP Protocols",
+          "Theory",
+          "Usage Environment",
+          "Comparison to other PPP Protocols",
+          "PPPoE Client Configuration Client setup Select interface Service name Configure profile",
+          "Client setup",
+          "Select interface",
+          "Service name",
+          "Configure profile",
+          "PPPoE Server Configuration Enable PPPoE server Set profiles Add clients to PPP secret Add Static interfaces for clients Secure server by removing any IP address from PPPoE server interface",
+          "Enable PPPoE server",
+          "Set profiles",
+          "Add clients to PPP secret",
+          "Add Static interfaces for clients",
+          "Secure server by removing any IP address from PPPoE server interface",
+          "Encryption Set profile without encryption Set profile with encryption Configure PPPoE client without encryption",
+          "Set profile without encryption",
+          "Set profile with encryption",
+          "Configure PPPoE client without encryption",
+          "Interface ECMP Set ECMP routes for PPP interfaces",
+          "Set ECMP routes for PPP interfaces"
+        ]
+      },
+      {
+        "title": "Module 4 Bridging",
+        "items": [
+          "L2TP and EoIP Set L2TP tunnel Set EoIP tunnel Create bridge and add necessary interfaces to ports Confirm you have Ethernet connectivity between remote nodes",
+          "Set L2TP tunnel",
+          "Set EoIP tunnel",
+          "Create bridge and add necessary interfaces to ports",
+          "Confirm you have Ethernet connectivity between remote nodes",
+          "L2TP and VPLS Set L2TP tunnel Set VPLS tunnel Create bridge and add necessary interfaces to ports",
+          "Set L2TP tunnel",
+          "Set VPLS tunnel",
+          "Create bridge and add necessary interfaces to ports",
+          "L2TP and BCP Set L2TP tunnel Use BCP to bridge PPP interface Add to bridge necessary interface",
+          "Set L2TP tunnel",
+          "Use BCP to bridge PPP interface",
+          "Add to bridge necessary interface",
+          "Multilink Protocol Enable multilink by specifying correct MRRU settings Disable mangle rules for MSS adjustment",
+          "Enable multilink by specifying correct MRRU settings",
+          "Disable mangle rules for MSS adjustment",
+          "MLPPP (optional) Setup client and specify multiple interfaces for one client Set PPPoE server with MLPPP support",
+          "Setup client and specify multiple interfaces for one client",
+          "Set PPPoE server with MLPPP support"
+        ]
+      },
+      {
+        "title": "Module 5 IPSec",
+        "items": [
+          "Introduction Theory and concepts Comparison to other VPN protocols",
+          "Theory and concepts",
+          "Comparison to other VPN protocols",
+          "IPSec Peer Use different authentication methods IPSec exchange modes Encryption and hash algorithms NAT-Traversal Lifetime and lifebytes DPD protocol",
+          "Use different authentication methods",
+          "IPSec exchange modes",
+          "Encryption and hash algorithms",
+          "NAT-Traversal",
+          "Lifetime and lifebytes",
+          "DPD protocol",
+          "Policy IPSec protocol and action Tunnels Generate dynamic Policy",
+          "IPSec protocol and action",
+          "Tunnels",
+          "Generate dynamic Policy",
+          "Proposal Encryption and authentication algorithms Lifetime PFS",
+          "Encryption and authentication algorithms",
+          "Lifetime",
+          "PFS",
+          "Installed-SA Flush SA",
+          "Flush SA",
+          "Create IPSec between two routers with NAT Set peer Set policy Set NAT rules Confirm the secure link is established",
+          "Set peer",
+          "Set policy",
+          "Set NAT rules",
+          "Confirm the secure link is established"
+        ]
+      },
+      {
+        "title": "Module 6 HotSpot",
+        "items": [
+          "Introduction Concepts Usage environments Setup HotSpot with default",
+          "Concepts",
+          "Usage environments",
+          "Setup HotSpot with default",
+          "HotSpot Login Methods HTTP CHAP/PAP MAC Cookie HTTPS Trial RADIUS",
+          "HTTP CHAP/PAP",
+          "MAC",
+          "Cookie",
+          "HTTPS",
+          "Trial",
+          "RADIUS",
+          "Users Add users Set MAC-address for user Set MAC-address for usernam Limit Uptime and Limit Byt Reset limits for user",
+          "Add users",
+          "Set MAC-address for user",
+          "Set MAC-address for usernam",
+          "Limit Uptime and Limit Byt",
+          "Reset limits for user",
+          "Monitor Users Host Table Active Table SNMP for users",
+          "Host Table",
+          "Active Table",
+          "SNMP for users",
+          "Profile Keepalive timeout Shared users Rate-Limit Address-list Incoming/Outgoing filter Incoming/Outgoing Packet",
+          "Keepalive timeout",
+          "Shared users",
+          "Rate-Limit",
+          "Address-list",
+          "Incoming/Outgoing filter",
+          "Incoming/Outgoing Packet",
+          "Bypass HotSpot Walled garden Walled garden IP IP binding",
+          "Walled garden",
+          "Walled garden IP",
+          "IP binding",
+          "Customize HotSpot Advertisement Customize pages",
+          "Advertisement",
+          "Customize pages"
+        ]
+      },
+      {
+        "title": "Module 7 RADIUS",
+        "items": [
+          "RADIUS client Add radius client Set service Use RADIUS for the specific service",
+          "Add radius client",
+          "Set service",
+          "Use RADIUS for the specific service",
+          "RADIUS server",
+          "User manager Install the latest user-manager Add routers Add users Set profile",
+          "Install the latest user-manager",
+          "Add routers",
+          "Add users",
+          "Set profile",
+          "RADIUS incoming"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum Module 1 PPP PPP Profile Local and remote addresses Incoming and outgoing filters Address list Change TCP-MSS Use encryption Session timeout Rate-limit configuration Only-one setting PPP Secret Service and Profile Local and Remote address Local and Remote address Routes configuration Limit Bytes In/Limit Bytes Out configuration IP Pool Set addresses ranges Next pool options Module 2 PPTP, LT2P PPTP and L2TP Theory Comparison PPTP Client Configuration Client Setup Set profile Dial on demand Add default route and static route PPTP Server Configuration Enable server Setup profiles Add clients to PPP secret Set static interfaces for clients L2TP Client Configuration Client setup Configure profile Dial on demand Add default route and static routes L2TP Server Configuration Enable server Set profiles Add clients to PPP secret Set Static interfaces for clients Module 3 PPPoE PPPoE Server and Client Theory Usage Environment Comparison to other PPP Protocols PPPoE Client Configuration Client setup Select interface Service name Configure profile PPPoE Server Configuration Enable PPPoE server Set profiles Add clients to PPP secret Add Static interfaces for clients Secure server by removing any IP address from PPPoE server interface Encryption Set profile without encryption Set profile with encryption Configure PPPoE client without encryption Interface ECMP Set ECMP routes for PPP interfaces Module 4 Bridging L2TP and EoIP Set L2TP tunnel Set EoIP tunnel Create bridge and add necessary interfaces to ports Confirm you have Ethernet connectivity between remote nodes L2TP and VPLS Set L2TP tunnel Set VPLS tunnel Create bridge and add necessary interfaces to ports L2TP and BCP Set L2TP tunnel Use BCP to bridge PPP interface Add to bridge necessary interface Multilink Protocol Enable multilink by specifying correct MRRU settings Disable mangle rules for MSS adjustment MLPPP (optional) Setup client and specify multiple interfaces for one client Set PPPoE server with MLPPP support Module 5 IPSec Introduction Theory and concepts Comparison to other VPN protocols IPSec Peer Use different authentication methods IPSec exchange modes Encryption and hash algorithms NAT-Traversal Lifetime and lifebytes DPD protocol Policy IPSec protocol and action Tunnels Generate dynamic Policy Proposal Encryption and authentication algorithms Lifetime PFS Installed-SA Flush SA Create IPSec between two routers with NAT Set peer Set policy Set NAT rules Confirm the secure link is established Module 6 HotSpot Introduction Concepts Usage environments Setup HotSpot with default HotSpot Login Methods HTTP CHAP/PAP MAC Cookie HTTPS Trial RADIUS Users Add users Set MAC-address for user Set MAC-address for usernam Limit Uptime and Limit Byt Reset limits for user Monitor Users Host Table Active Table SNMP for users Profile Keepalive timeout Shared users Rate-Limit Address-list Incoming/Outgoing filter Incoming/Outgoing Packet Bypass HotSpot Walled garden Walled garden IP IP binding Customize HotSpot Advertisement Customize pages Module 7 RADIUS RADIUS client Add radius client Set service Use RADIUS for the specific service RADIUS server User manager Install the latest user-manager Add routers Add users Set profile RADIUS incoming",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Peserta dapat memahami menu menu yang ada di PPP seperti Local Address, Remote Address, Address List, Limitasi Session, Limitasi Bandwith untuk user PPP, PPP Secret, IP Pool dan lain sebagai nya",
+      "Peserta dapat memahami apa perbedaan tunnel PPTP dan L2TP baik itu dari segi Protocol, Encryption, MTU, Tunnel Header, dan lain sebagai nya.",
+      "Peserta dapat memahami dan mengkonfigurasi bagaimana cara kerja PPPoE, dan mengatur client ketika kita sebagai server, secure PPPoE, Load Balance PPPoE ataupun sebalik nya.",
+      "Peserta dapat memahami dan konfigurasi bagaimana cara nya PPTP dan L2TP jika ingin menggunakan bridge, dengan ada nya Bridge Control Protocol (BCP) maka akan bisa dibuatkan.",
+      "Peserta dapat memahami dan konfigurasi IPSecurity (IPSec) pada MikroTik, atau menghubungkan MikroTik dengan perangkat lain. Baik dari membuat Policy, Proposal, NAT Transversal, dan lain sebagai nya.",
+      "Peserta dapat memahami dan konfigurasi bagaimana cara membuat jaringan hotspot secara advanced. Baik ganti design login page, baik limitasi bandwith client, Login Method, Monitoring User, Profile for User, Bypass dengan Wallet Garden, IP Binding, Advertisement dan lain sebagai nya.",
+      "Peserta dapat memahami dan konfigurasi bagaimana cara untuk centralized user menggunakan Radius, baik dengan Radius MikroTik yaitu Userman, ataupun aplikasi lain nya.",
+      "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Peserta dapat memahami menu menu yang ada di PPP seperti Local Address, Remote Address, Address List, Limitasi Session, Limitasi Bandwith untuk user PPP, PPP Secret, IP Pool dan lain sebagai nya Peserta dapat memahami apa perbedaan tunnel PPTP dan L2TP baik itu dari segi Protocol, Encryption, MTU, Tunnel Header, dan lain sebagai nya. Peserta dapat memahami dan mengkonfigurasi bagaimana cara kerja PPPoE, dan mengatur client ketika kita sebagai server, secure PPPoE, Load Balance PPPoE ataupun sebalik nya. Peserta dapat memahami dan konfigurasi bagaimana cara nya PPTP dan L2TP jika ingin menggunakan bridge, dengan ada nya Bridge Control Protocol (BCP) maka akan bisa dibuatkan. Peserta dapat memahami dan konfigurasi IPSecurity (IPSec) pada MikroTik, atau menghubungkan MikroTik dengan perangkat lain. Baik dari membuat Policy, Proposal, NAT Transversal, dan lain sebagai nya. Peserta dapat memahami dan konfigurasi bagaimana cara membuat jaringan hotspot secara advanced. Baik ganti design login page, baik limitasi bandwith client, Login Method, Monitoring User, Profile for User, Bypass dengan Wallet Garden, IP Binding, Advertisement dan lain sebagai nya. Peserta dapat memahami dan konfigurasi bagaimana cara untuk centralized user menggunakan Radius, baik dengan Radius MikroTik yaitu Userman, ataupun aplikasi lain nya. Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+      "Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+      "Miftahul Huda (CCNA, MTCNA, MTCRE, MTCWE, UBWA, UBWS, UEWA)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA) Miftahul Huda (CCNA, MTCNA, MTCRE, MTCWE, UBWA, UBWS, UEWA)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "gratis karena gagal exam. Modul kami susun sendiri dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCUME. Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer. Bebas mengulang exam 1x gratis karena gagal exam",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/mikrotik-mtcume/",
+        "source_section": "Mengapa harus training MTCUME di IDN ?",
+        "source_text": "Mengapa harus training MTCUME di IDN ? gratis karena gagal exam. Modul kami susun sendiri dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCUME. Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer. Bebas mengulang exam 1x gratis karena gagal exam",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa harus training MTCUME di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung. Biaya TERMURAH, sudah termasuk Exam MTCUME. Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer. Bebas mengulang exam 1x gratis karena gagal exam. Modul kami susun sendiri dalam Bahasa Indonesia. Free konsultasi after training (kalo perlu tindak lanjut, ke project). Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+      "items": [
+        "Kami menghilangkan biaya pembelian routerboard sehingga biaya training dapat lebih ditekan, routerboard disediakan oleh kami selama kelas berlangsung.",
+        "Biaya TERMURAH, sudah termasuk Exam MTCUME.",
+        "Kami satu-satunya di indonesia yang mampu menyelenggarakan training sertifikasi tertinggi mikrotik yakni MTCINE, expert level trainer.",
+        "Bebas mengulang exam 1x gratis karena gagal exam.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia.",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "ID-Networkers Merupakan Mikrotik Training partner terbaik No. 1 bukan hanya di Indonesia bahkan Di Asia dengan Rate saat ini 4.9/5 (1306 votes) dengan average student result 71%. Telah terdaftar sebagai Certified MikroTik Training Partners dan berhak menyelenggarakan training dengan trainer bersertifikasi dan sekaligus berhak menyelenggarakan ujian sertifikasi internasional langsung dari MikroTik, Riga, Latvia. MikroTik Certified User Management Engineer (MTCUME) adalah salah satu program training lanjutan dari MikroTik untuk para penggiat IT khusus nya di bidang Networking yang ingin mempelajari bagaimana cara memanage dengan secure MikroTik Router dengan system centralized. Training akan diadakan 2 hari, hari pertama membahas PPP, PPTP. L2TP, MTU, IPSecurity, PPPoE, Bridging, IPSec, Hotspot, Radius dan lain sebagai nya. Minimal sudah MTCNA untuk dapat mengikuti training+exam MTCUME.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Peserta dapat memahami menu menu yang ada di PPP seperti Local Address, Remote Address, Address List, Limitasi Session, Limitasi Bandwith untuk user PPP, PPP Secret, IP Pool dan lain sebagai nya Peserta dapat memahami apa perbedaan tunnel PPTP dan L2TP baik itu dari segi Protocol, Encryption, MTU, Tunnel Header, dan lain sebagai nya. Peserta dapat memahami dan mengkonfigurasi bagaimana cara kerja PPPoE, dan mengatur client ketika kita sebagai server, secure PPPoE, Load Balance PPPoE ataupun sebalik nya. Peserta dapat memahami dan konfigurasi bagaimana cara nya PPTP dan L2TP jika ingin menggunakan bridge, dengan ada nya Bridge Control Protocol (BCP) maka akan bisa dibuatkan. Peserta dapat memahami dan konfigurasi IPSecurity (IPSec) pada MikroTik, atau menghubungkan MikroTik dengan perangkat lain. Baik dari membuat Policy, Proposal, NAT Transversal, dan lain sebagai nya. Peserta dapat memahami dan konfigurasi bagaimana cara membuat jaringan hotspot secara advanced. Baik ganti design login page, baik limitasi bandwith client, Login Method, Monitoring User, Profile for User, Bypass dengan Wallet Garden, IP Binding, Advertisement dan lain sebagai nya. Peserta dapat memahami dan konfigurasi bagaimana cara untuk centralized user menggunakan Radius, baik dengan Radius MikroTik yaitu Userman, ataupun aplikasi lain nya. Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+      "items": [
+        "Peserta dapat memahami menu menu yang ada di PPP seperti Local Address, Remote Address, Address List, Limitasi Session, Limitasi Bandwith untuk user PPP, PPP Secret, IP Pool dan lain sebagai nya",
+        "Peserta dapat memahami apa perbedaan tunnel PPTP dan L2TP baik itu dari segi Protocol, Encryption, MTU, Tunnel Header, dan lain sebagai nya.",
+        "Peserta dapat memahami dan mengkonfigurasi bagaimana cara kerja PPPoE, dan mengatur client ketika kita sebagai server, secure PPPoE, Load Balance PPPoE ataupun sebalik nya.",
+        "Peserta dapat memahami dan konfigurasi bagaimana cara nya PPTP dan L2TP jika ingin menggunakan bridge, dengan ada nya Bridge Control Protocol (BCP) maka akan bisa dibuatkan.",
+        "Peserta dapat memahami dan konfigurasi IPSecurity (IPSec) pada MikroTik, atau menghubungkan MikroTik dengan perangkat lain. Baik dari membuat Policy, Proposal, NAT Transversal, dan lain sebagai nya.",
+        "Peserta dapat memahami dan konfigurasi bagaimana cara membuat jaringan hotspot secara advanced. Baik ganti design login page, baik limitasi bandwith client, Login Method, Monitoring User, Profile for User, Bypass dengan Wallet Garden, IP Binding, Advertisement dan lain sebagai nya.",
+        "Peserta dapat memahami dan konfigurasi bagaimana cara untuk centralized user menggunakan Radius, baik dengan Radius MikroTik yaitu Userman, ataupun aplikasi lain nya.",
+        "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA) Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA) Miftahul Huda (CCNA, MTCNA, MTCRE, MTCWE, UBWA, UBWS, UEWA)",
+      "items": [
+        "Oky Tria Saputra ( MTCNA, MTCRE, MTCTCE, MTCWE, MTCUME, MTCINE, MTCIPv6E, Mikrotik Certified Trainer, UEWA)",
+        "Ikhwanul Kurnia Rahman (Mikrotik MTCNA, MTCRE, MTCTCE, MTCUME, MTCWE, MTCIPv6E, MTCINE, Trainer, CISCO CCNA RS, CCNP RS, Ubiquity UBWA, UEWA)",
+        "Miftahul Huda (CCNA, MTCNA, MTCRE, MTCWE, UBWA, UBWS, UEWA)"
+      ]
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "Module 1 PPP PPP Profile Local and remote addresses Incoming and outgoing filters Address list Change TCP-MSS Use encryption Session timeout Rate-limit configuration Only-one setting PPP Secret Service and Profile Local and Remote address Local and Remote address Routes configuration Limit Bytes In/Limit Bytes Out configuration IP Pool Set addresses ranges Next pool options Module 2 PPTP, LT2P PPTP and L2TP Theory Comparison PPTP Client Configuration Client Setup Set profile Dial on demand Add default route and static route PPTP Server Configuration Enable server Setup profiles Add clients to PPP secret Set static interfaces for clients L2TP Client Configuration Client setup Configure profile Dial on demand Add default route and static routes L2TP Server Configuration Enable server Set profiles Add clients to PPP secret Set Static interfaces for clients Module 3 PPPoE PPPoE Server and Client Theory Usage Environment Comparison to other PPP Protocols PPPoE Client Configuration Client setup Select interface Service name Configure profile PPPoE Server Configuration Enable PPPoE server Set profiles Add clients to PPP secret Add Static interfaces for clients Secure server by removing any IP address from PPPoE server interface Encryption Set profile without encryption Set profile with encryption Configure PPPoE client without encryption Interface ECMP Set ECMP routes for PPP interfaces Module 4 Bridging L2TP and EoIP Set L2TP tunnel Set EoIP tunnel Create bridge and add necessary interfaces to ports Confirm you have Ethernet connectivity between remote nodes L2TP and VPLS Set L2TP tunnel Set VPLS tunnel Create bridge and add necessary interfaces to ports L2TP and BCP Set L2TP tunnel Use BCP to bridge PPP interface Add to bridge necessary interface Multilink Protocol Enable multilink by specifying correct MRRU settings Disable mangle rules for MSS adjustment MLPPP (optional) Setup client and specify multiple interfaces for one client Set PPPoE server with MLPPP support Module 5 IPSec Introduction Theory and concepts Comparison to other VPN protocols IPSec Peer Use different authentication methods IPSec exchange modes Encryption and hash algorithms NAT-Traversal Lifetime and lifebytes DPD protocol Policy IPSec protocol and action Tunnels Generate dynamic Policy Proposal Encryption and authentication algorithms Lifetime PFS Installed-SA Flush SA Create IPSec between two routers with NAT Set peer Set policy Set NAT rules Confirm the secure link is established Module 6 HotSpot Introduction Concepts Usage environments Setup HotSpot with default HotSpot Login Methods HTTP CHAP/PAP MAC Cookie HTTPS Trial RADIUS Users Add users Set MAC-address for user Set MAC-address for usernam Limit Uptime and Limit Byt Reset limits for user Monitor Users Host Table Active Table SNMP for users Profile Keepalive timeout Shared users Rate-Limit Address-list Incoming/Outgoing filter Incoming/Outgoing Packet Bypass HotSpot Walled garden Walled garden IP IP binding Customize HotSpot Advertisement Customize pages Module 7 RADIUS RADIUS client Add radius client Set service Use RADIUS for the specific service RADIUS server User manager Install the latest user-manager Add routers Add users Set profile RADIUS incoming",
+      "items": [
+        {
+          "title": "Module 1 PPP",
+          "items": [
+            "PPP Profile Local and remote addresses Incoming and outgoing filters Address list Change TCP-MSS Use encryption Session timeout Rate-limit configuration Only-one setting",
+            "Local and remote addresses",
+            "Incoming and outgoing filters",
+            "Address list",
+            "Change TCP-MSS",
+            "Use encryption",
+            "Session timeout",
+            "Rate-limit configuration",
+            "Only-one setting",
+            "PPP Secret Service and Profile Local and Remote address Local and Remote address Routes configuration Limit Bytes In/Limit Bytes Out configuration IP Pool Set addresses ranges Next pool options",
+            "Service and Profile",
+            "Local and Remote address",
+            "Local and Remote address",
+            "Routes configuration",
+            "Limit Bytes In/Limit Bytes Out configuration",
+            "IP Pool",
+            "Set addresses ranges",
+            "Next pool options"
+          ]
+        },
+        {
+          "title": "Module 2 PPTP, LT2P",
+          "items": [
+            "PPTP and L2TP Theory Comparison",
+            "Theory",
+            "Comparison",
+            "PPTP Client Configuration Client Setup Set profile Dial on demand Add default route and static route",
+            "Client Setup",
+            "Set profile",
+            "Dial on demand",
+            "Add default route and static route",
+            "PPTP Server Configuration Enable server Setup profiles Add clients to PPP secret Set static interfaces for clients",
+            "Enable server",
+            "Setup profiles",
+            "Add clients to PPP secret",
+            "Set static interfaces for clients",
+            "L2TP Client Configuration Client setup Configure profile Dial on demand Add default route and static routes",
+            "Client setup",
+            "Configure profile",
+            "Dial on demand",
+            "Add default route and static routes",
+            "L2TP Server Configuration Enable server Set profiles Add clients to PPP secret Set Static interfaces for clients",
+            "Enable server",
+            "Set profiles",
+            "Add clients to PPP secret",
+            "Set Static interfaces for clients"
+          ]
+        },
+        {
+          "title": "Module 3 PPPoE",
+          "items": [
+            "PPPoE Server and Client Theory Usage Environment Comparison to other PPP Protocols",
+            "Theory",
+            "Usage Environment",
+            "Comparison to other PPP Protocols",
+            "PPPoE Client Configuration Client setup Select interface Service name Configure profile",
+            "Client setup",
+            "Select interface",
+            "Service name",
+            "Configure profile",
+            "PPPoE Server Configuration Enable PPPoE server Set profiles Add clients to PPP secret Add Static interfaces for clients Secure server by removing any IP address from PPPoE server interface",
+            "Enable PPPoE server",
+            "Set profiles",
+            "Add clients to PPP secret",
+            "Add Static interfaces for clients",
+            "Secure server by removing any IP address from PPPoE server interface",
+            "Encryption Set profile without encryption Set profile with encryption Configure PPPoE client without encryption",
+            "Set profile without encryption",
+            "Set profile with encryption",
+            "Configure PPPoE client without encryption",
+            "Interface ECMP Set ECMP routes for PPP interfaces",
+            "Set ECMP routes for PPP interfaces"
+          ]
+        },
+        {
+          "title": "Module 4 Bridging",
+          "items": [
+            "L2TP and EoIP Set L2TP tunnel Set EoIP tunnel Create bridge and add necessary interfaces to ports Confirm you have Ethernet connectivity between remote nodes",
+            "Set L2TP tunnel",
+            "Set EoIP tunnel",
+            "Create bridge and add necessary interfaces to ports",
+            "Confirm you have Ethernet connectivity between remote nodes",
+            "L2TP and VPLS Set L2TP tunnel Set VPLS tunnel Create bridge and add necessary interfaces to ports",
+            "Set L2TP tunnel",
+            "Set VPLS tunnel",
+            "Create bridge and add necessary interfaces to ports",
+            "L2TP and BCP Set L2TP tunnel Use BCP to bridge PPP interface Add to bridge necessary interface",
+            "Set L2TP tunnel",
+            "Use BCP to bridge PPP interface",
+            "Add to bridge necessary interface",
+            "Multilink Protocol Enable multilink by specifying correct MRRU settings Disable mangle rules for MSS adjustment",
+            "Enable multilink by specifying correct MRRU settings",
+            "Disable mangle rules for MSS adjustment",
+            "MLPPP (optional) Setup client and specify multiple interfaces for one client Set PPPoE server with MLPPP support",
+            "Setup client and specify multiple interfaces for one client",
+            "Set PPPoE server with MLPPP support"
+          ]
+        },
+        {
+          "title": "Module 5 IPSec",
+          "items": [
+            "Introduction Theory and concepts Comparison to other VPN protocols",
+            "Theory and concepts",
+            "Comparison to other VPN protocols",
+            "IPSec Peer Use different authentication methods IPSec exchange modes Encryption and hash algorithms NAT-Traversal Lifetime and lifebytes DPD protocol",
+            "Use different authentication methods",
+            "IPSec exchange modes",
+            "Encryption and hash algorithms",
+            "NAT-Traversal",
+            "Lifetime and lifebytes",
+            "DPD protocol",
+            "Policy IPSec protocol and action Tunnels Generate dynamic Policy",
+            "IPSec protocol and action",
+            "Tunnels",
+            "Generate dynamic Policy",
+            "Proposal Encryption and authentication algorithms Lifetime PFS",
+            "Encryption and authentication algorithms",
+            "Lifetime",
+            "PFS",
+            "Installed-SA Flush SA",
+            "Flush SA",
+            "Create IPSec between two routers with NAT Set peer Set policy Set NAT rules Confirm the secure link is established",
+            "Set peer",
+            "Set policy",
+            "Set NAT rules",
+            "Confirm the secure link is established"
+          ]
+        },
+        {
+          "title": "Module 6 HotSpot",
+          "items": [
+            "Introduction Concepts Usage environments Setup HotSpot with default",
+            "Concepts",
+            "Usage environments",
+            "Setup HotSpot with default",
+            "HotSpot Login Methods HTTP CHAP/PAP MAC Cookie HTTPS Trial RADIUS",
+            "HTTP CHAP/PAP",
+            "MAC",
+            "Cookie",
+            "HTTPS",
+            "Trial",
+            "RADIUS",
+            "Users Add users Set MAC-address for user Set MAC-address for usernam Limit Uptime and Limit Byt Reset limits for user",
+            "Add users",
+            "Set MAC-address for user",
+            "Set MAC-address for usernam",
+            "Limit Uptime and Limit Byt",
+            "Reset limits for user",
+            "Monitor Users Host Table Active Table SNMP for users",
+            "Host Table",
+            "Active Table",
+            "SNMP for users",
+            "Profile Keepalive timeout Shared users Rate-Limit Address-list Incoming/Outgoing filter Incoming/Outgoing Packet",
+            "Keepalive timeout",
+            "Shared users",
+            "Rate-Limit",
+            "Address-list",
+            "Incoming/Outgoing filter",
+            "Incoming/Outgoing Packet",
+            "Bypass HotSpot Walled garden Walled garden IP IP binding",
+            "Walled garden",
+            "Walled garden IP",
+            "IP binding",
+            "Customize HotSpot Advertisement Customize pages",
+            "Advertisement",
+            "Customize pages"
+          ]
+        },
+        {
+          "title": "Module 7 RADIUS",
+          "items": [
+            "RADIUS client Add radius client Set service Use RADIUS for the specific service",
+            "Add radius client",
+            "Set service",
+            "Use RADIUS for the specific service",
+            "RADIUS server",
+            "User manager Install the latest user-manager Add routers Add users Set profile",
+            "Install the latest user-manager",
+            "Add routers",
+            "Add users",
+            "Set profile",
+            "RADIUS incoming"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "MIKROTIK MTCUME + EXAM",
+    "content_hash": "2f23511ceadde4f57fbf8f795838f159162ba1f2b6c5fe29bf0a15e3f9c5841f",
+    "template_type": "BETTERDOCS"
+  }
+}

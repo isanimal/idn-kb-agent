@@ -1,0 +1,14 @@
+{
+  "training_source_id": 36,
+  "canonical_url": "https://www.idn.id/training/fortigate/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "9c763f4705de174737d3e0da59012ed26b65555bf6982343d3e9923ef9611b3a",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:30.577117+00:00",
+  "facts_path": "data\\products\\fortigate\\facts.json",
+  "evidence_path": "data\\products\\fortigate\\evidence.json",
+  "raw_snapshot_path": "data\\products\\fortigate\\raw.html",
+  "last_error": null
+}

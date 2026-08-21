@@ -1,0 +1,88 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/devops/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/devops/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/devops/",
+      "source_section": "Biaya Investasi : Rp 3.300.000,-",
+      "source_text": "Biaya Investasi : Rp 3.300.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/devops/",
+      "source_section": "Curriculum",
+      "source_text": "Curriculum Module 1. Introduction DevOps Concept ● Understand DevOps, its roles and responsibilities ● DevOps problems and solutions ● How to implement CI/CD on DevOps Environment ● DevOps Tools Module 2. Git : Version Control System ● Introduction of Version Control System ● Introduction Source Code Management ● How Git Works ● Working locally with Git ● Working remotely with Git ● Branching & Merging ● Resolve Merging Conflict Module 3. Github : Source Code Management ● Collaboration with Github ● Working with Github Organization Module 4. SonarQube : Testing & Code Analysis ● Unit Testing ● Integration Testing ● Code Analyst Module 5. Docker : Containerization ● Containerization Introduction. ● Docker Introduction ● Docker Installation ● Docker Command ● Docker Images & Container ● Create own Image with Dockerfile ● Docker Registry ● Docker Volume ● Docker Networking ● Docker Compose Module 6. Jenkins : CI/CD Tools ● Introduction CI/CD. ● Installation and Setup Jenkins. ● Jenkins Continuous Testing integration unit testing, integration testing, and code analysis Module 7. Prometheus : Monitoring System ● Introduction to Systems and Service Monitoring ● Introduction to Prometheus ● Installing and Setting Up Prometheus Module 8. Grafana : Dashboard ● Installing and Setting Up Grafana ● Visualized monitoring system (Grafana) ● integration Prometheus and Grafana",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [],
+  "facilities": [],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/devops/",
+      "source_section": "Requirement",
+      "source_text": "Requirement Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu.",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/devops/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Esa Nugraha (CKA, CKAD, CKS) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Page title",
+        "source_text": "Devops (Development & Operations)",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Training registry",
+        "source_text": "Devops",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/devops/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/devops/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

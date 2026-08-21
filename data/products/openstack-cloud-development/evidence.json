@@ -1,0 +1,102 @@
+{
+  "description": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Pengenalan Training",
+      "source_text": "Pengenalan Training Training openstack administration training ini bertujuan agar peserta dapat membangun private dan public cloud menggunakan openstack. kita akan full praktek ngelab sepenuhnya membangun cloud sendiri dengan dibimbing dan diajari oleh pengajar yang sangat berpengalaman di dunia cloud provider. OpenStack merupakan salah satu software dengan lisensi open source yang dapat dimanfaatkan untuk membangun cloud berupa layanan Infastructure-as-a-Service (I-a-a-S) dalam pembuatannya kita dapat memanfaatkannya pula sebagai public dan private cloud. Apabila anda memilih IDN sebagai training partner anda dalam menguasai OpenStack Administration merupakan pilihan yang tepat, selama 4 hari anda akan dibimbing oleh instruktur professional pada bidangnya dengan adanya penjelasan dan pemahaman materi serta contoh implementasi di lapangan akan menjadikan anda memiliki skill cloud administrator yang mampu melakukan implementasi dan manajemen jika telah selesai mengikuti training ini. Semua training kita bebas mengulang gratis, kapanpun yang diinginkan sampai peserta benar-benar dapat menguasai materi membangun cloud sendiri. Semua modul disusun sendiri dalam bahasa indonesia",
+      "confidence": 1.0
+    }
+  ],
+  "duration": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Durasi Training",
+      "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "confidence": 1.0
+    }
+  ],
+  "price": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Biaya Investasi : Rp 2.500.000,-",
+      "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "confidence": 1.0
+    }
+  ],
+  "training_format": [],
+  "curriculum": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "CURRICULUM",
+      "source_text": "CURRICULUM Module 1. Cloud Computing Overview Introduction Cloud Computing Cloud Computing Delivery and Deployment Types Module 2. Introduction to Openstack Cloud Introduction Openstack Understand the components that make up the cloud Module 3. Openstack Installation Openstack Architecture Manual Installation and Deployment Tools All In One Node vs Multi Node Module 4. Identity Service – Keystone Introduction & Important Identity Concepts Keystone Architecture Keystone Installation Managing Keystone from CLI Module 5. Image Service – Glance Overview and Architecture Glance Glance Installation Managing Glance from CLI Module 6. Compute Service – Nova Introduction to Nova Architecture Nova Nova Installation Managing Nova From CLI Module 7. Networking Service – Neutron Introduction to Neutron Architecture Neutron Neutron Installation Managing Neutron from CLI Module 8. Block Storage Service – Cinder Overview of Storage in Openstack Cinder – Introduction & Capabilities Cinder Architecture Managing Cinder from CLI Module 9. CLI Client & Working Horizon Dashboard Working from the CLI Launching an Instance Overview Horizon Dashboard Architecture Horizon Horizon Installation Managing Openstack with Horizon Dashboard Module 10. Multi Node Design & Scaling Openstack Scaling Openstack Controller Node Compute Node Network Node Storage Node Multi Node Design & Minimum Node Requirements Module 11. Kolla Ansible – Automatic Deployment Openstack Ansible Ansible Inventory, Ad-Hoc, and Playbook Deploy Openstack Multi Node with Kolla Ansible Module 12. Expanding the Cluster: Adding a Compute Node Preparing the Node Compute Node Installation Installation Troubleshooting & Verification",
+      "confidence": 1.0
+    }
+  ],
+  "benefits": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Benefits",
+      "source_text": "Benefits Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi cloud dengan OpenStack Peserta dapat memahami langkah-langkah troubleshooting pada OpenStack Cloud Peserta juga akan bergabung di grup WhatsApp Training OpenStack Cloud. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan OpenStack Cloud. Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama training berlangsung. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "confidence": 1.0
+    }
+  ],
+  "facilities": [],
+  "prerequisites": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Student prerequisites",
+      "source_text": "Student prerequisites Networking Fundamentals Linux Fundamentals Linux Administration Virtualization Fundamental Cloud Computing Fundamental",
+      "confidence": 1.0
+    }
+  ],
+  "target_audiences": [],
+  "certifications": [],
+  "trainers": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Trainer",
+      "source_text": "Trainer Hugo Irwanto (MTCNA, MTCRE, COA, MCP, MCSA Cloud Platform, VMware vExpert) AJi Mufti Zakaria (COA, CKA) Moch Rafi Riadi (Kubestronaut, Microsoft Certified Trainer, LFCS, Linux+) Deni Rismanto (RHCSA, AWS CCP, CKA, CKAD) Bazigan Tsamara Sukamto (MTCNA, MTCRE, CKA) Zakaria Ramadan (AZ-900, MTCNA, MTCRE, Google IT Support)",
+      "confidence": 1.0
+    }
+  ],
+  "tools": [],
+  "practice": [],
+  "support_information": [],
+  "repeat_policy": [
+    {
+      "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+      "source_section": "Mengapa Harus Training Openstack di IDN ?",
+      "source_text": "Mengapa Harus Training Openstack di IDN ? Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Gratis mengulang training sebanyak 2x Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman dan tersertifikasi Free konsultasi after training (kalo perlu tindak lanjut",
+      "confidence": 1.0
+    }
+  ],
+  "related_training": [],
+  "contact_information": [],
+  "identity": {
+    "full_name": [
+      {
+        "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+        "source_section": "Page title",
+        "source_text": "Openstack Administration Training",
+        "confidence": 1.0
+      }
+    ],
+    "short_name": [],
+    "source_category": [
+      {
+        "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+        "source_section": "Training registry",
+        "source_text": "Clouds",
+        "confidence": 1.0
+      }
+    ],
+    "source_url": [
+      {
+        "source_url": "https://www.idn.id/training/openstack-cloud-development/",
+        "source_section": "Training registry",
+        "source_text": "https://www.idn.id/training/openstack-cloud-development/",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "training_source_id": 96,
+  "canonical_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "65ea21289bc8280a7c2c01b83ad0403adf1281aea6b7910ca78a81834088e098",
+  "template_type": "ELEMENTOR",
+  "extracted_at": "2026-08-21T03:36:07.188869+00:00",
+  "facts_path": "data\\products\\content-creator-social-media-mastery\\facts.json",
+  "evidence_path": "data\\products\\content-creator-social-media-mastery\\evidence.json",
+  "raw_snapshot_path": "data\\products\\content-creator-social-media-mastery\\raw.html",
+  "last_error": null
+}

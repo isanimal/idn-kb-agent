@@ -1,0 +1,441 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "PostgreSQL: Database Management",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/postgresql-database-management/",
+          "source_section": "Page title",
+          "source_text": "PostgreSQL: Database Management",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Database Admin",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/postgresql-database-management/",
+          "source_section": "Training registry",
+          "source_text": "Database Admin",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/postgresql-database-management/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/postgresql-database-management/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/postgresql-database-management/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "Training ini dirancang untuk memberikan pemahaman komprehensif dan praktikal mengenai konsep Database Management System (DBMS) serta implementasinya menggunakan PostgreSQL. Peserta akan mempelajari alur lengkap pengelolaan database, mulai dari konsep dasar , penulisan query SQL, pengolahan data, hingga teknik lanjutan seperti JOIN , transaksi, dan optimasi performa yang umum digunakan dalam pengembangan aplikasi di dunia kerja.Pendekatan training bersifat hands-on dan berbasis studi kasus , sehingga peserta tidak hanya memahami teori, tetapi juga mampu langsung mengimplementasikannya.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training ini dirancang untuk memberikan pemahaman komprehensif dan praktikal mengenai konsep Database Management System (DBMS) serta implementasinya menggunakan PostgreSQL. Peserta akan mempelajari alur lengkap pengelolaan database, mulai dari konsep dasar , penulisan query SQL, pengolahan data, hingga teknik lanjutan seperti JOIN , transaksi, dan optimasi performa yang umum digunakan dalam pengembangan aplikasi di dunia kerja.Pendekatan training bersifat hands-on dan berbasis studi kasus , sehingga peserta tidak hanya memahami teori, tetapi juga mampu langsung mengimplementasikannya.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya, termasuk sesi praktik, diskusi, dan studi kasus)",
+      "days": 2.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya, termasuk sesi praktik, diskusi, dan studi kasus)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.300.000",
+      "amount": 3300000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Biaya Investasi : Rp 3.300.000,-",
+        "source_text": "Biaya Investasi : Rp 3.300.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "HARI 1 – FUNDAMENTAL & BASIC SQL",
+        "items": [
+          "Konsep dasar DBMS",
+          "Perbedaan Relational vs NoSQL",
+          "Pengenalan PostgreSQL",
+          "Struktur database: table, row, column",
+          "Instalasi & koneksi PostgreSQL",
+          "CREATE DATABASE",
+          "CREATE TABLE",
+          "Data Types",
+          "Constraint: PRIMARY KEY NOT NULL",
+          "PRIMARY KEY",
+          "NOT NULL",
+          "INSERT",
+          "SELECT",
+          "UPDATE",
+          "DELETE",
+          "WHERE, AND, OR",
+          "LIKE",
+          "ORDER BY",
+          "LIMIT"
+        ]
+      },
+      {
+        "title": "HARI 2 – RELASI, ADVANCED & PERFORMANCE",
+        "items": [
+          "Konsep relasi: One-to-One One-to-Many Many-to-Many",
+          "One-to-One",
+          "One-to-Many",
+          "Many-to-Many",
+          "FOREIGN KEY",
+          "JOIN: INNER JOIN LEFT JOIN",
+          "INNER JOIN",
+          "LEFT JOIN",
+          "Aggregation: COUNT, SUM, AVG",
+          "COUNT, SUM, AVG",
+          "GROUP BY & HAVING",
+          "Transaction: Konsep ACID BEGIN, COMMIT, ROLLBACK",
+          "Konsep ACID",
+          "BEGIN, COMMIT, ROLLBACK",
+          "Indexing: Konsep index CREATE INDEX Dampak index terhadap performa (read vs write) Optimasi query sederhana",
+          "Konsep index",
+          "CREATE INDEX",
+          "Dampak index terhadap performa (read vs write)",
+          "Optimasi query sederhana",
+          "Normalisasi: 1NF, 2NF, 3NF",
+          "1NF, 2NF, 3NF",
+          "ERD (Entity Relationship Diagram)"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Kurikulum",
+        "source_text": "Kurikulum HARI 1 – FUNDAMENTAL & BASIC SQL 1. Pengenalan DBMS Konsep dasar DBMS Perbedaan Relational vs NoSQL Pengenalan PostgreSQL Struktur database: table, row, column 2. Setup, Basic SQL: Data Definition Language Instalasi & koneksi PostgreSQL CREATE DATABASE CREATE TABLE Data Types Constraint: PRIMARY KEY NOT NULL 3. Basic SQL: Data Manipulation Language INSERT SELECT UPDATE DELETE 4. Filtering, Sorting WHERE, AND, OR LIKE ORDER BY LIMIT HARI 2 – RELASI, ADVANCED & PERFORMANCE 5. Relasi Database Konsep relasi: One-to-One One-to-Many Many-to-Many FOREIGN KEY 6. JOIN & Aggregation JOIN: INNER JOIN LEFT JOIN Aggregation: COUNT, SUM, AVG GROUP BY & HAVING 7. Transaction & Indexing Transaction: Konsep ACID BEGIN, COMMIT, ROLLBACK Indexing: Konsep index CREATE INDEX Dampak index terhadap performa (read vs write) Optimasi query sederhana 8. Final Project & Database Design Normalisasi: 1NF, 2NF, 3NF ERD (Entity Relationship Diagram)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "FOUND",
+    "value": "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2X Disediakan penginapan untuk peserta dari luar kota Disediakan Snack dan makan siang T-Shirt",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/postgresql-database-management/",
+        "source_section": "Mengapa Harus Training PostgreSQL: Database Management di IDN ?",
+        "source_text": "Mengapa Harus Training PostgreSQL: Database Management di IDN ? Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2X Disediakan penginapan untuk peserta dari luar kota Disediakan Snack dan makan siang T-Shirt",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training ini dirancang untuk memberikan pemahaman komprehensif dan praktikal mengenai konsep Database Management System (DBMS) serta implementasinya menggunakan PostgreSQL. Peserta akan mempelajari alur lengkap pengelolaan database, mulai dari konsep dasar , penulisan query SQL, pengolahan data, hingga teknik lanjutan seperti JOIN , transaksi, dan optimasi performa yang umum digunakan dalam pengembangan aplikasi di dunia kerja.Pendekatan training bersifat hands-on dan berbasis studi kasus , sehingga peserta tidak hanya memahami teori, tetapi juga mampu langsung mengimplementasikannya.",
+      "items": []
+    },
+    {
+      "heading": "Tujuan Training",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah mengikuti training ini, peserta diharapkan mampu: Memahami konsep dasar DBMS dan relational database Menggunakan SQL untuk pengolahan data (CRUD) Membuat dan mengelola struktur tabel secara efektif Mengelola relasi antar tabel Menggunakan JOIN dan agregasi untuk kebutuhan reporting Mengimplementasikan transaction (BEGIN, COMMIT, ROLLBACK) Mengoptimalkan performa query menggunakan indexing Mendesain database sederhana sesuai kebutuhan aplikasi",
+      "items": [
+        "Memahami konsep dasar DBMS dan relational database",
+        "Menggunakan SQL untuk pengolahan data (CRUD)",
+        "Membuat dan mengelola struktur tabel secara efektif",
+        "Mengelola relasi antar tabel",
+        "Menggunakan JOIN dan agregasi untuk kebutuhan reporting",
+        "Mengimplementasikan transaction (BEGIN, COMMIT, ROLLBACK)",
+        "Mengoptimalkan performa query menggunakan indexing",
+        "Mendesain database sederhana sesuai kebutuhan aplikasi"
+      ]
+    },
+    {
+      "heading": "Training ini cocok untuk",
+      "semantic_type": "TARGET_AUDIENCE_ITEM",
+      "content": "Pemula yang ingin mempelajari database dari nol Backend Developer (Laravel, Go, Node.js, dan sejenisnya) Mobile Developer (Flutter, React Native) Data Analyst / Fresh Graduate bidang IT",
+      "items": [
+        "Pemula yang ingin mempelajari database dari nol",
+        "Backend Developer (Laravel, Go, Node.js, dan sejenisnya)",
+        "Mobile Developer (Flutter, React Native)",
+        "Data Analyst / Fresh Graduate bidang IT"
+      ]
+    },
+    {
+      "heading": "Mengapa Harus Training PostgreSQL: Database Management di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek. Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung. Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Modul kami susun sendiri dalam Bahasa Indonesia. Gratis mengulang training sebanyak 2X Disediakan penginapan untuk peserta dari luar kota Disediakan Snack dan makan siang T-Shirt, Goodie Bag, Notebook, dll",
+      "items": [
+        "Pengalaman trainer sudah kelas expert dengan jam terbang tinggi di berbagai projek.",
+        "Peserta akan mendapat modul training dalam Bahasa Indonesia dan juga beberapa software pendukung.",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Modul kami susun sendiri dalam Bahasa Indonesia.",
+        "Gratis mengulang training sebanyak 2X",
+        "Disediakan penginapan untuk peserta dari luar kota",
+        "Disediakan Snack dan makan siang",
+        "T-Shirt, Goodie Bag, Notebook, dll"
+      ]
+    },
+    {
+      "heading": "Metode Pembelajaran",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Training menggunakan pendekatan kombinasi: 📖 Conceptual Learning → pemahaman teori yang terstruktur 💻 Hands-on Practice → praktik langsung di PostgreSQL 🧪 Case Study → studi kasus berbasis kebutuhan industri 🎯 Mini Project → implementasi sistem toko sederhana",
+      "items": [
+        "📖 Conceptual Learning → pemahaman teori yang terstruktur",
+        "💻 Hands-on Practice → praktik langsung di PostgreSQL",
+        "🧪 Case Study → studi kasus berbasis kebutuhan industri",
+        "🎯 Mini Project → implementasi sistem toko sederhana"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)",
+      "items": [
+        "Asadullah Al Hamasy, S.Kom (ATC android certified application developer)"
+      ]
+    },
+    {
+      "heading": "Kurikulum",
+      "semantic_type": "CURRICULUM",
+      "content": "HARI 1 – FUNDAMENTAL & BASIC SQL 1. Pengenalan DBMS Konsep dasar DBMS Perbedaan Relational vs NoSQL Pengenalan PostgreSQL Struktur database: table, row, column 2. Setup, Basic SQL: Data Definition Language Instalasi & koneksi PostgreSQL CREATE DATABASE CREATE TABLE Data Types Constraint: PRIMARY KEY NOT NULL 3. Basic SQL: Data Manipulation Language INSERT SELECT UPDATE DELETE 4. Filtering, Sorting WHERE, AND, OR LIKE ORDER BY LIMIT HARI 2 – RELASI, ADVANCED & PERFORMANCE 5. Relasi Database Konsep relasi: One-to-One One-to-Many Many-to-Many FOREIGN KEY 6. JOIN & Aggregation JOIN: INNER JOIN LEFT JOIN Aggregation: COUNT, SUM, AVG GROUP BY & HAVING 7. Transaction & Indexing Transaction: Konsep ACID BEGIN, COMMIT, ROLLBACK Indexing: Konsep index CREATE INDEX Dampak index terhadap performa (read vs write) Optimasi query sederhana 8. Final Project & Database Design Normalisasi: 1NF, 2NF, 3NF ERD (Entity Relationship Diagram)",
+      "items": [
+        {
+          "title": "HARI 1 – FUNDAMENTAL & BASIC SQL",
+          "items": [
+            "Konsep dasar DBMS",
+            "Perbedaan Relational vs NoSQL",
+            "Pengenalan PostgreSQL",
+            "Struktur database: table, row, column",
+            "Instalasi & koneksi PostgreSQL",
+            "CREATE DATABASE",
+            "CREATE TABLE",
+            "Data Types",
+            "Constraint: PRIMARY KEY NOT NULL",
+            "PRIMARY KEY",
+            "NOT NULL",
+            "INSERT",
+            "SELECT",
+            "UPDATE",
+            "DELETE",
+            "WHERE, AND, OR",
+            "LIKE",
+            "ORDER BY",
+            "LIMIT"
+          ]
+        },
+        {
+          "title": "HARI 2 – RELASI, ADVANCED & PERFORMANCE",
+          "items": [
+            "Konsep relasi: One-to-One One-to-Many Many-to-Many",
+            "One-to-One",
+            "One-to-Many",
+            "Many-to-Many",
+            "FOREIGN KEY",
+            "JOIN: INNER JOIN LEFT JOIN",
+            "INNER JOIN",
+            "LEFT JOIN",
+            "Aggregation: COUNT, SUM, AVG",
+            "COUNT, SUM, AVG",
+            "GROUP BY & HAVING",
+            "Transaction: Konsep ACID BEGIN, COMMIT, ROLLBACK",
+            "Konsep ACID",
+            "BEGIN, COMMIT, ROLLBACK",
+            "Indexing: Konsep index CREATE INDEX Dampak index terhadap performa (read vs write) Optimasi query sederhana",
+            "Konsep index",
+            "CREATE INDEX",
+            "Dampak index terhadap performa (read vs write)",
+            "Optimasi query sederhana",
+            "Normalisasi: 1NF, 2NF, 3NF",
+            "1NF, 2NF, 3NF",
+            "ERD (Entity Relationship Diagram)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "2 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya, termasuk sesi praktik, diskusi, dan studi kasus)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.300.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [
+    {
+      "heading": "Tujuan Training",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Setelah mengikuti training ini, peserta diharapkan mampu: Memahami konsep dasar DBMS dan relational database Menggunakan SQL untuk pengolahan data (CRUD) Membuat dan mengelola struktur tabel secara efektif Mengelola relasi antar tabel Menggunakan JOIN dan agregasi untuk kebutuhan reporting Mengimplementasikan transaction (BEGIN, COMMIT, ROLLBACK) Mengoptimalkan performa query menggunakan indexing Mendesain database sederhana sesuai kebutuhan aplikasi",
+      "items": [
+        "Memahami konsep dasar DBMS dan relational database",
+        "Menggunakan SQL untuk pengolahan data (CRUD)",
+        "Membuat dan mengelola struktur tabel secara efektif",
+        "Mengelola relasi antar tabel",
+        "Menggunakan JOIN dan agregasi untuk kebutuhan reporting",
+        "Mengimplementasikan transaction (BEGIN, COMMIT, ROLLBACK)",
+        "Mengoptimalkan performa query menggunakan indexing",
+        "Mendesain database sederhana sesuai kebutuhan aplikasi"
+      ]
+    },
+    {
+      "heading": "Metode Pembelajaran",
+      "semantic_type": "UNKNOWN_SECTION",
+      "content": "Training menggunakan pendekatan kombinasi: 📖 Conceptual Learning → pemahaman teori yang terstruktur 💻 Hands-on Practice → praktik langsung di PostgreSQL 🧪 Case Study → studi kasus berbasis kebutuhan industri 🎯 Mini Project → implementasi sistem toko sederhana",
+      "items": [
+        "📖 Conceptual Learning → pemahaman teori yang terstruktur",
+        "💻 Hands-on Practice → praktik langsung di PostgreSQL",
+        "🧪 Case Study → studi kasus berbasis kebutuhan industri",
+        "🎯 Mini Project → implementasi sistem toko sederhana"
+      ]
+    }
+  ],
+  "quality_flags": [
+    "UNKNOWN_SECTIONS"
+  ],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 7,
+    "fields_not_found": 9,
+    "coverage": 0.4375
+  },
+  "metadata": {
+    "registry_name": "PostgreSQL: Database Management",
+    "content_hash": "4c792fddaa8489459724519dfb8e393f06089f0af7475a1d80dffe77fa61c4f8",
+    "template_type": "BETTERDOCS"
+  }
+}

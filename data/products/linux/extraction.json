@@ -1,0 +1,14 @@
+{
+  "training_source_id": 28,
+  "canonical_url": "https://www.idn.id/training/linux/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "9a8113ac49d097de8ddfd7110d9698c33e582f64805e9477f6b901587418cb02",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:25.154515+00:00",
+  "facts_path": "data\\products\\linux\\facts.json",
+  "evidence_path": "data\\products\\linux\\evidence.json",
+  "raw_snapshot_path": "data\\products\\linux\\raw.html",
+  "last_error": null
+}

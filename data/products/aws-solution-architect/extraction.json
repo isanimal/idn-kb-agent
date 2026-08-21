@@ -1,0 +1,14 @@
+{
+  "training_source_id": 51,
+  "canonical_url": "https://www.idn.id/training/aws-solution-architect/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "b999624264e04d7d26d1d090565f7cf662732304a72da4415a2c42a5c8fb5362",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:39.701705+00:00",
+  "facts_path": "data\\products\\aws-solution-architect\\facts.json",
+  "evidence_path": "data\\products\\aws-solution-architect\\evidence.json",
+  "raw_snapshot_path": "data\\products\\aws-solution-architect\\raw.html",
+  "last_error": null
+}

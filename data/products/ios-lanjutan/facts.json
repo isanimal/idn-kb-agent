@@ -1,0 +1,448 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "IOS Intermediate",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ios-lanjutan/",
+          "source_section": "Page title",
+          "source_text": "IOS Intermediate",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "IOS",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ios-lanjutan/",
+          "source_section": "Training registry",
+          "source_text": "IOS",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/ios-lanjutan/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/ios-lanjutan/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/ios-lanjutan/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": [
+      "Memahami dasar bahasa pemrograman swift",
+      "Semangat belajar pemrograman swift"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training Training iOS lanjutan merupakan training yang berisikan lanjutan dari materi iOS dasar untuk mendalami pengembangan pemrograman iOS. Materi yang ada lebih ke kompleksitas sebuah aplikasi iOS. Bahasa pemrograman yang digunakan masih sama dengan yang dasar yaitu Swift. Syarat untuk bisa training iOS lanjutan : Memahami dasar bahasa pemrograman swift Semangat belajar pemrograman swift",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": null,
+    "values": [
+      {
+        "raw": "Waktu Training 4 hari *full day : Jam 09.00 – 17.00 WIB",
+        "days": 4.0,
+        "hours": null,
+        "daily_schedule": {
+          "start": "09:00",
+          "end": "17:00",
+          "timezone": "WIB"
+        }
+      },
+      {
+        "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "days": 4.0,
+        "hours": null,
+        "daily_schedule": {
+          "start": "09:00",
+          "end": "17:00",
+          "timezone": "WIB"
+        }
+      }
+    ],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Waktu Training",
+        "source_text": "Waktu Training 4 hari *full day : Jam 09.00 – 17.00 WIB",
+        "confidence": 1.0
+      },
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 2.500.000",
+      "amount": 2500000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Biaya Investasi : Rp 2.500.000,-",
+        "source_text": "Biaya Investasi : Rp 2.500.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "Membuat Aplikasi Restoran",
+        "items": [
+          "Membuat Web Service dengan Code Igniter",
+          "Membuat Database dan Table di MySQL",
+          "Testing Web Service menggunakan Postman",
+          "Install pod AlamofireSwiftyJSON",
+          "Menampilkan data dengan Custom Table View",
+          "Konfigurasi Navigation Controller",
+          "Membuat fungsi Read data",
+          "Membuat fungsi Insert data",
+          "Membuat fungsi Update data",
+          "Membuat fungsi Delete data",
+          "Mengatur session dengan UserDefaults",
+          "Membuat fungsi Login user",
+          "Membuat fungsi Register user"
+        ]
+      },
+      {
+        "title": "Membuat Aplikasi Data Peserta Training",
+        "items": [
+          "Konfigurasi Core Data",
+          "Mengatur Entity di Core Data",
+          "Menampilkan data dengan Custom Table View",
+          "Membuat fungsi Read data",
+          "Membuat fungsi Insert data",
+          "Membuat fungsi Update data",
+          "Membuat fungsi Delete data",
+          "Membuat fungsi pencarian data"
+        ]
+      },
+      {
+        "title": "Firebase & Admob",
+        "items": [
+          "Install pod Firebase dan Admob",
+          "Konfigurasi Realtime Database",
+          "Menampilkan data dengan Simple Table View",
+          "Membuat fungsi Read data",
+          "Membuat fungsi Insert data",
+          "Membuat fungsi Update data",
+          "Membuat fungsi Delete data",
+          "Konfigurasi Admob",
+          "Menampilkan Iklan di aplikasi"
+        ]
+      },
+      {
+        "title": "MapKit",
+        "items": [
+          "Menentukan lokasi dengan latitude dan longitude",
+          "Konfigurasi GPS",
+          "Menentukan lokasi awal dan tujuan",
+          "Memberi jalur/polyline dari lokasi awal dan tujuan",
+          "Menghitung jarak dan waktu dari lokasi awal dan tujuan"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "CURRICULUM",
+        "source_text": "CURRICULUM Membuat Aplikasi Restoran Membuat Web Service dengan Code Igniter Membuat Database dan Table di MySQL Testing Web Service menggunakan Postman Install pod AlamofireSwiftyJSON Menampilkan data dengan Custom Table View Konfigurasi Navigation Controller Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Mengatur session dengan UserDefaults Membuat fungsi Login user Membuat fungsi Register user Membuat Aplikasi Data Peserta Training Konfigurasi Core Data Mengatur Entity di Core Data Menampilkan data dengan Custom Table View Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Membuat fungsi pencarian data Firebase & Admob Install pod Firebase dan Admob Konfigurasi Realtime Database Menampilkan data dengan Simple Table View Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Konfigurasi Admob Menampilkan Iklan di aplikasi MapKit Menentukan lokasi dengan latitude dan longitude Konfigurasi GPS Menentukan lokasi awal dan tujuan Memberi jalur/polyline dari lokasi awal dan tujuan Menghitung jarak dan waktu dari lokasi awal dan tujuan",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Bisa mencustom UI sesuai dengan kebutuhan -> custom alert, custom seque (pindah halaman)",
+      "Bisa menampilkan notification dari local dan notification dari server menggunakan firebase",
+      "Bisa membuat navigation drawer untuk menampilkan menu di iphone",
+      "Bisa membuat slide Image",
+      "Bisa capture gambar dari camera dan gallery",
+      "Bisa membuat aplikasi e-commerce sederhana dengan web server PHP",
+      "Bisa membuat route menggunakan google maps",
+      "Bisa menghitung jarak lokasi awal dan tujuan dengan google maps",
+      "Bisa search location menggunakan google places"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Bisa mencustom UI sesuai dengan kebutuhan -> custom alert, custom seque (pindah halaman) Bisa menampilkan notification dari local dan notification dari server menggunakan firebase Bisa membuat navigation drawer untuk menampilkan menu di iphone Bisa membuat slide Image Bisa capture gambar dari camera dan gallery Bisa membuat aplikasi e-commerce sederhana dengan web server PHP Bisa membuat route menggunakan google maps Bisa menghitung jarak lokasi awal dan tujuan dengan google maps Bisa search location menggunakan google places",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Asadullah Al Hamasy (ATC android certified application developer)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/ios-lanjutan/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Asadullah Al Hamasy (ATC android certified application developer)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training IOS Lanjutan di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training iOS di Indonesia Free makan siang dan coffee break selama training Disediakan penginapan gratis bagi peserta training yang dari luar kota Pemberitahuan lowongan kerja kepada peserta Join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training Dibimbing oleh trainer yang ahli dan praktisi di bidang iOS Akses Internet Lunch & Coffeebreak Sertifikat Kaos",
+      "items": [
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti",
+        "Biaya training termurah untuk sekelas training iOS di Indonesia",
+        "Free makan siang dan coffee break selama training",
+        "Disediakan penginapan gratis bagi peserta training yang dari luar kota",
+        "Pemberitahuan lowongan kerja kepada peserta",
+        "Join group whatsapp setelah training, sehingga memudahkan peserta untuk konsultasi setelah training",
+        "Dibimbing oleh trainer yang ahli dan praktisi di bidang iOS",
+        "Akses Internet",
+        "Lunch & Coffeebreak",
+        "Sertifikat",
+        "Kaos"
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "Training iOS lanjutan merupakan training yang berisikan lanjutan dari materi iOS dasar untuk mendalami pengembangan pemrograman iOS. Materi yang ada lebih ke kompleksitas sebuah aplikasi iOS. Bahasa pemrograman yang digunakan masih sama dengan yang dasar yaitu Swift. Syarat untuk bisa training iOS lanjutan : Memahami dasar bahasa pemrograman swift Semangat belajar pemrograman swift",
+      "items": [
+        "Memahami dasar bahasa pemrograman swift",
+        "Semangat belajar pemrograman swift"
+      ]
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Bisa mencustom UI sesuai dengan kebutuhan -> custom alert, custom seque (pindah halaman) Bisa menampilkan notification dari local dan notification dari server menggunakan firebase Bisa membuat navigation drawer untuk menampilkan menu di iphone Bisa membuat slide Image Bisa capture gambar dari camera dan gallery Bisa membuat aplikasi e-commerce sederhana dengan web server PHP Bisa membuat route menggunakan google maps Bisa menghitung jarak lokasi awal dan tujuan dengan google maps Bisa search location menggunakan google places",
+      "items": [
+        "Bisa mencustom UI sesuai dengan kebutuhan -> custom alert, custom seque (pindah halaman)",
+        "Bisa menampilkan notification dari local dan notification dari server menggunakan firebase",
+        "Bisa membuat navigation drawer untuk menampilkan menu di iphone",
+        "Bisa membuat slide Image",
+        "Bisa capture gambar dari camera dan gallery",
+        "Bisa membuat aplikasi e-commerce sederhana dengan web server PHP",
+        "Bisa membuat route menggunakan google maps",
+        "Bisa menghitung jarak lokasi awal dan tujuan dengan google maps",
+        "Bisa search location menggunakan google places"
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Asadullah Al Hamasy (ATC android certified application developer)",
+      "items": []
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Training ini menambah wawasan saya dalam pemograman ios. Saya bisa membuat aplikasi sederhana dengan memakai beberapa object yang telah tersedia”. Kevan Dharma “training ini sudah menambah wawasan dan ilmu tentang bagaimana develop ios application dengan full code”, Dwi Atika Sari “Bisa cepat memahami bahasa pemrograman ios yang baru (SWIFT) . Bisa membantu develop aplikasi untuk menunjang pekerjaan”, Endiaz Ludia Arsanto",
+      "items": []
+    },
+    {
+      "heading": "Waktu Training",
+      "semantic_type": "DURATION",
+      "content": "4 hari *full day : Jam 09.00 – 17.00 WIB",
+      "items": []
+    },
+    {
+      "heading": "CURRICULUM",
+      "semantic_type": "CURRICULUM",
+      "content": "Membuat Aplikasi Restoran Membuat Web Service dengan Code Igniter Membuat Database dan Table di MySQL Testing Web Service menggunakan Postman Install pod AlamofireSwiftyJSON Menampilkan data dengan Custom Table View Konfigurasi Navigation Controller Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Mengatur session dengan UserDefaults Membuat fungsi Login user Membuat fungsi Register user Membuat Aplikasi Data Peserta Training Konfigurasi Core Data Mengatur Entity di Core Data Menampilkan data dengan Custom Table View Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Membuat fungsi pencarian data Firebase & Admob Install pod Firebase dan Admob Konfigurasi Realtime Database Menampilkan data dengan Simple Table View Membuat fungsi Read data Membuat fungsi Insert data Membuat fungsi Update data Membuat fungsi Delete data Konfigurasi Admob Menampilkan Iklan di aplikasi MapKit Menentukan lokasi dengan latitude dan longitude Konfigurasi GPS Menentukan lokasi awal dan tujuan Memberi jalur/polyline dari lokasi awal dan tujuan Menghitung jarak dan waktu dari lokasi awal dan tujuan",
+      "items": [
+        {
+          "title": "Membuat Aplikasi Restoran",
+          "items": [
+            "Membuat Web Service dengan Code Igniter",
+            "Membuat Database dan Table di MySQL",
+            "Testing Web Service menggunakan Postman",
+            "Install pod AlamofireSwiftyJSON",
+            "Menampilkan data dengan Custom Table View",
+            "Konfigurasi Navigation Controller",
+            "Membuat fungsi Read data",
+            "Membuat fungsi Insert data",
+            "Membuat fungsi Update data",
+            "Membuat fungsi Delete data",
+            "Mengatur session dengan UserDefaults",
+            "Membuat fungsi Login user",
+            "Membuat fungsi Register user"
+          ]
+        },
+        {
+          "title": "Membuat Aplikasi Data Peserta Training",
+          "items": [
+            "Konfigurasi Core Data",
+            "Mengatur Entity di Core Data",
+            "Menampilkan data dengan Custom Table View",
+            "Membuat fungsi Read data",
+            "Membuat fungsi Insert data",
+            "Membuat fungsi Update data",
+            "Membuat fungsi Delete data",
+            "Membuat fungsi pencarian data"
+          ]
+        },
+        {
+          "title": "Firebase & Admob",
+          "items": [
+            "Install pod Firebase dan Admob",
+            "Konfigurasi Realtime Database",
+            "Menampilkan data dengan Simple Table View",
+            "Membuat fungsi Read data",
+            "Membuat fungsi Insert data",
+            "Membuat fungsi Update data",
+            "Membuat fungsi Delete data",
+            "Konfigurasi Admob",
+            "Menampilkan Iklan di aplikasi"
+          ]
+        },
+        {
+          "title": "MapKit",
+          "items": [
+            "Menentukan lokasi dengan latitude dan longitude",
+            "Konfigurasi GPS",
+            "Menentukan lokasi awal dan tujuan",
+            "Memberi jalur/polyline dari lokasi awal dan tujuan",
+            "Menghitung jarak dan waktu dari lokasi awal dan tujuan"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 2.500.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "IOS Intermediate",
+    "content_hash": "f202daed79e9d4bc6dab3a18ea0655fe7ab61549f4bf0f3bec7ee42ea335dc3b",
+    "template_type": "BETTERDOCS"
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "identity": {
+    "full_name": {
+      "status": "FOUND",
+      "value": "JNCIP-SP",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+          "source_section": "Page title",
+          "source_text": "JNCIP-SP",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "short_name": {
+      "status": "NOT_FOUND",
+      "value": null,
+      "values": [],
+      "evidence": []
+    },
+    "source_category": {
+      "status": "FOUND",
+      "value": "Juniper",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+          "source_section": "Training registry",
+          "source_text": "Juniper",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "source_url": {
+      "status": "FOUND",
+      "value": "https://www.idn.id/training/juniper-jncip-sp/",
+      "values": [],
+      "evidence": [
+        {
+          "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+          "source_section": "Training registry",
+          "source_text": "https://www.idn.id/training/juniper-jncip-sp/",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "description": {
+    "status": "FOUND",
+    "value": "JNCIP-SP merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang materi lanjutan Service Provider yang di peruntukan untuk para profesional engineer yang berpengalaman. Adapun training JNCIP-SP di IDN dilaksanakan selama 4 hari. Selama training peserta akan mendapatkan materi lanjutan dan praktek Lab seperti BGP, MPLS, L3VPNs, L2VPNs. Persyaratan untuk bisa mengikuti training adalah peserta minimal sudah familiar dengan JUNOS.",
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+        "source_section": "Pengenalan Training",
+        "source_text": "Pengenalan Training JNCIP-SP merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang materi lanjutan Service Provider yang di peruntukan untuk para profesional engineer yang berpengalaman. Adapun training JNCIP-SP di IDN dilaksanakan selama 4 hari. Selama training peserta akan mendapatkan materi lanjutan dan praktek Lab seperti BGP, MPLS, L3VPNs, L2VPNs. Persyaratan untuk bisa mengikuti training adalah peserta minimal sudah familiar dengan JUNOS.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "duration": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "days": 4.0,
+      "hours": null,
+      "daily_schedule": {
+        "start": "09:00",
+        "end": "17:00",
+        "timezone": "WIB"
+      }
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+        "source_section": "Durasi Training",
+        "source_text": "Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "price": {
+    "status": "FOUND",
+    "value": {
+      "raw": "Rp 3.000.000",
+      "amount": 3000000,
+      "currency": "IDR",
+      "qualifier": null
+    },
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+        "source_section": "Biaya Investasi : Rp 3.000.000,-",
+        "source_text": "Biaya Investasi : Rp 3.000.000,- Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "training_format": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "curriculum": {
+    "status": "FOUND",
+    "value": [
+      {
+        "title": "OSPF",
+        "items": [
+          "Describe the concepts, operation and functionality of OSPF",
+          "Various OSPF LSA types",
+          "Flooding of LSAs in an OSPF network",
+          "SPF algorithm",
+          "OSPF metrics, including external metric types",
+          "OSPF authentication options",
+          "OSPF area types and operations, including stub areas and NSSAs",
+          "Summarize and restrict routes",
+          "Purpose of virtual links",
+          "Key differences between OSPFv2 and OSPFv3",
+          "Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF",
+          "Implement OSPF routing policy"
+        ]
+      },
+      {
+        "title": "IS-IS",
+        "items": [
+          "Describe the concepts, operation and functionality of IS-IS",
+          "Various IS-IS link-state PDU (LSP) types",
+          "IS-IS adjacency rules",
+          "Interpret the LSDB",
+          "IS-IS metrics, including wide metrics",
+          "IS-IS authentication options",
+          "Default operation in multi-area IS-IS",
+          "IS-IS route summarization and route leaking methods",
+          "Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area IS-IS",
+          "Implement IS-IS routing policy",
+          "Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF",
+          "Implement OSPF routing policy"
+        ]
+      },
+      {
+        "title": "BGP",
+        "items": [
+          "Describe the concepts, operation and functionality of BGP",
+          "BGP route selection process",
+          "How to alter the route selection process",
+          "Various BGP attributes and explain the operation of those attributes",
+          "Purpose and function of BGP communities",
+          "Utilize regular expressions for route selection",
+          "Describe, configure and monitor BGP route damping",
+          "Manipulate BGP attributes using routing policy",
+          "Multiprotocol BGP",
+          "Given a scenario, demonstrate knowledge of how to configure and monitor BGP",
+          "Implement BGP routing policy",
+          "Describe and configure BGP scaling mechanisms, including route reflection and confederations"
+        ]
+      },
+      {
+        "title": "MPLS",
+        "items": [
+          "Describe the concepts, operation and functionality of MPLS",
+          "Common MPLS terms",
+          "How a router forwards MPLS packets",
+          "MPLS packet flow from an ingress node to an egress node",
+          "Examine the Label Information Base",
+          "Functionality of the two common label distribution protocols used by the Junos OS",
+          "Function and interrelationship of LSP priority and preemption",
+          "Compare the operation of fast reroute, link protection and node protection",
+          "LSP optimization options",
+          "Routing table integration options for traffic engineering",
+          "Use of routing policies to control path selection",
+          "Additional MPLS features, such as automatic bandwidth, TTL handling, and MPLS pings",
+          "Describe the concepts, operation and functionality of Constrained Shortest Path First (CSPF)",
+          "IGP extensions needed to build and maintain a traffic engineering database (TED)",
+          "How the CSPF algorithm selects the best path",
+          "Configure a router to perform MPLS forwarding",
+          "Given a scenario, demonstrate knowledge of how to configure and monitor MPLS, LDP and RSVP",
+          "Configure a router to perform MPLS forwarding",
+          "Configure RSVP-signaled and LDP-signaled LSPs",
+          "Implement MPLS routing policy",
+          "Configure the components of CSPF",
+          "Configure traffic protection mechanisms"
+        ]
+      },
+      {
+        "title": "Layer 3 VPNs",
+        "items": [
+          "Describe the concepts, operation and functionality of L3 VPNs",
+          "Roles of P, PE, and CE routers",
+          "Format of VPN-IPv4 addresses",
+          "Function of a route distinguisher",
+          "Operation and flow of the control and data planes",
+          "Various L3 VPN CoS mechanisms",
+          "How to support communications between sites attached to a common PE router",
+          "Benefits and requirements of using a hub-and-spoke topology",
+          "Methods to scale L3 VPNs",
+          "Compare L3 VPN Internet access options",
+          "Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L3 VPNs",
+          "Given a scenario, demonstrate knowledge of the operation and configuration of multicast VPNs",
+          "Concepts, operation and functionality of next-generation MVPNs (NG-MVPN)",
+          "Flow of control and data traffic in a NG-MVPN",
+          "Configure and monitor NG-MVPNs",
+          "Describe Junos support for carrier of carrier and interprovider VPN models"
+        ]
+      },
+      {
+        "title": "Layer 2 VPNs",
+        "items": [
+          "Describe the concepts, operation and functionality of BGP L2 VPNs",
+          "Roles of a CE, PE, and P router in an L2 VPN",
+          "Flow of control and data traffic for a BGP L2 VPN",
+          "Benefits and requirements of over-provisioning",
+          "Methods to scale BGP L2 VPNs",
+          "Various BGP L2 VPN CoS mechanisms",
+          "Describe the concepts, operation and functionality of LDP L2 circuits",
+          "Flow of control and data traffic for an LDP L2 circuit",
+          "Describe the concepts, operation and functionality of VPLS",
+          "Purpose of the PE, CE, and P devices",
+          "Signaling, learning and forwarding process of VPLS",
+          "Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L2 VPNs",
+          "Configure, monitor and troubleshoot BGP L2 VPNs",
+          "Configure, monitor and troubleshoot LDP L2 circuits",
+          "Configure, monitor and troubleshoot VPLS"
+        ]
+      }
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+        "source_section": "Curriculum",
+        "source_text": "Curriculum OSPF Describe the concepts, operation and functionality of OSPF Various OSPF LSA types Flooding of LSAs in an OSPF network SPF algorithm OSPF metrics, including external metric types OSPF authentication options OSPF area types and operations, including stub areas and NSSAs Summarize and restrict routes Purpose of virtual links Key differences between OSPFv2 and OSPFv3 Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF Implement OSPF routing policy IS-IS Describe the concepts, operation and functionality of IS-IS Various IS-IS link-state PDU (LSP) types IS-IS adjacency rules Interpret the LSDB IS-IS metrics, including wide metrics IS-IS authentication options Default operation in multi-area IS-IS IS-IS route summarization and route leaking methods Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area IS-IS Implement IS-IS routing policy Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF Implement OSPF routing policy BGP Describe the concepts, operation and functionality of BGP BGP route selection process How to alter the route selection process Various BGP attributes and explain the operation of those attributes Purpose and function of BGP communities Utilize regular expressions for route selection Describe, configure and monitor BGP route damping Manipulate BGP attributes using routing policy Multiprotocol BGP Given a scenario, demonstrate knowledge of how to configure and monitor BGP Implement BGP routing policy Describe and configure BGP scaling mechanisms, including route reflection and confederations MPLS Describe the concepts, operation and functionality of MPLS Common MPLS terms How a router forwards MPLS packets MPLS packet flow from an ingress node to an egress node Examine the Label Information Base Functionality of the two common label distribution protocols used by the Junos OS Function and interrelationship of LSP priority and preemption Compare the operation of fast reroute, link protection and node protection LSP optimization options Routing table integration options for traffic engineering Use of routing policies to control path selection Additional MPLS features, such as automatic bandwidth, TTL handling, and MPLS pings Describe the concepts, operation and functionality of Constrained Shortest Path First (CSPF) IGP extensions needed to build and maintain a traffic engineering database (TED) How the CSPF algorithm selects the best path Configure a router to perform MPLS forwarding Given a scenario, demonstrate knowledge of how to configure and monitor MPLS, LDP and RSVP Configure a router to perform MPLS forwarding Configure RSVP-signaled and LDP-signaled LSPs Implement MPLS routing policy Configure the components of CSPF Configure traffic protection mechanisms Layer 3 VPNs Describe the concepts, operation and functionality of L3 VPNs Roles of P, PE, and CE routers Format of VPN-IPv4 addresses Function of a route distinguisher Operation and flow of the control and data planes Various L3 VPN CoS mechanisms How to support communications between sites attached to a common PE router Benefits and requirements of using a hub-and-spoke topology Methods to scale L3 VPNs Compare L3 VPN Internet access options Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L3 VPNs Given a scenario, demonstrate knowledge of the operation and configuration of multicast VPNs Concepts, operation and functionality of next-generation MVPNs (NG-MVPN) Flow of control and data traffic in a NG-MVPN Configure and monitor NG-MVPNs Describe Junos support for carrier of carrier and interprovider VPN models Layer 2 VPNs Describe the concepts, operation and functionality of BGP L2 VPNs Roles of a CE, PE, and P router in an L2 VPN Flow of control and data traffic for a BGP L2 VPN Benefits and requirements of over-provisioning Methods to scale BGP L2 VPNs Various BGP L2 VPN CoS mechanisms Describe the concepts, operation and functionality of LDP L2 circuits Flow of control and data traffic for an LDP L2 circuit Describe the concepts, operation and functionality of VPLS Purpose of the PE, CE, and P devices Signaling, learning and forwarding process of VPLS Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L2 VPNs Configure, monitor and troubleshoot BGP L2 VPNs Configure, monitor and troubleshoot LDP L2 circuits Configure, monitor and troubleshoot VPLS",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "benefits": {
+    "status": "FOUND",
+    "value": [
+      "Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS.",
+      "Memahami semua materi yang tersedia berdasarkan curriculum yang ada.",
+      "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper.",
+      "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+        "source_section": "Benefits",
+        "source_text": "Benefits Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS. Memahami semua materi yang tersedia berdasarkan curriculum yang ada. Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "facilities": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "prerequisites": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "target_audiences": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "certifications": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "trainers": {
+    "status": "FOUND",
+    "value": [
+      "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+      "Aries Sadewa (JNCIP)",
+      "Fernanda Adhipramana (JNCIP)"
+    ],
+    "values": [],
+    "evidence": [
+      {
+        "source_url": "https://www.idn.id/training/juniper-jncip-sp/",
+        "source_section": "Trainer",
+        "source_text": "Trainer Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Aries Sadewa (JNCIP) Fernanda Adhipramana (JNCIP)",
+        "confidence": 1.0
+      }
+    ]
+  },
+  "tools": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "practice": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "support_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "repeat_policy": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "related_training": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "contact_information": {
+    "status": "NOT_FOUND",
+    "value": null,
+    "values": [],
+    "evidence": []
+  },
+  "raw_sections": [
+    {
+      "heading": "Mengapa Harus Training JNCIP-SP di IDN ?",
+      "semantic_type": "WHY_TRAINING",
+      "content": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. Free menginap ditempat training untuk peserta yang berasal dari luar kota. Trainer berpengalaman mengajar di dalam dan luar negeri.",
+      "items": [
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project).",
+        "Free join mailing list IDN, bisa cari info kerja dan diskusi di grup.",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training.",
+        "Free menginap ditempat training untuk peserta yang berasal dari luar kota.",
+        "Trainer berpengalaman mengajar di dalam dan luar negeri."
+      ]
+    },
+    {
+      "heading": "Pengenalan Training",
+      "semantic_type": "DESCRIPTION",
+      "content": "JNCIP-SP merupakan salah satu track yang di tawarkan oleh Juniper. Pada track ini, peserta akan belajar tentang materi lanjutan Service Provider yang di peruntukan untuk para profesional engineer yang berpengalaman. Adapun training JNCIP-SP di IDN dilaksanakan selama 4 hari. Selama training peserta akan mendapatkan materi lanjutan dan praktek Lab seperti BGP, MPLS, L3VPNs, L2VPNs. Persyaratan untuk bisa mengikuti training adalah peserta minimal sudah familiar dengan JUNOS.",
+      "items": []
+    },
+    {
+      "heading": "Benefits",
+      "semantic_type": "BENEFITS",
+      "content": "Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS. Memahami semua materi yang tersedia berdasarkan curriculum yang ada. Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper. Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+      "items": [
+        "Lebih Mengenal dan bisa megoperasikan perangkat juniper, Junos OS.",
+        "Memahami semua materi yang tersedia berdasarkan curriculum yang ada.",
+        "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat Juniper.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+      ]
+    },
+    {
+      "heading": "Trainer",
+      "semantic_type": "TRAINERS",
+      "content": "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Aries Sadewa (JNCIP) Fernanda Adhipramana (JNCIP)",
+      "items": [
+        "Miftahul Huda (CCNA, CCNP Ent, Security CORE, CCIE Written, MTCRE, MTCWE, MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS)",
+        "Aries Sadewa (JNCIP)",
+        "Fernanda Adhipramana (JNCIP)"
+      ]
+    },
+    {
+      "heading": "Testimoni",
+      "semantic_type": "TESTIMONIAL",
+      "content": "“Menambah Pengetahuan Saya di bidang Network, khususnya Juniper, Dalam penyampaian materi cukup bagus,saya bisa mengerti apa yang Trainer jelaskan, Materinya cukup lengkap, Semoga IDN semakin berkembang”, Nurul Huda “Disediakan Makanan & Minuman, dapet Baju, Diperbolehkan mengulang materi klo ada yg belum jelas, Penyampaian materinya jelas. Trainernya sabar menghadapi newbie, Materinya cukup padat dan lengkap”, Daniel Anno L “Suasana yang cukup nyaman membuat training jadi tidak membosankan, Waktu yang cukup singkat, Memberi penjelasan yang mudah dipahami, Sesuai dengan kebutuhan dan memperluas pengetahuan, Penambahan materi tentang design dan waktu training”, Afif",
+      "items": []
+    },
+    {
+      "heading": "Curriculum",
+      "semantic_type": "CURRICULUM",
+      "content": "OSPF Describe the concepts, operation and functionality of OSPF Various OSPF LSA types Flooding of LSAs in an OSPF network SPF algorithm OSPF metrics, including external metric types OSPF authentication options OSPF area types and operations, including stub areas and NSSAs Summarize and restrict routes Purpose of virtual links Key differences between OSPFv2 and OSPFv3 Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF Implement OSPF routing policy IS-IS Describe the concepts, operation and functionality of IS-IS Various IS-IS link-state PDU (LSP) types IS-IS adjacency rules Interpret the LSDB IS-IS metrics, including wide metrics IS-IS authentication options Default operation in multi-area IS-IS IS-IS route summarization and route leaking methods Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area IS-IS Implement IS-IS routing policy Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF Implement OSPF routing policy BGP Describe the concepts, operation and functionality of BGP BGP route selection process How to alter the route selection process Various BGP attributes and explain the operation of those attributes Purpose and function of BGP communities Utilize regular expressions for route selection Describe, configure and monitor BGP route damping Manipulate BGP attributes using routing policy Multiprotocol BGP Given a scenario, demonstrate knowledge of how to configure and monitor BGP Implement BGP routing policy Describe and configure BGP scaling mechanisms, including route reflection and confederations MPLS Describe the concepts, operation and functionality of MPLS Common MPLS terms How a router forwards MPLS packets MPLS packet flow from an ingress node to an egress node Examine the Label Information Base Functionality of the two common label distribution protocols used by the Junos OS Function and interrelationship of LSP priority and preemption Compare the operation of fast reroute, link protection and node protection LSP optimization options Routing table integration options for traffic engineering Use of routing policies to control path selection Additional MPLS features, such as automatic bandwidth, TTL handling, and MPLS pings Describe the concepts, operation and functionality of Constrained Shortest Path First (CSPF) IGP extensions needed to build and maintain a traffic engineering database (TED) How the CSPF algorithm selects the best path Configure a router to perform MPLS forwarding Given a scenario, demonstrate knowledge of how to configure and monitor MPLS, LDP and RSVP Configure a router to perform MPLS forwarding Configure RSVP-signaled and LDP-signaled LSPs Implement MPLS routing policy Configure the components of CSPF Configure traffic protection mechanisms Layer 3 VPNs Describe the concepts, operation and functionality of L3 VPNs Roles of P, PE, and CE routers Format of VPN-IPv4 addresses Function of a route distinguisher Operation and flow of the control and data planes Various L3 VPN CoS mechanisms How to support communications between sites attached to a common PE router Benefits and requirements of using a hub-and-spoke topology Methods to scale L3 VPNs Compare L3 VPN Internet access options Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L3 VPNs Given a scenario, demonstrate knowledge of the operation and configuration of multicast VPNs Concepts, operation and functionality of next-generation MVPNs (NG-MVPN) Flow of control and data traffic in a NG-MVPN Configure and monitor NG-MVPNs Describe Junos support for carrier of carrier and interprovider VPN models Layer 2 VPNs Describe the concepts, operation and functionality of BGP L2 VPNs Roles of a CE, PE, and P router in an L2 VPN Flow of control and data traffic for a BGP L2 VPN Benefits and requirements of over-provisioning Methods to scale BGP L2 VPNs Various BGP L2 VPN CoS mechanisms Describe the concepts, operation and functionality of LDP L2 circuits Flow of control and data traffic for an LDP L2 circuit Describe the concepts, operation and functionality of VPLS Purpose of the PE, CE, and P devices Signaling, learning and forwarding process of VPLS Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L2 VPNs Configure, monitor and troubleshoot BGP L2 VPNs Configure, monitor and troubleshoot LDP L2 circuits Configure, monitor and troubleshoot VPLS",
+      "items": [
+        {
+          "title": "OSPF",
+          "items": [
+            "Describe the concepts, operation and functionality of OSPF",
+            "Various OSPF LSA types",
+            "Flooding of LSAs in an OSPF network",
+            "SPF algorithm",
+            "OSPF metrics, including external metric types",
+            "OSPF authentication options",
+            "OSPF area types and operations, including stub areas and NSSAs",
+            "Summarize and restrict routes",
+            "Purpose of virtual links",
+            "Key differences between OSPFv2 and OSPFv3",
+            "Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF",
+            "Implement OSPF routing policy"
+          ]
+        },
+        {
+          "title": "IS-IS",
+          "items": [
+            "Describe the concepts, operation and functionality of IS-IS",
+            "Various IS-IS link-state PDU (LSP) types",
+            "IS-IS adjacency rules",
+            "Interpret the LSDB",
+            "IS-IS metrics, including wide metrics",
+            "IS-IS authentication options",
+            "Default operation in multi-area IS-IS",
+            "IS-IS route summarization and route leaking methods",
+            "Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area IS-IS",
+            "Implement IS-IS routing policy",
+            "Given a scenario, demonstrate knowledge of how to configure and monitor single-area and multi-area OSPF",
+            "Implement OSPF routing policy"
+          ]
+        },
+        {
+          "title": "BGP",
+          "items": [
+            "Describe the concepts, operation and functionality of BGP",
+            "BGP route selection process",
+            "How to alter the route selection process",
+            "Various BGP attributes and explain the operation of those attributes",
+            "Purpose and function of BGP communities",
+            "Utilize regular expressions for route selection",
+            "Describe, configure and monitor BGP route damping",
+            "Manipulate BGP attributes using routing policy",
+            "Multiprotocol BGP",
+            "Given a scenario, demonstrate knowledge of how to configure and monitor BGP",
+            "Implement BGP routing policy",
+            "Describe and configure BGP scaling mechanisms, including route reflection and confederations"
+          ]
+        },
+        {
+          "title": "MPLS",
+          "items": [
+            "Describe the concepts, operation and functionality of MPLS",
+            "Common MPLS terms",
+            "How a router forwards MPLS packets",
+            "MPLS packet flow from an ingress node to an egress node",
+            "Examine the Label Information Base",
+            "Functionality of the two common label distribution protocols used by the Junos OS",
+            "Function and interrelationship of LSP priority and preemption",
+            "Compare the operation of fast reroute, link protection and node protection",
+            "LSP optimization options",
+            "Routing table integration options for traffic engineering",
+            "Use of routing policies to control path selection",
+            "Additional MPLS features, such as automatic bandwidth, TTL handling, and MPLS pings",
+            "Describe the concepts, operation and functionality of Constrained Shortest Path First (CSPF)",
+            "IGP extensions needed to build and maintain a traffic engineering database (TED)",
+            "How the CSPF algorithm selects the best path",
+            "Configure a router to perform MPLS forwarding",
+            "Given a scenario, demonstrate knowledge of how to configure and monitor MPLS, LDP and RSVP",
+            "Configure a router to perform MPLS forwarding",
+            "Configure RSVP-signaled and LDP-signaled LSPs",
+            "Implement MPLS routing policy",
+            "Configure the components of CSPF",
+            "Configure traffic protection mechanisms"
+          ]
+        },
+        {
+          "title": "Layer 3 VPNs",
+          "items": [
+            "Describe the concepts, operation and functionality of L3 VPNs",
+            "Roles of P, PE, and CE routers",
+            "Format of VPN-IPv4 addresses",
+            "Function of a route distinguisher",
+            "Operation and flow of the control and data planes",
+            "Various L3 VPN CoS mechanisms",
+            "How to support communications between sites attached to a common PE router",
+            "Benefits and requirements of using a hub-and-spoke topology",
+            "Methods to scale L3 VPNs",
+            "Compare L3 VPN Internet access options",
+            "Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L3 VPNs",
+            "Given a scenario, demonstrate knowledge of the operation and configuration of multicast VPNs",
+            "Concepts, operation and functionality of next-generation MVPNs (NG-MVPN)",
+            "Flow of control and data traffic in a NG-MVPN",
+            "Configure and monitor NG-MVPNs",
+            "Describe Junos support for carrier of carrier and interprovider VPN models"
+          ]
+        },
+        {
+          "title": "Layer 2 VPNs",
+          "items": [
+            "Describe the concepts, operation and functionality of BGP L2 VPNs",
+            "Roles of a CE, PE, and P router in an L2 VPN",
+            "Flow of control and data traffic for a BGP L2 VPN",
+            "Benefits and requirements of over-provisioning",
+            "Methods to scale BGP L2 VPNs",
+            "Various BGP L2 VPN CoS mechanisms",
+            "Describe the concepts, operation and functionality of LDP L2 circuits",
+            "Flow of control and data traffic for an LDP L2 circuit",
+            "Describe the concepts, operation and functionality of VPLS",
+            "Purpose of the PE, CE, and P devices",
+            "Signaling, learning and forwarding process of VPLS",
+            "Given a scenario, demonstrate knowledge of how to configure, monitor and troubleshoot L2 VPNs",
+            "Configure, monitor and troubleshoot BGP L2 VPNs",
+            "Configure, monitor and troubleshoot LDP L2 circuits",
+            "Configure, monitor and troubleshoot VPLS"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Durasi Training",
+      "semantic_type": "DURATION",
+      "content": "4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)",
+      "items": []
+    },
+    {
+      "heading": "Biaya Investasi : Rp 3.000.000,-",
+      "semantic_type": "PRICE_VALUE",
+      "content": "Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat",
+      "items": []
+    }
+  ],
+  "unknown_sections": [],
+  "quality_flags": [],
+  "completeness": {
+    "fields_checked": 16,
+    "fields_found": 8,
+    "fields_not_found": 8,
+    "coverage": 0.5
+  },
+  "metadata": {
+    "registry_name": "JNCIP-SP",
+    "content_hash": "5c478405b42108b5c6e7fcd6742d5aa1101c78f4ca349be7ff636cb96f162fde",
+    "template_type": "BETTERDOCS"
+  }
+}

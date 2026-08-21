@@ -1,0 +1,14 @@
+{
+  "training_source_id": 59,
+  "canonical_url": "https://www.idn.id/training/f5/",
+  "status": "COMPLETED",
+  "fetch_method": "HTTP",
+  "http_status": null,
+  "content_hash": "2357748e58253b434b8016c706b096c41056c9ef7f3fa9f50f5ff320f3cfbb4d",
+  "template_type": "BETTERDOCS",
+  "extracted_at": "2026-08-21T03:35:44.706095+00:00",
+  "facts_path": "data\\products\\f5\\facts.json",
+  "evidence_path": "data\\products\\f5\\evidence.json",
+  "raw_snapshot_path": "data\\products\\f5\\raw.html",
+  "last_error": null
+}
