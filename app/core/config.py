@@ -22,6 +22,11 @@ class Settings(BaseModel):
     headless: bool = False
     browser_profile_path: Path = Path("runtime/chrome-profile")
     log_level: str = Field(default="INFO", pattern=r"^(DEBUG|INFO|WARNING|ERROR|CRITICAL)$")
+    crawl_timeout_seconds: float = 30.0
+    crawl_delay_seconds: float = 0.75
+    crawl_max_retries: int = 3
+    crawl_concurrency: int = 2
+    crawler_user_agent: str = "IDN-KB-Agent/0.2 (+local reconnaissance; respectful crawler)"
 
 
 @lru_cache(maxsize=1)
@@ -33,4 +38,3 @@ def get_settings() -> Settings:
     keys = Settings.model_fields.keys()
     values = {key: os.environ[key.upper()] for key in keys if key.upper() in os.environ}
     return Settings.model_validate(values)
-

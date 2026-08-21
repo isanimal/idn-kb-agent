@@ -12,5 +12,6 @@ runtime/*.lock
 logs/
 data/*.db
 data/*.db-*
+data/snapshots/**/*.html
+data/site_models/*.json
 .vscode/
-

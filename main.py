@@ -3,6 +3,7 @@
 import argparse
 import logging
 import sys
+import json
 from pathlib import Path
 
 from app.browser.manager import BrowserManager
@@ -11,6 +12,7 @@ from app.core.database import Database
 from app.core.health import print_health_report, run_health_checks
 from app.core.logger import configure_logging
 from app.core.runtime import RuntimeLock, ShutdownCoordinator, ensure_runtime_directories
+from app.site_model.reconnaissance import run_reconnaissance
 
 
 def command_health() -> int:
@@ -74,15 +76,52 @@ def command_run() -> int:
         shutdown.shutdown()
 
 
+def command_idn_learn(limit: int) -> int:
+    settings = get_settings()
+    database = Database(settings.database_path)
+    database.initialize_database()
+    report = run_reconnaissance(settings, database, sample_limit=limit)
+    print(f"IDN reconnaissance complete: {report.training_products_found} products, "
+          f"{report.sample_landing_pages_analyzed} samples, {report.pages_failed} failures")
+    return 0 if report.pages_failed == 0 else 2
+
+
+def command_idn_report() -> int:
+    model_path = Path("data/site_models/idn_site_model.json")
+    catalog_path = Path("data/site_models/training_catalog.json")
+    if not model_path.exists() or not catalog_path.exists():
+        print("No saved IDN site model. Run: python main.py idn-learn", file=sys.stderr)
+        return 1
+    model = json.loads(model_path.read_text(encoding="utf-8"))
+    stats = model.get("statistics", {})
+    print("IDN SITE MODEL\n")
+    print(f"Categories.............. {stats.get('categories', 0)}")
+    print(f"Training Products....... {stats.get('products', 0)}")
+    print(f"Unique URLs............. {stats.get('unique_urls', 0)}")
+    print(f"Samples Analyzed........ {stats.get('samples_analyzed', 0)}")
+    print(f"Supporting Pages........ {stats.get('supporting_pages', 0)}")
+    print(f"Warnings................ {len(model.get('warnings', []))}")
+    print(f"\nModel:\n{model_path}\n\nCatalog:\n{catalog_path}")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
-    parser.add_argument("command", choices=("health", "db-test", "browser-test", "run"))
+    parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report"))
+    parser.add_argument("--limit", type=int, default=10,
+                        help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     args = parser.parse_args()
     ensure_runtime_directories()
     configure_logging(get_settings().log_level)
     try:
-        return {"health": command_health, "db-test": command_db_test,
-                "browser-test": command_browser_test, "run": command_run}[args.command]()
+        commands = {"health": command_health, "db-test": command_db_test,
+                    "browser-test": command_browser_test, "run": command_run,
+                    "idn-report": command_idn_report}
+        if args.command == "idn-learn":
+            if args.limit < 0:
+                parser.error("--limit must be zero or greater")
+            return command_idn_learn(args.limit)
+        return commands[args.command]()
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")
         return 130
@@ -93,4 +132,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-

@@ -1,9 +1,10 @@
 """Small, restart-safe SQLite state store."""
 
 import sqlite3
+from contextlib import contextmanager
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterator
 
 VALID_STATUSES = {"PENDING", "RUNNING", "WAITING", "FAILED", "COMPLETED"}
 VALID_STAGES = {"DISCOVER", "CRAWL", "EXTRACT", "RESEARCH", "RESOLVE", "VALIDATE", "PUBLISH", "VERIFY"}
@@ -17,13 +18,18 @@ class Database:
     def __init__(self, path: Path | str) -> None:
         self.path = Path(path)
 
-    def _connect(self) -> sqlite3.Connection:
+    @contextmanager
+    def _connect(self) -> Iterator[sqlite3.Connection]:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         connection = sqlite3.connect(self.path, timeout=30)
         connection.row_factory = sqlite3.Row
         connection.execute("PRAGMA journal_mode=WAL")
         connection.execute("PRAGMA foreign_keys=ON")
-        return connection
+        try:
+            with connection:
+                yield connection
+        finally:
+            connection.close()
 
     def initialize_database(self) -> None:
         with self._connect() as connection:
@@ -50,6 +56,19 @@ class Database:
                     updated_at TEXT NOT NULL,
                     started_at TEXT,
                     finished_at TEXT
+                );
+                CREATE TABLE IF NOT EXISTS training_sources (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    name TEXT NOT NULL,
+                    category TEXT NOT NULL,
+                    source_url TEXT NOT NULL,
+                    canonical_url TEXT NOT NULL UNIQUE,
+                    discovered_at TEXT NOT NULL,
+                    last_seen_at TEXT NOT NULL,
+                    source_hash TEXT NOT NULL,
+                    status TEXT NOT NULL DEFAULT 'DISCOVERED',
+                    created_at TEXT NOT NULL,
+                    updated_at TEXT NOT NULL
                 );
             """)
 
@@ -123,3 +142,31 @@ class Database:
             row = connection.execute("SELECT value FROM system_state WHERE key = ?", (key,)).fetchone()
             return str(row["value"]) if row else None
 
+    def upsert_training_source(self, *, name: str, category: str, source_url: str,
+                               canonical_url: str, discovered_at: str, source_hash: str) -> tuple[int, bool]:
+        """Insert a canonical training URL or refresh its current metadata."""
+        now = _now()
+        with self._connect() as connection:
+            existing = connection.execute(
+                "SELECT id, name, category FROM training_sources WHERE canonical_url = ?",
+                (canonical_url,),
+            ).fetchone()
+            if existing:
+                connection.execute(
+                    """UPDATE training_sources SET name=?, category=?, source_url=?, last_seen_at=?,
+                       source_hash=?, updated_at=? WHERE canonical_url=?""",
+                    (name, category, source_url, now, source_hash, now, canonical_url),
+                )
+                return int(existing["id"]), False
+            cursor = connection.execute(
+                """INSERT INTO training_sources
+                   (name, category, source_url, canonical_url, discovered_at, last_seen_at,
+                    source_hash, status, created_at, updated_at)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, 'DISCOVERED', ?, ?)""",
+                (name, category, source_url, canonical_url, discovered_at, now, source_hash, now, now),
+            )
+            return int(cursor.lastrowid), True
+
+    def count_training_sources(self) -> int:
+        with self._connect() as connection:
+            return int(connection.execute("SELECT COUNT(*) FROM training_sources").fetchone()[0])

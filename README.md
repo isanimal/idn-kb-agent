@@ -49,5 +49,16 @@ Runtime data, browser cookies, databases, logs, `.env`, and virtual environments
 
 ## Current scope
 
-The `run` command initializes the runtime, database, logging, and a lightweight health check, then exits cleanly. Autonomous crawling and publishing are intentionally disabled until Step 2 or later.
+The `run` command initializes the runtime, database, logging, and a lightweight health check, then exits cleanly. Autonomous crawling and publishing remain intentionally disabled; Step 2 only adds bounded reconnaissance.
 
+## Gate 0 reconnaissance (Step 2)
+
+Build the deterministic IDN site model with HTTP-first fetching and browser fallback:
+
+```powershell
+python main.py idn-learn
+python main.py idn-learn --limit 5
+python main.py idn-report
+```
+
+`--limit` limits only diverse landing-page samples; the full directory catalog is always parsed. Raw HTML snapshots and generated JSON models are local debug/runtime artifacts and are ignored by Git. The crawler respects robots.txt, uses bounded retries and a conservative delay, stays on IDN sources, does not follow social/WhatsApp/external links, and never accesses `kb.idn.id` in this gate.
