@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "sections": [
+    {
+      "label": "Produk Training",
+      "url": "https://kb.idn.id/kb/training",
+      "parent": "Knowledge Based"
+    },
+    {
+      "label": "Lokasi Training",
+      "url": "https://kb.idn.id/kb/lokasi",
+      "parent": "Knowledge Based"
+    },
+    {
+      "label": "Trainer",
+      "url": "https://kb.idn.id/kb/trainer",
+      "parent": "Knowledge Based"
+    },
+    {
+      "label": "Peraturan",
+      "url": "https://kb.idn.id/kb/peraturan",
+      "parent": "Knowledge Based"
+    },
+    {
+      "label": "FAQ",
+      "url": "https://kb.idn.id/kb/faq",
+      "parent": "Knowledge Based"
+    },
+    {
+      "label": "Promo",
+      "url": "https://kb.idn.id/kb/promo",
+      "parent": "Knowledge Based"
+    },
+    {
+      "label": "Informasi Lainnya",
+      "url": "https://kb.idn.id/kb/info",
+      "parent": "Knowledge Based"
+    }
+  ]
+}

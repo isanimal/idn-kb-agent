@@ -80,6 +80,16 @@ class Database:
                     extracted_at TEXT, updated_at TEXT NOT NULL, retry_count INTEGER NOT NULL DEFAULT 0,
                     last_error TEXT, facts_path TEXT, evidence_path TEXT, raw_snapshot_path TEXT
                 );
+                CREATE TABLE IF NOT EXISTS kb_resources (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT, resource_type TEXT NOT NULL, name TEXT NOT NULL,
+                    url TEXT NOT NULL, canonical_key TEXT NOT NULL UNIQUE, content_hash TEXT NOT NULL,
+                    status TEXT NOT NULL, last_seen_at TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+                );
+                CREATE TABLE IF NOT EXISTS kb_products (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL, short_name TEXT, category TEXT,
+                    detail_url TEXT NOT NULL UNIQUE, seo_url TEXT, content_hash TEXT NOT NULL, snapshot_path TEXT,
+                    last_seen_at TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+                );
             """)
 
     def create_job(self, job_type: str, product_name: str | None = None,
@@ -209,3 +219,29 @@ class Database:
     def list_training_extractions(self) -> list[dict[str, Any]]:
         with self._connect() as connection:
             return [dict(row) for row in connection.execute("SELECT * FROM training_extractions ORDER BY training_source_id")]
+
+    def upsert_kb_resource(self, *, resource_type: str, name: str, url: str, canonical_key: str,
+                           content_hash: str, status: str = "ACTIVE") -> str:
+        now = _now()
+        with self._connect() as connection:
+            row = connection.execute("SELECT content_hash FROM kb_resources WHERE canonical_key=?", (canonical_key,)).fetchone()
+            change = "new" if not row else "unchanged" if row["content_hash"] == content_hash else "updated"
+            connection.execute("""INSERT INTO kb_resources(resource_type,name,url,canonical_key,content_hash,status,last_seen_at,created_at,updated_at)
+                VALUES(?,?,?,?,?,?,?,?,?) ON CONFLICT(canonical_key) DO UPDATE SET resource_type=excluded.resource_type,
+                name=excluded.name,url=excluded.url,content_hash=excluded.content_hash,status=excluded.status,
+                last_seen_at=excluded.last_seen_at,updated_at=excluded.updated_at""",
+                (resource_type, name, url, canonical_key, content_hash, status, now, now, now))
+            return change
+
+    def upsert_kb_product(self, *, name: str, short_name: str | None, category: str | None, detail_url: str,
+                          seo_url: str | None, content_hash: str, snapshot_path: str | None) -> str:
+        now = _now()
+        with self._connect() as connection:
+            row = connection.execute("SELECT content_hash FROM kb_products WHERE detail_url=?", (detail_url,)).fetchone()
+            change = "new" if not row else "unchanged" if row["content_hash"] == content_hash else "updated"
+            connection.execute("""INSERT INTO kb_products(name,short_name,category,detail_url,seo_url,content_hash,snapshot_path,last_seen_at,created_at,updated_at)
+                VALUES(?,?,?,?,?,?,?,?,?,?) ON CONFLICT(detail_url) DO UPDATE SET name=excluded.name,short_name=excluded.short_name,
+                category=excluded.category,seo_url=excluded.seo_url,content_hash=excluded.content_hash,
+                snapshot_path=excluded.snapshot_path,last_seen_at=excluded.last_seen_at,updated_at=excluded.updated_at""",
+                (name, short_name, category, detail_url, seo_url, content_hash, snapshot_path, now, now, now))
+            return change

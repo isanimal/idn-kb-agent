@@ -1,0 +1,135 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "candidates": [
+    {
+      "candidate": "kebijakan_mengulang_training",
+      "products_using_same_or_similar_value": 17,
+      "values": [
+        {
+          "value": "Gratis mengikuti ulang training yang sama hingga dua kali, bukan mengulang exam sertifikasi.",
+          "count": 1
+        },
+        {
+          "value": "Gratis mengikuti ulang training yang sama hingga dua kali apabila kebijakan program ID-Networkers yang berlaku menyediakan fasilitas tersebut. Kebijakan ini adalah pengulangan kelas, bukan retake exam sertifikasi pihak ketiga.",
+          "count": 1
+        },
+        {
+          "value": "CCIE Bootcamp tidak menggunakan benefit gratis mengulang 2x seperti training reguler tertentu. Repeat training: 50% dari harga training yang berlaku. Repeat mengikuti registrasi, jadwal, kapasitas, dan ketersediaan batch. Harga repeat harus dikonfirmasi berdasarkan harga aktif saat mengulang.",
+          "count": 1
+        },
+        {
+          "value": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+          "count": 3
+        },
+        {
+          "value": "ID-Networkers tidak memberikan free retake exam untuk produk ini. Voucher yang termasuk dalam training adalah 1x kesempatan exam, kecuali terdapat paket/promosi lain yang dikonfirmasi secara khusus. Jika peserta tidak lulus dan ingin mengambil exam kembali, peserta perlu mengikuti kebijakan retake resmi CompTIA dan membeli kesempatan exam/voucher berikutnya sesuai mekanisme yang berlaku. Setelah gagal pada attempt pertama, CompTIA tidak mensyaratkan waiting period antara attempt pertama dan kedua. Untuk attempt ketiga dan setiap attempt berikutnya pada exam/version yang sama, kandidat harus menunggu minimal 14 hari kalender dari attempt sebelumnya. Jika kandidat sudah lulus exam/version tertentu, kandidat tidak dapat mengambil kembali exam version yang sama tanpa persetujuan CompTIA. Kebijakan dapat diperbarui, sehingga kasus retake perlu merujuk policy CompTIA yang berlaku saat itu.",
+          "count": 1
+        },
+        {
+          "value": "Gratis mengulang training 2 kali. Reschedule training paling lambat H-3 sebelum pelaksanaan.",
+          "count": 2
+        },
+        {
+          "value": "Gratis mengulang training sebanyak 2 kali (berlaku untuk jadwal publik Jakarta/Semarang/Online). Reschedule jadwal training paling lambat H-3 sebelum pelaksanaan; lewat dari itu tanpa konfirmasi, seat dianggap hangus namun peserta tetap mendapat fasilitas mengulang training 2 kali dengan syarat menunjukkan bukti pendaftaran/pembayaran/undangan. Saat mengulang, peserta dikenakan biaya Rp35.000/hari jika membutuhkan makan siang & snack (opsional). Kebijakan ini berlaku umum lintas produk IDN (Company-Policy internal), bukan spesifik JNCIA.",
+          "count": 1
+        },
+        {
+          "value": "MikroTik menyatakan trainer dapat memberikan second chance langsung. Kebijakan ID-Networkers: remedial/second chance dilakukan pada hari yang sama sesuai mekanisme trainer. Secara resmi MikroTik: peserta harus mengikuti training lagi sebelum certification test berikutnya; test berikutnya tidak boleh dilakukan lebih cepat dari 30 hari sejak attempt sebelumnya. Kebijakan ID-Networkers: peserta mendapatkan 1x free retake exam; dilakukan setelah menunggu minimal 1 bulan / mengikuti minimum 30 hari resmi MikroTik; pelaksanaan tetap harus memenuhi requirement training-before-test MikroTik; jadwal dikoordinasikan dengan MikroTik Certified Trainer/IDN. Ketentuan training ulang dan minimum 30 hari juga berlaku apabila peserta gagal pada second chance. ID-Networkers memberikan 1x free retake sesuai benefit internal. Free retake IDN hanya 1x. Attempt berikutnya dikenakan biaya 500000 sesuai kebijakan internal ID-Networkers saat ini. Pelaksanaan tetap mengikuti ketentuan MikroTik dan koordinasi trainer.",
+          "count": 1
+        },
+        {
+          "value": "1 kali dari ID-Networkers, tetap mengikuti aturan MikroTik.",
+          "count": 1
+        },
+        {
+          "value": "Nilai 50--59% dapat second chance/remedial pada hari yang sama sesuai mekanisme trainer. Nilai di bawah 50% tidak mendapatkan second chance langsung. Untuk test kembali, peserta harus mengikuti training course lagi. Test berikutnya tidak boleh lebih cepat dari 30 hari sejak attempt sebelumnya. Peserta mendapatkan 1x free retake exam. Pelaksanaan setelah minimal 1 bulan / memenuhi minimum 30 hari resmi MikroTik. Retake dikoordinasikan dengan IDN dan MikroTik Certified Trainer. Pelaksanaan tetap harus memenuhi requirement bahwa training session dilakukan sebelum certification test. Jika free retake IDN masih gagal, attempt berikutnya dikenakan 500000 sesuai kebijakan internal ID-Networkers saat ini.",
+          "count": 1
+        },
+        {
+          "value": "Gratis mengulang training 2 kali (kebijakan umum IDN). Retake exam mengikuti aturan resmi MikroTik di atas, bukan retake bebas tanpa syarat. Reschedule training paling lambat H-3 sebelum pelaksanaan (kebijakan umum IDN).",
+          "count": 1
+        },
+        {
+          "value": "Peserta mendapatkan kesempatan remedial / ujian kedua pada hari yang sama untuk nilai 50--59. Peserta mendapatkan 1x free retake exam untuk nilai kurang dari 50. Free retake dilakukan setelah menunggu 1 bulan. Jika peserta masih gagal setelah kesempatan free retake tersebut dan ingin mencoba kembali, biaya ujian berikutnya adalah Rp 500.000 sesuai kebijakan internal ID-Networkers saat ini.",
+          "count": 1
+        },
+        {
+          "value": "Nilai 50--59: Trainer dapat memberikan second chance/remedial langsung. Di ID-Networkers kesempatan ini dilaksanakan pada hari yang sama sesuai mekanisme trainer. Nilai kurang dari 50: peserta tidak mendapatkan second chance langsung. Untuk mengambil test kembali, peserta harus mengikuti training lagi dan test berikutnya tidak boleh lebih cepat dari 30 hari setelah attempt sebelumnya. Peserta mendapatkan 1x free retake exam. Pelaksanaan setelah menunggu minimal 1 bulan / mengikuti batas minimum 30 hari resmi MikroTik. Jadwal dikoordinasikan dengan ID-Networkers / MikroTik Certified Trainer. Retake harus mengikuti mekanisme training/retake yang diatur trainer; jangan menjanjikan exam-only tanpa training. Jika second chance 50--59 masih gagal, attempt berikutnya mengikuti ketentuan training ulang dan minimum 30 hari. ID-Networkers memberikan 1x free retake sesuai kebijakan internal. Free retake dari ID-Networkers hanya 1x. Attempt berikutnya dikenakan biaya 500000 sesuai kebijakan internal ID-Networkers saat KB disusun. Pelaksanaan tetap harus mengikuti ketentuan training/certification MikroTik dan koordinasi trainer. 500000 bukan tarif resmi global MikroTik; ini adalah kebijakan internal ID-Networkers.",
+          "count": 1
+        },
+        {
+          "value": "Nilai 50--59: MikroTik menyatakan trainer dapat memberikan second chance langsung. Di ID-Networkers, peserta mendapatkan remedial/ujian kedua pada hari yang sama sesuai mekanisme trainer. Nilai kurang dari 50%: peserta harus mengikuti training kembali dan certification test berikutnya tidak boleh dilakukan lebih cepat dari 30 hari setelah attempt sebelumnya. Peserta mendapatkan 1x free retake exam. Retake dilakukan setelah menunggu minimal 1 bulan / mengikuti minimum 30 hari resmi MikroTik. Retake dikoordinasikan dengan ID-Networkers / MikroTik Certified Trainer. Pelaksanaan harus mengikuti requirement MikroTik bahwa training session mendahului certification test. Aturan waiting period/training kembali juga berlaku jika peserta gagal pada second chance. ID-Networkers memberikan 1x free retake sesuai kebijakan internal. Benefit free retake ID-Networkers hanya 1x. Jika peserta masih ingin mencoba kembali, biaya attempt berikutnya adalah 500000 sesuai kebijakan internal ID-Networkers saat KB disusun. Pelaksanaan tetap mengikuti training/certification requirement MikroTik dan koordinasi trainer.",
+          "count": 1
+        }
+      ],
+      "status": "CANDIDATE_ONLY"
+    },
+    {
+      "candidate": "support_pasca_training",
+      "products_using_same_or_similar_value": 17,
+      "values": [
+        {
+          "value": "Support pasca-training sesuai program.",
+          "count": 1
+        },
+        {
+          "value": "Support pasca-training mengikuti program yang berlaku. Klarifikasi materi. Troubleshooting lab yang berkaitan dengan training. Referensi belajar lanjutan. Review pemahaman dasar. Arah belajar menuju web pentesting, internal pentesting, Active Directory, mobile, cloud, atau certification path. Support tidak berarti peserta dapat meminta bantuan untuk menyerang target publik, sistem pihak lain, atau sistem di luar izin.",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Grup/support khusus exam preparation CCIE. Konsultasi setelah training. Kesempatan nge-lab di IDN dengan koordinasi trainer/tim IDN. Exam prep dapat digunakan untuk diskusi materi, lab, roadmap belajar, dan sharing pengalaman. Peserta dapat berkoordinasi dengan trainer pengampu agar kebutuhan lab dikoordinasikan dengan tim IDN. Pelaksanaan mengikuti fasilitas, resource, lokasi, dan jadwal yang tersedia.",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Grup khusus untuk persiapan exam Cisco CCNA. Grup digunakan sebagai sarana komunikasi, komunitas alumni, dan dukungan persiapan exam.",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme support ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat memanfaatkan fasilitas konsultasi setelah training sesuai mekanisme yang berlaku di ID-Networkers. Scope konsultasi tetap perlu wajar dan berkaitan dengan pembelajaran/kompetensi training. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan trainer pengampu saat kelas berlangsung. Pelaksanaan bergantung pada koordinasi, fasilitas, jadwal, dan ketersediaan yang berlaku.",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat memanfaatkan fasilitas konsultasi setelah training sesuai mekanisme ID-Networkers. Scope konsultasi perlu wajar dan berkaitan dengan materi/kompetensi training.",
+          "count": 1
+        },
+        {
+          "value": "Akses grup alumni untuk diskusi dan sharing info pasca-training.",
+          "count": 1
+        },
+        {
+          "value": "Free konsultasi setelah training, akses grup alumni/mailing list, dan free akses lab di luar jam training (sesuai landing page IDN).",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan ketentuan yang berlaku.",
+          "count": 1
+        },
+        {
+          "value": "Free konsultasi after training. Free akses lab di luar jam training. Akses grup alumni untuk diskusi, sharing info, dan info lowongan kerja.",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Tidak ada grup khusus exam preparation. Free consultation after training. Nge-lab/konsultasi environment dapat dikoordinasikan dengan trainer/tim IDN. Repeat training mengikuti skema khusus 50% harga training, bukan gratis 2x. Akses VPN/PNETLab yang diberikan untuk training tidak boleh dianggap sebagai akses permanen pascatraining. Jika peserta membutuhkan lab kembali: koordinasikan dengan trainer/tim IDN; atau gunakan PNETLab/EVE-NG/environment pribadi sesuai kemampuan dan lisensi yang berlaku.",
+          "count": 1
+        },
+        {
+          "value": "support alumni",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Tidak ada grup khusus exam preparation. Free consultation after training. Gratis repeat training hingga 2x. Kesempatan nge-lab di IDN dengan koordinasi.",
+          "count": 3
+        },
+        {
+          "value": "Akses grup alumni/mailing list untuk diskusi dan sharing info pasca-training (kebijakan umum IDN).",
+          "count": 1
+        },
+        {
+          "value": "Grup WhatsApp alumni. Tidak ada grup khusus exam preparation. Free consultation after training. Gratis repeat training hingga 2x. Kesempatan nge-lab di IDN dengan koordinasi. Landing page MTCUME juga mencantumkan free consultation, nge-lab di IDN di luar jam training, serta mailing list/community benefit. Free consultation berlaku setelah training. Scope harus relevan dengan materi/troubleshooting yang wajar. Nge-lab di IDN: Peserta dapat berkoordinasi dengan trainer/tim IDN. Pelaksanaan mengikuti ketersediaan perangkat, fasilitas, lokasi, dan jadwal.",
+          "count": 1
+        }
+      ],
+      "status": "CANDIDATE_ONLY"
+    }
+  ]
+}

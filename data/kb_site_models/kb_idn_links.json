@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "links": [
+    {
+      "kb_product": "AI & Automation Tools (n8n)",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=ef172adb76904007861e1f503ab77ca3",
+      "idn_url": "https://www.idn.id/training/ai-automation-tools/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Basic Penetration Testing",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=9196c12deba2432dba6e90ebe331ee28",
+      "idn_url": null,
+      "status": "UNMATCHED",
+      "match_method": null
+    },
+    {
+      "kb_product": "Cisco CCIE Enterprise Infrastructure",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=ee1696d54643486596f2ea922ed6ae3e",
+      "idn_url": "https://www.idn.id/training/ccie-bootcamp-indonesia/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Cisco CCNA 200 – 301 v1.1",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=eee2a09dbd83438799fda3417c97ef36",
+      "idn_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Cisco CCNP Enterprise (ENCOR, ENARSI)",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=5b451deb8975455b91f36b788c337c85",
+      "idn_url": "https://www.idn.id/training/ccnp-enterprise/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "CompTIA Network+",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=4ba6384de1084afb8e3913be584795d3",
+      "idn_url": "https://www.idn.id/training/comptia-network-include-exam/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Fortigate Firewall Security (NSE 4) / FortiGate Administrator (FCP)",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=324349cb05cd46a4abca6362bd0d9e6d",
+      "idn_url": "https://www.idn.id/training/fortigate/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Fortinet NSE 6 - FortiManager Administrator",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=8eb73229594c4010b7786911065419ca",
+      "idn_url": "https://www.idn.id/training/fortinet-nse5-fortimanager/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Huawei HCIA Datacom",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=db9e9497e15049dcb4ac4e74a6f7e260",
+      "idn_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Juniper JNCIA Junos",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=53df3b6cba0b44089f1d1e559e2c70e1",
+      "idn_url": "https://www.idn.id/training/juniper-jncia/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "MikroTik MTCINE + Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=5fb75237693c4287b1cf4438398cfff3",
+      "idn_url": "https://www.idn.id/training/mtcine/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "MikroTik MTCNA + International Certification Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=0372363a955c44028170961192bee639",
+      "idn_url": "https://www.idn.id/training/mikrotik-mtcna/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "MikroTik MTCRE + Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=4f4bdce4a771465ca598b9605961d96d",
+      "idn_url": "https://www.idn.id/training/mikrotik-mtcre/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "Mikrotik MTCSE + Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=eaf3dd45a4f246b499df6aa08f092f21",
+      "idn_url": "https://www.idn.id/training/mtcse/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "MikroTik MTCTCE + Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=acf831e5735c4e768fd6167f062111b4",
+      "idn_url": "https://www.idn.id/training/mikrotik-mtctce/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "MikroTik MTCUME + Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=950afbbc67054787b3bb97c9e9473c84",
+      "idn_url": "https://www.idn.id/training/mikrotik-mtcume/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    },
+    {
+      "kb_product": "MikroTik MTCWE + Exam",
+      "kb_url": "https://kb.idn.id/kb/training/detail?id=c33d13b57e834827b7ca96ac4a216e2e",
+      "idn_url": "https://www.idn.id/training/mtcwe/",
+      "status": "MATCHED",
+      "match_method": "EXACT_URL"
+    }
+  ]
+}

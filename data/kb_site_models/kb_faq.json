@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "count": 11,
+  "faq": [
+    {
+      "question": "Materi K8s ada di training Devops atau Kubernetes CKA?",
+      "answer": null,
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "Apakah ada modul belajar server on premise server fisik dari 0",
+      "answer": null,
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "training back end di IDN ada apa saja?",
+      "answer": "Training back end di IDN: Golang dan Laravel . Golang fokus backend saja. Laravel bersifat full stack . Jadi, selain belajar backend , di kelas juga belajar frontend .",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "dimana bisa akses modul training reguler ?",
+      "answer": "Modul training reguler ada di LMS : lms.idn.id . Normalnya, trainer memberi akses ke peserta di kelas. Jika akses belum diberikan: Minta bantuan tim admin untuk memberikan akses. Tanyakan ke chicil siapa saja yang punya akses admin LMS.",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "Apakah ai for daily ini sama dengan ai agent ?",
+      "answer": "Beda. AI for daily productivity fokus ke belajar memanfaatkan AI untuk kebutuhan dasar, seperti membuat dokumen, membuat gambar, video, artikel, dll. Cek saja di silabus materinya. Kalau fokus ke AI Agent , arahkan ke training openclaw .",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "program training yang cocok untuk teknisi tower BTS apa ya ?",
+      "answer": "saat ini belum ada, tolong minta peserta isi waitlist ya. udah tahu belum link utk isi waitlist?",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "untuk CI3 (CodeIgniter 3), ambil training apa ya ?",
+      "answer": "Saat ini belum ada training public untuk CI3 (CodeIgniter 3) . Jika ada request inhouse training , ikuti SOP IHT . Alternatif: arahkan ke Laravel . Secara fungsi hampir mirip. Sama-sama untuk membuat website fullstack .",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "Jadwal Exam MTCNA di Agustus ada di tanggal berapa ?",
+      "answer": "Cek di jadwal.idn.id . Pilih Jakarta atau Semarang . Cek tanggal terakhirnya. Ikuti peraturan / SOP exam Mikrotik yang sudah ada.",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "Apakah ada batas maksimal pendaftaran dari Politeknik IDN, misalnya 2–3 peserta sekaligus?",
+      "answer": "kondisi normal: maksimal 2 orang di 1 training yg sama. namun jika dari pihak mereka ada concern khusus yg mengharuskan di 1 kelas yg sama, bisa konsultasikan ke Ikhwan 0811997322.",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "Kalau ambil DevOps atau lanjut serius profesional. Sebagai DevOps apa harus menguasai backend dev nya?",
+      "answer": "Sebagai DevOps , tidak wajib menguasai backend development . Tapi kalau paham, hasilnya lebih baik . Tidak harus mendalam. Yang penting, tahu cara kerja backend .",
+      "source_url": "https://kb.idn.id/kb/faq"
+    },
+    {
+      "question": "Apakah ada training SAN?",
+      "answer": "Saat ini belum ada training SAN .",
+      "source_url": "https://kb.idn.id/kb/faq"
+    }
+  ]
+}

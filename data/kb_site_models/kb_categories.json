@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "categories": [
+    {
+      "value": "ae5f61ffe9394467bd79f7ecb71675d8",
+      "label": "AI"
+    },
+    {
+      "value": "03cc11638586492d9f1abd2bee150c89",
+      "label": "Cybersecurity"
+    },
+    {
+      "value": "64fca49a720f4e819fac65f141b035ef",
+      "label": "IoT & Robotik"
+    },
+    {
+      "value": "4fbb6a515420497ab37e0c0e7a0f973d",
+      "label": "Lainnya"
+    },
+    {
+      "value": "8e2b5acd1f954b03a608c8fd8be9e272",
+      "label": "Networking"
+    },
+    {
+      "value": "a36532d89eda407c98885237b750485e",
+      "label": "Programming"
+    },
+    {
+      "value": "6bfacdb3ba7f4acb9b9691ed5d26e7a2",
+      "label": "Sysadmin"
+    }
+  ]
+}

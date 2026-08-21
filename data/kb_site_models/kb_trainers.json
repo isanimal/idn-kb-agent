@@ -1,0 +1,422 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "count": 32,
+  "trainers": [
+    {
+      "name": "ADITYA FIRMAN NUGROHO",
+      "expertise": "TRAINER | NETWORK ENGINEER | PENETRATION TESTING",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 14
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=e7108827694444ce80c0b050e02847e4",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Agung Prasetio",
+      "expertise": "Trainer | Network Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 13
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=08f4bd53b26d43aeaf46762f562b4f5f",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Asadullah Al Hamasy",
+      "expertise": "Trainer | Mobile Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=16ffe3e2f0dc4592b191ece0cfdc2799",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "At-Thoriq Firdaus Ramadhan",
+      "expertise": "Trainer | Network Engineer | IT Consultant",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 19
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=f383c4e05b14446782b391bf51c6604a",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Bazigan Tsamara Sukamto",
+      "expertise": "Trainer | System Engineer & Administrator",
+      "certification_counts": {
+        "active cert": 4,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 2
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=32cc6640c15e4f8e91ac68940bbea293",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Deni Rismanto",
+      "expertise": "Trainer | RHCSA | AWS CCP | CKA | CKAD | VCP | RHCSS-C",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 6
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=7aaeee1149d7403295c47a12f6c03cb2",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Fahmi Nuradi",
+      "expertise": "Trainer | Web Developer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 4
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=6d40f9afa9904425b27c23c14227ad1c",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Ferry Fajar Pratama",
+      "expertise": "Trainer | Network Engineer | IT Consultant",
+      "certification_counts": {
+        "active cert": 5,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 2
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=b214d87fd66d4c32ac0f6354e356c959",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Ikhwanul Kurnia Rahman",
+      "expertise": "Trainer | Network Engineer | IT Consultant",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 17
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=1ade341e21934189949bb0b73d91dbb5",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Mahesa Yudha Pratama",
+      "expertise": "Trainer | Network Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 8
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=c4d94806c2dd47a0a25228855c7fddee",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Miftahul Huda",
+      "expertise": "Trainer | Network Engineer | IT Consultant",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 27
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=52bb1796d7a64132902b018abb11bee4",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Muhammad Dimas Sabaruddin",
+      "expertise": "Project Leader | Network Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 9
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=3a60f4c6d416479182a7024084e42c82",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Muhammad Ghaniyu Dzaky Ali",
+      "expertise": "Trainer | Network Engineer",
+      "certification_counts": {
+        "active cert": 1,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 10
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=a5de4760666a4a5ca99deb55ee2d7e91",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "NURCHOLIS MAJID",
+      "expertise": "Trainer | Cybersecurity Specialist",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 9
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=c4defc97fa174eb895b19996bd831cea",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Oky Tria Saputra",
+      "expertise": "IT Network Trainer and Consultant",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 10
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=43736ab38224456fbdeedd8b0f0c016a",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Zakaria Ramadan",
+      "expertise": "Trainer Sysadmin",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 3
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=eb685ab833fe4dd79bbc6880b3ab0943",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Ahmad Zainuri",
+      "expertise": "Support Services Team Leader at NTT Ltd.",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 11
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=a506d66cfa41453980b9c458c0ef854c",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Akhmad Fadhlan Abdullah",
+      "expertise": "IoT | Robotics",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=e8af47cfba5e43059a39fae0fbe5313b",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Arif Widodo",
+      "expertise": "Engineer | IoT | Trainer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=1db24625d7914a9ca98193e115b6ed83",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Arsyadi Ahmad",
+      "expertise": "Trainer | Network Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 10
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=77dd87d3f0b2467d8ef00a221f617c37",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Ary Akbar Ramadhan",
+      "expertise": "Content Creator Officer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=5da7afb5516a415c869c26e5a3effd3b",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Budiman Hendry Rudolep",
+      "expertise": "Digital Marketing Specialist",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 2
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=3ea4671bbdcc4220b9edb4b4aed0a271",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Erfak Glen Ridho Kaligis",
+      "expertise": "English Tutor | Pearson VUE Certified Test Administrator",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=060cfb8d5a2b4bd3b217c64dcb7e1d7c",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Fathur Rizky Arrosid",
+      "expertise": "IT Trainer & Consultant",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 14
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=d45c1adb10644788b168bb776d4e8da7",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Fauzi Abdul Rohim",
+      "expertise": "Robotics | Engineering",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=55d902510e7d4c77bd19da7e981b19e2",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Moch Rafi Riadi",
+      "expertise": "Instructor | DevOps | Security Enthusiast",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 10
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=4c9867d1a0c44a2da8b4e1e1b5a36291",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Nova Novriansyah",
+      "expertise": "MSc, MM, MBA, C|CISO, CEH, CBP, CVA, CC, CEI, CI",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 13
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=c0135e16f1d540e387ba23b3f6d4cea6",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Riki Kurniawan",
+      "expertise": "ST, OCA, PRINCE2, ITIL, ISO 27001/2",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 5
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=7d55d63be0b84c9daf2a468ef58a6265",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Rizqi Aldi Prayugo",
+      "expertise": "Trainer | Network Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 7
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=8055444447cc4d9590f587cf6a2596f4",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Romulus Riky Mukin",
+      "expertise": "Senior IT Project Manager",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 13
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=22fe1ca2ef5a4b9386d350b752d05023",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Sebri Yanto Muhammad Azis",
+      "expertise": "Trainer | Network Engineer",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 0,
+        "expiring": 0,
+        "no exp date": 12
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=3cd869cc4baf4245a5e511f952b7dd0c",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    },
+    {
+      "name": "Tubagus Adhitya Permana",
+      "expertise": "Trainer | Mobile Engineer (iOS/Android)",
+      "certification_counts": {
+        "active cert": 0,
+        "expired": 3,
+        "expiring": 0,
+        "no exp date": 0
+      },
+      "url": "https://kb.idn.id/kb/trainer/detail?id=106d2ed0414b4fb19e626dbf6d4eb7f4",
+      "status": "OBSERVED",
+      "source": "KB_INTERNAL"
+    }
+  ]
+}

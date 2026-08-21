@@ -15,6 +15,7 @@ from app.core.runtime import RuntimeLock, ShutdownCoordinator, ensure_runtime_di
 from app.site_model.reconnaissance import run_reconnaissance
 from app.extractor.pipeline import generate_summary, manual_validation_samples, run_extraction
 from app.extractor.audit import print_parser_audit, run_parser_audit
+from app.kb.reconnaissance import print_auth_test, run_kb_auth_test, run_kb_reconnaissance
 
 
 def command_health() -> int:
@@ -150,10 +151,46 @@ def command_parser_audit() -> int:
     return 0 if all(audit["regression"].values()) else 2
 
 
+def command_kb_auth_test() -> int:
+    result = run_kb_auth_test(get_settings())
+    print_auth_test(result)
+    return 0 if result["training_accessible"] else 2
+
+
+def command_kb_learn(limit: int | None) -> int:
+    settings=get_settings(); db=Database(settings.database_path); db.initialize_database()
+    model=run_kb_reconnaissance(settings,db,limit)
+    stats=model["statistics"]
+    print(f"KB reconnaissance complete: {stats['existing_products']} products, {stats['snapshots']} snapshots, "
+          f"{stats.get('new',0)} new, {stats.get('updated',0)} updated, {stats.get('unchanged',0)} unchanged")
+    return 0
+
+
+def command_kb_report() -> int:
+    path=Path("data/kb_site_models/kb_site_model.json")
+    if not path.exists(): print("No saved KB site model. Run: python main.py kb-learn",file=sys.stderr);return 1
+    m=json.loads(path.read_text(encoding="utf-8"));s=m["statistics"]
+    print("KB SITE MODEL\n");print(f"Authentication......... learned\nNavigation sections.... {m['navigation']['count']}\nExisting products...... {s['existing_products']}\nCategories............. {len(m['categories'])}\nTrainers............... {m['trainers']['count']}\nPolicies............... {m['policies']['count']}\nFAQ.................... {m['faq']['count']}\nLocations.............. {m['locations']['count']}\nPromos................. {m['promos']['count']}\n\nForm fields............ {m['form_schema']['fields']}\nDynamic sections....... {m['form_schema']['dynamic_sections']}\n\nMatched to IDN......... {s['matched_idn']}\nUnmatched.............. {s['unmatched']}\nWarnings............... {len(m['warnings'])}")
+    return 0
+
+
+def command_kb_form_report() -> int:
+    path=Path("data/kb_site_models/kb_training_form_schema.json")
+    if not path.exists(): print("No saved KB form schema.",file=sys.stderr);return 1
+    schema=json.loads(path.read_text(encoding="utf-8"));print("KB TRAINING FORM\n")
+    for f in schema["fields"]:
+        print(f"{f['label']}\n  type: {f['control_type']}\n  required: {'YES' if f['required'] else 'NO'}")
+        if f["options"]: print("  options: "+", ".join(x["label"] for x in f["options"]))
+    print("\nDynamic sections:")
+    for d in schema["dynamic_sections"]:print(f"- {d['section_anchor']}: {len(d['row_fields'])} row control(s)")
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
-                                            "idn-extract", "extraction-report", "parser-audit"))
+                                            "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
+                                            "kb-learn", "kb-report", "kb-form-report"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
@@ -164,7 +201,8 @@ def main() -> int:
         commands = {"health": command_health, "db-test": command_db_test,
                     "browser-test": command_browser_test, "run": command_run,
                     "idn-report": command_idn_report, "extraction-report": command_extraction_report,
-                    "parser-audit": command_parser_audit}
+                    "parser-audit": command_parser_audit, "kb-auth-test": command_kb_auth_test,
+                    "kb-report": command_kb_report, "kb-form-report": command_kb_form_report}
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
@@ -172,6 +210,9 @@ def main() -> int:
         if args.command == "idn-extract":
             if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
             return command_idn_extract(args.limit, args.force)
+        if args.command == "kb-learn":
+            if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
+            return command_kb_learn(args.limit)
         return commands[args.command]()
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")

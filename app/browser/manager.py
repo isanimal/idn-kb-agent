@@ -47,6 +47,12 @@ class BrowserManager:
             raise RuntimeError("Browser is not running")
         return self._context.new_page()
 
+    @property
+    def context(self) -> BrowserContext:
+        if self._context is None:
+            raise RuntimeError("Browser is not running")
+        return self._context
+
     def is_alive(self) -> bool:
         return self._context is not None and bool(self._context.pages or self._context.browser)
 
@@ -56,4 +62,3 @@ class BrowserManager:
 
     def __exit__(self, *_: object) -> None:
         self.stop()
-

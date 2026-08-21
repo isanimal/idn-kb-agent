@@ -1,0 +1,142 @@
+{
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "count": 17,
+  "products": [
+    {
+      "name": "AI & Automation Tools (n8n)",
+      "short_name": "AI & Automation Tools (n8n)",
+      "url": "https://kb.idn.id/kb/training/detail?id=ef172adb76904007861e1f503ab77ca3",
+      "preview": "AI & Automation Tools (n8n) AI & Automation Tools (n8n) Training AI & Automation Tools (n8n) adalah program pelatihan dari ID-Networkers yang mengajarkan cara membangun workflow otomatis menggunakan n8n, layanan AI atau Large Language Model, API, dan aplikasi bisnis modern. AI · Hybrid · mulai Rp 1.700.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "AI"
+    },
+    {
+      "name": "Basic Penetration Testing",
+      "short_name": "Basic Penetration Testing",
+      "url": "https://kb.idn.id/kb/training/detail?id=9196c12deba2432dba6e90ebe331ee28",
+      "preview": "Basic Penetration Testing Basic Penetration Testing Training Basic Penetration Testing adalah program pelatihan fundamental yang memperkenalkan proses penetration testing secara terstruktur, legal, dan berbasis metodologi. Peserta mempelajari bagaimana seorang penetration tester melakukan reconnaissance, scanning, enumeration, vulnerability assessment, exploitation dasar pada lingkungan lab, privilege escalation dasar, post-exploitation terbatas, d Cybersecurity · Hybrid",
+      "source": "KB_INTERNAL",
+      "category": "Cybersecurity"
+    },
+    {
+      "name": "Cisco CCIE Enterprise Infrastructure",
+      "short_name": "Cisco CCIE Enterprise Infrastructure / CCIE Bootcamp",
+      "url": "https://kb.idn.id/kb/training/detail?id=ee1696d54643486596f2ea922ed6ae3e",
+      "preview": "Cisco CCIE Enterprise Infrastructure Cisco CCIE Enterprise Infrastructure / CCIE Bootcamp Cisco CCIE Enterprise Infrastructure Bootcamp ID-Networkers adalah training intensif level expert untuk memperdalam kemampuan enterprise networking dan mempersiapkan peserta menuju jalur sertifikasi Cisco Certified Internetwork Expert (CCIE) Enterprise Infrastructure. Networking",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Cisco CCNA 200 – 301 v1.1",
+      "short_name": "CCNA",
+      "url": "https://kb.idn.id/kb/training/detail?id=eee2a09dbd83438799fda3417c97ef36",
+      "preview": "Cisco CCNA 200 – 301 v1.1 CCNA Training Cisco CCNA di ID-Networkers adalah program pelatihan fundamental networking berbasis teknologi Cisco yang mempersiapkan peserta memahami konsep, konfigurasi, verifikasi, dan troubleshooting jaringan komputer. Peserta mempelajari networking secara terstruktur melalui penjelasan konsep dan praktik, mencakup network fundamentals, switching, VLAN, routing IPv4/IPv6, IP services, wireless, se Networking · Offline · mulai Rp 2.800.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Cisco CCNP Enterprise (ENCOR, ENARSI)",
+      "short_name": "Cisco CCNP Enterprise",
+      "url": "https://kb.idn.id/kb/training/detail?id=5b451deb8975455b91f36b788c337c85",
+      "preview": "Cisco CCNP Enterprise (ENCOR, ENARSI) Cisco CCNP Enterprise Training Cisco CCNP Enterprise di ID-Networkers adalah program enterprise networking tingkat lanjut yang menggabungkan materi ENCOR (Implementing and Operating Cisco Enterprise Network Core Technologies) dan ENARSI (Implementing Cisco Enterprise Advanced Routing and Services) dalam satu paket training. Networking · Offline · mulai Rp 4.000.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "CompTIA Network+",
+      "short_name": "CompTIA Network+",
+      "url": "https://kb.idn.id/kb/training/detail?id=4ba6384de1084afb8e3913be584795d3",
+      "preview": "CompTIA Network+ CompTIA Network+ Training CompTIA Network+ di ID-Networkers adalah program fundamental networking vendor-neutral yang mempersiapkan peserta memahami konsep, implementasi, operasi, keamanan, dan troubleshooting jaringan tanpa bergantung pada satu vendor perangkat tertentu. Networking · Offline, Online · mulai Rp 11.000.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Fortigate Firewall Security (NSE 4) / FortiGate Administrator (FCP)",
+      "short_name": "FortiGate NSE 4",
+      "url": "https://kb.idn.id/kb/training/detail?id=324349cb05cd46a4abca6362bd0d9e6d",
+      "preview": "Fortigate Firewall Security (NSE 4) / FortiGate Administrator (FCP) FortiGate NSE 4 Training administrasi FortiGate firewall: firewall policy, NAT, authentication, logging & monitoring, certificate operations, web filtering, application control, antivirus, IPS/anti-DoS, hingga Security Fabric. Networking · Offline · mulai Rp 3.000.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Fortinet NSE 6 - FortiManager Administrator",
+      "short_name": "FortiManager Administrator",
+      "url": "https://kb.idn.id/kb/training/detail?id=8eb73229594c4010b7786911065419ca",
+      "preview": "Fortinet NSE 6 - FortiManager Administrator FortiManager Administrator Training administrasi FortiManager untuk centralized management banyak FortiGate: initial configuration, administrasi, device registration, policy & object management, global ADOM, hingga central VPN management. Networking · Offline · mulai Rp 3.000.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Huawei HCIA Datacom",
+      "short_name": "HCIA Datacom",
+      "url": "https://kb.idn.id/kb/training/detail?id=db9e9497e15049dcb4ac4e74a6f7e260",
+      "preview": "Huawei HCIA Datacom HCIA Datacom Training Huawei HCIA Datacom di ID-Networkers adalah program fundamental networking berbasis teknologi Huawei untuk peserta yang ingin memahami konsep data communication, routing, switching, network services, network management, security dasar, IPv6, serta pengenalan SDN dan automation. Peserta mempelajari konsep jaringan dan konfigurasi perangkat Huawei melalui penjelasan konsep, demonstrasi, pr Networking",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Juniper JNCIA Junos",
+      "short_name": "JNCIA",
+      "url": "https://kb.idn.id/kb/training/detail?id=53df3b6cba0b44089f1d1e559e2c70e1",
+      "preview": "Juniper JNCIA Junos JNCIA Training persiapan sertifikasi entry-level untuk Junos OS (sistem operasi perangkat Juniper), mencakup konfigurasi dasar, routing & switching, hingga monitoring operasional. JNCIA-Junos adalah gerbang masuk ke jalur sertifikasi Juniper sebelum ke level Specialist/Professional (mis. JNCIP-SP). Networking · Offline, Online · mulai Rp 2.000.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "MikroTik MTCINE + Exam",
+      "short_name": "MikroTik MTCINE",
+      "url": "https://kb.idn.id/kb/training/detail?id=5fb75237693c4287b1cf4438398cfff3",
+      "preview": "MikroTik MTCINE + Exam MikroTik MTCINE MikroTik Certified Inter-Networking Engineer (MTCINE) adalah training MikroTik level Extended yang berfokus pada internetworking tingkat lanjut, terutama BGP, MPLS, VPLS, VRF/L3VPN, dan Traffic Engineering. Networking · Offline · mulai Rp 4.500.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "MikroTik MTCNA + International Certification Exam",
+      "short_name": "MikroTik MTCNA + Exam",
+      "url": "https://kb.idn.id/kb/training/detail?id=0372363a955c44028170961192bee639",
+      "preview": "MikroTik MTCNA + International Certification Exam MikroTik MTCNA + Exam Training MikroTik MTCNA + International Certification Exam di ID-Networkers adalah program pelatihan dasar jaringan menggunakan perangkat MikroTik RouterBoard dan sistem operasi RouterOS. Peserta mempelajari konfigurasi jaringan dari dasar melalui penjelasan konsep, demonstrasi, praktik langsung, studi kasus, dan troubleshooting. Materi mencakup pengenalan RouterOS, IP addressing, DHCP, bridge, r Networking · Offline, Online · mulai Rp 2.000.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "MikroTik MTCRE + Exam",
+      "short_name": "MikroTik MTCRE",
+      "url": "https://kb.idn.id/kb/training/detail?id=4f4bdce4a771465ca598b9605961d96d",
+      "preview": "MikroTik MTCRE + Exam MikroTik MTCRE MikroTik Certified Routing Engineer (MTCRE) adalah training lanjutan MikroTik yang berfokus pada routing menggunakan MikroTik RouterOS. Peserta mempelajari connected route, static routing, failover dan load balancing, policy routing, dynamic routing dengan OSPF, VLAN, serta VPN sesuai kurikulum training ID-Networkers. Training bersifat hands-on menggunakan MikroTik RouterBoard dan sudah termasuk Networking · Offline, Online · mulai Rp 2.500.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "Mikrotik MTCSE + Exam",
+      "short_name": "MTCSE",
+      "url": "https://kb.idn.id/kb/training/detail?id=eaf3dd45a4f246b499df6aa08f092f21",
+      "preview": "Mikrotik MTCSE + Exam MTCSE Training MikroTik Certified Security Engineer (MTCSE) — jenjang engineer-level MikroTik yang fokus ke keamanan jaringan: serangan & ancaman umum, firewall lanjutan, pertahanan terhadap serangan level OSI layer, dasar kriptografi, pengamanan router, dan secure tunnel (IPSec, L2TP, SSTP). Networking",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "MikroTik MTCTCE + Exam",
+      "short_name": "MikroTik MTCTCE",
+      "url": "https://kb.idn.id/kb/training/detail?id=acf831e5735c4e768fd6167f062111b4",
+      "preview": "MikroTik MTCTCE + Exam MikroTik MTCTCE MikroTik Certified Traffic Control Engineer (MTCTCE) adalah training lanjutan MikroTik yang berfokus pada traffic control, Quality of Service (QoS), packet flow, firewall/mangle, queueing, serta layanan jaringan yang berkaitan dengan pengelolaan traffic pada MikroTik RouterOS. Networking · Online · mulai Rp 2.500.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "MikroTik MTCUME + Exam",
+      "short_name": "MikroTik MTCUME",
+      "url": "https://kb.idn.id/kb/training/detail?id=950afbbc67054787b3bb97c9e9473c84",
+      "preview": "MikroTik MTCUME + Exam MikroTik MTCUME MikroTik Certified User Management Engineer (MTCUME) adalah training lanjutan MikroTik yang berfokus pada pengelolaan user dan akses jaringan menggunakan MikroTik RouterOS. Materi tidak hanya mencakup HotSpot, PPPoE, User Manager, dan RADIUS. Berdasarkan syllabus ID-Networkers yang dipublikasikan, training juga membahas PPP, PPTP/L2TP, bridging pada tunnel, IPSec, HotSpot advanced, serta centrali Networking",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    },
+    {
+      "name": "MikroTik MTCWE + Exam",
+      "short_name": "MikroTik MTCWE",
+      "url": "https://kb.idn.id/kb/training/detail?id=c33d13b57e834827b7ca96ac4a216e2e",
+      "preview": "MikroTik MTCWE + Exam MikroTik MTCWE MikroTik Certified Wireless Engineer (MTCWE) adalah training lanjutan MikroTik yang berfokus pada implementasi, optimasi, dan troubleshooting jaringan wireless menggunakan MikroTik RouterOS. Training membahas konsep wireless, pemilihan frequency/channel, security, access point dan station, wireless bridge, Point-to-Point/Point-to-Multipoint, monitoring dan troubleshooting, serta teknologi MikroTi Networking · Offline, Online · mulai Rp 2.500.000 (referensi)",
+      "source": "KB_INTERNAL",
+      "category": "Networking"
+    }
+  ]
+}

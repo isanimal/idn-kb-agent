@@ -1,0 +1,107 @@
+{
+  "schema_version": "kb-site-model-v1",
+  "domain": "kb.idn.id",
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "authentication": {
+    "state": "AUTHENTICATED",
+    "persistent_profile": "runtime\\chrome-profile"
+  },
+  "navigation": {
+    "count": 7
+  },
+  "product_training": {
+    "count": 17,
+    "snapshots": 17
+  },
+  "form_schema": {
+    "fields": 15,
+    "dynamic_sections": 6,
+    "version": "kb-training-form-v1"
+  },
+  "categories": [
+    {
+      "value": "ae5f61ffe9394467bd79f7ecb71675d8",
+      "label": "AI"
+    },
+    {
+      "value": "03cc11638586492d9f1abd2bee150c89",
+      "label": "Cybersecurity"
+    },
+    {
+      "value": "64fca49a720f4e819fac65f141b035ef",
+      "label": "IoT & Robotik"
+    },
+    {
+      "value": "4fbb6a515420497ab37e0c0e7a0f973d",
+      "label": "Lainnya"
+    },
+    {
+      "value": "8e2b5acd1f954b03a608c8fd8be9e272",
+      "label": "Networking"
+    },
+    {
+      "value": "a36532d89eda407c98885237b750485e",
+      "label": "Programming"
+    },
+    {
+      "value": "6bfacdb3ba7f4acb9b9691ed5d26e7a2",
+      "label": "Sysadmin"
+    }
+  ],
+  "trainers": {
+    "count": 32
+  },
+  "policies": {
+    "count": 4
+  },
+  "faq": {
+    "count": 11
+  },
+  "locations": {
+    "count": 6
+  },
+  "promos": {
+    "count": 2
+  },
+  "other_information": {
+    "count": 0
+  },
+  "authority_model": {
+    "KB_EXISTING_PRODUCT": "INTERNAL_PRODUCT_KNOWLEDGE",
+    "KB_POLICY": "INTERNAL_POLICY",
+    "KB_TRAINER": "INTERNAL_TRAINER_AUTHORITY",
+    "KB_FAQ": "INTERNAL_GENERAL_KNOWLEDGE",
+    "KB_LOCATION": "INTERNAL_LOCATION_AUTHORITY",
+    "KB_PROMO": "INTERNAL_PROMOTIONAL_INFORMATION"
+  },
+  "statistics": {
+    "existing_products": 17,
+    "snapshots": 17,
+    "matched_idn": 16,
+    "unmatched": 1,
+    "unchanged": 61
+  },
+  "read_only": {
+    "guard": "ENABLED",
+    "blocked_requests": [
+      {
+        "method": "POST",
+        "url": "https://kb.idn.id/api/articles/375149acc8814d6687bb0a361a3697a2/view"
+      },
+      {
+        "method": "POST",
+        "url": "https://kb.idn.id/api/articles/5b17f924603a40c7b5b11f5d2bebec43/view"
+      },
+      {
+        "method": "POST",
+        "url": "https://kb.idn.id/api/articles/49f65d5df2bb49ccb66648c651751cbf/view"
+      },
+      {
+        "method": "POST",
+        "url": "https://kb.idn.id/api/articles/14ec19391713409cb25c93e664180c57/view"
+      }
+    ],
+    "server_writes": 0
+  },
+  "warnings": []
+}

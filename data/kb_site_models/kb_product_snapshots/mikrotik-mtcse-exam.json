@@ -1,0 +1,72 @@
+{
+  "name": "Mikrotik MTCSE + Exam",
+  "url": "https://kb.idn.id/kb/training/detail?id=eaf3dd45a4f246b499df6aa08f092f21",
+  "sections": [
+    {
+      "heading": "Deskripsi singkat",
+      "content": "Training MikroTik Certified Security Engineer (MTCSE) — jenjang engineer-level MikroTik yang fokus ke keamanan jaringan: serangan & ancaman umum, firewall lanjutan, pertahanan terhadap serangan level OSI layer, dasar kriptografi, pengamanan router, dan secure tunnel (IPSec, L2TP, SSTP)."
+    },
+    {
+      "heading": "Setelah training selesai, peserta bisa",
+      "content": "Mengidentifikasi jenis serangan dan ancaman umum pada jaringan MikroTik. Konfigurasi firewall lanjutan (advanced filter/mangle) untuk mitigasi serangan. Memahami dan mencegah serangan pada level OSI layer. Memahami dasar kriptografi yang relevan untuk keamanan jaringan. Mengamankan router (router hardening) sesuai best practice. Konfigurasi secure tunnel: IPSec, L2TP, dan SSTP. Siap mengikuti ujian sertifikasi MTCSE."
+    },
+    {
+      "heading": "Target peserta & masalah yang diselesaikan",
+      "content": "Network/Security Engineer pengguna MikroTik jaringan MikroTik yang dikelola belum secure, atau sudah pernah kena serangan tapi belum paham cara mitigasinya secara terstruktur. MikroTik Admin/NOC sudah bisa konfigurasi dasar (level MTCNA) tapi belum menguasai firewall advanced MikroTik yang sebenarnya sangat powerful jika dikonfigurasi dengan benar. Engineer ISP/Enterprise perlu mengamankan akses remote/site-to-site dengan secure tunnel (IPSec/L2TP/SSTP) tapi belum pernah implementasi langsung."
+    },
+    {
+      "heading": "Prasyarat",
+      "content": "Sudah memiliki sertifikasi MTCNA — wajib sebagai prasyarat resmi dari MikroTik untuk semua sertifikasi engineer-level (termasuk MTCSE). Sertifikat MTCNA boleh sudah kedaluwarsa/expired, tetap memenuhi syarat prasyarat ini."
+    },
+    {
+      "heading": "Sertifikasi: MikroTik Certified Security Engineer (MTCSE)",
+      "content": "Durasi exam 60 menit Jumlah soal 25 Skor lulus minimal 60% Open book closed book Kebijakan retake skor 50–59% dapat kesempatan kedua di hari yang sama tanpa biaya tambahan; skor di bawah 50% harus mengikuti training lagi dan menunggu minimal 30 hari sebelum ujian ulang"
+    },
+    {
+      "heading": "Kebijakan mengulang training",
+      "content": "Gratis mengulang training 2 kali (kebijakan umum IDN). Retake exam mengikuti aturan resmi MikroTik di atas, bukan retake bebas tanpa syarat. Reschedule training paling lambat H-3 sebelum pelaksanaan (kebijakan umum IDN)."
+    },
+    {
+      "heading": "Tools & perangkat",
+      "content": "MikroTik RouterBoard Disiapkan IDN"
+    },
+    {
+      "heading": "Contoh praktek",
+      "content": "Konfigurasi firewall advanced untuk mitigasi serangan umum. Hardening router. Membangun secure tunnel IPSec, L2TP, dan SSTP pada perangkat MikroTik."
+    },
+    {
+      "heading": "Support pasca-training",
+      "content": "Akses grup alumni/mailing list untuk diskusi dan sharing info pasca-training (kebijakan umum IDN)."
+    },
+    {
+      "heading": "Trainer referensi",
+      "content": "ADITYA FIRMAN NUGROHO Oky Tria Saputra Mahesa Yudha Pratama"
+    },
+    {
+      "heading": "Kelas lanjutan",
+      "content": "MikroTik MTCRE + Exam — MikroTik MTCTCE + Exam — MikroTik MTCINE + Exam —"
+    },
+    {
+      "heading": "Poin jualan utama",
+      "content": "Biaya training sudah termasuk kesempatan ujian sertifikasi internasional MTCSE. Kelas kecil, maksimal 9 peserta. Materi fokus praktik: firewall advanced, IPSec, dan security best practice di real device MikroTik. Gratis mengulang training 2 kali. Modul berbahasa Indonesia."
+    },
+    {
+      "heading": "Klaim yang dihindari",
+      "content": "Jangan menjanjikan hal-hal berikut saat menawarkan produk ini. Jangan menyebut peserta \"sudah MTCSE\"/\"certified\" hanya karena menyelesaikan training — status ini hanya sah setelah lulus exam resmi MikroTik. Jangan menjanjikan kelulusan exam (\"dijamin lulus\") — hasil ujian di luar kendali IDN. Jangan menyampaikan jumlah soal 177 atau angka lain yang beredar di situs dump pihak ketiga — struktur resmi vendor adalah 25 soal/60 menit, sama seperti MTCNA. Jangan menjanjikan retake exam bebas tanpa syarat — retake mengikuti aturan skor (50–59% vs di bawah 50%) dan jeda 30 hari sesuai kebijakan resmi MikroTik. Jangan menyebut ini sertifikasi BNSP — ini sertifikasi vendor internasional MikroTik. Jangan menjanjikan trainer tertentu sebelum penugasan batch dikonfirmasi."
+    },
+    {
+      "heading": "Link halaman",
+      "content": "Halaman resmi Landing Page Iklan Jadwal training"
+    },
+    {
+      "heading": "Catatan tambahan",
+      "content": "Selalu bedakan \"training MTCSE\" (produk IDN) dengan \"sertifikasi MTCSE\" (dari MikroTik, lewat exam resmi). Produk ini bukan sertifikasi BNSP. Harga private/in-house wajib diproses lewat quotation resmi. Free menginap untuk peserta luar kota (mess terbatas, sesuai kebijakan umum IDN), wajib registrasi lewat admin terlebih dahulu."
+    }
+  ],
+  "external_links": [
+    "https://www.idn.id/training/mtcse/",
+    "https://www.idn.id/training/mtcse/",
+    "https://jadwal.idn.id/semua-training?search=mtcse"
+  ],
+  "raw_text": "Daftar produk Ubah Hapus Mikrotik MTCSE + Exam MTCSE Networking Deskripsi singkat Training MikroTik Certified Security Engineer (MTCSE) — jenjang engineer-level MikroTik yang fokus ke keamanan jaringan: serangan & ancaman umum, firewall lanjutan, pertahanan terhadap serangan level OSI layer, dasar kriptografi, pengamanan router, dan secure tunnel (IPSec, L2TP, SSTP). Setelah training selesai, peserta bisa Mengidentifikasi jenis serangan dan ancaman umum pada jaringan MikroTik. Konfigurasi firewall lanjutan (advanced filter/mangle) untuk mitigasi serangan. Memahami dan mencegah serangan pada level OSI layer. Memahami dasar kriptografi yang relevan untuk keamanan jaringan. Mengamankan router (router hardening) sesuai best practice. Konfigurasi secure tunnel: IPSec, L2TP, dan SSTP. Siap mengikuti ujian sertifikasi MTCSE. Target peserta & masalah yang diselesaikan Network/Security Engineer pengguna MikroTik jaringan MikroTik yang dikelola belum secure, atau sudah pernah kena serangan tapi belum paham cara mitigasinya secara terstruktur. MikroTik Admin/NOC sudah bisa konfigurasi dasar (level MTCNA) tapi belum menguasai firewall advanced MikroTik yang sebenarnya sangat powerful jika dikonfigurasi dengan benar. Engineer ISP/Enterprise perlu mengamankan akses remote/site-to-site dengan secure tunnel (IPSec/L2TP/SSTP) tapi belum pernah implementasi langsung. Prasyarat Sudah memiliki sertifikasi MTCNA — wajib sebagai prasyarat resmi dari MikroTik untuk semua sertifikasi engineer-level (termasuk MTCSE). Sertifikat MTCNA boleh sudah kedaluwarsa/expired, tetap memenuhi syarat prasyarat ini. Sertifikasi: MikroTik Certified Security Engineer (MTCSE) Durasi exam 60 menit Jumlah soal 25 Skor lulus minimal 60% Open book closed book Kebijakan retake skor 50–59% dapat kesempatan kedua di hari yang sama tanpa biaya tambahan; skor di bawah 50% harus mengikuti training lagi dan menunggu minimal 30 hari sebelum ujian ulang Kebijakan mengulang training Gratis mengulang training 2 kali (kebijakan umum IDN). Retake exam mengikuti aturan resmi MikroTik di atas, bukan retake bebas tanpa syarat. Reschedule training paling lambat H-3 sebelum pelaksanaan (kebijakan umum IDN). Tools & perangkat MikroTik RouterBoard Disiapkan IDN Contoh praktek Konfigurasi firewall advanced untuk mitigasi serangan umum. Hardening router. Membangun secure tunnel IPSec, L2TP, dan SSTP pada perangkat MikroTik. Support pasca-training Akses grup alumni/mailing list untuk diskusi dan sharing info pasca-training (kebijakan umum IDN). Trainer referensi ADITYA FIRMAN NUGROHO Oky Tria Saputra Mahesa Yudha Pratama Kelas lanjutan MikroTik MTCRE + Exam — MikroTik MTCTCE + Exam — MikroTik MTCINE + Exam — Poin jualan utama Biaya training sudah termasuk kesempatan ujian sertifikasi internasional MTCSE. Kelas kecil, maksimal 9 peserta. Materi fokus praktik: firewall advanced, IPSec, dan security best practice di real device MikroTik. Gratis mengulang training 2 kali. Modul berbahasa Indonesia. Klaim yang dihindari Jangan menjanjikan hal-hal berikut saat menawarkan produk ini. Jangan menyebut peserta \"sudah MTCSE\"/\"certified\" hanya karena menyelesaikan training — status ini hanya sah setelah lulus exam resmi MikroTik. Jangan menjanjikan kelulusan exam (\"dijamin lulus\") — hasil ujian di luar kendali IDN. Jangan menyampaikan jumlah soal 177 atau angka lain yang beredar di situs dump pihak ketiga — struktur resmi vendor adalah 25 soal/60 menit, sama seperti MTCNA. Jangan menjanjikan retake exam bebas tanpa syarat — retake mengikuti aturan skor (50–59% vs di bawah 50%) dan jeda 30 hari sesuai kebijakan resmi MikroTik. Jangan menyebut ini sertifikasi BNSP — ini sertifikasi vendor internasional MikroTik. Jangan menjanjikan trainer tertentu sebelum penugasan batch dikonfirmasi. Link halaman Halaman resmi Landing Page Iklan Jadwal training Catatan tambahan Selalu bedakan \"training MTCSE\" (produk IDN) dengan \"sertifikasi MTCSE\" (dari MikroTik, lewat exam resmi). Produk ini bukan sertifikasi BNSP. Harga private/in-house wajib diproses lewat quotation resmi. Free menginap untuk peserta luar kota (mess terbatas, sesuai kebijakan umum IDN), wajib registrasi lewat admin terlebih dahulu. Versi markdown yang dibaca AI Dihasilkan ulang otomatis setiap kali data disimpan. Inilah teks persis yang diindeks dan dikutip AI — kalau sebuah informasi tidak muncul di sini, AI tidak bisa melihatnya. # Mikrotik MTCSE + Exam Produk training ID-Networkers. Nama singkat: **MTCSE**. Kategori: Networking. ## Deskripsi Singkat Training MikroTik Certified Security Engineer (MTCSE) — jenjang engineer-level MikroTik yang fokus ke keamanan jaringan: serangan & ancaman umum, firewall lanjutan, pertahanan terhadap serangan level OSI layer, dasar kriptografi, pengamanan router, dan secure tunnel (IPSec, L2TP, SSTP). ## Setelah Training Selesai, Peserta Bisa - Mengidentifikasi jenis serangan dan ancaman umum pada jaringan MikroTik. - Konfigurasi firewall lanjutan (advanced filter/mangle) untuk mitigasi serangan. - Memahami dan mencegah serangan pada level OSI layer. - Memahami dasar kriptografi yang relevan untuk keamanan jaringan. - Mengamankan router (router hardening) sesuai best practice. - Konfigurasi secure tunnel: IPSec, L2TP, dan SSTP. - Siap mengikuti ujian sertifikasi MTCSE. ## Target Peserta dan Masalah yang Diselesaikan - Network/Security Engineer pengguna MikroTik — masalah yang diselesaikan: jaringan MikroTik yang dikelola belum secure, atau sudah pernah kena serangan tapi belum paham cara mitigasinya secara terstruktur. - MikroTik Admin/NOC — masalah yang diselesaikan: sudah bisa konfigurasi dasar (level MTCNA) tapi belum menguasai firewall advanced MikroTik yang sebenarnya sangat powerful jika dikonfigurasi dengan benar. - Engineer ISP/Enterprise — masalah yang diselesaikan: perlu mengamankan akses remote/site-to-site dengan secure tunnel (IPSec/L2TP/SSTP) tapi belum pernah implementasi langsung. ## Prasyarat - Sudah memiliki sertifikasi MTCNA — wajib sebagai prasyarat resmi dari MikroTik untuk semua sertifikasi engineer-level (termasuk MTCSE). Sertifikat MTCNA boleh sudah kedaluwarsa/expired, tetap memenuhi syarat prasyarat ini. ## Sertifikasi Terkait: MikroTik Certified Security Engineer (MTCSE) - Durasi exam: 60 menit - Jumlah soal: 25 - Skor lulus minimal: 60% - Open book: closed book - Kebijakan retake exam: skor 50–59% dapat kesempatan kedua di hari yang sama tanpa biaya tambahan; skor di bawah 50% harus mengikuti training lagi dan menunggu minimal 30 hari sebelum ujian ulang ## Kebijakan Mengulang Training Gratis mengulang training 2 kali (kebijakan umum IDN). Retake exam mengikuti aturan resmi MikroTik di atas, bukan retake bebas tanpa syarat. Reschedule training paling lambat H-3 sebelum pelaksanaan (kebijakan umum IDN). ## Tools dan Perangkat - MikroTik RouterBoard — Disiapkan IDN ## Contoh Praktek - Konfigurasi firewall advanced untuk mitigasi serangan umum. - Hardening router. - Membangun secure tunnel IPSec, L2TP, dan SSTP pada perangkat MikroTik. ## Support Pasca-training Akses grup alumni/mailing list untuk diskusi dan sharing info pasca-training (kebijakan umum IDN). ## Trainer Referensi - ADITYA FIRMAN NUGROHO - Oky Tria Saputra - Mahesa Yudha Pratama ## Kelas Lanjutan - MikroTik MTCRE + Exam - MikroTik MTCTCE + Exam - MikroTik MTCINE + Exam ## Poin Jualan Utama - Biaya training sudah termasuk kesempatan ujian sertifikasi internasional MTCSE. - Kelas kecil, maksimal 9 peserta. - Materi fokus praktik: firewall advanced, IPSec, dan security best practice di real device MikroTik. - Gratis mengulang training 2 kali. - Modul berbahasa Indonesia. ## Klaim yang Dihindari JANGAN menjanjikan atau menyebutkan hal-hal berikut tentang produk ini: - JANGAN sampaikan: Jangan menyebut peserta \"sudah MTCSE\"/\"certified\" hanya karena menyelesaikan training — status ini hanya sah setelah lulus exam resmi MikroTik. - JANGAN sampaikan: Jangan menjanjikan kelulusan exam (\"dijamin lulus\") — hasil ujian di luar kendali IDN. - JANGAN sampaikan: Jangan menyampaikan jumlah soal 177 atau angka lain yang beredar di situs dump pihak ketiga — struktur resmi vendor adalah 25 soal/60 menit, sama seperti MTCNA. - JANGAN sampaikan: Jangan menjanjikan retake exam bebas tanpa syarat — retake mengikuti aturan skor (50–59% vs di bawah 50%) dan jeda 30 hari sesuai kebijakan resmi MikroTik. - JANGAN sampaikan: Jangan menyebut ini sertifikasi BNSP — ini sertifikasi vendor internasional MikroTik. - JANGAN sampaikan: Jangan menjanjikan trainer tertentu sebelum penugasan batch dikonfirmasi. ## Link Halaman - Halaman resmi: https://www.idn.id/training/mtcse/ - Landing page iklan (Landing Page Iklan): https://www.idn.id/training/mtcse/ - Landing page iklan (Jadwal training): https://jadwal.idn.id/semua-training?search=mtcse ## Catatan Tambahan Selalu bedakan \"training MTCSE\" (produk IDN) dengan \"sertifikasi MTCSE\" (dari MikroTik, lewat exam resmi). Produk ini bukan sertifikasi BNSP. Harga private/in-house wajib diproses lewat quotation resmi. Free menginap untuk peserta luar kota (mess terbatas, sesuai kebijakan umum IDN), wajib registrasi lewat admin terlebih dahulu."
+}

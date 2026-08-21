@@ -1,0 +1,588 @@
+{
+  "schema_version": "kb-training-form-v1",
+  "generated_at": "2026-08-21T04:17:09.058102+00:00",
+  "fields": [
+    {
+      "field_key": "nama_lengkap_produk",
+      "label": "Nama lengkap produk",
+      "control_type": "input",
+      "required": true,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Nama lengkap produk"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "nama_singkat",
+      "label": "Nama singkat",
+      "control_type": "input",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Nama singkat"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "kategori",
+      "label": "Kategori",
+      "control_type": "select",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [
+        {
+          "value": "",
+          "label": "— Tanpa kategori —"
+        },
+        {
+          "value": "ae5f61ffe9394467bd79f7ecb71675d8",
+          "label": "AI"
+        },
+        {
+          "value": "03cc11638586492d9f1abd2bee150c89",
+          "label": "Cybersecurity"
+        },
+        {
+          "value": "64fca49a720f4e819fac65f141b035ef",
+          "label": "IoT & Robotik"
+        },
+        {
+          "value": "4fbb6a515420497ab37e0c0e7a0f973d",
+          "label": "Lainnya"
+        },
+        {
+          "value": "8e2b5acd1f954b03a608c8fd8be9e272",
+          "label": "Networking"
+        },
+        {
+          "value": "a36532d89eda407c98885237b750485e",
+          "label": "Programming"
+        },
+        {
+          "value": "6bfacdb3ba7f4acb9b9691ed5d26e7a2",
+          "label": "Sysadmin"
+        }
+      ],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Kategori"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "link_landing_page_seo",
+      "label": "Link landing page SEO",
+      "control_type": "input",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": "https://idn.id/…",
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Link landing page SEO"
+      },
+      "fallbacks": [
+        {
+          "strategy": "placeholder",
+          "value": "https://idn.id/…"
+        }
+      ]
+    },
+    {
+      "field_key": "trainer_referensi",
+      "label": "Trainer referensi",
+      "control_type": "button",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": "Pilih trainer…",
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Trainer referensi"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "deskripsi_singkat",
+      "label": "Deskripsi singkat",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Deskripsi singkat"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "selesai_training_peserta_bisa_apa_saja",
+      "label": "Selesai training, peserta bisa apa saja",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Selesai training, peserta bisa apa saja"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "prasyarat",
+      "label": "Prasyarat",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Prasyarat"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "kebijakan_mengulang_training",
+      "label": "Kebijakan mengulang training",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Kebijakan mengulang training"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "contoh_praktek",
+      "label": "Contoh praktek",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Contoh praktek"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "support_pasca_training",
+      "label": "Support pasca-training",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Support pasca-training"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "poin_jualan_utama",
+      "label": "Poin jualan utama",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Poin jualan utama"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "klaim_yang_dihindari",
+      "label": "Klaim yang dihindari",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Klaim yang dihindari"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "catatan_tambahan",
+      "label": "Catatan tambahan",
+      "control_type": "textarea",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Catatan tambahan"
+      },
+      "fallbacks": []
+    },
+    {
+      "field_key": "aktif_tampil_di_daftar_dan_dipakai_ai_untuk_menjawab",
+      "label": "Aktif — tampil di daftar dan dipakai AI untuk menjawab",
+      "control_type": "checkbox",
+      "required": false,
+      "multiple": false,
+      "dynamic": false,
+      "placeholder": null,
+      "help_text": null,
+      "options": [],
+      "preferred_locator": {
+        "strategy": "label",
+        "value": "Aktif — tampil di daftar dan dipakai AI untuk menjawab"
+      },
+      "fallbacks": []
+    }
+  ],
+  "dynamic_sections": [
+    {
+      "section_anchor": "Link landing page iklan",
+      "add_button": "Tambah",
+      "dynamic": true,
+      "row_fields": [
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "https://…",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. Meta Ads Q3",
+          "aria_label": null
+        }
+      ]
+    },
+    {
+      "section_anchor": "Format training, durasi & harga referensi",
+      "add_button": "Tambah",
+      "dynamic": true,
+      "row_fields": [
+        {
+          "tag": "select",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. 5 hari",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. 09.00–16.00",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "placeholder": "0",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "placeholder": "0",
+          "aria_label": null
+        }
+      ]
+    },
+    {
+      "section_anchor": "Target peserta",
+      "add_button": "Tambah",
+      "dynamic": true,
+      "row_fields": [
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. Network engineer pemula",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        }
+      ]
+    },
+    {
+      "section_anchor": "Sertifikasi yang relate",
+      "add_button": "Tambah",
+      "dynamic": true,
+      "row_fields": [
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. Associate",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "placeholder": "0",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. 60 menit",
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": "mis. 60%",
+          "aria_label": null
+        },
+        {
+          "tag": "select",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        }
+      ]
+    },
+    {
+      "section_anchor": "Tools / perangkat",
+      "add_button": "Tambah",
+      "dynamic": true,
+      "row_fields": [
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        },
+        {
+          "tag": "select",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        }
+      ]
+    },
+    {
+      "section_anchor": "Kelas lanjutan",
+      "add_button": "Tambah",
+      "dynamic": true,
+      "row_fields": [
+        {
+          "tag": "select",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "placeholder": null,
+          "aria_label": null
+        }
+      ]
+    }
+  ],
+  "trainer_options": [
+    {
+      "display_name": "ADITYA FIRMAN NUGROHO",
+      "value": "e7108827694444ce80c0b050e02847e4"
+    },
+    {
+      "display_name": "Agung Prasetio",
+      "value": "08f4bd53b26d43aeaf46762f562b4f5f"
+    },
+    {
+      "display_name": "Asadullah Al Hamasy",
+      "value": "16ffe3e2f0dc4592b191ece0cfdc2799"
+    },
+    {
+      "display_name": "At-Thoriq Firdaus Ramadhan",
+      "value": "f383c4e05b14446782b391bf51c6604a"
+    },
+    {
+      "display_name": "Bazigan Tsamara Sukamto",
+      "value": "32cc6640c15e4f8e91ac68940bbea293"
+    },
+    {
+      "display_name": "Deni Rismanto",
+      "value": "7aaeee1149d7403295c47a12f6c03cb2"
+    },
+    {
+      "display_name": "Fahmi Nuradi",
+      "value": "6d40f9afa9904425b27c23c14227ad1c"
+    },
+    {
+      "display_name": "Ferry Fajar Pratama",
+      "value": "b214d87fd66d4c32ac0f6354e356c959"
+    },
+    {
+      "display_name": "Ikhwanul Kurnia Rahman",
+      "value": "1ade341e21934189949bb0b73d91dbb5"
+    },
+    {
+      "display_name": "Mahesa Yudha Pratama",
+      "value": "c4d94806c2dd47a0a25228855c7fddee"
+    },
+    {
+      "display_name": "Miftahul Huda",
+      "value": "52bb1796d7a64132902b018abb11bee4"
+    },
+    {
+      "display_name": "Muhammad Dimas Sabaruddin",
+      "value": "3a60f4c6d416479182a7024084e42c82"
+    },
+    {
+      "display_name": "Muhammad Ghaniyu Dzaky Ali",
+      "value": "a5de4760666a4a5ca99deb55ee2d7e91"
+    },
+    {
+      "display_name": "NURCHOLIS MAJID",
+      "value": "c4defc97fa174eb895b19996bd831cea"
+    },
+    {
+      "display_name": "Oky Tria Saputra",
+      "value": "43736ab38224456fbdeedd8b0f0c016a"
+    },
+    {
+      "display_name": "Zakaria Ramadan",
+      "value": "eb685ab833fe4dd79bbc6880b3ab0943"
+    },
+    {
+      "display_name": "Ahmad Zainuri",
+      "value": "a506d66cfa41453980b9c458c0ef854c"
+    },
+    {
+      "display_name": "Akhmad Fadhlan Abdullah",
+      "value": "e8af47cfba5e43059a39fae0fbe5313b"
+    },
+    {
+      "display_name": "Arif Widodo",
+      "value": "1db24625d7914a9ca98193e115b6ed83"
+    },
+    {
+      "display_name": "Arsyadi Ahmad",
+      "value": "77dd87d3f0b2467d8ef00a221f617c37"
+    },
+    {
+      "display_name": "Ary Akbar Ramadhan",
+      "value": "5da7afb5516a415c869c26e5a3effd3b"
+    },
+    {
+      "display_name": "Budiman Hendry Rudolep",
+      "value": "3ea4671bbdcc4220b9edb4b4aed0a271"
+    },
+    {
+      "display_name": "Erfak Glen Ridho Kaligis",
+      "value": "060cfb8d5a2b4bd3b217c64dcb7e1d7c"
+    },
+    {
+      "display_name": "Fathur Rizky Arrosid",
+      "value": "d45c1adb10644788b168bb776d4e8da7"
+    },
+    {
+      "display_name": "Fauzi Abdul Rohim",
+      "value": "55d902510e7d4c77bd19da7e981b19e2"
+    },
+    {
+      "display_name": "Moch Rafi Riadi",
+      "value": "4c9867d1a0c44a2da8b4e1e1b5a36291"
+    },
+    {
+      "display_name": "Nova Novriansyah",
+      "value": "c0135e16f1d540e387ba23b3f6d4cea6"
+    },
+    {
+      "display_name": "Riki Kurniawan",
+      "value": "7d55d63be0b84c9daf2a468ef58a6265"
+    },
+    {
+      "display_name": "Rizqi Aldi Prayugo",
+      "value": "8055444447cc4d9590f587cf6a2596f4"
+    },
+    {
+      "display_name": "Romulus Riky Mukin",
+      "value": "22fe1ca2ef5a4b9386d350b752d05023"
+    },
+    {
+      "display_name": "Sebri Yanto Muhammad Azis",
+      "value": "3cd869cc4baf4245a5e511f952b7dd0c"
+    },
+    {
+      "display_name": "Tubagus Adhitya Permana",
+      "value": "106d2ed0414b4fb19e626dbf6d4eb7f4"
+    }
+  ],
+  "trainer_registry_mismatch": {
+    "dropdown_only": [],
+    "registry_only": []
+  }
+}
