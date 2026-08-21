@@ -1,0 +1,25 @@
+{
+  "products_available": 96,
+  "products_resolved": 1,
+  "review_required": 4,
+  "failed": 0,
+  "average_completion": 96.19,
+  "methods": {
+    "DIRECT_FACT": 35,
+    "INTERNAL_KB": 11,
+    "SAFE_DEFAULT": 17,
+    "LOCAL_INFERENCE": 16,
+    "DERIVED": 26
+  },
+  "source_conflicts": 2,
+  "research": {
+    "fetches": 0,
+    "cache_hits": 4
+  },
+  "inference": {
+    "ollama": 5,
+    "rule_based": 0,
+    "cache_hits": 5
+  },
+  "no_kb_writes": true
+}

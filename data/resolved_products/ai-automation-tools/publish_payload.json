@@ -1,0 +1,94 @@
+{
+  "full_name": "AI & Automation Tools",
+  "short_name": "AI & Automation Tools (n8n)",
+  "category": "AI",
+  "seo_url": "https://www.idn.id/training/ai-automation-tools/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "Hybrid",
+      "duration": null,
+      "schedule": null,
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 2500000, 1700000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data",
+      "problem_solved": null
+    }
+  ],
+  "certifications": [],
+  "tools": [
+    {
+      "name": "n8n",
+      "provided_by": "UNKNOWN"
+    },
+    {
+      "name": "Google Sheets",
+      "provided_by": "UNKNOWN"
+    },
+    {
+      "name": "Telegram",
+      "provided_by": "UNKNOWN"
+    }
+  ],
+  "next_classes": [
+    {
+      "training_name": "Practical AI Agent with OpenClaw",
+      "canonical_source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    },
+    {
+      "training_name": "Training AI – Cara Membuat Web Aplikasi Tanpa Coding",
+      "canonical_source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [],
+  "short_description": "Pelatihan AI dan Workflow Automation dengan n8n",
+  "learning_outcomes": [
+    "Kenapa Workflow Automation n8n Istimewa?",
+    "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+    "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+    "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+    "Apa itu n8n : Perbedaan antara n8n dengan Zapier/Make.",
+    "Opsi Instalasi: Menggunakan n8n Cloud vs. Self-hosted (Desktop App/ Docker).",
+    "Antarmuka n8n: Mengenal Canvas, Node, Workflow, dan Execution Data.",
+    "Input & Output: Cara membaca JSON di dalam node.",
+    "Core Nodes: * Edit Fields (Set): Mengatur variabel atau data statis.",
+    "Filter: Menyaring data agar workflow hanya lanjut jika syarat terpenuhi.",
+    "Webhook Trigger: Menerima data dari aplikasi luar (seperti Form atau sistem eksternal).",
+    "HTTP Request Node: Cara menembak API yang belum ada di daftar node bawaan."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis mengikuti ulang training yang sama hingga dua kali, bukan mengulang exam sertifikasi.",
+  "practice_examples": [
+    "Tidak hanya materi tapi praktik langsung pada saat pelaksanaan training"
+  ],
+  "post_training_support": "Support pasca-training sesuai program.",
+  "selling_points": [
+    "Kenapa Workflow Automation n8n Istimewa?",
+    "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+    "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+    "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+    "Sertifikat",
+    "Modul",
+    "T-shirt",
+    "Makan siang",
+    "Coffee Break",
+    "Goodie Bag"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

@@ -90,6 +90,18 @@ class Database:
                     detail_url TEXT NOT NULL UNIQUE, seo_url TEXT, content_hash TEXT NOT NULL, snapshot_path TEXT,
                     last_seen_at TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
                 );
+                CREATE TABLE IF NOT EXISTS resolved_products (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT, training_source_id INTEGER, slug TEXT NOT NULL UNIQUE,
+                    source_url TEXT NOT NULL, status TEXT NOT NULL, resolution_hash TEXT NOT NULL,
+                    resolved_path TEXT NOT NULL, publish_payload_path TEXT NOT NULL, completion REAL NOT NULL,
+                    needs_review INTEGER NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+                );
+                CREATE TABLE IF NOT EXISTS research_tasks (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT, training_source_id INTEGER, product_slug TEXT NOT NULL,
+                    field_name TEXT NOT NULL, status TEXT NOT NULL, query TEXT NOT NULL, cache_key TEXT NOT NULL UNIQUE,
+                    result_path TEXT, retry_count INTEGER NOT NULL DEFAULT 0, last_error TEXT,
+                    created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+                );
             """)
 
     def create_job(self, job_type: str, product_name: str | None = None,
@@ -245,3 +257,29 @@ class Database:
                 snapshot_path=excluded.snapshot_path,last_seen_at=excluded.last_seen_at,updated_at=excluded.updated_at""",
                 (name, short_name, category, detail_url, seo_url, content_hash, snapshot_path, now, now, now))
             return change
+
+    def upsert_resolved_product(self, *, slug: str, status: str, resolution_hash: str, resolved_path: str,
+                                publish_payload_path: str, completion: float, needs_review: bool, source_url: str) -> str:
+        now=_now()
+        with self._connect() as connection:
+            row=connection.execute("SELECT resolution_hash FROM resolved_products WHERE slug=?",(slug,)).fetchone()
+            change="new" if not row else "unchanged" if row["resolution_hash"]==resolution_hash else "updated"
+            connection.execute("""INSERT INTO resolved_products(slug,source_url,status,resolution_hash,resolved_path,publish_payload_path,completion,needs_review,created_at,updated_at)
+                VALUES(?,?,?,?,?,?,?,?,?,?) ON CONFLICT(slug) DO UPDATE SET source_url=excluded.source_url,status=excluded.status,
+                resolution_hash=excluded.resolution_hash,resolved_path=excluded.resolved_path,publish_payload_path=excluded.publish_payload_path,
+                completion=excluded.completion,needs_review=excluded.needs_review,updated_at=excluded.updated_at""",
+                (slug,source_url,status,resolution_hash,resolved_path,publish_payload_path,completion,int(needs_review),now,now));return change
+
+    def list_resolved_products(self)->list[dict[str,Any]]:
+        with self._connect() as connection:return [dict(x) for x in connection.execute("SELECT * FROM resolved_products ORDER BY slug")]
+
+    def upsert_research_task(self, *, product_slug:str, field_name:str, status:str, query:str, cache_key:str,
+                             result_path:str|None=None,retry_count:int=0,last_error:str|None=None)->None:
+        now=_now()
+        with self._connect() as connection:connection.execute("""INSERT INTO research_tasks(product_slug,field_name,status,query,cache_key,result_path,retry_count,last_error,created_at,updated_at)
+          VALUES(?,?,?,?,?,?,?,?,?,?) ON CONFLICT(cache_key) DO UPDATE SET status=excluded.status,result_path=excluded.result_path,
+          retry_count=excluded.retry_count,last_error=excluded.last_error,updated_at=excluded.updated_at""",(product_slug,field_name,status,query,cache_key,result_path,retry_count,last_error,now,now))
+
+    def research_metrics(self)->dict[str,int]:
+        with self._connect() as c:
+            rows=c.execute("SELECT status,COUNT(*) n FROM research_tasks GROUP BY status").fetchall();return {x["status"]:x["n"] for x in rows}

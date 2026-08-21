@@ -1,0 +1,577 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "rcna-wlan-exam",
+  "source_url": "https://www.idn.id/training/rcna-wlan-exam/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "RCNA WLAN + Exam",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "RCNA WLAN + Exam",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Networking",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/rcna-wlan-exam/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 3000000, 2000000; labels must be reviewed."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Network Engineer",
+          "problem_solved": null
+        },
+        {
+          "audience": "IT Support",
+          "problem_solved": null
+        },
+        {
+          "audience": "System Administrator",
+          "problem_solved": null
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "name": "RCNA WLAN",
+          "level": null,
+          "exam_fee_reference": null,
+          "exam_duration": null,
+          "exam_code": null,
+          "passing_score": null,
+          "relationship": "EXAM_INCLUDED",
+          "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+        }
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "name": "Wireless access point",
+          "provided_by": "UNKNOWN"
+        },
+        {
+          "name": "WLAN controller",
+          "provided_by": "UNKNOWN"
+        }
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "RCNA Routing Switching + Exam",
+          "canonical_source_url": "https://www.idn.id/training/rcna-routing-switching/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "At-Thoriq Firdaus Ramadhan",
+          "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Miftahul Huda",
+          "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee.",
+      "confidence": 0.95,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "Basic Access, PSK Authentication Configuration for Fat APs",
+        "WLAN Introduction",
+        "Advantages and Disadvantages of WLAN",
+        "RF Basics",
+        "WLAN Transmission Channels",
+        "802.11 Protocol",
+        "WLAN System Composition",
+        "Wireless Devices",
+        "Wireless AES",
+        "WLAN Networking",
+        "Bridging and Roaming",
+        "Data Forwarding Modes"
+      ],
+      "confidence": 0.82,
+      "source_type": "RULE_BASED",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "RULE_BASED",
+      "sources": [],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "Basic Access, PSK Authentication Configuration for Fat APs",
+        "WLAN Introduction",
+        "Advantages and Disadvantages of WLAN",
+        "RF Basics"
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "RESOLVED",
+      "value": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat"
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/rcna-wlan-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "RCNA WLAN + Exam",
+    "short_name": "RCNA WLAN + Exam",
+    "category": "Networking",
+    "seo_url": "https://www.idn.id/training/rcna-wlan-exam/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "4 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": null,
+        "private_price_reference": null,
+        "price_note": "Observed price candidates: 3000000, 2000000; labels must be reviewed."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Network Engineer",
+        "problem_solved": null
+      },
+      {
+        "audience": "IT Support",
+        "problem_solved": null
+      },
+      {
+        "audience": "System Administrator",
+        "problem_solved": null
+      }
+    ],
+    "certifications": [
+      {
+        "name": "RCNA WLAN",
+        "level": null,
+        "exam_fee_reference": null,
+        "exam_duration": null,
+        "exam_code": null,
+        "passing_score": null,
+        "relationship": "EXAM_INCLUDED",
+        "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+      }
+    ],
+    "tools": [
+      {
+        "name": "Wireless access point",
+        "provided_by": "UNKNOWN"
+      },
+      {
+        "name": "WLAN controller",
+        "provided_by": "UNKNOWN"
+      }
+    ],
+    "next_classes": [
+      {
+        "training_name": "RCNA Routing Switching + Exam",
+        "canonical_source_url": "https://www.idn.id/training/rcna-routing-switching/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.8
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "At-Thoriq Firdaus Ramadhan",
+        "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Miftahul Huda",
+        "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee.",
+    "learning_outcomes": [
+      "Basic Access, PSK Authentication Configuration for Fat APs",
+      "WLAN Introduction",
+      "Advantages and Disadvantages of WLAN",
+      "RF Basics",
+      "WLAN Transmission Channels",
+      "802.11 Protocol",
+      "WLAN System Composition",
+      "Wireless Devices",
+      "Wireless AES",
+      "WLAN Networking",
+      "Bridging and Roaming",
+      "Data Forwarding Modes"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+    "practice_examples": [
+      "Basic Access, PSK Authentication Configuration for Fat APs",
+      "WLAN Introduction",
+      "Advantages and Disadvantages of WLAN",
+      "RF Basics"
+    ],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

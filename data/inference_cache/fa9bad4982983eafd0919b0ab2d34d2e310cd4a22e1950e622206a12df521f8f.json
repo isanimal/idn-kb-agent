@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "ollama-enrichment-v2",
+    "created_at": "2026-08-21T06:42:10.545287+00:00",
+    "input_hash": "37264552df21bf33eeba403c2ed1309776c3c89a309d669881633f5efba78020",
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "output": {
+    "short_description": "Ethical hacker atau juga dikenal dengan istilah white hat hacker adalah pakar IT security yang secara sistematis berusaha menembus sistem website, aplikasi, atau jaringan untuk menemukan kerentanan keamanan yang berpotensi dieksploitasi oleh peretas jahat.",
+    "learning_outcomes": [
+      "Paham pola pikir penyerang : Kamu belajar bagaimana penyerang mencari celah (mindset attacker), sehingga bisa mendeteksi dan menutup lubang sebelum dieksploitasi.",
+      "Tingkatkan keamanan sistem : Kemampuan untuk melakukan pengujian membuat kamu bisa memberi rekomendasi perbaikan nyata pada aplikasi, jaringan, dan server.",
+      "Nilai karier dan peluang kerja lebih baik : Keahlian pentest sangat dicari (security analyst, junior pentester, bug bounty hunter, SOC), meningkatkan marketability.",
+      "Praktik hands-on yang langsung berguna : Kamu akan belajar tools dan teknik nyata (nmap, nikto, Burp Suite, Metasploit, dasar-dasar exploit dan enumeration).",
+      "Kemampuan troubleshooting & debugging : Melatih analisis, riset, dan pemecahan masalah — skill yang berlaku luas di IT."
+    ],
+    "target_audiences": [],
+    "prerequisites": [],
+    "practice_examples": [],
+    "selling_points": [],
+    "claims_to_avoid": []
+  }
+}

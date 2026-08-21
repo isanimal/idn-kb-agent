@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "qwen3:4b",
+    "prompt_version": "ollama-enrichment-v1",
+    "created_at": "2026-08-21T06:23:05.731412+00:00",
+    "input_hash": "bdc2420f798fb5902f6adb72e38fe673a1ada4a46c75014358849186dd099fea",
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "output": {
+    "short_description": "Robotik + Internet of Things (IoT) merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan dengan perintah suara. Training ini dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam membangun serta mengembangkan sistem robot",
+    "learning_outcomes": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino",
+      "Memahami apa itu IoT",
+      "Memahami apa itu Arduino",
+      "Memahami instalasi rangkaian pada project board",
+      "Menghidupkan dan mematikan LED",
+      "Menghubungkan LED dan push button dengan arduino"
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari Robotik + IoT",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino",
+      "Memahami apa itu IoT"
+    ],
+    "selling_points": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino",
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

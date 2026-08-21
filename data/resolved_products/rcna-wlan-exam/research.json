@@ -1,0 +1,17 @@
+{
+  "mode": "browser",
+  "used": true,
+  "fetches": 0,
+  "cache_hits": 1,
+  "evidence": [
+    {
+      "field": "training_formats",
+      "url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "title": "Training RCNA WLAN + Exam Terbaik | ID-Networkers (IDN.ID)",
+      "domain": "www.idn.id",
+      "authority": "IDN_PRIMARY",
+      "retrieved_at": "2026-08-21T06:48:10.690089+00:00",
+      "evidence": "MTCSE, MTCINE, JNCIA-Junos, JNCIA-Sec, JNCDA, JNCIS SP, JNCIP SP, UBRSS, UBWA, UBWS, UEWA, IPv6 Sage, MTA, NSE1, NSE2, NSE4, NSE5, NSE7 Firewall Enterprise, NSE7 SDWAN, FCP, FCSS) Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya) Biaya Investasi : Rp 3.000.000 Rp 2.000.000 Note: Jika membutuhkan surat penawaran dan faktur pajak, silahkan hubungi kami . daftar training cek jadwal terdekat"
+    }
+  ]
+}

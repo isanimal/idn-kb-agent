@@ -1,0 +1,5 @@
+Perkaya field semantik produk berikut berdasarkan evidence. Pertahankan technical terminology. Gunakan maksimal 5 poin per daftar dan kalimat singkat. Jangan menambah fakta komersial.
+
+{{INPUT_JSON}}
+
+Return JSON ONLY sesuai schema yang diminta.

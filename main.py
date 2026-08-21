@@ -16,6 +16,7 @@ from app.site_model.reconnaissance import run_reconnaissance
 from app.extractor.pipeline import generate_summary, manual_validation_samples, run_extraction
 from app.extractor.audit import print_parser_audit, run_parser_audit
 from app.kb.reconnaissance import print_auth_test, run_kb_auth_test, run_kb_reconnaissance
+from app.resolver.service import build_report as build_resolver_report, preflight as resolver_preflight, run_batch as resolver_batch, run_one as resolve_one
 
 
 def command_health() -> int:
@@ -185,15 +186,45 @@ def command_kb_form_report() -> int:
     for d in schema["dynamic_sections"]:print(f"- {d['section_anchor']}: {len(d['row_fields'])} row control(s)")
     return 0
 
+def command_resolver_preflight()->int:
+    s=get_settings();db=Database(s.database_path);r=resolver_preflight(s,db)
+    o=r['ollama'];b=r['browser_research'];ready=r['pass'] and r['offline_available']
+    print("RESOLVER PREFLIGHT\n");print(f"IDN dataset............ {'OK' if r['idn_products'] else 'MISSING'} ({r['idn_products']} products)\nKB dataset............. {'OK' if r['kb_model'] else 'MISSING'}\nInternal knowledge..... {'OK' if r['index_chunks'] else 'MISSING'} ({r['index_chunks']} chunks)\nCategory map........... {'OK' if r['categories'] else 'MISSING'}\nBrowser research....... {'OK' if b.get('available') else 'OPTIONAL_UNAVAILABLE'}\nOllama................. {'OK' if o.get('runtime') else 'OPTIONAL_UNAVAILABLE'}\nConfigured model....... {o.get('configured_model') or '<not configured>'}\nModel available........ {'YES' if o.get('model_installed') else 'NO'}\nDatabase............... OK\nOffline mode........... {'READY' if r['offline_available'] else 'BLOCKED'}\n\nRESULT: {'READY' if ready else 'FAIL'}")
+    if r["missing"]:print("Missing: "+", ".join(r["missing"]));return 2
+    return 0
+def command_resolve_product(slug,research,local_ai)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    s=get_settings();db=Database(s.database_path);db.initialize_database();result,metrics=resolve_one(slug,s,db,research,local_ai=local_ai)
+    print(f"RESOLVED PRODUCT\n\nProduct................. {result.payload.full_name}\nCategory................ {result.payload.category}\nCompletion.............. {result.completion:.2f}%\nInference provider...... {metrics.get('provider')}\nInference calls......... {metrics['calls']}\nInference cache hits.... {metrics['cache_hits']}\nResearch fetches........ {metrics['research_fetches']}\nRule fallback........... {'YES' if metrics['fallback'] else 'NO'}\nConflicts............... {len(result.source_conflicts)}\nStatus.................. {result.product_status.value}\nKB writes............... 0")
+    return 0 if result.product_status.value=="RESOLVED" else 1
+def command_resolve_batch(limit,research,local_ai)->int:
+    s=get_settings();db=Database(s.database_path);db.initialize_database();results=resolver_batch(limit,s,db,research,local_ai)
+    for r in results:print(f"{r.slug:40} {r.completion:6.2f}% {r.product_status.value}")
+    print(f"\nResolved {len(results)} product(s); KB writes: 0");return 0
+def command_resolve_report()->int:
+    s=get_settings();db=Database(s.database_path);db.initialize_database();r=build_resolver_report(db);m=r["methods"]
+    print("RESOLVER REPORT\n");print(f"Products available......... {r['products_available']}\nProducts resolved.......... {r['products_resolved']}\nReview required............ {r['review_required']}\nFailed..................... {r['failed']}\n\nAverage completion.......... {r['average_completion']:.2f}%\n\nDirect IDN facts............ {m.get('DIRECT_FACT',0)}\nInternal KB resolutions..... {m.get('INTERNAL_KB',0)}\nBrowser research............ {m.get('OFFICIAL_RESEARCH',0)}\nOllama inference............ {m.get('LOCAL_INFERENCE',0)}\nRule/derived fields......... {m.get('DERIVED',0)}\nSafe defaults............... {m.get('SAFE_DEFAULT',0)}\nSource conflicts............ {r['source_conflicts']}\n\nOllama products............. {r['inference']['ollama']}\nInference cache hits........ {r['inference']['cache_hits']}\nResearch fetches............ {r['research']['fetches']}\nResearch cache hits......... {r['research']['cache_hits']}\n\nNo KB writes................ YES");return 0
+def command_ollama_check()->int:
+    from app.resolver.inference import ollama_status
+    s=get_settings();r=ollama_status(s);status="PASS" if r['runtime'] and r['model_installed'] else "CONFIG_REQUIRED" if r['runtime'] else "OPTIONAL_UNAVAILABLE"
+    print("OLLAMA CHECK\n");print(f"Runtime................. {'AVAILABLE' if r['runtime'] else 'UNAVAILABLE'}\nEndpoint................ {r['endpoint']}\nConfigured model........ {r['configured_model'] or '<not configured>'}\nInstalled models........ {', '.join(r['installed_models']) or '-'}\nModel installed......... {'YES' if r['model_installed'] else 'NO'}\nContext.................. {r['context']}\nTemperature.............. {r['temperature']}\n\nRESULT: {status}");return 0 if status=="PASS" else 1
+def command_research_check()->int:
+    from app.research.browser import BrowserResearchProvider
+    s=get_settings();r=BrowserResearchProvider(s).check();print("BROWSER RESEARCH CHECK\n");print(f"Provider................ {r['provider']}\nIDN official source..... {'AVAILABLE' if r['available'] else 'UNAVAILABLE'}\nHTTP status.............. {r.get('status_code','-')}\nPaid search API.......... NO\n\nRESULT: {'PASS' if r['available'] else 'OPTIONAL_UNAVAILABLE'}");return 0 if r['available'] else 1
+def command_research_report()->int:
+    s=get_settings();db=Database(s.database_path);db.initialize_database();m=db.research_metrics();print("RESEARCH REPORT\n");print(f"Completed................ {m.get('COMPLETED',0)}\nFailed................... {m.get('FAILED',0)}\nCached................... {m.get('CACHED',0)}\nNo KB writes............. YES");return 0
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
+    parser.add_argument("--slug")
+    mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
     args = parser.parse_args()
     ensure_runtime_directories()
     configure_logging(get_settings().log_level)
@@ -202,7 +233,10 @@ def main() -> int:
                     "browser-test": command_browser_test, "run": command_run,
                     "idn-report": command_idn_report, "extraction-report": command_extraction_report,
                     "parser-audit": command_parser_audit, "kb-auth-test": command_kb_auth_test,
-                    "kb-report": command_kb_report, "kb-form-report": command_kb_form_report}
+                    "kb-report": command_kb_report, "kb-form-report": command_kb_form_report,
+                    "resolver-preflight":command_resolver_preflight,"resolve-report":command_resolve_report,"research-report":command_research_report,"ollama-check":command_ollama_check,"research-check":command_research_check}
+        if args.command=="resolve-product":return command_resolve_product(args.slug,args.research,args.local_ai)
+        if args.command=="resolve-batch":return command_resolve_batch(args.limit,args.research,args.local_ai)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")

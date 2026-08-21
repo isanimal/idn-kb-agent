@@ -27,6 +27,24 @@ class Settings(BaseModel):
     crawl_max_retries: int = 3
     crawl_concurrency: int = 2
     crawler_user_agent: str = "IDN-KB-Agent/0.2 (+local reconnaissance; respectful crawler)"
+    openai_api_key: str | None = None
+    openai_model: str = "gpt-5.4"
+    openai_web_search_enabled: bool = True
+    research_max_searches_per_product: int = 3
+    research_max_retries: int = 3
+    research_concurrency: int = 2
+    research_cache_days: int = 30
+    ollama_enabled: bool = True
+    ollama_base_url: str = "http://127.0.0.1:11434"
+    ollama_model: str = ""
+    ollama_timeout_seconds: float = 180
+    ollama_max_retries: int = 3
+    ollama_concurrency: int = 1
+    ollama_context_size: int = Field(default=4096,ge=512,le=8192)
+    ollama_temperature: float = Field(default=.2,ge=0,le=1)
+    output_language: str = "id-ID"
+    browser_research_concurrency: int = 1
+    http_fetch_concurrency: int = 2
 
 
 @lru_cache(maxsize=1)

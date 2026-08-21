@@ -1,0 +1,12 @@
+{
+  "provider": "OLLAMA",
+  "model": "llama3.2:1b",
+  "prompt_version": "ollama-enrichment-v2",
+  "created_at": "2026-08-21T06:43:02.499526+00:00",
+  "input_hash": "27d84efd066eca0162793547b4bd519c1824e76caddde1191a9047244948da75",
+  "attempts": 1,
+  "cache_hit": true,
+  "used": true,
+  "field_fallbacks": [],
+  "fallback": false
+}

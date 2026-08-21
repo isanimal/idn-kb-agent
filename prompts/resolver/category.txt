@@ -1,0 +1,1 @@
+Klasifikasikan hanya ke salah satu kategori KB yang diberikan. Jangan menciptakan kategori baru. Return JSON only.

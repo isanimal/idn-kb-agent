@@ -1,0 +1,491 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "robotik-iot",
+  "source_url": "https://www.idn.id/training/robotik-iot/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "Robotik + IoT",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "Robotik + IoT",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "IoT & Robotik",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/robotik-iot/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "2 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari Robotik + IoT",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "name": "Arduino",
+          "provided_by": "UNKNOWN"
+        },
+        {
+          "name": "ESP8266",
+          "provided_by": "UNKNOWN"
+        }
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "INDUSTRIAL IoT & AUTOMATION",
+          "canonical_source_url": "https://www.idn.id/training/industrial-iot-automation/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Robotik + IoT merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan deng",
+      "confidence": 0.95,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+        "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+        "Memahami apa itu IoT",
+        "Memahami apa itu Arduino"
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "RULE_BASED",
+      "sources": [],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+        "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+        "Memahami apa itu IoT"
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "RESOLVED",
+      "value": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+        "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali"
+      ],
+      "confidence": 0.82,
+      "source_type": "OLLAMA",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "LOCAL_INFERENCE",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/robotik-iot/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "Robotik + IoT",
+    "short_name": "Robotik + IoT",
+    "category": "IoT & Robotik",
+    "seo_url": "https://www.idn.id/training/robotik-iot/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "2 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": 2000000,
+        "private_price_reference": null,
+        "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari Robotik + IoT",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [],
+    "tools": [
+      {
+        "name": "Arduino",
+        "provided_by": "UNKNOWN"
+      },
+      {
+        "name": "ESP8266",
+        "provided_by": "UNKNOWN"
+      }
+    ],
+    "next_classes": [
+      {
+        "training_name": "INDUSTRIAL IoT & AUTOMATION",
+        "canonical_source_url": "https://www.idn.id/training/industrial-iot-automation/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.7
+      }
+    ],
+    "trainer_references": [],
+    "short_description": "Robotik + IoT merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan deng",
+    "learning_outcomes": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "Memahami apa itu IoT",
+      "Memahami apa itu Arduino"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+    "practice_examples": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "Memahami apa itu IoT"
+    ],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

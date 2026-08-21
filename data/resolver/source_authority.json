@@ -1,0 +1,15 @@
+{
+  "idn.id": "IDN_PRIMARY",
+  "www.idn.id": "IDN_PRIMARY",
+  "jadwal.idn.id": "IDN_PRIMARY",
+  "kb.idn.id": "KB_INTERNAL",
+  "cisco.com": "OFFICIAL_VENDOR",
+  "mikrotik.com": "OFFICIAL_VENDOR",
+  "fortinet.com": "OFFICIAL_VENDOR",
+  "comptia.org": "OFFICIAL_VENDOR",
+  "huawei.com": "OFFICIAL_VENDOR",
+  "juniper.net": "OFFICIAL_VENDOR",
+  "aws.amazon.com": "OFFICIAL_VENDOR",
+  "cloud.google.com": "OFFICIAL_VENDOR",
+  "redhat.com": "OFFICIAL_VENDOR"
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "ollama-enrichment-v2",
+    "created_at": "2026-08-21T06:43:02.499526+00:00",
+    "input_hash": "27d84efd066eca0162793547b4bd519c1824e76caddde1191a9047244948da75",
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "output": {
+    "short_description": "Robotik + IoT merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology). IoT memungkinkan setiap barang (things) yang dimiliki dapat terhubung ke internet sehingga dapat dikendalikan dari jarak jauh dengan smartphone atau bahkan deng",
+    "learning_outcomes": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "Memahami apa itu IoT",
+      "Memahami apa itu Arduino"
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari Robotik + IoT",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "Memahami apa itu IoT"
+    ],
+    "selling_points": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+      "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

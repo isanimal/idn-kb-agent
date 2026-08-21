@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "ollama-enrichment-v2",
+    "created_at": "2026-08-21T06:39:30.196364+00:00",
+    "input_hash": "cf9b528e2e251b611a779a026ba7eff0b06f8bc1a74d25b229cf79846dd9389c",
+    "attempts": 1,
+    "cache_hit": false
+  },
+  "output": {
+    "short_description": "Pelatihan AI dan Workflow Automation dengan n8n",
+    "learning_outcomes": [
+      "Kenapa Workflow Automation n8n Istimewa?",
+      "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+      "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+      "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda."
+    ],
+    "target_audiences": [
+      {
+        "audience": "Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data",
+        "problem_solved": null
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [],
+    "selling_points": [
+      "Kenapa Workflow Automation n8n Istimewa?",
+      "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+      "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+      "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda."
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi.",
+      "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Pilih kelas lanjutan hanya dari kandidat katalog IDN yang diberikan. Tulis alasan singkat dalam Bahasa Indonesia. Return JSON only.

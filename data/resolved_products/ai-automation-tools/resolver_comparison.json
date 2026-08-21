@@ -1,0 +1,19 @@
+{
+  "match_status": "MATCHED",
+  "existing_kb_product": {
+    "name": "AI & Automation Tools (n8n)",
+    "short_name": "AI & Automation Tools (n8n)",
+    "url": "https://kb.idn.id/kb/training/detail?id=ef172adb76904007861e1f503ab77ca3",
+    "preview": "AI & Automation Tools (n8n) AI & Automation Tools (n8n) Training AI & Automation Tools (n8n) adalah program pelatihan dari ID-Networkers yang mengajarkan cara membangun workflow otomatis menggunakan n8n, layanan AI atau Large Language Model, API, dan aplikasi bisnis modern. AI · Hybrid · mulai Rp 1.700.000 (referensi)",
+    "source": "KB_INTERNAL",
+    "category": "AI"
+  },
+  "conflicts": [
+    {
+      "field": "training_formats",
+      "status": "SOURCE_CONFLICT",
+      "selected": "IDN_PRIMARY",
+      "alternative": "KB_EXISTING_PRODUCT"
+    }
+  ]
+}

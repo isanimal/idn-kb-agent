@@ -1,0 +1,61 @@
+{
+  "allowed_categories": [
+    "AI",
+    "Cybersecurity",
+    "IoT & Robotik",
+    "Lainnya",
+    "Networking",
+    "Programming",
+    "Sysadmin"
+  ],
+  "mappings": [
+    {
+      "source_category": "AI & Automation",
+      "destination_category": "AI",
+      "method": "OBSERVED",
+      "evidence_count": 1
+    },
+    {
+      "source_category": "Cisco",
+      "destination_category": "Networking",
+      "method": "OBSERVED",
+      "evidence_count": 3
+    },
+    {
+      "source_category": "CompTIA Network+",
+      "destination_category": "Networking",
+      "method": "OBSERVED",
+      "evidence_count": 1
+    },
+    {
+      "source_category": "Cyber Security",
+      "destination_category": "Cybersecurity",
+      "method": "OBSERVED",
+      "evidence_count": 1
+    },
+    {
+      "source_category": "Fortinet",
+      "destination_category": "Networking",
+      "method": "OBSERVED",
+      "evidence_count": 2
+    },
+    {
+      "source_category": "Huawei",
+      "destination_category": "Networking",
+      "method": "OBSERVED",
+      "evidence_count": 1
+    },
+    {
+      "source_category": "Juniper",
+      "destination_category": "Networking",
+      "method": "OBSERVED",
+      "evidence_count": 1
+    },
+    {
+      "source_category": "Mikrotik",
+      "destination_category": "Networking",
+      "method": "OBSERVED",
+      "evidence_count": 7
+    }
+  ]
+}
