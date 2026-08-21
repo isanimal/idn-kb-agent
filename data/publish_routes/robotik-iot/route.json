@@ -1,0 +1,16 @@
+{
+  "schema_version": "publish-route-v1",
+  "slug": "robotik-iot",
+  "publish_readiness": "REVIEW_REQUIRED",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "match_method": "NO_CANDIDATE",
+  "confidence": 1.0,
+  "inventory_hash": "56efb75813dc33340200ddeba5c1922fa37bfa44c462a1d53c86e40c592d7104",
+  "checked_against_live_kb_at": "2026-08-21T16:57:49.038655+00:00",
+  "route_ttl_seconds": 3600,
+  "warnings": [],
+  "candidate_matches": [],
+  "publisher_allowed": false
+}

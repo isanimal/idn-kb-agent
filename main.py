@@ -18,6 +18,7 @@ from app.extractor.audit import print_parser_audit, run_parser_audit
 from app.kb.reconnaissance import print_auth_test, run_kb_auth_test, run_kb_reconnaissance
 from app.resolver.service import build_report as build_resolver_report, preflight as resolver_preflight, run_batch as resolver_batch, run_one as resolve_one
 from app.quality.service import build_report as build_quality_report, run_batch as quality_batch, run_one as quality_one
+from app.identity.service import LIVE as KB_LIVE_INDEX, audit_duplicates, load as identity_load, refresh_live_index, route_product
 
 
 def command_health() -> int:
@@ -236,17 +237,39 @@ def command_quality_report()->int:
     print("PUBLISH QUALITY REPORT\n");print(f"Products evaluated.......... {report['products_evaluated']}\n\nREADY....................... {report['READY']}\nREVIEW_REQUIRED............. {report['REVIEW_REQUIRED']}\nBLOCKED..................... {report['BLOCKED']}\n\nAverage quality............. {report['average_quality']:.2f}\n\nIssues:\nCross-field duplicates...... {issues.get('CROSS_FIELD_DUPLICATION',0)}\nGeneric content............. {issues.get('GENERIC_LOW_INFORMATION',0)}\nUnsupported claims.......... {issues.get('UNSUPPORTED_MARKETING_CLAIM',0)}\nField relevance errors...... {issues.get('FIELD_RELEVANCE',0)}\nCommercial safety........... {issues.get('COMMERCIAL_FIELD_CONTAMINATION',0)}\nLanguage mismatches......... {issues.get('OUTPUT_LANGUAGE_MISMATCH',0)}\n\nOllama repair calls......... {report['ollama']['repair_calls']}\nOllama cache hits........... {report['ollama']['cache_hits']}\nOllama failures............. {report['ollama']['failures']}\nKB writes................... 0")
     return 0
 
+def command_kb_product_index_refresh()->int:
+    data=refresh_live_index(get_settings());print(f"KB PRODUCT INDEX REFRESH\n\nProducts............... {data['count']}\nInventory hash......... {data['inventory_hash']}\nBlocked requests....... {len(data['read_only']['blocked_requests'])}\nKB writes.............. 0\n\nRESULT: PASS");return 0
+
+def command_duplicate_audit(refresh=False)->int:
+    inventory=refresh_live_index(get_settings()) if refresh else identity_load(KB_LIVE_INDEX);result=audit_duplicates(inventory)
+    print(f"KB DUPLICATE AUDIT\n\nLive KB products....... {inventory['count']}\nDuplicate groups....... {len(result['duplicate_groups'])}\nKB writes.............. 0")
+    for group in result["duplicate_groups"]:print(f"\n{group['reason']}: "+", ".join(x["name"] for x in group["products"]))
+    return 0
+
+def command_dedup_check(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    s=get_settings();db=Database(s.database_path);db.initialize_database();inventory=identity_load(KB_LIVE_INDEX);route,identity,diff=route_product(slug,s,db,inventory);existing=identity.existing_product or {}
+    print(f"DEDUP CHECK\n\nProduct................ {identity.source_name}\nLive KB products....... {inventory['count']}\nExact URL............... {'YES' if identity.match_method.value=='EXACT_CANONICAL_URL' else 'NO'}\nExact normalized name.. {'YES' if identity.match_method.value=='EXACT_NORMALIZED_NAME' else 'NO'}\nExisting product....... {existing.get('name','-')}\nKB product ID........... {existing.get('kb_product_id','-')}\nDecision................ {route['identity_decision']}\nMatch................... {route['match_method']}\nConfidence.............. {route['confidence']:.2f}\nPublish readiness....... {route['publish_readiness']}\nPublisher allowed....... {'YES' if route['publisher_allowed'] else 'NO'}\nKB writes............... 0")
+    return 0
+
+def command_dedup_batch(limit)->int:
+    s=get_settings();db=Database(s.database_path);db.initialize_database();inventory=identity_load(KB_LIVE_INDEX);paths=sorted(Path("data/publish_ready").glob("*/publish_payload.json"));rows=[]
+    for path in paths[:limit if limit is not None else len(paths)]:rows.append(route_product(path.parent.name,s,db,inventory)[0])
+    for r in rows:print(f"{r['slug']:40} {r['identity_decision']:16} {r['match_method']}")
+    print(f"\nRouted {len(rows)} product(s); KB writes: 0");return 0
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
     parser.add_argument("--slug")
     parser.add_argument("--repair",action="store_true",help="Allow at most one cached/local Ollama quality repair call per product")
+    parser.add_argument("--refresh",action="store_true",help="Refresh live read-only KB inventory before duplicate audit")
     mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
     args = parser.parse_args()
     ensure_runtime_directories()
@@ -263,6 +286,10 @@ def main() -> int:
         if args.command=="quality-check":return command_quality_check(args.slug,args.repair)
         if args.command=="quality-batch":return command_quality_batch(args.limit,args.repair)
         if args.command=="quality-report":return command_quality_report()
+        if args.command=="kb-product-index-refresh":return command_kb_product_index_refresh()
+        if args.command=="duplicate-audit":return command_duplicate_audit(args.refresh)
+        if args.command=="dedup-check":return command_dedup_check(args.slug)
+        if args.command=="dedup-batch":return command_dedup_batch(args.limit)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")

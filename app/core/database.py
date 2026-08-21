@@ -102,6 +102,11 @@ class Database:
                     result_path TEXT, retry_count INTEGER NOT NULL DEFAULT 0, last_error TEXT,
                     created_at TEXT NOT NULL, updated_at TEXT NOT NULL
                 );
+                CREATE TABLE IF NOT EXISTS publish_routes (
+                    slug TEXT PRIMARY KEY, decision TEXT NOT NULL, kb_product_id TEXT,
+                    match_method TEXT NOT NULL, confidence REAL NOT NULL, inventory_hash TEXT NOT NULL,
+                    checked_at TEXT NOT NULL, route_path TEXT NOT NULL, created_at TEXT NOT NULL, updated_at TEXT NOT NULL
+                );
             """)
 
     def create_job(self, job_type: str, product_name: str | None = None,
@@ -283,3 +288,12 @@ class Database:
     def research_metrics(self)->dict[str,int]:
         with self._connect() as c:
             rows=c.execute("SELECT status,COUNT(*) n FROM research_tasks GROUP BY status").fetchall();return {x["status"]:x["n"] for x in rows}
+
+    def upsert_publish_route(self, *, slug:str, decision:str, kb_product_id:str|None, match_method:str,
+                             confidence:float, inventory_hash:str, checked_at:str, route_path:str)->None:
+        now=_now()
+        with self._connect() as connection:
+            connection.execute("""INSERT INTO publish_routes(slug,decision,kb_product_id,match_method,confidence,inventory_hash,checked_at,route_path,created_at,updated_at)
+              VALUES(?,?,?,?,?,?,?,?,?,?) ON CONFLICT(slug) DO UPDATE SET decision=excluded.decision,kb_product_id=excluded.kb_product_id,
+              match_method=excluded.match_method,confidence=excluded.confidence,inventory_hash=excluded.inventory_hash,checked_at=excluded.checked_at,
+              route_path=excluded.route_path,updated_at=excluded.updated_at""",(slug,decision,kb_product_id,match_method,confidence,inventory_hash,checked_at,route_path,now,now))

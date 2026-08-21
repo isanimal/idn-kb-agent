@@ -1,0 +1,193 @@
+{
+  "policy": "PRESERVE_EXISTING_ON_EMPTY",
+  "fields": [
+    {
+      "field": "full_name",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "AI & Automation Tools"
+    },
+    {
+      "field": "short_name",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "AI & Automation Tools (n8n)"
+    },
+    {
+      "field": "category",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "AI"
+    },
+    {
+      "field": "seo_url",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "https://www.idn.id/training/ai-automation-tools/"
+    },
+    {
+      "field": "advertising_links",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "training_formats",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "format": "Hybrid",
+          "duration": null,
+          "schedule": null,
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 2500000, 1700000; labels must be reviewed."
+        }
+      ]
+    },
+    {
+      "field": "target_audiences",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "audience": "Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data",
+          "problem_solved": null
+        }
+      ]
+    },
+    {
+      "field": "certifications",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "tools",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "name": "n8n",
+          "provided_by": "UNKNOWN"
+        },
+        {
+          "name": "Google Sheets",
+          "provided_by": "UNKNOWN"
+        },
+        {
+          "name": "Telegram",
+          "provided_by": "UNKNOWN"
+        }
+      ]
+    },
+    {
+      "field": "next_classes",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "training_name": "Practical AI Agent with OpenClaw",
+          "canonical_source_url": "https://www.idn.id/training/practical-ai-agent-with-openclaw/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        },
+        {
+          "training_name": "Training AI – Cara Membuat Web Aplikasi Tanpa Coding",
+          "canonical_source_url": "https://www.idn.id/training/cara-membuat-web-aplikasi-tanpa-coding/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "field": "trainer_references",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "short_description",
+      "classification": "UPDATE_VALUE",
+      "existing": "Training AI & Automation Tools (n8n) adalah program pelatihan dari ID-Networkers yang mengajarkan cara membangun workflow otomatis menggunakan n8n, layanan AI atau Large Language Model, API, dan aplikasi bisnis modern.",
+      "proposed": "Selamat datang di pelatihan AI dan Workflow Automation dengan n8n ! Apakah Anda ingin mengotomatiskan proses bisnis Anda tanpa membebani anggaran? n8n adalah solusi untuk Anda! Bergabunglah bersama kami dan pelajari cara menggunakan n8n untuk menghubungkan berbagai aplikasi dan layanan dengan mudah!"
+    },
+    {
+      "field": "learning_outcomes",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Mampu mengintegrasikan aplikasi eksternal melalui webhook.",
+        "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+        "Mampu mengotomatisasi pembacaan dan pembaruan data Google Sheets.",
+        "Mampu membuat otomasi pesan melalui Telegram atau WhatsApp."
+      ]
+    },
+    {
+      "field": "prerequisites",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "repeat_policy",
+      "classification": "UNCHANGED",
+      "existing": "Gratis mengikuti ulang training yang sama hingga dua kali, bukan mengulang exam sertifikasi.",
+      "proposed": "Gratis mengikuti ulang training yang sama hingga dua kali, bukan mengulang exam sertifikasi."
+    },
+    {
+      "field": "practice_examples",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Membuat workflow yang menerima data melalui webhook.",
+        "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+        "Membuat workflow yang membaca atau memperbarui Google Sheets.",
+        "Membuat bot notifikasi pada Telegram atau WhatsApp."
+      ]
+    },
+    {
+      "field": "post_training_support",
+      "classification": "UNCHANGED",
+      "existing": "Support pasca-training sesuai program.",
+      "proposed": "Support pasca-training sesuai program."
+    },
+    {
+      "field": "selling_points",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Kenapa Workflow Automation n8n Istimewa?",
+        "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+        "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+        "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+        "Sertifikat"
+      ]
+    },
+    {
+      "field": "claims_to_avoid",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ]
+    },
+    {
+      "field": "additional_notes",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan."
+    },
+    {
+      "field": "active",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": true
+    }
+  ],
+  "high_risk_conflict": false
+}
