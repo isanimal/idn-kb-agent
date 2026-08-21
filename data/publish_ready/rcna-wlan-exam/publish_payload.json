@@ -1,0 +1,101 @@
+{
+  "full_name": "RCNA WLAN + Exam",
+  "short_name": "RCNA WLAN + Exam",
+  "category": "Networking",
+  "seo_url": "https://www.idn.id/training/rcna-wlan-exam/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 3000000, 2000000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Network Engineer",
+      "problem_solved": null
+    },
+    {
+      "audience": "IT Support",
+      "problem_solved": null
+    },
+    {
+      "audience": "System Administrator",
+      "problem_solved": null
+    }
+  ],
+  "certifications": [
+    {
+      "name": "RCNA WLAN",
+      "level": null,
+      "exam_fee_reference": null,
+      "exam_duration": null,
+      "exam_code": null,
+      "passing_score": null,
+      "relationship": "EXAM_INCLUDED",
+      "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+    }
+  ],
+  "tools": [
+    {
+      "name": "Wireless access point",
+      "provided_by": "UNKNOWN"
+    },
+    {
+      "name": "WLAN controller",
+      "provided_by": "UNKNOWN"
+    }
+  ],
+  "next_classes": [
+    {
+      "training_name": "RCNA Routing Switching + Exam",
+      "canonical_source_url": "https://www.idn.id/training/rcna-routing-switching/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "At-Thoriq Firdaus Ramadhan",
+      "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Miftahul Huda",
+      "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee.",
+  "learning_outcomes": [
+    "Mampu mengonfigurasi autentikasi PSK pada Fat AP.",
+    "Memahami konfigurasi bridging dan roaming pada WLAN.",
+    "Memahami konsep RF, protokol 802.11, dan komponen WLAN."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training sebanyak 2 kali.",
+  "practice_examples": [
+    "Mengonfigurasi basic access dan autentikasi PSK pada Fat AP.",
+    "Menguji bridging atau roaming pada skenario WLAN.",
+    "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Akses Internet",
+    "Gratis Mengulang training sebanyak 2 kali",
+    "Lunch & Coffebreak",
+    "Penginapan Gratis bagi yang dari luar kota",
+    "Sertifikat"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

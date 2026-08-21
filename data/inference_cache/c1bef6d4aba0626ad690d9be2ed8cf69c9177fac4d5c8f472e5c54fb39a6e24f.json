@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "quality-repair-v1",
+    "created_at": "2026-08-21T16:35:59.194519+00:00",
+    "cache_hit": false,
+    "calls": 1
+  },
+  "output": {
+    "short_description": "Pelatihan AI dan Workflow Automation dengan n8n\nMampu mengintegrasikan aplikasi eksternal melalui webhook,\nmenghubungkan workflow dengan layanan eksternal melalui API,\nmengotomatisasi pembacaan dan pembaruan data Google Sheets,\nmembuat otomasi pesan melalui Telegram atau WhatsApp.",
+    "learning_outcomes": [
+      "Mampu mengintegrasikan aplikasi eksternal melalui webhook,\nmenghubungkan workflow dengan layanan eksternal melalui API,\nmengotomatisasi pembacaan dan pembaruan data Google Sheets,\nmembuat otomasi pesan melalui Telegram atau WhatsApp.",
+      "Mampu membuat workflow yang menerima data melalui webhook.",
+      "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+      "Membuat workflow yang membaca atau memperbarui Google Sheets.",
+      "Membuat bot notifikasi pada Telegram atau WhatsApp."
+    ],
+    "target_audiences": [
+      {
+        "audience": "Pemilik Bisnis Manajer Proyek Mahasiswa Teknologi Informasi, dan analis Data",
+        "problem_solved": null
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "Membuat workflow yang menerima data melalui webhook.",
+      "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+      "Membuat workflow yang membaca atau memperbarui Google Sheets.",
+      "Membuat bot notifikasi pada Telegram atau WhatsApp."
+    ],
+    "selling_points": [
+      "Kenapa Workflow Automation n8n Istimewa?",
+      "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+      "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+      "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+      "Sertifikat"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi.",
+      "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+    ]
+  }
+}

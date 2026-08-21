@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "quality-repair-v1",
+    "created_at": "2026-08-21T16:43:22.176726+00:00",
+    "cache_hit": false,
+    "calls": 1
+  },
+  "output": {
+    "short_description": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital.",
+    "learning_outcomes": [
+      "1. Pengenalan Dunia Konten Digital",
+      "2. Planning Konten",
+      "3. Content Pillar sebagai Fondasi Strategi Konten",
+      "4. Pembuatan Script & Copywriting Konten",
+      "5. Persiapan Produksi Konten (Pra-Produksi)"
+    ],
+    "target_audiences": [
+      {
+        "audience": "Siapa yang ingin meningkatkan engagement, personal branding, dan potensi income dari social media?",
+        "problem_solved": "Meningkatkan engagement, personal branding, dan potensi income dari social media. Menggunakan strategi content yang efektif untuk meningkatkan visibilitas dan keberhasilan di dunia digital."
+      },
+      {
+        "audience": "Siapa yang ingin meningkatkan kemampuan content creator?",
+        "problem_solved": "Meningkatkan kemampuan content creator. Menggunakan strategi content yang efektif untuk meningkatkan visibilitas dan keberhasilan di dunia digital."
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "1. Pengenalan Dunia Konten Digital",
+      "2. Planning Konten",
+      "3. Content Pillar sebagai Fondasi Strategi Konten",
+      "4. Pembuatan Script & Copywriting Konten"
+    ],
+    "selling_points": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffe Break"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

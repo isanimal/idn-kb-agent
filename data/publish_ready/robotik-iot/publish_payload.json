@@ -1,0 +1,78 @@
+{
+  "full_name": "Robotik + IoT",
+  "short_name": "Robotik + IoT",
+  "category": "IoT & Robotik",
+  "seo_url": "https://www.idn.id/training/robotik-iot/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "2 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2000000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Pemula di bidang IoT",
+      "problem_solved": "Membantu peserta mempelajari dasar Robotik + IoT sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Mahasiswa teknologi informasi",
+      "problem_solved": "Membantu peserta mempelajari dasar Robotik + IoT sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Pengembang perangkat IoT pemula",
+      "problem_solved": "Membantu peserta mempelajari dasar Robotik + IoT sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [
+    {
+      "name": "Arduino",
+      "provided_by": "UNKNOWN"
+    },
+    {
+      "name": "ESP8266",
+      "provided_by": "UNKNOWN"
+    }
+  ],
+  "next_classes": [
+    {
+      "training_name": "INDUSTRIAL IoT & AUTOMATION",
+      "canonical_source_url": "https://www.idn.id/training/industrial-iot-automation/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [],
+  "short_description": "Robotik + Internet of Things (IoT) merupakan wujud perkembangan teknologi internet yang akhir-akhir ini menjadi topik perbincangan di kalangan penggiat industri IT (Information Technology).",
+  "learning_outcomes": [
+    "Memahami konsep dasar Arduino untuk implementasi perangkat IoT.",
+    "Mampu menggunakan ESP8266 untuk konektivitas perangkat IoT.",
+    "Mampu mengintegrasikan sensor dan aktuator dalam prototipe IoT."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training sebanyak 2 kali.",
+  "practice_examples": [
+    "Menghubungkan sensor atau aktuator ke Arduino sesuai materi praktik.",
+    "Menggunakan ESP8266 untuk menghubungkan perangkat ke jaringan.",
+    "Menguji pembacaan sensor dan kendali aktuator pada prototipe."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+    "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+    "Akses Internet",
+    "Gratis Mengulang training sebanyak 2 kali"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

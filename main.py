@@ -17,6 +17,7 @@ from app.extractor.pipeline import generate_summary, manual_validation_samples, 
 from app.extractor.audit import print_parser_audit, run_parser_audit
 from app.kb.reconnaissance import print_auth_test, run_kb_auth_test, run_kb_reconnaissance
 from app.resolver.service import build_report as build_resolver_report, preflight as resolver_preflight, run_batch as resolver_batch, run_one as resolve_one
+from app.quality.service import build_report as build_quality_report, run_batch as quality_batch, run_one as quality_one
 
 
 def command_health() -> int:
@@ -214,16 +215,38 @@ def command_research_check()->int:
 def command_research_report()->int:
     s=get_settings();db=Database(s.database_path);db.initialize_database();m=db.research_metrics();print("RESEARCH REPORT\n");print(f"Completed................ {m.get('COMPLETED',0)}\nFailed................... {m.get('FAILED',0)}\nCached................... {m.get('CACHED',0)}\nNo KB writes............. YES");return 0
 
+def _print_quality_result(report,trace)->None:
+    before=trace["before"]["payload"];after=trace["after"]["payload"]
+    print(f"{after['full_name'].upper()}\n\nBEFORE\nLearning Outcomes:\n- "+"\n- ".join(before["learning_outcomes"]) + "\nPractice:\n- "+"\n- ".join(before["practice_examples"])+f"\nRepeat:\n{before['repeat_policy']}\n\nAFTER\nLearning Outcomes:\n- "+"\n- ".join(after["learning_outcomes"])+"\nPractice:\n- "+"\n- ".join(after["practice_examples"])+f"\nRepeat:\n{after['repeat_policy']}\n\nQuality: {report.score} / {report.publish_readiness.value}\nIssues remaining: {len(report.errors)+len(report.warnings)}\nRepair calls: {trace['repair'].get('calls',0)}\nKB writes: 0")
+
+def command_quality_check(slug,repair)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    report,trace=quality_one(slug,get_settings(),repair);_print_quality_result(report,trace)
+    return 0 if report.publish_readiness.value!="BLOCKED" else 2
+
+def command_quality_batch(limit,repair)->int:
+    if limit is not None and limit<0:raise ValueError("--limit must be zero or greater")
+    rows=quality_batch(limit,get_settings(),repair)
+    for report,trace in rows:
+        print(f"{report.slug:40} {report.score:3} {report.publish_readiness.value:15} issues={len(report.errors)+len(report.warnings):2} repair_calls={trace['repair'].get('calls',0)}")
+    print(f"\nEvaluated {len(rows)} product(s); KB writes: 0");return 0
+
+def command_quality_report()->int:
+    report=build_quality_report();issues=report["issues"]
+    print("PUBLISH QUALITY REPORT\n");print(f"Products evaluated.......... {report['products_evaluated']}\n\nREADY....................... {report['READY']}\nREVIEW_REQUIRED............. {report['REVIEW_REQUIRED']}\nBLOCKED..................... {report['BLOCKED']}\n\nAverage quality............. {report['average_quality']:.2f}\n\nIssues:\nCross-field duplicates...... {issues.get('CROSS_FIELD_DUPLICATION',0)}\nGeneric content............. {issues.get('GENERIC_LOW_INFORMATION',0)}\nUnsupported claims.......... {issues.get('UNSUPPORTED_MARKETING_CLAIM',0)}\nField relevance errors...... {issues.get('FIELD_RELEVANCE',0)}\nCommercial safety........... {issues.get('COMMERCIAL_FIELD_CONTAMINATION',0)}\nLanguage mismatches......... {issues.get('OUTPUT_LANGUAGE_MISMATCH',0)}\n\nOllama repair calls......... {report['ollama']['repair_calls']}\nOllama cache hits........... {report['ollama']['cache_hits']}\nOllama failures............. {report['ollama']['failures']}\nKB writes................... 0")
+    return 0
+
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
     parser.add_argument("--slug")
+    parser.add_argument("--repair",action="store_true",help="Allow at most one cached/local Ollama quality repair call per product")
     mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
     args = parser.parse_args()
     ensure_runtime_directories()
@@ -237,6 +260,9 @@ def main() -> int:
                     "resolver-preflight":command_resolver_preflight,"resolve-report":command_resolve_report,"research-report":command_research_report,"ollama-check":command_ollama_check,"research-check":command_research_check}
         if args.command=="resolve-product":return command_resolve_product(args.slug,args.research,args.local_ai)
         if args.command=="resolve-batch":return command_resolve_batch(args.limit,args.research,args.local_ai)
+        if args.command=="quality-check":return command_quality_check(args.slug,args.repair)
+        if args.command=="quality-batch":return command_quality_batch(args.limit,args.repair)
+        if args.command=="quality-report":return command_quality_report()
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")

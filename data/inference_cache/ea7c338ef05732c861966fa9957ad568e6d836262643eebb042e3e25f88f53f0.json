@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "quality-repair-v1",
+    "created_at": "2026-08-21T16:39:52.219614+00:00",
+    "cache_hit": false,
+    "calls": 1
+  },
+  "output": {
+    "short_description": "Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee.",
+    "learning_outcomes": [
+      "Mampu mengonfigurasi autentikasi PSK pada Fat AP.",
+      "Memahami konfigurasi bridging dan roaming pada WLAN.",
+      "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+      "Mampu mengoptimalkan performa Wi-Fi.",
+      "Mampu mengelola jaringan wireless dengan efektif."
+    ],
+    "target_audiences": [
+      {
+        "audience": "Network Engineer",
+        "problem_solved": null
+      },
+      {
+        "audience": "IT Support",
+        "problem_solved": null
+      },
+      {
+        "audience": "System Administrator",
+        "problem_solved": null
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "Mengonfigurasi basic access dan autentikasi PSK pada Fat AP.",
+      "Menguji bridging atau roaming pada skenario WLAN.",
+      "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab."
+    ],
+    "selling_points": [
+      "Akses Internet",
+      "Gratis Mengulang training sebanyak 2 kali",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

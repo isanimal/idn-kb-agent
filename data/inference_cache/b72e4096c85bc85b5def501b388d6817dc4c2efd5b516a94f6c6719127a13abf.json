@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "quality-repair-v1",
+    "created_at": "2026-08-21T16:37:49.556900+00:00",
+    "cache_hit": false,
+    "calls": 1
+  },
+  "output": {
+    "short_description": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital.",
+    "learning_outcomes": [
+      "Mengapa konten menjadi aset penting di era digital?",
+      "Peran content creator dalam kebutuhan personal branding & bisnis",
+      "Sosial media sebagai media distribusi utama saat ini",
+      "Peran content creator dalam kebutuhan personal branding & bisnis?",
+      "Sosial media sebagai media distribusi utama saat ini?"
+    ],
+    "target_audiences": [
+      {
+        "audience": "Siapa yang cocok ikut training ini?",
+        "problem_solved": null
+      },
+      {
+        "audience": "Siapa yang ingin meningkatkan engagement, personal branding, dan potensi income dari social media?",
+        "problem_solved": null
+      },
+      {
+        "audience": "Siapa yang ingin meningkatkan kemampuan content creator?",
+        "problem_solved": null
+      }
+    ],
+    "prerequisites": [
+      "",
+      ""
+    ],
+    "practice_examples": [
+      "Mengapa konten menjadi aset penting di era digital?",
+      "Peran content creator dalam kebutuhan personal branding & bisnis?",
+      "Sosial media sebagai media distribusi utama saat ini?",
+      "Pengenalan aplikasi CapCut?"
+    ],
+    "selling_points": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffe Break"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "content-creator-social-media-mastery",
+  "generated_at": "2026-08-21T16:45:10.419487+00:00",
+  "source_resolved_sha256": "2cad4726d7dc7e82c6153a1fa60e383e74215d2be7a1420c0da6efccd6e2bb54",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Content Creator & Social Media Mastery",
+      "short_name": "Content Creator & Social Media Mastery",
+      "category": "Lainnya",
+      "seo_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "2 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 1500000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Siapa yang cocok ikut training ini?",
+          "problem_solved": null
+        },
+        {
+          "audience": "Siapa yang ingin meningkatkan engagement, personal branding, dan potensi income dari social media?",
+          "problem_solved": null
+        },
+        {
+          "audience": "Siapa yang ingin meningkatkan kemampuan content creator?",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [],
+      "trainer_references": [],
+      "short_description": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media.",
+      "learning_outcomes": [
+        "Mengapa konten menjadi aset penting di era digital?",
+        "Peran content creator dalam kebutuhan personal branding & bisnis",
+        "Sosial media sebagai media distribusi utama saat ini",
+        "Pengenalan aplikasi CapCut",
+        "Teknik cutting dan penyusunan alur video",
+        "Menambahkan elemen pendukung (teks, musik, transisi, efek)"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang Training 2 Kali tanpa syarat",
+      "practice_examples": [
+        "Mengapa konten menjadi aset penting di era digital?",
+        "Peran content creator dalam kebutuhan personal branding & bisnis?",
+        "Sosial media sebagai media distribusi utama saat ini?",
+        "Pengenalan aplikasi CapCut?"
+      ],
+      "post_training_support": "After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "selling_points": [
+        "Sertifikat",
+        "Modul",
+        "T-shirt",
+        "Makan siang",
+        "Coffe Break"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "content-creator-social-media-mastery",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 100,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menggunakan CapCut untuk menyunting konten video.",
+              "evidence_topics": [
+                "capcut",
+                "konten",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menyusun alur video melalui teknik cutting.",
+              "evidence_topics": [
+                "alur",
+                "cutting",
+                "menyusun",
+                "teknik",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "elemen",
+                "musik",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Membuat dan menyunting video menggunakan CapCut.",
+              "evidence_topics": [
+                "capcut",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan cutting dan menyusun alur video.",
+              "evidence_topics": [
+                "alur",
+                "cutting",
+                "menyusun",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "menambahkan",
+                "musik",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Modul",
+              "evidence_topics": [
+                "modul"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "T-shirt",
+              "evidence_topics": [
+                "shirt"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Makan siang",
+              "evidence_topics": [
+                "makan",
+                "siang"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Coffe Break",
+              "evidence_topics": [
+                "break",
+                "coffe"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Content Creator & Social Media Mastery",
+      "short_name": "Content Creator & Social Media Mastery",
+      "category": "Lainnya",
+      "seo_url": "https://www.idn.id/training/content-creator-social-media-mastery/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "2 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 1500000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Content creator pemula",
+          "problem_solved": "Membantu peserta mempelajari dasar Content Creator & Social Media Mastery sesuai cakupan kurikulum."
+        },
+        {
+          "audience": "Pemilik bisnis yang mengelola media sosial",
+          "problem_solved": "Membantu peserta mempelajari dasar Content Creator & Social Media Mastery sesuai cakupan kurikulum."
+        },
+        {
+          "audience": "Profesional yang membangun personal branding",
+          "problem_solved": "Membantu peserta mempelajari dasar Content Creator & Social Media Mastery sesuai cakupan kurikulum."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [],
+      "trainer_references": [],
+      "short_description": "Belajar strategi content yang terbukti meningkatkan engagement, personal branding, dan potensi income dari social media. Training intensif yang dirancang untuk pemula hingga level intermediate yang ingin serius berkembang di dunia digital.",
+      "learning_outcomes": [
+        "Mampu menggunakan CapCut untuk menyunting konten video.",
+        "Mampu menyusun alur video melalui teknik cutting.",
+        "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+      "practice_examples": [
+        "Membuat dan menyunting video menggunakan CapCut.",
+        "Melakukan cutting dan menyusun alur video.",
+        "Menambahkan teks, musik, transisi, atau efek pada video."
+      ],
+      "post_training_support": "After training peserta akan dimasukan ke group whatsapp dan mailist untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "selling_points": [
+        "Sertifikat",
+        "Modul",
+        "T-shirt",
+        "Makan siang",
+        "Coffe Break"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "content-creator-social-media-mastery",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 100,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menggunakan CapCut untuk menyunting konten video.",
+              "evidence_topics": [
+                "capcut",
+                "konten",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menyusun alur video melalui teknik cutting.",
+              "evidence_topics": [
+                "alur",
+                "cutting",
+                "menyusun",
+                "teknik",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "elemen",
+                "musik",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Membuat dan menyunting video menggunakan CapCut.",
+              "evidence_topics": [
+                "capcut",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan cutting dan menyusun alur video.",
+              "evidence_topics": [
+                "alur",
+                "cutting",
+                "menyusun",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "menambahkan",
+                "musik",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Modul",
+              "evidence_topics": [
+                "modul"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "T-shirt",
+              "evidence_topics": [
+                "shirt"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Makan siang",
+              "evidence_topics": [
+                "makan",
+                "siang"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Coffe Break",
+              "evidence_topics": [
+                "break",
+                "coffe"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "repair": {
+    "requested": true,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

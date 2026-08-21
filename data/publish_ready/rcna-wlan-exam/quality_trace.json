@@ -1,0 +1,542 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "rcna-wlan-exam",
+  "generated_at": "2026-08-21T16:45:10.446673+00:00",
+  "source_resolved_sha256": "21017c0fb52f170c988a2769ee3b382c57c553c46679a1cf22d86f855dae6738",
+  "deterministic_changes": [
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "RCNA WLAN + Exam",
+      "short_name": "RCNA WLAN + Exam",
+      "category": "Networking",
+      "seo_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 3000000, 2000000; labels must be reviewed."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Network Engineer",
+          "problem_solved": null
+        },
+        {
+          "audience": "IT Support",
+          "problem_solved": null
+        },
+        {
+          "audience": "System Administrator",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [
+        {
+          "name": "RCNA WLAN",
+          "level": null,
+          "exam_fee_reference": null,
+          "exam_duration": null,
+          "exam_code": null,
+          "passing_score": null,
+          "relationship": "EXAM_INCLUDED",
+          "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+        }
+      ],
+      "tools": [
+        {
+          "name": "Wireless access point",
+          "provided_by": "UNKNOWN"
+        },
+        {
+          "name": "WLAN controller",
+          "provided_by": "UNKNOWN"
+        }
+      ],
+      "next_classes": [
+        {
+          "training_name": "RCNA Routing Switching + Exam",
+          "canonical_source_url": "https://www.idn.id/training/rcna-routing-switching/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "At-Thoriq Firdaus Ramadhan",
+          "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Miftahul Huda",
+          "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee.",
+      "learning_outcomes": [
+        "Basic Access, PSK Authentication Configuration for Fat APs",
+        "WLAN Introduction",
+        "Advantages and Disadvantages of WLAN",
+        "RF Basics",
+        "WLAN Transmission Channels",
+        "802.11 Protocol",
+        "WLAN System Composition",
+        "Wireless Devices",
+        "Wireless AES",
+        "WLAN Networking",
+        "Bridging and Roaming",
+        "Data Forwarding Modes"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training sebanyak 2 kali Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Modul Kaos",
+      "practice_examples": [
+        "Basic Access, PSK Authentication Configuration for Fat APs",
+        "WLAN Introduction",
+        "Advantages and Disadvantages of WLAN",
+        "RF Basics"
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "rcna-wlan-exam",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 100,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu mengonfigurasi autentikasi PSK pada Fat AP.",
+              "evidence_topics": [
+                "fat",
+                "psk"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Memahami konfigurasi bridging dan roaming pada WLAN.",
+              "evidence_topics": [
+                "bridging",
+                "konfigurasi",
+                "roaming",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+              "evidence_topics": [
+                "802",
+                "konsep",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Mengonfigurasi basic access dan autentikasi PSK pada Fat AP.",
+              "evidence_topics": [
+                "access",
+                "basic",
+                "fat",
+                "psk"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menguji bridging atau roaming pada skenario WLAN.",
+              "evidence_topics": [
+                "bridging",
+                "roaming",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+              "evidence_topics": [
+                "konfigurasi",
+                "lab",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Akses Internet",
+              "evidence_topics": [
+                "akses",
+                "internet"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Gratis Mengulang training sebanyak 2 kali",
+              "evidence_topics": [
+                "gratis",
+                "kali",
+                "mengulang",
+                "sebanyak"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Lunch & Coffebreak",
+              "evidence_topics": [
+                "coffebreak",
+                "lunch"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Penginapan Gratis bagi yang dari luar kota",
+              "evidence_topics": [
+                "bagi",
+                "gratis",
+                "kota",
+                "luar",
+                "penginapan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "RCNA WLAN + Exam",
+      "short_name": "RCNA WLAN + Exam",
+      "category": "Networking",
+      "seo_url": "https://www.idn.id/training/rcna-wlan-exam/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 3000000, 2000000; labels must be reviewed."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Network Engineer",
+          "problem_solved": null
+        },
+        {
+          "audience": "IT Support",
+          "problem_solved": null
+        },
+        {
+          "audience": "System Administrator",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [
+        {
+          "name": "RCNA WLAN",
+          "level": null,
+          "exam_fee_reference": null,
+          "exam_duration": null,
+          "exam_code": null,
+          "passing_score": null,
+          "relationship": "EXAM_INCLUDED",
+          "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+        }
+      ],
+      "tools": [
+        {
+          "name": "Wireless access point",
+          "provided_by": "UNKNOWN"
+        },
+        {
+          "name": "WLAN controller",
+          "provided_by": "UNKNOWN"
+        }
+      ],
+      "next_classes": [
+        {
+          "training_name": "RCNA Routing Switching + Exam",
+          "canonical_source_url": "https://www.idn.id/training/rcna-routing-switching/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "At-Thoriq Firdaus Ramadhan",
+          "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Miftahul Huda",
+          "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Training RCNA WLAN + Exam merupakan program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dasar mengenai implementasi, konfigurasi, dan troubleshooting jaringan wireless menggunakan teknologi Ruijie/Reyee.",
+      "learning_outcomes": [
+        "Mampu mengonfigurasi autentikasi PSK pada Fat AP.",
+        "Memahami konfigurasi bridging dan roaming pada WLAN.",
+        "Memahami konsep RF, protokol 802.11, dan komponen WLAN."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training sebanyak 2 kali.",
+      "practice_examples": [
+        "Mengonfigurasi basic access dan autentikasi PSK pada Fat AP.",
+        "Menguji bridging atau roaming pada skenario WLAN.",
+        "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Akses Internet",
+        "Gratis Mengulang training sebanyak 2 kali",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "rcna-wlan-exam",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 100,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu mengonfigurasi autentikasi PSK pada Fat AP.",
+              "evidence_topics": [
+                "fat",
+                "psk"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Memahami konfigurasi bridging dan roaming pada WLAN.",
+              "evidence_topics": [
+                "bridging",
+                "konfigurasi",
+                "roaming",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+              "evidence_topics": [
+                "802",
+                "konsep",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Mengonfigurasi basic access dan autentikasi PSK pada Fat AP.",
+              "evidence_topics": [
+                "access",
+                "basic",
+                "fat",
+                "psk"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menguji bridging atau roaming pada skenario WLAN.",
+              "evidence_topics": [
+                "bridging",
+                "roaming",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+              "evidence_topics": [
+                "konfigurasi",
+                "lab",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Akses Internet",
+              "evidence_topics": [
+                "akses",
+                "internet"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Gratis Mengulang training sebanyak 2 kali",
+              "evidence_topics": [
+                "gratis",
+                "kali",
+                "mengulang",
+                "sebanyak"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Lunch & Coffebreak",
+              "evidence_topics": [
+                "coffebreak",
+                "lunch"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Penginapan Gratis bagi yang dari luar kota",
+              "evidence_topics": [
+                "bagi",
+                "gratis",
+                "kota",
+                "luar",
+                "penginapan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "repair": {
+    "requested": true,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

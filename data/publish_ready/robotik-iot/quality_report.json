@@ -1,0 +1,155 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "robotik-iot",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 100,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Memahami konsep dasar Arduino untuk implementasi perangkat IoT.",
+          "evidence_topics": [
+            "arduino",
+            "iot",
+            "perangkat"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu menggunakan ESP8266 untuk konektivitas perangkat IoT.",
+          "evidence_topics": [
+            "esp8266",
+            "iot",
+            "perangkat"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu mengintegrasikan sensor dan aktuator dalam prototipe IoT.",
+          "evidence_topics": [
+            "aktuator",
+            "iot",
+            "sensor"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menghubungkan sensor atau aktuator ke Arduino sesuai materi praktik.",
+          "evidence_topics": [
+            "aktuator",
+            "arduino",
+            "materi",
+            "menghubungkan",
+            "praktik",
+            "sensor"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menggunakan ESP8266 untuk menghubungkan perangkat ke jaringan.",
+          "evidence_topics": [
+            "esp8266",
+            "jaringan",
+            "menghubungkan",
+            "perangkat"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menguji pembacaan sensor dan kendali aktuator pada prototipe.",
+          "evidence_topics": [
+            "aktuator",
+            "sensor"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mampu mengatasi permasalahan atau trouble shooting pada IoT",
+          "evidence_topics": [
+            "iot",
+            "mengatasi",
+            "permasalahan",
+            "shooting",
+            "trouble"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Memperkenalkan IoT dan membuat perangkat atau system IoT berbasis Arduino.",
+          "evidence_topics": [
+            "arduino",
+            "berbasis",
+            "iot",
+            "memperkenalkan",
+            "perangkat",
+            "system"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Akses Internet",
+          "evidence_topics": [
+            "akses",
+            "internet"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Gratis Mengulang training sebanyak 2 kali",
+          "evidence_topics": [
+            "gratis",
+            "kali",
+            "mengulang",
+            "sebanyak"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": true
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

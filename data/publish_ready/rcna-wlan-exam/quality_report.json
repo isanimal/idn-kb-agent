@@ -1,0 +1,153 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "rcna-wlan-exam",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 100,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu mengonfigurasi autentikasi PSK pada Fat AP.",
+          "evidence_topics": [
+            "fat",
+            "psk"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Memahami konfigurasi bridging dan roaming pada WLAN.",
+          "evidence_topics": [
+            "bridging",
+            "konfigurasi",
+            "roaming",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+          "evidence_topics": [
+            "802",
+            "konsep",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Mengonfigurasi basic access dan autentikasi PSK pada Fat AP.",
+          "evidence_topics": [
+            "access",
+            "basic",
+            "fat",
+            "psk"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menguji bridging atau roaming pada skenario WLAN.",
+          "evidence_topics": [
+            "bridging",
+            "roaming",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+          "evidence_topics": [
+            "konfigurasi",
+            "lab",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Akses Internet",
+          "evidence_topics": [
+            "akses",
+            "internet"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Gratis Mengulang training sebanyak 2 kali",
+          "evidence_topics": [
+            "gratis",
+            "kali",
+            "mengulang",
+            "sebanyak"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Lunch & Coffebreak",
+          "evidence_topics": [
+            "coffebreak",
+            "lunch"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Penginapan Gratis bagi yang dari luar kota",
+          "evidence_topics": [
+            "bagi",
+            "gratis",
+            "kota",
+            "luar",
+            "penginapan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Sertifikat",
+          "evidence_topics": [
+            "sertifikat"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": true
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

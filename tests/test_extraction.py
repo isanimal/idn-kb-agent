@@ -77,6 +77,12 @@ class ExtractionTests(unittest.TestCase):
         self.assertEqual(facts.price.value["amount"], 1500000)
         self.assertEqual([x["title"] for x in facts.curriculum.value], ["DAY 1", "DAY 2"])
 
+    def test_robotik_repeat_policy_excludes_facility_siblings(self):
+        facts=self._saved("robotik-iot")
+        self.assertEqual(facts.repeat_policy.value,"Gratis Mengulang training sebanyak 2 kali")
+        self.assertNotIn("Lunch",facts.repeat_policy.value)
+        self.assertNotIn("Sertifikat",facts.repeat_policy.value)
+
     def test_rcna_multiple_prices_trainers_and_curriculum(self):
         facts = self._saved("rcna-wlan-exam")
         self.assertEqual(len(facts.price.values), 2); self.assertGreaterEqual(len(facts.trainers.value), 2)

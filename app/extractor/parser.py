@@ -269,13 +269,25 @@ def _description_field(sections: list[RawSection], url: str) -> FactField:
 
 def _repeat_field(sections: list[RawSection], url: str) -> FactField:
     direct = _field(sections, "REPEAT_POLICY", url)
-    if direct.status == FieldStatus.FOUND: return direct
+    def isolate(value: str) -> str:
+        value=clean_text(value)
+        boundary=re.search(r"(?i)\b(?:lunch|makan siang|coffee\s*break|coffe\s*break|coffebreak|penginapan|sertifikat|kaos|t-?shirt|akses internet|goodie bag|ruangan ber\s*ac)\b",value)
+        if boundary:value=value[:boundary.start()].strip(" ,;:-")
+        repeats=list(re.finditer(r"(?i)\b(?:gratis|free)\s+(?:mengikuti\s+)?(?:mengulang|ulang)\b",value))
+        if len(repeats)>1:value=value[:repeats[1].start()].strip()
+        return value.rstrip(".")
+    if direct.status == FieldStatus.FOUND:
+        cleaned=isolate(str(direct.value or ""))
+        if cleaned:
+            direct.value=cleaned
+            direct.evidence=[Evidence(source_url=url,source_section=e.source_section,source_text=clean_text(f"{e.source_section} {cleaned}"),confidence=e.confidence) for e in direct.evidence]
+        return direct
     pattern = re.compile(r"(?i)(?:gratis|free)\s+.*?mengulang[^.,;]*(?:[.,;]|$)")
     for section in sections:
         haystack = " ".join([section.content, *[x for x in section.items if isinstance(x, str)]])
         match = pattern.search(haystack)
         if match:
-            value = clean_text(match.group(0).strip(" ,;."))
+            value = isolate(match.group(0).strip(" ,;."))
             return FactField(status=FieldStatus.FOUND, value=value,
                              evidence=[Evidence(source_url=url, source_section=section.heading,
                                                 source_text=clean_text(f"{section.heading} {value}"))])

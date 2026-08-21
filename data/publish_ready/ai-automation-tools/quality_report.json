@@ -1,0 +1,195 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "ai-automation-tools",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 100,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu mengintegrasikan aplikasi eksternal melalui webhook.",
+          "evidence_topics": [
+            "aplikasi",
+            "eksternal",
+            "webhook"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+          "evidence_topics": [
+            "api",
+            "eksternal",
+            "layanan",
+            "menghubungkan",
+            "workflow"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu mengotomatisasi pembacaan dan pembaruan data Google Sheets.",
+          "evidence_topics": [
+            "data",
+            "google",
+            "sheets"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu membuat otomasi pesan melalui Telegram atau WhatsApp.",
+          "evidence_topics": [
+            "otomasi",
+            "pesan",
+            "telegram",
+            "whatsapp"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Membuat workflow yang menerima data melalui webhook.",
+          "evidence_topics": [
+            "data",
+            "menerima",
+            "webhook",
+            "workflow"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+          "evidence_topics": [
+            "api",
+            "http",
+            "request"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Membuat workflow yang membaca atau memperbarui Google Sheets.",
+          "evidence_topics": [
+            "google",
+            "membaca",
+            "memperbarui",
+            "sheets",
+            "workflow"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Membuat bot notifikasi pada Telegram atau WhatsApp.",
+          "evidence_topics": [
+            "bot",
+            "notifikasi",
+            "telegram",
+            "whatsapp"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Kenapa Workflow Automation n8n Istimewa?",
+          "evidence_topics": [
+            "automation",
+            "istimewa",
+            "kenapa",
+            "n8n",
+            "workflow"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "n8n adalah alat automasi open-source yang memungkinkan Anda untuk membuat alur kerja yang kompleks dengan antarmuka yang intuitif.",
+          "evidence_topics": [
+            "alat",
+            "alur",
+            "anda",
+            "antarmuka",
+            "automasi",
+            "intuitif",
+            "kerja",
+            "kompleks"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Dengan ratusan integrasi menggunakan n8n, Anda bisa menghubungkan aplikasi favorit Anda dan menghilangkan tugas manual yang memakan waktu.",
+          "evidence_topics": [
+            "anda",
+            "aplikasi",
+            "bisa",
+            "favorit",
+            "integrasi",
+            "manual",
+            "memakan",
+            "menghilangkan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Baik Anda pemilik bisnis kecil, manajer proyek, atau analis data, n8n dapat membantu mengoptimalkan alur kerja Anda.",
+          "evidence_topics": [
+            "alur",
+            "analis",
+            "anda",
+            "baik",
+            "bisnis",
+            "dapat",
+            "data",
+            "kecil"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Sertifikat",
+          "evidence_topics": [
+            "sertifikat"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": true
+    }
+  },
+  "errors": [],
+  "warnings": []
+}
