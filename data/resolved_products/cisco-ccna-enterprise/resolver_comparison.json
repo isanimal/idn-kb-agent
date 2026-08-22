@@ -1,0 +1,12 @@
+{
+  "match_status": "MATCHED",
+  "existing_kb_product": {
+    "name": "Cisco CCNA 200 – 301 v1.1",
+    "short_name": "CCNA",
+    "url": "https://kb.idn.id/kb/training/detail?id=eee2a09dbd83438799fda3417c97ef36",
+    "preview": "Cisco CCNA 200 – 301 v1.1 CCNA Training Cisco CCNA di ID-Networkers adalah program pelatihan fundamental networking berbasis teknologi Cisco yang mempersiapkan peserta memahami konsep, konfigurasi, verifikasi, dan troubleshooting jaringan komputer. Peserta mempelajari networking secara terstruktur melalui penjelasan konsep dan praktik, mencakup network fundamentals, switching, VLAN, routing IPv4/IPv6, IP services, wireless, se Networking · Offline · mulai Rp 2.800.000 (referensi)",
+    "source": "KB_INTERNAL",
+    "category": "Networking"
+  },
+  "conflicts": []
+}

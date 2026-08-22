@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T02:12:47.317633+00:00",
+  "generated_at": "2026-08-22T02:41:46.587434+00:00",
   "relations": [
     {
-      "source_slug": "pentest",
+      "source_slug": "cisco-ccna-enterprise",
       "field": "next_classes",
-      "target_name": "Web Penetration Testing",
-      "target_url": "https://www.idn.id/training/web-pentesting/",
+      "target_name": "CCNA 200-301 Enterprise (Kelas Malam)",
+      "target_url": "https://www.idn.id/training/ccna-kelas-malam/",
       "reason": "TARGET_NOT_YET_IN_KB"
     }
   ]

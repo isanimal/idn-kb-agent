@@ -1,0 +1,170 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "flutter",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "BLOCKED",
+  "score": 70,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": false,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu membuat kontrol perangkat berbasis web.",
+          "evidence_topics": [
+            "berbasis",
+            "perangkat",
+            "web"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+          "evidence_topics": [],
+          "grounded": false
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+          "evidence_topics": [
+            "api",
+            "layanan",
+            "melalui"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Membuat kontrol perangkat melalui antarmuka web.",
+          "evidence_topics": [
+            "melalui",
+            "perangkat",
+            "web"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+          "evidence_topics": [
+            "menambahkan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+          "evidence_topics": [
+            "api",
+            "dibahas",
+            "http"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Menguasai materi yang tersedia di curriculum (Flutter)",
+          "evidence_topics": [
+            "curriculum",
+            "flutter",
+            "materi",
+            "menguasai",
+            "tersedia"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+          "evidence_topics": [
+            "mengatasi",
+            "pemograman",
+            "permasalahan",
+            "proses"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Memahami dasar-dasar coding",
+          "evidence_topics": [
+            "coding"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta dapat membuat project aplikasi Android dan IOS sendiri menggunakan Flutter",
+          "evidence_topics": [
+            "android",
+            "aplikasi",
+            "dapat",
+            "flutter",
+            "ios",
+            "project",
+            "sendiri"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Akses internet",
+          "evidence_topics": [
+            "akses",
+            "internet"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "UNGROUNDED_SEMANTIC_ITEM",
+      "field": "learning_outcomes",
+      "message": "Tidak ditemukan topik pendukung pada facts.",
+      "blocking": false,
+      "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ]
+}

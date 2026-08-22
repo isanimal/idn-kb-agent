@@ -1,0 +1,155 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "cisco-ccna-enterprise",
+  "product_status": "RESOLVED",
+  "completion": 100.0,
+  "publish_readiness": "READY",
+  "score": 95,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+          "evidence_topics": [
+            "802",
+            "komponen",
+            "konsep",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+          "evidence_topics": [
+            "konfigurasi",
+            "lab",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta dapat terbiasa mengoperasikan perangkat cisco",
+          "evidence_topics": [
+            "cisco",
+            "dapat",
+            "mengoperasikan",
+            "perangkat",
+            "terbiasa"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat cisco",
+          "evidence_topics": [
+            "cisco",
+            "dapat",
+            "jaringan",
+            "khususnya",
+            "perangkat",
+            "tahapan",
+            "troubleshooting"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+          "evidence_topics": [
+            "agar",
+            "bimbing",
+            "dapat",
+            "disampaikan",
+            "mandiri",
+            "materi",
+            "mengimprovisasi",
+            "secara"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta akan bergabung di grup whatsapp CCNA untuk Exam preparation setelah training selesai. Sehingga peserta bisa menyiapkan diri untuk mengambil CCNA Exam",
+          "evidence_topics": [
+            "bergabung",
+            "bisa",
+            "ccna",
+            "diri",
+            "exam",
+            "grup",
+            "mengambil",
+            "menyiapkan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta juga akan bergabung di grup telegram Alumni CCNA. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan CCNA Enterprise",
+          "evidence_topics": [
+            "ada",
+            "alumni",
+            "bergabung",
+            "berkaitan",
+            "bertanya",
+            "ccna",
+            "dapat",
+            "enterprise"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "learning_outcomes",
+          "action": "REMOVE_DUPLICATE_OR_UNSUPPORTED",
+          "removed": []
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ]
+}

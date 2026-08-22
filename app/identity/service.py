@@ -59,6 +59,7 @@ def refresh_live_index(settings)->dict:
     manager=BrowserManager(settings.browser_profile_path,False);guard=ReadOnlyGuard();products=[];generated=datetime.now(timezone.utc).isoformat()
     try:
         manager.start();guard.install(manager.context);page=manager.new_page();_auth(page,settings.kb_training_url)
+        page.wait_for_selector('a[href*="/kb/training/detail"]',timeout=20_000)
         seen={};rounds=0
         while rounds<30:
             for p in parse_resource_cards(page.content(),settings.kb_base_url,"/kb/training/detail"):seen[p["url"]]=p
@@ -74,6 +75,7 @@ def refresh_live_index(settings)->dict:
             edit=_parse_edit_url(html,settings.kb_base_url,kid) or _discover_edit_url(page,item["url"],kid)
             preview=item.get("preview","");category=next((x for x in categories if re.search(rf"\b{re.escape(x)}\b",preview,re.I)),None)
             products.append({"kb_product_id":kid,"name":item["name"],"short_name":item.get("short_name"),"category":category,"detail_url":item["url"],"edit_url":edit,"seo_url":seo,"canonical_seo_url":canonical_url(seo),"normalized_name":normalize_name(item["name"]),"active":None,"snapshot":detail})
+        if not products:raise RuntimeError("LIVE_INVENTORY_EMPTY: refusing to replace the last valid inventory")
         data={"schema_version":"kb-live-products-v1","generated_at":generated,"count":len(products),"inventory_hash":inventory_hash(products),"products":products,"read_only":{"guard":"ENABLED","blocked_requests":guard.blocked,"server_writes":0}}
         save(LIVE,data);return data
     finally:manager.stop()

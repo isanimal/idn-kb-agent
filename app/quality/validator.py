@@ -78,6 +78,12 @@ def _facts_text(facts: dict) -> str:
     selected = {k: facts.get(k) for k in ("description","curriculum","benefits","facilities","target_audiences","tools","practice","prerequisites","support_information","repeat_policy")}
     return json.dumps(selected, ensure_ascii=False)
 
+def _as_text(value:Any)->str:
+    if isinstance(value,str):return value
+    if isinstance(value,list):return " ".join(x for x in (_as_text(v) for v in value) if x)
+    if isinstance(value,dict):return _as_text(value.get("content") or value.get("items") or value.get("title") or value.get("name") or "")
+    return "" if value is None else str(value)
+
 
 def _curriculum_items(facts: dict) -> list[str]:
     node = facts.get("curriculum") or {}
@@ -161,7 +167,7 @@ def sanitize_payload(result: ResolvedProduct, facts: dict) -> tuple[KBProductPay
     payload = result.payload.model_copy(deep=True)
     changes = []
     before = payload.short_description
-    factual_description=((facts.get("description") or {}).get("value") if isinstance(facts.get("description"),dict) else None) or before
+    factual_description=_as_text(((facts.get("description") or {}).get("value") if isinstance(facts.get("description"),dict) else None) or before)
     if not re.search(r"\b(training|pelatihan)\b", factual_description, re.I):
         factual_description=f"Training {payload.full_name} membahas {factual_description[0].lower()+factual_description[1:]}"
     payload.short_description = safe_truncate(factual_description)

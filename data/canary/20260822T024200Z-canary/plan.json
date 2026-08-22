@@ -1,0 +1,17 @@
+{
+  "schema_version": "canary-plan-v1",
+  "canary_run_id": "20260822T024200Z-canary",
+  "generated_at": "2026-08-22T02:42:00.502180+00:00",
+  "inventory_hash": "65d14d78b1cf4538887e0090f3f28e76dd20dacf5a372218f9b0074ebc943f5c",
+  "products": [
+    {
+      "slug": "cisco-ccna-enterprise",
+      "product": "CCNA 200 – 301 Enterprise",
+      "mode": "UPDATE_EXISTING",
+      "candidate_hash": "6c0f33f60926c156b2026c94f3e8cbd7d9a83ab62403989cb50f401a92ddfaea",
+      "status": "READY"
+    }
+  ],
+  "canary_plan_hash": "cb12e914c5b9ded4990759981b3452bb75623a635e4bf487ecf6bf4bb321e707",
+  "ttl_minutes": 60
+}

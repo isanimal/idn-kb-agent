@@ -1,0 +1,473 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "devops",
+  "source_url": "https://www.idn.id/training/devops/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "Devops (Development & Operations)",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "Devops (Development & Operations)",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Sysadmin",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/devops/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 3300000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari Devops (Development & Operations)",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "DevSecOps (Development Security Operations)",
+          "canonical_source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "Moch Rafi Riadi",
+          "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Deni Rismanto",
+          "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Bazigan Tsamara Sukamto",
+          "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Zakaria Ramadan",
+          "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "RESOLVED",
+      "value": [
+        "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu."
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devops/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "Devops (Development & Operations)",
+    "short_name": "Devops (Development & Operations)",
+    "category": "Sysadmin",
+    "seo_url": "https://www.idn.id/training/devops/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "4 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": 3300000,
+        "private_price_reference": null,
+        "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari Devops (Development & Operations)",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "DevSecOps (Development Security Operations)",
+        "canonical_source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.8
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "Moch Rafi Riadi",
+        "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Deni Rismanto",
+        "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Bazigan Tsamara Sukamto",
+        "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Zakaria Ramadan",
+        "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+    "learning_outcomes": [],
+    "prerequisites": [
+      "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu."
+    ],
+    "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+    "practice_examples": [],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

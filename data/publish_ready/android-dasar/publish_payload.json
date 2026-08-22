@@ -1,0 +1,71 @@
+{
+  "full_name": "Android Basic (Java)",
+  "short_name": "Android Basic (Java)",
+  "category": "Programming",
+  "seo_url": "https://www.idn.id/training/android-dasar/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "[{'raw': 'Waktu Training : * Full day : jam 09.00 – 17.00 WIB', 'days': None, 'hours': None, 'daily_schedule': {'start': '09:00', 'end': '17:00', 'timezone': 'WIB'}}, {'raw': 'Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)', 'days': 4.0, 'hours': None, 'daily_schedule': {'start': '09:00', 'end': '17:00', 'timezone': 'WIB'}}]",
+      "schedule": null,
+      "public_price_reference": 2000000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta pemula sesuai bidang training",
+      "problem_solved": "Membantu peserta mempelajari dasar Android Basic (Java) sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Android Intermediate (Java)",
+      "canonical_source_url": "https://www.idn.id/training/android-menengah/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    },
+    {
+      "training_name": "Android Kotlin",
+      "canonical_source_url": "https://www.idn.id/training/android-kotlin/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [],
+  "short_description": "Training Android Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis java level basic sampai bisa memahami materi lanjutan android, dengan materi-materi yang selalu.",
+  "learning_outcomes": [
+    "Mampu apa itu Android.",
+    "Mampu manfaat Android.",
+    "Mampu versi Android.",
+    "Mampu siklus Activity Android.",
+    "Mampu persyaratan hardware."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang kapanpun.",
+  "practice_examples": [
+    "Melakukan praktik menggunakan icon.",
+    "Melakukan praktik menggunakan Theme.",
+    "Melakukan praktik membaca Error Program dengan Menggunakan Logcat.",
+    "Melakukan praktik pengiriman data menggunakan intent."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+    "Memahami dasar-dasar coding",
+    "dapat mengoperasikan android studio",
+    "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+    "Akses Internet"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

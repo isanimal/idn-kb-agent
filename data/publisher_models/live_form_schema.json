@@ -1,6 +1,6 @@
 {
   "schema_version": "publisher-live-form-v1",
-  "generated_at": "2026-08-22T02:31:37.364265+00:00",
+  "generated_at": "2026-08-22T02:43:04.092970+00:00",
   "sections": {
     "advertising_links": {
       "section": "Link landing page iklan",
@@ -15,9 +15,9 @@
       ],
       "select_options": {},
       "schema_ambiguous": false,
-      "existing_rows": 0,
+      "existing_rows": 5,
       "add_button": "Tambah",
-      "client_side_probe_added": true
+      "client_side_probe_added": false
     },
     "training_formats": {
       "section": "Format training, durasi & harga referensi",
@@ -62,7 +62,7 @@
       ],
       "select_options": {},
       "schema_ambiguous": false,
-      "existing_rows": 15,
+      "existing_rows": 13,
       "add_button": "Tambah",
       "client_side_probe_added": false
     },
@@ -97,7 +97,7 @@
         ]
       },
       "schema_ambiguous": false,
-      "existing_rows": 1,
+      "existing_rows": 2,
       "add_button": "Tambah",
       "client_side_probe_added": false
     },
@@ -139,8 +139,8 @@
           "— Pilih produk —",
           "AI & Automation Tools (n8n)",
           "AWS Solution Architect",
+          "Basic Penetration Testing",
           "Cisco CCIE Enterprise Infrastructure",
-          "Cisco CCNA 200 – 301 v1.1",
           "Cisco CCNP Enterprise (ENCOR, ENARSI)",
           "CompTIA Network+",
           "Fortigate Firewall Security (NSE 4) / FortiGate Administrator (FCP)",

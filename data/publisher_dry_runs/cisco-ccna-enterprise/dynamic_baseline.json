@@ -1,0 +1,118 @@
+{
+  "advertising_links": [
+    {
+      "url": "https://www.idn.id/ccna/",
+      "label": "Landing Page Iklan"
+    },
+    {
+      "url": "https://jadwal.idn.id/",
+      "label": "Jadwal training dan harga aktif"
+    },
+    {
+      "url": "https://lms.idn.id/courses/jaringan-dasar/",
+      "label": "LMS Rekomendasi Jaringan Dasar"
+    },
+    {
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
+      "label": "Halaman sertifikasi Cisco CCNA"
+    },
+    {
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/exams-and-training.html",
+      "label": "Halaman exam dan training Cisco CCNA"
+    }
+  ],
+  "training_formats": [
+    {
+      "format": "Offline",
+      "duration": "4 hari",
+      "schedule": "09.00--17.00 WIB",
+      "public_price_reference": "2.800.000",
+      "private_price_reference": "3.800.000"
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Pemula Networking",
+      "problem_solved": "Belum memahami cara kerja router, switch, IP addressing, routing, dan switching secara terstruktur."
+    },
+    {
+      "audience": "Mahasiswa IT",
+      "problem_solved": "Sudah mendapatkan teori jaringan tetapi membutuhkan pengalaman konfigurasi dan troubleshooting yang lebih praktis."
+    },
+    {
+      "audience": "Fresh Graduate",
+      "problem_solved": "Membutuhkan skill networking praktis dan kompetensi tambahan untuk meningkatkan kesiapan memasuki dunia kerja IT."
+    },
+    {
+      "audience": "IT Support dan Helpdesk",
+      "problem_solved": "Sering menangani masalah komputer dan konektivitas tetapi belum memahami troubleshooting jaringan secara terstruktur."
+    },
+    {
+      "audience": "Junior Network Engineer",
+      "problem_solved": "Membutuhkan fondasi routing, switching, IP services, security, dan troubleshooting sebelum menangani jaringan yang lebih kompleks."
+    },
+    {
+      "audience": "Network Engineer",
+      "problem_solved": "Ingin memperkuat fundamental Cisco networking dan menata kembali pemahaman routing, switching, serta troubleshooting."
+    },
+    {
+      "audience": "Network Administrator",
+      "problem_solved": "Membutuhkan kemampuan konfigurasi dan pengelolaan jaringan berbasis teknologi Cisco."
+    },
+    {
+      "audience": "NOC / Technical Support",
+      "problem_solved": "Membutuhkan kemampuan membaca topologi, interface, routing, serta mengidentifikasi sumber gangguan jaringan."
+    },
+    {
+      "audience": "System Administrator",
+      "problem_solved": "Membutuhkan pemahaman networking untuk mendukung pengelolaan server dan infrastruktur."
+    },
+    {
+      "audience": "Guru/Dosen/Instruktur IT",
+      "problem_solved": "Membutuhkan pemahaman networking berbasis teknologi dan praktik industri untuk memperkuat materi pembelajaran."
+    },
+    {
+      "audience": "Career Switcher",
+      "problem_solved": "Ingin berpindah ke bidang networking tetapi membutuhkan jalur belajar yang terstruktur."
+    },
+    {
+      "audience": "Perusahaan / Tim IT",
+      "problem_solved": "Membutuhkan peningkatan kompetensi networking tim untuk konfigurasi, operasional, dan troubleshooting."
+    },
+    {
+      "audience": "Peserta",
+      "problem_solved": "upgrade ilmuupgrade kariermempersiapkan sertifikasimeningkatkan kemampuan troubleshootingswitch karier ke Network Engineer"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "level": "Associate",
+      "exam_price": "6.200.000",
+      "exam_duration": "120 menit",
+      "question_count": "",
+      "passing_score": "",
+      "open_book": "",
+      "retake_policy": "Tidak ada free retake exam yang dijanjikan sebagai benefit produk ini kecuali terdapat kebijakan khusus yang sudah dikonfirmasi."
+    },
+    {
+      "name": "Cisco CCNA",
+      "level": "",
+      "exam_price": "6.200.000",
+      "exam_duration": "",
+      "question_count": "",
+      "passing_score": "",
+      "open_book": "",
+      "retake_policy": ""
+    }
+  ],
+  "tools": [
+    {
+      "name": "Laptop atau komputer",
+      "provided_by": "Disiapkan peserta"
+    }
+  ],
+  "next_classes": [],
+  "trainer_references": [],
+  "active": true
+}

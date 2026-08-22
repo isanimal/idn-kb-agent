@@ -1,0 +1,777 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "aws-solution-architect",
+  "generated_at": "2026-08-22T02:40:21.750586+00:00",
+  "source_resolved_sha256": "0b4d5e5bdf15fabc5338d43f5caa67c20b77beffc5f286223070b7837d4ad39f",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    },
+    {
+      "field": "learning_outcomes",
+      "action": "REMOVE_DUPLICATE_OR_UNSUPPORTED",
+      "removed": []
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "AWS Solution Architect",
+      "short_name": "AWS Solution Architect",
+      "category": "Sysadmin",
+      "seo_url": "https://www.idn.id/training/aws-solution-architect/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 3000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta yang ingin mempelajari AWS Solution Architect",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "AWS CLOUD ADMINISTRATION",
+          "canonical_source_url": "https://www.idn.id/training/aws-cloud-administration/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "Moch Rafi Riadi",
+          "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Deni Rismanto",
+          "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Bazigan Tsamara Sukamto",
+          "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Zakaria Ramadan",
+          "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Mampu merancang sistem yang fault-tolerant dan highly available. Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa. Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud. Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03).",
+      "learning_outcomes": [
+        "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+        "Siap menghadapi sertifikasi AWS Solution Architect",
+        "Skill cloud computing yang high-demand di industri",
+        "Bisa desain arsitektur sistem yang scalable & secure",
+        "Hands-on lab (praktek langsung, bukan teori saja)",
+        "Peluang karir lebih luas (Cloud Engineer, DevOps, dll)",
+        "Meningkatkan value diri & potensi gaji",
+        "Kesempatan kerja remote / global",
+        "Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG)",
+        "AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras",
+        "Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services",
+        "Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF)"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+      "practice_examples": [
+        "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+        "Siap menghadapi sertifikasi AWS Solution Architect",
+        "Skill cloud computing yang high-demand di industri",
+        "Bisa desain arsitektur sistem yang scalable & secure"
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+        "Siap menghadapi sertifikasi AWS Solution Architect",
+        "Skill cloud computing yang high-demand di industri",
+        "Bisa desain arsitektur sistem yang scalable & secure",
+        "Hands-on lab (praktek langsung, bukan teori saja)",
+        "Peluang karir lebih luas (Cloud Engineer, DevOps, dll)",
+        "Meningkatkan value diri & potensi gaji",
+        "Kesempatan kerja remote / global"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "aws-solution-architect",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 80,
+      "checks": {
+        "semantic_separation": {
+          "passed": false,
+          "duplicates": [
+            {
+              "fields": [
+                "learning_outcomes",
+                "practice_examples"
+              ],
+              "left": "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "right": "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "similarity": 0.947
+            },
+            {
+              "fields": [
+                "learning_outcomes",
+                "practice_examples"
+              ],
+              "left": "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "right": "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "similarity": 0.944
+            }
+          ]
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "evidence_topics": [
+                "architect",
+                "asg",
+                "availability",
+                "aws",
+                "cli",
+                "ebs",
+                "ec2",
+                "efs"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu aWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras.",
+              "evidence_topics": [
+                "accelerator",
+                "advanced",
+                "and",
+                "architecture",
+                "aurora",
+                "aws",
+                "cases",
+                "cloudfront"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "evidence_topics": [
+                "activemq",
+                "analytics",
+                "application",
+                "aws",
+                "containers",
+                "data",
+                "databases",
+                "decoupling"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF).",
+              "evidence_topics": [
+                "advanced",
+                "audit",
+                "aws",
+                "cloudtrail",
+                "cloudwatch",
+                "config",
+                "encryption",
+                "iam"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu aWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify).",
+              "evidence_topics": [
+                "amplify",
+                "appflow",
+                "architect",
+                "aws",
+                "batcha",
+                "cloudformation",
+                "cost",
+                "disaster"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "evidence_topics": [
+                "architect",
+                "asg",
+                "availability",
+                "aws",
+                "cli",
+                "ebs",
+                "ec2",
+                "efs"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "evidence_topics": [
+                "activemq",
+                "analytics",
+                "application",
+                "aws",
+                "containers",
+                "data",
+                "databases",
+                "decoupling"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+              "evidence_topics": [
+                "amazon",
+                "ec2",
+                "layanan",
+                "menguasai",
+                "rds",
+                "services",
+                "utama",
+                "vpc"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Siap menghadapi sertifikasi AWS Solution Architect",
+              "evidence_topics": [
+                "architect",
+                "aws",
+                "menghadapi",
+                "sertifikasi",
+                "siap",
+                "solution"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Skill cloud computing yang high-demand di industri",
+              "evidence_topics": [
+                "cloud",
+                "computing",
+                "demand",
+                "high",
+                "industri",
+                "skill"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Bisa desain arsitektur sistem yang scalable & secure",
+              "evidence_topics": [
+                "arsitektur",
+                "bisa",
+                "desain",
+                "scalable",
+                "secure",
+                "sistem"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Hands-on lab (praktek langsung, bukan teori saja)",
+              "evidence_topics": [
+                "bukan",
+                "hands",
+                "lab",
+                "langsung",
+                "praktek",
+                "saja",
+                "teori"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            },
+            {
+              "field": "learning_outcomes",
+              "action": "REMOVE_DUPLICATE_OR_UNSUPPORTED",
+              "removed": []
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "CROSS_FIELD_DUPLICATION",
+          "field": "learning_outcomes:practice_examples",
+          "message": "Nilai sangat mirip di dua field.",
+          "blocking": false,
+          "value": {
+            "fields": [
+              "learning_outcomes",
+              "practice_examples"
+            ],
+            "left": "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+            "right": "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+            "similarity": 0.947
+          }
+        },
+        {
+          "code": "CROSS_FIELD_DUPLICATION",
+          "field": "learning_outcomes:practice_examples",
+          "message": "Nilai sangat mirip di dua field.",
+          "blocking": false,
+          "value": {
+            "fields": [
+              "learning_outcomes",
+              "practice_examples"
+            ],
+            "left": "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+            "right": "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+            "similarity": 0.944
+          }
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "AWS Solution Architect",
+      "short_name": "AWS Solution Architect",
+      "category": "Sysadmin",
+      "seo_url": "https://www.idn.id/training/aws-solution-architect/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 3000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta pemula sesuai bidang training",
+          "problem_solved": "Membantu peserta mempelajari dasar AWS Solution Architect sesuai cakupan kurikulum."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "AWS CLOUD ADMINISTRATION",
+          "canonical_source_url": "https://www.idn.id/training/aws-cloud-administration/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "Moch Rafi Riadi",
+          "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Deni Rismanto",
+          "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Bazigan Tsamara Sukamto",
+          "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Zakaria Ramadan",
+          "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Training AWS Solution Architect membahas mampu merancang sistem yang fault-tolerant dan highly available. Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa. Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud.",
+      "learning_outcomes": [
+        "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+        "Mampu aWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras.",
+        "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+        "Mampu machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF).",
+        "Mampu aWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify)."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan.",
+      "practice_examples": [
+        "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+        "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+        "Siap menghadapi sertifikasi AWS Solution Architect",
+        "Skill cloud computing yang high-demand di industri",
+        "Bisa desain arsitektur sistem yang scalable & secure",
+        "Hands-on lab (praktek langsung, bukan teori saja)"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "aws-solution-architect",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 80,
+      "checks": {
+        "semantic_separation": {
+          "passed": false,
+          "duplicates": [
+            {
+              "fields": [
+                "learning_outcomes",
+                "practice_examples"
+              ],
+              "left": "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "right": "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "similarity": 0.947
+            },
+            {
+              "fields": [
+                "learning_outcomes",
+                "practice_examples"
+              ],
+              "left": "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "right": "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "similarity": 0.944
+            }
+          ]
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "evidence_topics": [
+                "architect",
+                "asg",
+                "availability",
+                "aws",
+                "cli",
+                "ebs",
+                "ec2",
+                "efs"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu aWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras.",
+              "evidence_topics": [
+                "accelerator",
+                "advanced",
+                "and",
+                "architecture",
+                "aurora",
+                "aws",
+                "cases",
+                "cloudfront"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "evidence_topics": [
+                "activemq",
+                "analytics",
+                "application",
+                "aws",
+                "containers",
+                "data",
+                "databases",
+                "decoupling"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF).",
+              "evidence_topics": [
+                "advanced",
+                "audit",
+                "aws",
+                "cloudtrail",
+                "cloudwatch",
+                "config",
+                "encryption",
+                "iam"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu aWS Networking – VPC Disaster Recovery & Migrations Services Strategies as Solution Architect Other Services Overview (CloudFormation Hands-on, SES, SSM, Cost Explorer, Outposts, BatchA, AppFlow, Amplify).",
+              "evidence_topics": [
+                "amplify",
+                "appflow",
+                "architect",
+                "aws",
+                "batcha",
+                "cloudformation",
+                "cost",
+                "disaster"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+              "evidence_topics": [
+                "architect",
+                "asg",
+                "availability",
+                "aws",
+                "cli",
+                "ebs",
+                "ec2",
+                "efs"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+              "evidence_topics": [
+                "activemq",
+                "analytics",
+                "application",
+                "aws",
+                "containers",
+                "data",
+                "databases",
+                "decoupling"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+              "evidence_topics": [
+                "amazon",
+                "ec2",
+                "layanan",
+                "menguasai",
+                "rds",
+                "services",
+                "utama",
+                "vpc"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Siap menghadapi sertifikasi AWS Solution Architect",
+              "evidence_topics": [
+                "architect",
+                "aws",
+                "menghadapi",
+                "sertifikasi",
+                "siap",
+                "solution"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Skill cloud computing yang high-demand di industri",
+              "evidence_topics": [
+                "cloud",
+                "computing",
+                "demand",
+                "high",
+                "industri",
+                "skill"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Bisa desain arsitektur sistem yang scalable & secure",
+              "evidence_topics": [
+                "arsitektur",
+                "bisa",
+                "desain",
+                "scalable",
+                "secure",
+                "sistem"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Hands-on lab (praktek langsung, bukan teori saja)",
+              "evidence_topics": [
+                "bukan",
+                "hands",
+                "lab",
+                "langsung",
+                "praktek",
+                "saja",
+                "teori"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            },
+            {
+              "field": "learning_outcomes",
+              "action": "REMOVE_DUPLICATE_OR_UNSUPPORTED",
+              "removed": []
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "CROSS_FIELD_DUPLICATION",
+          "field": "learning_outcomes:practice_examples",
+          "message": "Nilai sangat mirip di dua field.",
+          "blocking": false,
+          "value": {
+            "fields": [
+              "learning_outcomes",
+              "practice_examples"
+            ],
+            "left": "Mampu introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+            "right": "Melakukan praktik introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG).",
+            "similarity": 0.947
+          }
+        },
+        {
+          "code": "CROSS_FIELD_DUPLICATION",
+          "field": "learning_outcomes:practice_examples",
+          "message": "Nilai sangat mirip di dua field.",
+          "blocking": false,
+          "value": {
+            "fields": [
+              "learning_outcomes",
+              "practice_examples"
+            ],
+            "left": "Mampu decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+            "right": "Melakukan praktik decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services.",
+            "similarity": 0.944
+          }
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

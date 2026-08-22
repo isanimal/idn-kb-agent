@@ -1,0 +1,485 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "web-basic-programming",
+  "generated_at": "2026-08-22T02:40:38.223968+00:00",
+  "source_resolved_sha256": "45e229f4a352df26c1ae377a602571013107728fcd83c2ce468170d69c87874d",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Web Basic Programming",
+      "short_name": "Web Basic Programming",
+      "category": "Programming",
+      "seo_url": "https://www.idn.id/training/web-basic-programming/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Pemula yang ingin belajar programming dari nol",
+          "problem_solved": null
+        },
+        {
+          "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+          "problem_solved": null
+        },
+        {
+          "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "Pemrograman Web Codeigniter",
+          "canonical_source_url": "https://www.idn.id/training/web-development/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        },
+        {
+          "training_name": "Pemrograman Web Laravel",
+          "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "Fahmi Nuradi",
+          "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
+      "learning_outcomes": [
+        "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+      "practice_examples": [
+        "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Gratis Mengulang training kapanpun",
+        "Video recording after training online",
+        "Sertifikat",
+        "Kaos",
+        "Modul",
+        "Goodie Bag, Notebook, dll",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "web-basic-programming",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 95,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "elemen",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+              "evidence_topics": [
+                "api",
+                "eksternal"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+              "evidence_topics": [
+                "api"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Gratis Mengulang training kapanpun",
+              "evidence_topics": [
+                "gratis",
+                "kapanpun",
+                "mengulang"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Video recording after training online",
+              "evidence_topics": [
+                "after",
+                "online",
+                "recording",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Kaos",
+              "evidence_topics": [
+                "kaos"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Modul",
+              "evidence_topics": [
+                "modul"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Web Basic Programming",
+      "short_name": "Web Basic Programming",
+      "category": "Programming",
+      "seo_url": "https://www.idn.id/training/web-basic-programming/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Pemula yang ingin belajar programming dari nol",
+          "problem_solved": null
+        },
+        {
+          "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+          "problem_solved": null
+        },
+        {
+          "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "Pemrograman Web Codeigniter",
+          "canonical_source_url": "https://www.idn.id/training/web-development/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        },
+        {
+          "training_name": "Pemrograman Web Laravel",
+          "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "Fahmi Nuradi",
+          "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming?",
+      "learning_outcomes": [
+        "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+        "Mampu menghubungkan workflow dengan layanan eksternal melalui API."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online.",
+      "practice_examples": [
+        "Menambahkan teks, musik, transisi, atau efek pada video.",
+        "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Gratis Mengulang training kapanpun",
+        "Video recording after training online",
+        "Sertifikat",
+        "Kaos",
+        "Modul"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "web-basic-programming",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 95,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "elemen",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+              "evidence_topics": [
+                "api",
+                "eksternal"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+              "evidence_topics": [
+                "efek",
+                "teks",
+                "transisi",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+              "evidence_topics": [
+                "api"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Gratis Mengulang training kapanpun",
+              "evidence_topics": [
+                "gratis",
+                "kapanpun",
+                "mengulang"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Video recording after training online",
+              "evidence_topics": [
+                "after",
+                "online",
+                "recording",
+                "video"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Kaos",
+              "evidence_topics": [
+                "kaos"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Modul",
+              "evidence_topics": [
+                "modul"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

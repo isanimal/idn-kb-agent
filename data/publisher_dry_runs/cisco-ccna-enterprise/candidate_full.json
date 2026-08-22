@@ -1,0 +1,282 @@
+{
+  "full_name": "CCNA 200 – 301 Enterprise",
+  "short_name": "CCNA",
+  "category": "Networking",
+  "seo_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+  "advertising_links": [
+    {
+      "url": "https://www.idn.id/ccna/",
+      "label": "Landing Page Iklan"
+    },
+    {
+      "url": "https://jadwal.idn.id/",
+      "label": "Jadwal training dan harga aktif"
+    },
+    {
+      "url": "https://lms.idn.id/courses/jaringan-dasar/",
+      "label": "LMS Rekomendasi Jaringan Dasar"
+    },
+    {
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html",
+      "label": "Halaman sertifikasi Cisco CCNA"
+    },
+    {
+      "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/exams-and-training.html",
+      "label": "Halaman exam dan training Cisco CCNA"
+    }
+  ],
+  "training_formats": [
+    {
+      "format": "Offline",
+      "duration": "4 hari",
+      "schedule": "09.00--17.00 WIB",
+      "public_price_reference": "2.800.000",
+      "private_price_reference": "3.800.000"
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Pemula Networking",
+      "problem_solved": "Belum memahami cara kerja router, switch, IP addressing, routing, dan switching secara terstruktur."
+    },
+    {
+      "audience": "Mahasiswa IT",
+      "problem_solved": "Sudah mendapatkan teori jaringan tetapi membutuhkan pengalaman konfigurasi dan troubleshooting yang lebih praktis."
+    },
+    {
+      "audience": "Fresh Graduate",
+      "problem_solved": "Membutuhkan skill networking praktis dan kompetensi tambahan untuk meningkatkan kesiapan memasuki dunia kerja IT."
+    },
+    {
+      "audience": "IT Support dan Helpdesk",
+      "problem_solved": "Sering menangani masalah komputer dan konektivitas tetapi belum memahami troubleshooting jaringan secara terstruktur."
+    },
+    {
+      "audience": "Junior Network Engineer",
+      "problem_solved": "Membutuhkan fondasi routing, switching, IP services, security, dan troubleshooting sebelum menangani jaringan yang lebih kompleks."
+    },
+    {
+      "audience": "Network Engineer",
+      "problem_solved": "Ingin memperkuat fundamental Cisco networking dan menata kembali pemahaman routing, switching, serta troubleshooting."
+    },
+    {
+      "audience": "Network Administrator",
+      "problem_solved": "Membutuhkan kemampuan konfigurasi dan pengelolaan jaringan berbasis teknologi Cisco."
+    },
+    {
+      "audience": "NOC / Technical Support",
+      "problem_solved": "Membutuhkan kemampuan membaca topologi, interface, routing, serta mengidentifikasi sumber gangguan jaringan."
+    },
+    {
+      "audience": "System Administrator",
+      "problem_solved": "Membutuhkan pemahaman networking untuk mendukung pengelolaan server dan infrastruktur."
+    },
+    {
+      "audience": "Guru/Dosen/Instruktur IT",
+      "problem_solved": "Membutuhkan pemahaman networking berbasis teknologi dan praktik industri untuk memperkuat materi pembelajaran."
+    },
+    {
+      "audience": "Career Switcher",
+      "problem_solved": "Ingin berpindah ke bidang networking tetapi membutuhkan jalur belajar yang terstruktur."
+    },
+    {
+      "audience": "Perusahaan / Tim IT",
+      "problem_solved": "Membutuhkan peningkatan kompetensi networking tim untuk konfigurasi, operasional, dan troubleshooting."
+    },
+    {
+      "audience": "Peserta",
+      "problem_solved": "upgrade ilmuupgrade kariermempersiapkan sertifikasimeningkatkan kemampuan troubleshootingswitch karier ke Network Engineer"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cisco Certified Network Associate (CCNA)",
+      "level": "Associate",
+      "exam_price": "6.200.000",
+      "exam_duration": "120 menit",
+      "question_count": "",
+      "passing_score": "",
+      "open_book": "",
+      "retake_policy": "Tidak ada free retake exam yang dijanjikan sebagai benefit produk ini kecuali terdapat kebijakan khusus yang sudah dikonfirmasi."
+    },
+    {
+      "name": "Cisco CCNA",
+      "level": "",
+      "exam_price": "6.200.000",
+      "exam_duration": "",
+      "question_count": "",
+      "passing_score": "",
+      "open_book": "",
+      "retake_policy": ""
+    }
+  ],
+  "tools": [
+    {
+      "name": "Laptop atau komputer",
+      "provided_by": "Disiapkan peserta"
+    }
+  ],
+  "next_classes": [
+    {
+      "training_name": "Cisco CCNP Enterprise (ENCOR, ENARSI)",
+      "reason": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "At-Thoriq Firdaus Ramadhan",
+      "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a"
+    },
+    {
+      "trainer_name": "Fathur Rizky Arrosid +3 lagi",
+      "kb_trainer_id": null
+    }
+  ],
+  "short_description": "Training Cisco CCNA di ID-Networkers adalah program pelatihan fundamental networking berbasis teknologi Cisco yang mempersiapkan peserta memahami konsep, konfigurasi, verifikasi, dan troubleshooting jaringan komputer.\n\nPeserta mempelajari networking secara terstruktur melalui penjelasan konsep dan praktik, mencakup network fundamentals, switching, VLAN, routing IPv4/IPv6, IP services, wireless, security fundamentals, troubleshooting, serta pengenalan automation dan programmability.\n\nTraining ini relevan sebagai persiapan untuk sertifikasi Cisco Certified Network Associate (CCNA). Exam Cisco CCNA yang digunakan sebagai referensi saat knowledge base ini disusun adalah 200-301 CCNA v1.1.",
+  "learning_outcomes": [
+    "Memahami fungsi router, switch, access point, endpoint, dan komponen jaringan lainnya.",
+    "Memahami fundamental TCP/IP dan cara komunikasi antarperangkat di jaringan.",
+    "Melakukan konfigurasi dasar perangkat Cisco IOS.",
+    "Mengakses dan mengelola perangkat Cisco melalui metode akses yang dipelajari.",
+    "Memahami IPv4 addressing dan subnetting.",
+    "Memahami dasar IPv6.",
+    "Membuat dan melakukan verifikasi VLAN.",
+    "Mengkonfigurasi trunk 802.1Q.",
+    "Mengkonfigurasi inter-VLAN routing.",
+    "Memahami Spanning Tree Protocol.",
+    "Mengkonfigurasi EtherChannel.",
+    "Membaca dan memahami routing table.",
+    "Membuat IPv4 dan IPv6 static route.",
+    "Memahami dan mengkonfigurasi single-area OSPF.",
+    "Mengkonfigurasi DHCP.",
+    "Memahami dan mengkonfigurasi NAT.",
+    "Membuat ACL dasar.",
+    "Memahami konsep wireless network.",
+    "Memahami network security fundamentals.",
+    "Memahami layanan dan pengelolaan infrastruktur jaringan seperti NTP, SSH, Syslog, dan SNMP sesuai cakupan training.",
+    "Memahami konsep controller-based networking.",
+    "Memahami dasar network automation dan programmability.",
+    "Memahami penggunaan JSON dalam konteks network automation.",
+    "Melakukan basic troubleshooting jaringan secara lebih terstruktur.",
+    "Mengurangi trial and error saat melakukan konfigurasi dan troubleshooting.",
+    "Mempersiapkan diri untuk mengikuti exam Cisco CCNA.",
+    "Memiliki fondasi untuk melanjutkan ke training Cisco tingkat lanjut."
+  ],
+  "prerequisites": [
+    "Tidak ada kewajiban memiliki sertifikasi Cisco sebelumnya untuk mengikuti training Cisco CCNA.",
+    "Bisa mengoperasikan komputer atau laptop.",
+    "Dasar jaringan komputer direkomendasikan.",
+    "Pemahaman TCP/IP, IP address, subnet mask, gateway, DNS, dan subnetting dasar akan membantu saat mengikuti praktik.",
+    "Peserta yang belum memahami dasar jaringan dapat mengikuti kelas online gratis ID-Networkers:",
+    "https://lms.idn.id/courses/jaringan-dasar/"
+  ],
+  "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x.\nRepeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+  "practice_examples": [
+    "Initial configuration Cisco router dan switch.",
+    "Mengakses perangkat Cisco.",
+    "Memberikan IP address pada interface.",
+    "Melakukan verifikasi konektivitas.",
+    "Membuat VLAN.",
+    "Mengkonfigurasi trunk.",
+    "Membuat inter-VLAN routing.",
+    "Melakukan konfigurasi dan verifikasi Spanning Tree.",
+    "Membuat EtherChannel.",
+    "Membuat IPv4 static route.",
+    "Membuat IPv6 static route.",
+    "Membaca routing table.",
+    "Mengkonfigurasi single-area OSPF.",
+    "Mengkonfigurasi DHCP.",
+    "Mengkonfigurasi NAT/PAT.",
+    "Membuat ACL dasar.",
+    "Melakukan konfigurasi port security.",
+    "Melakukan praktik wireless sesuai cakupan materi.",
+    "Menggunakan command Cisco IOS untuk verifikasi dan troubleshooting.",
+    "Melakukan troubleshooting gangguan konektivitas.",
+    "Menganalisis kesalahan konfigurasi.",
+    "Pengenalan network automation dan programmability.",
+    "Pengenalan JSON dalam konteks network automation."
+  ],
+  "post_training_support": "Grup WhatsApp alumni.\nGrup khusus untuk persiapan exam Cisco CCNA.\n\nGrup digunakan sebagai sarana komunikasi, komunitas alumni, dan dukungan persiapan exam.",
+  "selling_points": [
+    "Training networking berbasis teknologi Cisco.",
+    "Pembelajaran terstruktur dari fundamental sampai materi yang relevan dengan CCNA.",
+    "Berorientasi praktik.",
+    "Jakarta dan Semarang: 1 peserta menggunakan 1 set perangkat Cisco fisik selama training.",
+    "Lokasi selain Jakarta dan Semarang: peserta praktik menggunakan Cisco Packet Tracer dan perangkat fisik tersedia untuk demo.",
+    "Membahas routing dan switching.",
+    "Membahas IPv4 dan IPv6.",
+    "Membahas VLAN, trunk, inter-VLAN routing, STP, dan EtherChannel.",
+    "Membahas static routing dan OSPF.",
+    "Membahas IP services seperti DHCP dan NAT.",
+    "Membahas security fundamentals dan ACL.",
+    "Membahas wireless fundamentals.",
+    "Membahas troubleshooting jaringan.",
+    "Mengenalkan network automation dan programmability.",
+    "Relevan sebagai persiapan exam Cisco CCNA 200-301.",
+    "Tersedia grup WhatsApp alumni.",
+    "Tersedia grup persiapan exam.",
+    "Gratis mengulang training hingga 2x sesuai mekanisme ID-Networkers.",
+    "Custom syllabus tersedia untuk IHT dengan minimum 4 peserta.",
+    "Fondasi untuk melanjutkan ke Cisco CCNP.",
+    "Skill networking relevan untuk berbagai pekerjaan IT seperti IT Support, Network Administrator, NOC, dan Network Engineer.",
+    "Networking menjadi fondasi yang berguna untuk mempelajari teknologi lanjutan seperti cloud, cybersecurity, automation, dan DevOps.",
+    "Sertifikasi Cisco CCNA dikenal secara global sebagai sertifikasi networking dari Cisco Systems.",
+    "Membantu meningkatkan kemampuan problem solving dan troubleshooting jaringan.",
+    "Memiliki komunitas dan resource pembelajaran Cisco yang luas.",
+    "Jakarta dan Semarang menggunakan perangkat fisik dengan 1 peserta 1 set perangkat selama training.",
+    "Lokasi lain menggunakan Cisco Packet Tracer untuk praktik peserta, sementara perangkat fisik tersedia untuk demo.",
+    "Custom syllabus tersedia khusus IHT dengan minimum 4 peserta."
+  ],
+  "claims_to_avoid": [
+    "Dijamin lulus Cisco CCNA.",
+    "Empat hari training pasti langsung mahir networking.",
+    "Setelah training pasti menjadi Network Engineer.",
+    "Setelah training pasti mendapatkan pekerjaan.",
+    "Sertifikasi CCNA menjamin diterima kerja.",
+    "Semua perusahaan mewajibkan CCNA.",
+    "CCNA selalu menjadi syarat semua lowongan networking.",
+    "Passing score CCNA pasti 82.5/100.",
+    "Menebak jumlah soal exam jika tidak tercantum dalam sumber resmi yang berlaku.",
+    "Exam CCNA pasti open book.",
+    "Exam CCNA pasti close book tanpa merujuk aturan resmi pelaksanaan yang berlaku.",
+    "Trainer memberikan soal asli yang akan keluar.",
+    "Trainer memberikan exam dump.",
+    "Jawaban exam akan dibantu.",
+    "Exam boleh dikerjakan bersama.",
+    "Exam dapat diwakilkan.",
+    "Penggunaan exam dump diperbolehkan.",
+    "Training CCNA wajib sebelum mengambil exam.",
+    "Peserta wajib memiliki sertifikasi Cisco sebelumnya sebelum CCNA.",
+    "Harga training selalu Rp 2.800.000.",
+    "Harga private/IHT selalu Rp 3.800.000 tanpa pengecekan quotation/kebijakan aktif.",
+    "Harga exam Cisco secara global adalah Rp 6.200.000.",
+    "Mengonversi sendiri harga exam USD menjadi harga IDR untuk customer jika peserta membeli melalui ID-Networkers.",
+    "Menjanjikan free retake exam jika belum ada kebijakan khusus yang dikonfirmasi.",
+    "Semua lokasi menggunakan real device 1 peserta 1 set.",
+    "Lokasi selain Jakarta dan Semarang pasti menyediakan perangkat fisik untuk setiap peserta.",
+    "Menjanjikan tipe/model perangkat Cisco tertentu sebelum dikonfirmasi.",
+    "Perangkat Cisco menjadi milik peserta.",
+    "Menyamakan fasilitas perangkat Jakarta/Semarang dengan lokasi lainnya.",
+    "Menjanjikan trainer tertentu sebelum penugasan batch dikonfirmasi.",
+    "Menjanjikan support trainer tanpa batas.",
+    "Menjanjikan support teknis 24 jam.",
+    "Menjanjikan SLA troubleshooting.",
+    "Menjanjikan konsultasi project tanpa batas.",
+    "Menjanjikan trainer menyelesaikan semua project peserta.",
+    "Menjanjikan project portofolio formal tanpa konfirmasi.",
+    "Repeat training dapat dilakukan kapan saja tanpa registrasi.",
+    "Gratis mengulang tanpa mengikuti mekanisme registrasi dan ketersediaan seat.",
+    "Custom syllabus tersedia untuk semua kelas public.",
+    "Menjanjikan semua permintaan custom syllabus pasti dapat diterapkan sebelum scope disepakati.",
+    "Menyatakan semua fasilitas berlaku sama untuk semua kota, batch, format public, private, dan IHT.",
+    "Menyebut sertifikasi Cisco CCNA sebagai sertifikasi BNSP.",
+    "Menyamakan sertifikat training ID-Networkers dengan sertifikasi Cisco CCNA.",
+    "Menggunakan statistik kelulusan tanpa sumber data, timestamp, dan definisi metrik yang valid.",
+    "Menggunakan klaim \"termurah\", \"terbaik\", atau perbandingan harga pasar tanpa data aktual dan metodologi pembanding.",
+    "Memberikan jawaban pasti mengenai kebijakan exam yang tidak tercantum di KB atau dokumentasi resmi tanpa konfirmasi.",
+    "Mengikuti training tidak berarti peserta otomatis memperoleh sertifikasi Cisco CCNA.",
+    "Training berfungsi sebagai persiapan dan pengembangan kompetensi; jangan mengubahnya menjadi klaim jaminan kelulusan atau jaminan pekerjaan."
+  ],
+  "additional_notes": "Exam Cisco CCNA yang digunakan sebagai referensi saat knowledge base ini disusun adalah 200-301 CCNA v1.1.\n\nMateri aktual mengikuti syllabus training ID-Networkers yang berlaku untuk batch terkait.\n\nHarga kelas public merupakan harga referensi; harga berlaku dan jadwal terbaru dikonfirmasi di jadwal.idn.id.\nHarga final Private / In-House Training mengikuti kebutuhan training dan quotation resmi ID-Networkers.\nCustom syllabus tersedia khusus untuk In-House Training (IHT).\nMinimum peserta untuk custom syllabus IHT: 4 peserta.\nMateri custom perlu dibicarakan dan disepakati sebelum pelaksanaan training.\n\nTraining bukan syarat wajib untuk mengambil exam CCNA.\nJadwal exam berbeda dengan jadwal training dan dapat dijadwalkan sesuai prosedur serta ketersediaan exam.\nHasil exam mengikuti mekanisme penilaian Cisco.\nBahasa, kebijakan pelaksanaan, dan aturan exam mengikuti ketentuan Cisco/testing provider yang berlaku pada saat peserta mengambil exam.\nPeserta mendapatkan grup untuk persiapan exam dari ID-Networkers.\nTidak ada free retake exam yang dijanjikan sebagai benefit produk ini kecuali terdapat kebijakan khusus yang sudah dikonfirmasi.\n\nBiaya exam terpisah dari biaya training.\nPeserta melakukan pembayaran kepada ID-Networkers dalam mata uang Rupiah (IDR).\nNominal Rp 6.200.000 merupakan harga/kebijakan ID-Networkers untuk peserta yang melakukan pembayaran exam melalui ID-Networkers.\nHarga exam tetap perlu dikonfirmasi apabila terdapat perubahan kebijakan ID-Networkers.",
+  "active": true
+}

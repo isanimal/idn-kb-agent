@@ -1,0 +1,196 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "android-dasar",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 95,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu apa itu Android.",
+          "evidence_topics": [
+            "android"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu manfaat Android.",
+          "evidence_topics": [
+            "android",
+            "manfaat"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu versi Android.",
+          "evidence_topics": [
+            "android",
+            "versi"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu siklus Activity Android.",
+          "evidence_topics": [
+            "activity",
+            "android",
+            "siklus"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu persyaratan hardware.",
+          "evidence_topics": [
+            "hardware",
+            "persyaratan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik menggunakan icon.",
+          "evidence_topics": [
+            "icon"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik menggunakan Theme.",
+          "evidence_topics": [
+            "theme"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik membaca Error Program dengan Menggunakan Logcat.",
+          "evidence_topics": [
+            "error",
+            "logcat",
+            "membaca",
+            "program"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik pengiriman data menggunakan intent.",
+          "evidence_topics": [
+            "data",
+            "intent",
+            "pengiriman"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+          "evidence_topics": [
+            "mengatasi",
+            "pemograman",
+            "permasalahan",
+            "proses"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Memahami dasar-dasar coding",
+          "evidence_topics": [
+            "coding"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "dapat mengoperasikan android studio",
+          "evidence_topics": [
+            "android",
+            "dapat",
+            "mengoperasikan",
+            "studio"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+          "evidence_topics": [
+            "aplikasi",
+            "dapat",
+            "mandiri",
+            "project",
+            "secara",
+            "sendiri"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Akses Internet",
+          "evidence_topics": [
+            "akses",
+            "internet"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "full_name": "Flutter",
+  "short_name": "Flutter",
+  "category": "Programming",
+  "seo_url": "https://www.idn.id/training/flutter/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 2500000, 2000000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari Flutter",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Flutter Lanjutan",
+      "canonical_source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Asadullah Al Hamasy",
+      "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Tubagus Adhitya Permana",
+      "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Training Flutter merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Flutter adalah SDK untuk pengembangan aplikasi mobile yang dikembangkan oleh Google. Sama seperti react native, framework ini dapat digunakan untuk membuat atau mengembangkan aplikasi mobile yang dapat berjalan pada device iOS dan Android. Dibuat menggunakan bahasa C, C++, Dart and Skia membuat Flutter ini menjadi salah satu framework yang sangat menarik dan worth untuk kita pelajari. Hal yang menarik pada framework ini adalah semua kodenya di compile dalam kode native nya (Android NDK, LLVM, AOT-compiled) tanpa ada intrepeter pada prosesnya sehingga proses compile-nya menjadi lebih cepat. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android sampai bisa memahami materi hingga bisa membuat aplikasi android sendiri menggunakan flutter, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya,jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+  "learning_outcomes": [
+    "Menguasai materi yang tersedia di curriculum (Flutter)",
+    "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+    "Memahami dasar-dasar coding",
+    "Peserta dapat membuat project aplikasi Android dan IOS sendiri menggunakan Flutter"
+  ],
+  "prerequisites": [
+    "Minimal Paham Materi Basic Pemograman",
+    "Minimal Spesifikasi Perangkat:"
+  ],
+  "repeat_policy": "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training android di Indonesia Free makan siang dan coffe break selama training Disediakan penginapan gratis bagi peserta training yang dari luar kota Gratis mengulang training sebanyak 2x Pemberitahuan lowongan kerja kepada peserta Join group whatsapp setelah training",
+  "practice_examples": [
+    "Menguasai materi yang tersedia di curriculum (Flutter)",
+    "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+    "Memahami dasar-dasar coding",
+    "Peserta dapat membuat project aplikasi Android dan IOS sendiri menggunakan Flutter"
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Menguasai materi yang tersedia di curriculum (Flutter)",
+    "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+    "Memahami dasar-dasar coding",
+    "Peserta dapat membuat project aplikasi Android dan IOS sendiri menggunakan Flutter",
+    "Akses internet",
+    "Gratis mengulang kapanpun",
+    "Lunch & coffebreak",
+    "Penginapan gratis bagi yang dari luar kota",
+    "Sertifikat",
+    "Kaos"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

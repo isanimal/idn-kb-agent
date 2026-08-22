@@ -1,0 +1,574 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "android-dasar",
+  "generated_at": "2026-08-22T02:39:52.749567+00:00",
+  "source_resolved_sha256": "8d0f3ee689c086937dce21163421437ce24c7dffc88b6cd52992cd3d6c59bb94",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Android Basic (Java)",
+      "short_name": "Android Basic (Java)",
+      "category": "Programming",
+      "seo_url": "https://www.idn.id/training/android-dasar/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "[{'raw': 'Waktu Training : * Full day : jam 09.00 – 17.00 WIB', 'days': None, 'hours': None, 'daily_schedule': {'start': '09:00', 'end': '17:00', 'timezone': 'WIB'}}, {'raw': 'Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)', 'days': 4.0, 'hours': None, 'daily_schedule': {'start': '09:00', 'end': '17:00', 'timezone': 'WIB'}}]",
+          "schedule": null,
+          "public_price_reference": 2000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta yang ingin mempelajari Android Basic (Java)",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "Android Intermediate (Java)",
+          "canonical_source_url": "https://www.idn.id/training/android-menengah/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        },
+        {
+          "training_name": "Android Kotlin",
+          "canonical_source_url": "https://www.idn.id/training/android-kotlin/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [],
+      "short_description": "Training Android Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis java level basic sampai bisa memahami materi lanjutan android, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya,jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+      "learning_outcomes": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "Apa itu Android",
+        "Manfaat Android",
+        "Versi Android",
+        "Persyaratan hardware",
+        "Install JDK",
+        "Install Android Studio",
+        "Linear Layout"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos Akses Internet Gratis Mengulang kapanpun Lunch & Coffebreak Penginapan Gratis bagi yang dari luar kota Sertifikat Kaos",
+      "practice_examples": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "dapat mengoperasikan android studio"
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "Akses Internet",
+        "Gratis Mengulang kapanpun",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "android-dasar",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 95,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu apa itu Android.",
+              "evidence_topics": [
+                "android"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu manfaat Android.",
+              "evidence_topics": [
+                "android",
+                "manfaat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu versi Android.",
+              "evidence_topics": [
+                "android",
+                "versi"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu siklus Activity Android.",
+              "evidence_topics": [
+                "activity",
+                "android",
+                "siklus"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu persyaratan hardware.",
+              "evidence_topics": [
+                "hardware",
+                "persyaratan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik menggunakan icon.",
+              "evidence_topics": [
+                "icon"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik menggunakan Theme.",
+              "evidence_topics": [
+                "theme"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik membaca Error Program dengan Menggunakan Logcat.",
+              "evidence_topics": [
+                "error",
+                "logcat",
+                "membaca",
+                "program"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik pengiriman data menggunakan intent.",
+              "evidence_topics": [
+                "data",
+                "intent",
+                "pengiriman"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+              "evidence_topics": [
+                "mengatasi",
+                "pemograman",
+                "permasalahan",
+                "proses"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Memahami dasar-dasar coding",
+              "evidence_topics": [
+                "coding"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "dapat mengoperasikan android studio",
+              "evidence_topics": [
+                "android",
+                "dapat",
+                "mengoperasikan",
+                "studio"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+              "evidence_topics": [
+                "aplikasi",
+                "dapat",
+                "mandiri",
+                "project",
+                "secara",
+                "sendiri"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Akses Internet",
+              "evidence_topics": [
+                "akses",
+                "internet"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Android Basic (Java)",
+      "short_name": "Android Basic (Java)",
+      "category": "Programming",
+      "seo_url": "https://www.idn.id/training/android-dasar/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "[{'raw': 'Waktu Training : * Full day : jam 09.00 – 17.00 WIB', 'days': None, 'hours': None, 'daily_schedule': {'start': '09:00', 'end': '17:00', 'timezone': 'WIB'}}, {'raw': 'Durasi Training 4 Hari (Jam Belajar Mulai Pukul 09.00 s.d 17.00 WIB Perharinya)', 'days': 4.0, 'hours': None, 'daily_schedule': {'start': '09:00', 'end': '17:00', 'timezone': 'WIB'}}]",
+          "schedule": null,
+          "public_price_reference": 2000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta pemula sesuai bidang training",
+          "problem_solved": "Membantu peserta mempelajari dasar Android Basic (Java) sesuai cakupan kurikulum."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "Android Intermediate (Java)",
+          "canonical_source_url": "https://www.idn.id/training/android-menengah/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        },
+        {
+          "training_name": "Android Kotlin",
+          "canonical_source_url": "https://www.idn.id/training/android-kotlin/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [],
+      "short_description": "Training Android Dasar merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis java level basic sampai bisa memahami materi lanjutan android, dengan materi-materi yang selalu.",
+      "learning_outcomes": [
+        "Mampu apa itu Android.",
+        "Mampu manfaat Android.",
+        "Mampu versi Android.",
+        "Mampu siklus Activity Android.",
+        "Mampu persyaratan hardware."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang kapanpun.",
+      "practice_examples": [
+        "Melakukan praktik menggunakan icon.",
+        "Melakukan praktik menggunakan Theme.",
+        "Melakukan praktik membaca Error Program dengan Menggunakan Logcat.",
+        "Melakukan praktik pengiriman data menggunakan intent."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "Akses Internet"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "android-dasar",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 95,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu apa itu Android.",
+              "evidence_topics": [
+                "android"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu manfaat Android.",
+              "evidence_topics": [
+                "android",
+                "manfaat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu versi Android.",
+              "evidence_topics": [
+                "android",
+                "versi"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu siklus Activity Android.",
+              "evidence_topics": [
+                "activity",
+                "android",
+                "siklus"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu persyaratan hardware.",
+              "evidence_topics": [
+                "hardware",
+                "persyaratan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik menggunakan icon.",
+              "evidence_topics": [
+                "icon"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik menggunakan Theme.",
+              "evidence_topics": [
+                "theme"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik membaca Error Program dengan Menggunakan Logcat.",
+              "evidence_topics": [
+                "error",
+                "logcat",
+                "membaca",
+                "program"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik pengiriman data menggunakan intent.",
+              "evidence_topics": [
+                "data",
+                "intent",
+                "pengiriman"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+              "evidence_topics": [
+                "mengatasi",
+                "pemograman",
+                "permasalahan",
+                "proses"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Memahami dasar-dasar coding",
+              "evidence_topics": [
+                "coding"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "dapat mengoperasikan android studio",
+              "evidence_topics": [
+                "android",
+                "dapat",
+                "mengoperasikan",
+                "studio"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+              "evidence_topics": [
+                "aplikasi",
+                "dapat",
+                "mandiri",
+                "project",
+                "secara",
+                "sendiri"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Akses Internet",
+              "evidence_topics": [
+                "akses",
+                "internet"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

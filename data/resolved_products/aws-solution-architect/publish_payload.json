@@ -1,0 +1,96 @@
+{
+  "full_name": "AWS Solution Architect",
+  "short_name": "AWS Solution Architect",
+  "category": "Sysadmin",
+  "seo_url": "https://www.idn.id/training/aws-solution-architect/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "5 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 3000000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari AWS Solution Architect",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "AWS CLOUD ADMINISTRATION",
+      "canonical_source_url": "https://www.idn.id/training/aws-cloud-administration/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Moch Rafi Riadi",
+      "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Deni Rismanto",
+      "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Bazigan Tsamara Sukamto",
+      "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Zakaria Ramadan",
+      "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Mampu merancang sistem yang fault-tolerant dan highly available. Mampu menentukan layanan AWS yang tepat berdasarkan kebutuhan data, biaya, dan performa. Memahami implementasi keamanan berlapis (Defense in Depth) pada cloud. Siap menempuh ujian sertifikasi AWS Certified Solutions Architect – Associate (SAA-C03).",
+  "learning_outcomes": [
+    "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+    "Siap menghadapi sertifikasi AWS Solution Architect",
+    "Skill cloud computing yang high-demand di industri",
+    "Bisa desain arsitektur sistem yang scalable & secure",
+    "Hands-on lab (praktek langsung, bukan teori saja)",
+    "Peluang karir lebih luas (Cloud Engineer, DevOps, dll)",
+    "Meningkatkan value diri & potensi gaji",
+    "Kesempatan kerja remote / global",
+    "Introduction – AWS Solution Architect IAM & AWS CLI EC2 Fundamentals & Solutions Architect Instance Storage (EBS & EFS) High Availability dan Scalability (ELB & ASG)",
+    "AWS RDS, Aurora, ElastiCache AWS Route53 Solutions Architecture Cases S3 Introduction, Advanced, and Security CloudFront & Global Accelerator AWS Storage Service Extras",
+    "Decoupling Application (SQS, SNS, Kinesis, ActiveMQ) AWS Containers (ECS, Fargate, ECR, EKS) Serverless Services Databases in AWS Data & Analytics Services",
+    "Machine Learning Services Overview AWS Monitoring & Audit (CloudWatch, CloudTrail, & Config) IAM Advanced AWS Security & Encryption (KMS, SSM Parameter Store, Shield, WAF)"
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Bebas nge-lab di IDN di luar jam training khusus peserta training Gratis mengulang training sebanyak 2x Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Selama training berlangsung",
+  "practice_examples": [
+    "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+    "Siap menghadapi sertifikasi AWS Solution Architect",
+    "Skill cloud computing yang high-demand di industri",
+    "Bisa desain arsitektur sistem yang scalable & secure"
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Menguasai layanan utama di Amazon Web Services (EC2, S3, RDS, VPC)",
+    "Siap menghadapi sertifikasi AWS Solution Architect",
+    "Skill cloud computing yang high-demand di industri",
+    "Bisa desain arsitektur sistem yang scalable & secure",
+    "Hands-on lab (praktek langsung, bukan teori saja)",
+    "Peluang karir lebih luas (Cloud Engineer, DevOps, dll)",
+    "Meningkatkan value diri & potensi gaji",
+    "Kesempatan kerja remote / global"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

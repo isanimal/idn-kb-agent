@@ -1,0 +1,81 @@
+{
+  "full_name": "Flutter",
+  "short_name": "Flutter",
+  "category": "Programming",
+  "seo_url": "https://www.idn.id/training/flutter/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 2500000, 2000000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta pemula sesuai bidang training",
+      "problem_solved": "Membantu peserta mempelajari dasar Flutter sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Flutter Lanjutan",
+      "canonical_source_url": "https://www.idn.id/training/flutter-lanjutan/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Asadullah Al Hamasy",
+      "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Tubagus Adhitya Permana",
+      "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Training Flutter merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Flutter adalah SDK untuk pengembangan aplikasi mobile yang dikembangkan oleh Google.",
+  "learning_outcomes": [
+    "Mampu membuat kontrol perangkat berbasis web.",
+    "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+    "Mampu menghubungkan workflow dengan layanan eksternal melalui API."
+  ],
+  "prerequisites": [
+    "Minimal Paham Materi Basic Pemograman",
+    "Minimal Spesifikasi Perangkat:"
+  ],
+  "repeat_policy": "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training android di Indonesia Free.",
+  "practice_examples": [
+    "Membuat kontrol perangkat melalui antarmuka web.",
+    "Menambahkan teks, musik, transisi, atau efek pada video.",
+    "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Menguasai materi yang tersedia di curriculum (Flutter)",
+    "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+    "Memahami dasar-dasar coding",
+    "Peserta dapat membuat project aplikasi Android dan IOS sendiri menggunakan Flutter",
+    "Akses internet"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

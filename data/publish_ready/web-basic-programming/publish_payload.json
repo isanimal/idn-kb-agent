@@ -1,0 +1,80 @@
+{
+  "full_name": "Web Basic Programming",
+  "short_name": "Web Basic Programming",
+  "category": "Programming",
+  "seo_url": "https://www.idn.id/training/web-basic-programming/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Pemula yang ingin belajar programming dari nol",
+      "problem_solved": null
+    },
+    {
+      "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+      "problem_solved": null
+    },
+    {
+      "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+      "problem_solved": null
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Pemrograman Web Codeigniter",
+      "canonical_source_url": "https://www.idn.id/training/web-development/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    },
+    {
+      "training_name": "Pemrograman Web Laravel",
+      "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming?",
+  "learning_outcomes": [
+    "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+    "Mampu menghubungkan workflow dengan layanan eksternal melalui API."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online.",
+  "practice_examples": [
+    "Menambahkan teks, musik, transisi, atau efek pada video.",
+    "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Gratis Mengulang training kapanpun",
+    "Video recording after training online",
+    "Sertifikat",
+    "Kaos",
+    "Modul"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

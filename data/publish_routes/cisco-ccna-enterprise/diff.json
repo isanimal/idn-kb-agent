@@ -1,0 +1,201 @@
+{
+  "policy": "PRESERVE_EXISTING_ON_EMPTY",
+  "fields": [
+    {
+      "field": "full_name",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "CCNA 200 – 301 Enterprise"
+    },
+    {
+      "field": "short_name",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "CCNA"
+    },
+    {
+      "field": "category",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "Networking"
+    },
+    {
+      "field": "seo_url",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "https://www.idn.id/training/cisco-ccna-enterprise/"
+    },
+    {
+      "field": "advertising_links",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "training_formats",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "format": "Offline",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2800000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ]
+    },
+    {
+      "field": "target_audiences",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "audience": "Peserta pemula sesuai bidang training",
+          "problem_solved": "Membantu peserta mempelajari dasar CCNA 200 – 301 Enterprise sesuai cakupan kurikulum."
+        }
+      ]
+    },
+    {
+      "field": "certifications",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "tools",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "next_classes",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "training_name": "CCNA 200-301 Enterprise (Kelas Malam)",
+          "canonical_source_url": "https://www.idn.id/training/ccna-kelas-malam/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.9
+        },
+        {
+          "training_name": "CCNP Enterprise",
+          "canonical_source_url": "https://www.idn.id/training/ccnp-enterprise/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "field": "trainer_references",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        {
+          "trainer_name": "Miftahul Huda",
+          "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Ferry Fajar Pratama",
+          "kb_trainer_id": "b214d87fd66d4c32ac0f6354e356c959",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Mahesa Yudha Pratama",
+          "kb_trainer_id": "c4d94806c2dd47a0a25228855c7fddee",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "At-Thoriq Firdaus Ramadhan",
+          "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Fathur Rizky Arrosid",
+          "kb_trainer_id": "d45c1adb10644788b168bb776d4e8da7",
+          "match_type": "EXACT"
+        }
+      ]
+    },
+    {
+      "field": "short_description",
+      "classification": "UPDATE_VALUE",
+      "existing": "Training Cisco CCNA di ID-Networkers adalah program pelatihan fundamental networking berbasis teknologi Cisco yang mempersiapkan peserta memahami konsep, konfigurasi, verifikasi, dan troubleshooting jaringan komputer. Peserta mempelajari networking secara terstruktur melalui penjelasan konsep dan praktik, mencakup network fundamentals, switching, VLAN, routing IPv4/IPv6, IP services, wireless, security fundamentals, troubleshooting, serta pengenalan automation dan programmability. Training ini relevan sebagai persiapan untuk sertifikasi Cisco Certified Network Associate (CCNA). Exam Cisco CCNA yang digunakan sebagai referensi saat knowledge base ini disusun adalah 200-301 CCNA v1.1.",
+      "proposed": "Training CCNA 200 – 301 Enterprise membahas network Fundamentals – routers, switches, cabling, TCP and UDP, IPv4 and IPv6 Network Access – VLANs and trunking, EtherChannel IP Connectivity – IP routing, OSPFv2 IP Services – NTP, DCHP, QoS, SNMP Security Fundamentals – VPNs, wireless security, port security Automation and Programmability – REST."
+    },
+    {
+      "field": "learning_outcomes",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Memahami konsep RF, protokol 802.11, dan komponen WLAN."
+      ]
+    },
+    {
+      "field": "prerequisites",
+      "classification": "UNCHANGED",
+      "existing": null,
+      "proposed": []
+    },
+    {
+      "field": "repeat_policy",
+      "classification": "UNCHANGED",
+      "existing": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+      "proposed": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers."
+    },
+    {
+      "field": "practice_examples",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab."
+      ]
+    },
+    {
+      "field": "post_training_support",
+      "classification": "UNCHANGED",
+      "existing": "Grup WhatsApp alumni. Grup khusus untuk persiapan exam Cisco CCNA. Grup digunakan sebagai sarana komunikasi, komunitas alumni, dan dukungan persiapan exam.",
+      "proposed": "Grup WhatsApp alumni. Grup khusus untuk persiapan exam Cisco CCNA. Grup digunakan sebagai sarana komunikasi, komunitas alumni, dan dukungan persiapan exam."
+    },
+    {
+      "field": "selling_points",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Peserta dapat terbiasa mengoperasikan perangkat cisco",
+        "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat cisco",
+        "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+        "Peserta akan bergabung di grup whatsapp CCNA untuk Exam preparation setelah training selesai. Sehingga peserta bisa menyiapkan diri untuk mengambil CCNA Exam",
+        "Peserta juga akan bergabung di grup telegram Alumni CCNA. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan CCNA Enterprise"
+      ]
+    },
+    {
+      "field": "claims_to_avoid",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ]
+    },
+    {
+      "field": "additional_notes",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan."
+    },
+    {
+      "field": "active",
+      "classification": "FILL_EMPTY",
+      "existing": null,
+      "proposed": true
+    }
+  ],
+  "high_risk_conflict": false
+}

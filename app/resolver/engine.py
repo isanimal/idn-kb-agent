@@ -77,6 +77,7 @@ def resolve_product(slug:str,database:Database,ctx:ResolverContext|None=None)->R
     cat,cat_method,cat_conf=ctx.category(source_cat,name,existing);sources=[SourceRef(url=url,type="IDN_PRODUCT")]
     short=(existing or {}).get("short_name") or fact_value(facts,"identity.short_name") or name
     desc=fact_value(facts,"description") or section(snap,"Deskripsi singkat") or f"Training {name}."
+    if not isinstance(desc,str):desc=" ".join(strings(desc))
     duration=fact_value(facts,"duration");price=fact_value(facts,"price");fmt=fact_value(facts,"training_format")
     if not fmt:
         snapshot_format=section(snap,"Format, durasi & harga referensi") or "";fmt=next((x for x in ("Hybrid","Offline","Online") if re.search(rf"\b{x}\b",snapshot_format,re.I)),None)

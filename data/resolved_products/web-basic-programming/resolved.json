@@ -1,0 +1,509 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "web-basic-programming",
+  "source_url": "https://www.idn.id/training/web-basic-programming/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "Web Basic Programming",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "Web Basic Programming",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Programming",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/web-basic-programming/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Pemula yang ingin belajar programming dari nol",
+          "problem_solved": null
+        },
+        {
+          "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+          "problem_solved": null
+        },
+        {
+          "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+          "problem_solved": null
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "Pemrograman Web Codeigniter",
+          "canonical_source_url": "https://www.idn.id/training/web-development/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        },
+        {
+          "training_name": "Pemrograman Web Laravel",
+          "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "Fahmi Nuradi",
+          "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "RESOLVED",
+      "value": [
+        "Gratis Mengulang training kapanpun",
+        "Video recording after training online",
+        "Sertifikat",
+        "Kaos",
+        "Modul",
+        "Goodie Bag, Notebook, dll",
+        "pemberitahuan lowongan kerja kepada peserta",
+        "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+        "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+        "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/web-basic-programming/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "Web Basic Programming",
+    "short_name": "Web Basic Programming",
+    "category": "Programming",
+    "seo_url": "https://www.idn.id/training/web-basic-programming/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "4 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": null,
+        "private_price_reference": null,
+        "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Pemula yang ingin belajar programming dari nol",
+        "problem_solved": null
+      },
+      {
+        "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
+        "problem_solved": null
+      },
+      {
+        "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
+        "problem_solved": null
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "Pemrograman Web Codeigniter",
+        "canonical_source_url": "https://www.idn.id/training/web-development/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.7
+      },
+      {
+        "training_name": "Pemrograman Web Laravel",
+        "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.7
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "Fahmi Nuradi",
+        "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
+    "learning_outcomes": [
+      "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+    "practice_examples": [
+      "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
+    ],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [
+      "Gratis Mengulang training kapanpun",
+      "Video recording after training online",
+      "Sertifikat",
+      "Kaos",
+      "Modul",
+      "Goodie Bag, Notebook, dll",
+      "pemberitahuan lowongan kerja kepada peserta",
+      "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+      "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+      "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

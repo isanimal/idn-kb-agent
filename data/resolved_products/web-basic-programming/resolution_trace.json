@@ -1,0 +1,156 @@
+{
+  "slug": "web-basic-programming",
+  "match": {
+    "status": "UNMATCHED",
+    "method": null
+  },
+  "fields": [
+    {
+      "field": "full_name",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    },
+    {
+      "field": "short_name",
+      "status": "RESOLVED",
+      "method": "INTERNAL_KB",
+      "selected_source": "KB_INTERNAL",
+      "warnings": []
+    },
+    {
+      "field": "category",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "DETERMINISTIC_CLASSIFIER",
+      "warnings": []
+    },
+    {
+      "field": "seo_url",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    },
+    {
+      "field": "advertising_links",
+      "status": "NOT_APPLICABLE",
+      "method": "SAFE_DEFAULT",
+      "selected_source": "NONE",
+      "warnings": []
+    },
+    {
+      "field": "training_formats",
+      "status": "REVIEW_REQUIRED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    },
+    {
+      "field": "target_audiences",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "IDN_FACTS",
+      "warnings": []
+    },
+    {
+      "field": "certifications",
+      "status": "NOT_APPLICABLE",
+      "method": "SAFE_DEFAULT",
+      "selected_source": "NONE",
+      "warnings": []
+    },
+    {
+      "field": "tools",
+      "status": "NOT_APPLICABLE",
+      "method": "SAFE_DEFAULT",
+      "selected_source": "NONE",
+      "warnings": []
+    },
+    {
+      "field": "next_classes",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "IDN_FACTS",
+      "warnings": []
+    },
+    {
+      "field": "trainer_references",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "warnings": []
+    },
+    {
+      "field": "short_description",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    },
+    {
+      "field": "learning_outcomes",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "IDN_FACTS",
+      "warnings": []
+    },
+    {
+      "field": "prerequisites",
+      "status": "NOT_APPLICABLE",
+      "method": "SAFE_DEFAULT",
+      "selected_source": "NONE",
+      "warnings": []
+    },
+    {
+      "field": "repeat_policy",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    },
+    {
+      "field": "practice_examples",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "IDN_FACTS",
+      "warnings": []
+    },
+    {
+      "field": "post_training_support",
+      "status": "RESOLVED",
+      "method": "SAFE_DEFAULT",
+      "selected_source": "SAFE_DEFAULT",
+      "warnings": []
+    },
+    {
+      "field": "selling_points",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "IDN_FACTS",
+      "warnings": []
+    },
+    {
+      "field": "claims_to_avoid",
+      "status": "RESOLVED",
+      "method": "DERIVED",
+      "selected_source": "IDN_FACTS",
+      "warnings": []
+    },
+    {
+      "field": "additional_notes",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    },
+    {
+      "field": "active",
+      "status": "RESOLVED",
+      "method": "DIRECT_FACT",
+      "selected_source": "IDN_PRIMARY",
+      "warnings": []
+    }
+  ]
+}

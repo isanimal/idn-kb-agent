@@ -1,0 +1,71 @@
+{
+  "full_name": "Devops (Development & Operations)",
+  "short_name": "Devops (Development & Operations)",
+  "category": "Sysadmin",
+  "seo_url": "https://www.idn.id/training/devops/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 3300000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari Devops (Development & Operations)",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "DevSecOps (Development Security Operations)",
+      "canonical_source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Moch Rafi Riadi",
+      "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Deni Rismanto",
+      "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Bazigan Tsamara Sukamto",
+      "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Zakaria Ramadan",
+      "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "DevOps adalah kombinasi dari Software Development (Dev) dan IT operations (Ops). Penggabungan ini bertujuan untuk mengotomatisasi dan mengintegrasikan proses pengerjaan antara tim pengembang dan operasi TI di seluruh siklus hidup produk dengan bekerja secara kolaboratif sehingga meningkatkan kecepatan dan kualitas dari software deployment. Dengan menggunakan teori dan praktik langsung, peserta pelatihan akan dapat mengetahui, mengeksplorasi, dan memahami tentang Mengembangkan sistem otomatisasi dan server. DevOps mewakili perubahan dalam budaya TI, berfokus pada penyediaan layanan TI yang cepat melalui penerapan praktik yang lincah dan ramping dalam konteks pendekatan yang berorientasi sistem. DevOps menekankan orang dan berusaha meningkatkan kolaborasi antara operasi dan tim pengembangan.",
+  "learning_outcomes": [],
+  "prerequisites": [
+    "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu."
+  ],
+  "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+  "practice_examples": [],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

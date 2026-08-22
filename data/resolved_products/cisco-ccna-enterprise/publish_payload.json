@@ -1,0 +1,111 @@
+{
+  "full_name": "CCNA 200 – 301 Enterprise",
+  "short_name": "CCNA",
+  "category": "Networking",
+  "seo_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "Offline",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2800000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari CCNA 200 – 301 Enterprise",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "CCNA 200-301 Enterprise (Kelas Malam)",
+      "canonical_source_url": "https://www.idn.id/training/ccna-kelas-malam/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.9
+    },
+    {
+      "training_name": "CCNP Enterprise",
+      "canonical_source_url": "https://www.idn.id/training/ccnp-enterprise/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Miftahul Huda",
+      "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Ferry Fajar Pratama",
+      "kb_trainer_id": "b214d87fd66d4c32ac0f6354e356c959",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Mahesa Yudha Pratama",
+      "kb_trainer_id": "c4d94806c2dd47a0a25228855c7fddee",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "At-Thoriq Firdaus Ramadhan",
+      "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Fathur Rizky Arrosid",
+      "kb_trainer_id": "d45c1adb10644788b168bb776d4e8da7",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Network Fundamentals – routers, switches, cabling, TCP and UDP, IPv4 and IPv6 Network Access – VLANs and trunking, EtherChannel IP Connectivity – IP routing, OSPFv2 IP Services – NTP, DCHP, QoS, SNMP Security Fundamentals – VPNs, wireless security, port security Automation and Programmability – REST APIs, Puppet, Chef, JSON, SDN",
+  "learning_outcomes": [
+    "Peserta dapat terbiasa mengoperasikan perangkat cisco",
+    "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat cisco",
+    "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+    "Peserta akan bergabung di grup whatsapp CCNA untuk Exam preparation setelah training selesai. Sehingga peserta bisa menyiapkan diri untuk mengambil CCNA Exam",
+    "Peserta juga akan bergabung di grup telegram Alumni CCNA. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan CCNA Enterprise",
+    "Selama training berlangsung peserta akan dipinjamkan perangkat (1 Router + 1 Switch) per peserta. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara langsung",
+    "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+    "Sertifikasi CCNA berfungsi sebagai peluncur karier untuk memberikan landasan bagi karier Anda",
+    "Programmability, Automation, and Security konsep luas yang memberikan pengetahuan luas tentang persyaratan di masa depan",
+    "Ujian laboratorium memberikan akses ke pengalaman dunia nyata",
+    "Pengakuan sertifikasi pada profil media sosial Ini akan menambah nilai pada resume Anda",
+    "Pretest"
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+  "practice_examples": [
+    "Peserta dapat terbiasa mengoperasikan perangkat cisco",
+    "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat cisco",
+    "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+    "Peserta akan bergabung di grup whatsapp CCNA untuk Exam preparation setelah training selesai. Sehingga peserta bisa menyiapkan diri untuk mengambil CCNA Exam"
+  ],
+  "post_training_support": "Grup WhatsApp alumni. Grup khusus untuk persiapan exam Cisco CCNA. Grup digunakan sebagai sarana komunikasi, komunitas alumni, dan dukungan persiapan exam.",
+  "selling_points": [
+    "Peserta dapat terbiasa mengoperasikan perangkat cisco",
+    "Peserta dapat memahami tahapan troubleshooting jaringan khususnya perangkat cisco",
+    "Peserta di bimbing agar dapat mengimprovisasi secara mandiri materi yang telah disampaikan",
+    "Peserta akan bergabung di grup whatsapp CCNA untuk Exam preparation setelah training selesai. Sehingga peserta bisa menyiapkan diri untuk mengambil CCNA Exam",
+    "Peserta juga akan bergabung di grup telegram Alumni CCNA. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi yang berkaitan dengan CCNA Enterprise",
+    "Selama training berlangsung peserta akan dipinjamkan perangkat (1 Router + 1 Switch) per peserta. Sehingga peserta dapat mempraktikkan apa yang diajarkan trainer secara langsung",
+    "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung",
+    "Sertifikasi CCNA berfungsi sebagai peluncur karier untuk memberikan landasan bagi karier Anda",
+    "Programmability, Automation, and Security konsep luas yang memberikan pengetahuan luas tentang persyaratan di masa depan",
+    "Ujian laboratorium memberikan akses ke pengalaman dunia nyata"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+    "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

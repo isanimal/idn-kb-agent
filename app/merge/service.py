@@ -50,7 +50,16 @@ def decide(field,existing,new,product_name=""):
     return "REPLACE_WITH_NEW","New quality-approved value is applicable.",None,None
 
 def existing_baseline(slug):
-    report=load(Path("data/publisher_dry_runs")/slug/"dry_run_report.json");return {x["field"]:x.get("before") for x in report["actions"] if "before" in x}
+    report_path=Path("data/publisher_dry_runs")/slug/"dry_run_report.json"
+    if report_path.exists():
+        report=load(report_path);return {x["field"]:x.get("before") for x in report["actions"] if "before" in x}
+    route=load(Path("data/publish_routes")/slug/"route.json");inventory=load("data/runtime_indexes/kb_products_live.json");product=next((x for x in inventory["products"] if x["kb_product_id"]==route.get("kb_product_id")),None)
+    if not product:raise FileNotFoundError("LIVE_BASELINE_TARGET_MISSING")
+    snapshots=Path("data/kb_site_models/kb_product_snapshots").glob("*.json");snapshot=next((load(x) for x in snapshots if load(x).get("name")==product["name"]),None)
+    if not snapshot:raise FileNotFoundError("KB_SNAPSHOT_BASELINE_MISSING")
+    sections={norm(x.get("heading")):x.get("content","") for x in snapshot.get("sections",[])}
+    def section(*names):return next((sections[norm(x)] for x in names if norm(x) in sections),None)
+    return {"full_name":product["name"],"short_name":product.get("short_name"),"category":product.get("category"),"seo_url":product.get("seo_url"),"short_description":section("Deskripsi singkat"),"learning_outcomes":section("Setelah training selesai, peserta bisa","Selesai training, peserta bisa apa saja"),"prerequisites":section("Prasyarat"),"repeat_policy":section("Kebijakan mengulang training"),"practice_examples":section("Contoh praktek"),"post_training_support":section("Support pasca-training"),"selling_points":section("Poin jualan utama"),"claims_to_avoid":section("Klaim yang dihindari"),"additional_notes":section("Catatan tambahan")}
 def _existing_value(field,baseline):
     value=baseline.get(field)
     return as_items(value) if field in SEMANTIC_LIST and value not in (None,"") else value

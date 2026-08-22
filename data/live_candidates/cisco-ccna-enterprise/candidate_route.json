@@ -1,0 +1,12 @@
+{
+  "slug": "cisco-ccna-enterprise",
+  "identity_decision": "UPDATE_EXISTING",
+  "kb_product_id": "eee2a09dbd83438799fda3417c97ef36",
+  "target_url": "https://kb.idn.id/kb/training/edit?id=eee2a09dbd83438799fda3417c97ef36",
+  "historical_route": "data/publish_routes/cisco-ccna-enterprise/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "6c0f33f60926c156b2026c94f3e8cbd7d9a83ab62403989cb50f401a92ddfaea",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

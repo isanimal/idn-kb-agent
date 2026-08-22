@@ -24,6 +24,7 @@ from app.merge.service import merge_batch, merge_check, merge_report
 from app.candidate.service import candidate_preflight, candidate_report, dry_run as candidate_dry_run, parity_model
 from app.live_publish.service import LivePublishError, live_preflight, publish_live
 from app.live_publish.reconcile import ReconciliationError, live_run_report, reconcile_live_run
+from app.canary.service import CanaryError, discover as canary_discover, execute as canary_execute, preflight as canary_preflight
 
 
 def command_health() -> int:
@@ -327,13 +328,30 @@ def command_reconcile_live_run(slug,run_id)->int:
 def command_live_run_report(slug,run_id)->int:
     if not slug or not run_id:print("--slug and --run-id are required",file=sys.stderr);return 2
     data=live_run_report(slug,run_id);o=data["original"];r=data["reconciliation"];v=r["verification"];print(f"FIRST LIVE WRITE\n\nProduct................ Basic Penetration Testing\nHTTP write............. {r['write']['method']} {r['write']['status']}\nServer writes.......... {o['server_write_count']}\nAdditional writes...... {r['additional_server_writes']}\n\nTarget ID.............. {r['target_id']}\nDuplicate check........ {r['duplicate_check']}\nCount.................. {r['count']['before']} -> {r['count']['after']}\n\nField verification:\nMatched................ {v['matched']}\nMismatch............... {v['mismatched']}\nDeferred............... {v['deferred']}\n\nOriginal result........ {r['original_result']}\nEffective result....... {r['effective_publish_status']}");return 0
+def command_canary_discover()->int:
+    r=canary_discover();print("CANARY DISCOVERY")
+    for label,key in (("Eligible UPDATE","UPDATE_EXISTING"),("Eligible CREATE","CREATE_NEW"),("Review required","REVIEW_REQUIRED"),("Not ready","NOT_READY")):
+        print(f"\n{label}:")
+        for x in r["groups"][key]:print(f"- {x['slug']}"+(f" ({', '.join(x['reasons'])})" if x.get("reasons") else ""))
+    print("\nRecommended canary set:")
+    for i,x in enumerate(r["selected"],1):print(f"{i}. {x['slug']} [{x['mode']}]")
+    if r.get("plan"):print(f"\nCanary plan hash....... {r['plan']['canary_plan_hash']}")
+    print("Server writes.......... 0");return 0
+def command_canary_preflight(plan_hash)->int:
+    if not plan_hash:print("--plan-hash is required",file=sys.stderr);return 2
+    r=canary_preflight(plan_hash,get_settings());print(f"CANARY PREFLIGHT\n\nProducts............... {len(r['products'])}")
+    for i,x in enumerate(r["products"],1):print(f"\n{i}. {x['product']}\n   Mode................ {x['mode']}\n   Candidate........... {x['candidate']}\n   Identity............ {x['identity']}\n   Baseline............ {'PASS' if x['baseline'] else 'FAIL'}\n   Duplicate check..... {x['duplicate_check']}")
+    print(f"\nRESULT................ {r['result']}\nSERVER WRITES.......... 0");return 0 if r["result"]=="READY" else 2
+def command_canary_live(plan_hash,confirm_write)->int:
+    if not plan_hash or not confirm_write:print("canary-live requires --plan-hash and --confirm-write",file=sys.stderr);return 2
+    r=canary_execute(plan_hash,confirm_write,get_settings());print(json.dumps(r,ensure_ascii=False,indent=2));return 0 if r["result"]=="VERIFIED" else 2
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live", "reconcile-live-run", "live-run-report"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live", "reconcile-live-run", "live-run-report", "canary-discover", "canary-preflight", "canary-live"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
@@ -341,6 +359,7 @@ def main() -> int:
     parser.add_argument("--candidate-hash")
     parser.add_argument("--confirm-write",action="store_true")
     parser.add_argument("--run-id")
+    parser.add_argument("--plan-hash")
     parser.add_argument("--repair",action="store_true",help="Allow at most one cached/local Ollama quality repair call per product")
     parser.add_argument("--refresh",action="store_true",help="Refresh live read-only KB inventory before duplicate audit")
     mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
@@ -377,6 +396,9 @@ def main() -> int:
         if args.command=="publish-live":return command_publish_live(args.slug,args.candidate_hash,args.confirm_write)
         if args.command=="reconcile-live-run":return command_reconcile_live_run(args.slug,args.run_id)
         if args.command=="live-run-report":return command_live_run_report(args.slug,args.run_id)
+        if args.command=="canary-discover":return command_canary_discover()
+        if args.command=="canary-preflight":return command_canary_preflight(args.plan_hash)
+        if args.command=="canary-live":return command_canary_live(args.plan_hash,args.confirm_write)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
@@ -388,7 +410,7 @@ def main() -> int:
             if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
             return command_kb_learn(args.limit)
         return commands[args.command]()
-    except (LivePublishError,ReconciliationError) as exc:
+    except (LivePublishError,ReconciliationError,CanaryError) as exc:
         print(str(exc),file=sys.stderr);return 2
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")
