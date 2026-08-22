@@ -1,0 +1,107 @@
+{
+  "full_name": {
+    "destination": "Nama lengkap produk",
+    "type": "input",
+    "implemented": true
+  },
+  "short_name": {
+    "destination": "Nama singkat",
+    "type": "input",
+    "implemented": true
+  },
+  "category": {
+    "destination": "Kategori",
+    "type": "select",
+    "implemented": true
+  },
+  "seo_url": {
+    "destination": "Link landing page SEO",
+    "type": "input",
+    "implemented": true
+  },
+  "advertising_links": {
+    "destination": "Link landing page iklan",
+    "type": "dynamic_rows",
+    "implemented": true
+  },
+  "training_formats": {
+    "destination": "Format training, durasi & harga referensi",
+    "type": "dynamic_rows",
+    "implemented": true
+  },
+  "target_audiences": {
+    "destination": "Target peserta",
+    "type": "dynamic_rows",
+    "implemented": true
+  },
+  "certifications": {
+    "destination": "Sertifikasi yang relate",
+    "type": "dynamic_rows",
+    "implemented": true
+  },
+  "tools": {
+    "destination": "Tools / perangkat",
+    "type": "dynamic_rows",
+    "implemented": true
+  },
+  "next_classes": {
+    "destination": "Kelas lanjutan",
+    "type": "dynamic_rows",
+    "implemented": true
+  },
+  "trainer_references": {
+    "destination": "Trainer referensi",
+    "type": "multiselect",
+    "implemented": true
+  },
+  "short_description": {
+    "destination": "Deskripsi singkat",
+    "type": "textarea",
+    "implemented": true
+  },
+  "learning_outcomes": {
+    "destination": "Selesai training, peserta bisa apa saja",
+    "type": "textarea",
+    "implemented": true
+  },
+  "prerequisites": {
+    "destination": "Prasyarat",
+    "type": "textarea",
+    "implemented": true
+  },
+  "repeat_policy": {
+    "destination": "Kebijakan mengulang training",
+    "type": "textarea",
+    "implemented": true
+  },
+  "practice_examples": {
+    "destination": "Contoh praktek",
+    "type": "textarea",
+    "implemented": true
+  },
+  "post_training_support": {
+    "destination": "Support pasca-training",
+    "type": "textarea",
+    "implemented": true
+  },
+  "selling_points": {
+    "destination": "Poin jualan utama",
+    "type": "textarea",
+    "implemented": true
+  },
+  "claims_to_avoid": {
+    "destination": "Klaim yang dihindari",
+    "type": "textarea",
+    "implemented": true
+  },
+  "additional_notes": {
+    "destination": "Catatan tambahan",
+    "type": "textarea",
+    "implemented": true
+  },
+  "active": {
+    "destination": "Aktif — tampil di daftar dan dipakai AI untuk menjawab",
+    "type": "checkbox",
+    "implemented": true
+  }
+}

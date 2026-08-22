@@ -21,6 +21,7 @@ from app.quality.service import build_report as build_quality_report, run_batch 
 from app.identity.service import LIVE as KB_LIVE_INDEX, audit_duplicates, load as identity_load, refresh_live_index, route_product
 from app.publisher.service import PublishReadinessViolation, dry_run as publisher_dry_run, preflight as publisher_preflight_check, report as publisher_saved_report
 from app.merge.service import merge_batch, merge_check, merge_report
+from app.candidate.service import candidate_preflight, candidate_report, dry_run as candidate_dry_run, parity_model
 
 
 def command_health() -> int:
@@ -293,13 +294,32 @@ def command_merge_batch(limit)->int:
     rows=merge_batch(limit)
     for r in rows:print(f"{r['slug']:40} {r['merge_readiness']:16} prevented={r['regressions_prevented']}")
     print(f"\nMerged {len(rows)} product(s); KB writes: 0");return 0
+def command_publisher_parity_report()->int:
+    from app.resolver.models import KBProductPayload
+    p=parity_model();fields=list(KBProductPayload.model_fields);missing=[x for x in fields if x not in p];print(f"PUBLISHER FIELD PARITY\n\nTOTAL PAYLOAD FIELDS....... {len(fields)}\nIMPLEMENTED................ {sum(x in p for x in fields)}\nMISSING.................... {len(missing)}")
+    if missing:print("Missing: "+", ".join(missing));return 2
+    return 0
+def command_candidate_preflight(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    r=candidate_preflight(slug);print(f"LIVE CANDIDATE PREFLIGHT\n\nProduct................. {slug}\nQuality................. {r['route']['publish_readiness']}\nIdentity................ {r['route']['identity_decision']}\nPayload fields.......... {r['parity']['total']}\nMapped.................. {r['parity']['implemented']}\nMissing.................. {len(r['parity']['missing'])}\n\nRESULT: {'READY' if r['ready'] else 'BLOCKED'}")
+    if r["reasons"]:print("Reasons: "+", ".join(r["reasons"]));return 2
+    return 0
+def command_candidate_dry_run(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    r=candidate_dry_run(slug,get_settings());print(f"LIVE CANDIDATE DRY RUN\n\nProduct................. {slug}\nMode.................... {r['mode']}\nField parity............ {r['field_parity']['implemented']}/{r['field_parity']['total']}\nRound trip.............. {r['round_trip']}\nContent regression...... {'YES' if r['content_regression'] else 'NO'}\nUnexpected removal...... {'YES' if r['unexpected_removal'] else 'NO'}\nDeferred relations...... {r['deferred_relations_count']}\nCandidate hash.......... {r['candidate_hash']}\nLive candidate.......... {r['live_candidate_readiness']}\nServer writes........... 0\nSave clicked............ NO");return 0 if r["live_candidate_readiness"]=="READY" else 2
+def command_candidate_report(slug)->int:
+    if not slug:print("--slug is required",file=sys.stderr);return 2
+    r=candidate_report(slug);c=r["changes"];d=r["dynamic"];print(f"LIVE CANDIDATE REPORT\n\nProduct................ {slug}\nMode................... {r['mode']}\n\nQuality................ {r['quality']}\nIdentity............... {r['identity']}\nMerge.................. {r['merge']}\n\nField parity:\nPayload fields......... {r['field_parity']['total']}\nMapped................. {r['field_parity']['implemented']}\nUnsupported............ {len(r['field_parity']['missing'])}\n\nChanges:\nUNCHANGED.............. {c['UNCHANGED']}\nFILL_EMPTY............. {c['FILL_EMPTY']}\nREPLACE................ {c['REPLACE_WITH_NEW']}\nAUGMENT................ {c['AUGMENT']}\nPRESERVE............... {c['PRESERVE_EXISTING']}\nDEFERRED............... {c['DEFERRED_RELATION']}\n\nDynamic:")
+    for k,v in d.items():print(f"{k:24} {v}")
+    print(f"\nOriginal conflicts..... {r['original_conflicts']}\nResolved by preserve... {r['resolved_by_preserve']}\nEffective conflicts.... {r['effective_conflicts']}\n\nRound trip............. {r['round_trip']}\nContent regression..... {'YES' if r['content_regression'] else 'NO'}\nUnexpected removal..... {'YES' if r['unexpected_removal'] else 'NO'}\n\nCandidate hash......... {r['candidate_hash']}\nLive candidate......... {r['live_candidate_readiness']}\nServer writes.......... 0")
+    return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
@@ -332,6 +352,10 @@ def main() -> int:
         if args.command=="merge-check":return command_merge_check(args.slug,args.local_ai)
         if args.command=="merge-report":return command_merge_report(args.slug)
         if args.command=="merge-batch":return command_merge_batch(args.limit)
+        if args.command=="publisher-parity-report":return command_publisher_parity_report()
+        if args.command=="candidate-preflight":return command_candidate_preflight(args.slug)
+        if args.command=="candidate-dry-run":return command_candidate_dry_run(args.slug)
+        if args.command=="candidate-report":return command_candidate_report(args.slug)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")

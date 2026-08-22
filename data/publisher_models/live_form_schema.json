@@ -1,0 +1,168 @@
+{
+  "schema_version": "publisher-live-form-v1",
+  "generated_at": "2026-08-21T17:47:21.020383+00:00",
+  "sections": {
+    "advertising_links": {
+      "section": "Link landing page iklan",
+      "row_selector": ".entry-row",
+      "semantic_keys": [
+        "url",
+        "label"
+      ],
+      "labels": [
+        "URL",
+        "Keterangan"
+      ],
+      "select_options": {},
+      "schema_ambiguous": false,
+      "existing_rows": 0,
+      "add_button": "Tambah",
+      "client_side_probe_added": true
+    },
+    "training_formats": {
+      "section": "Format training, durasi & harga referensi",
+      "row_selector": ".entry-row",
+      "semantic_keys": [
+        "format",
+        "duration",
+        "schedule",
+        "public_price_reference",
+        "private_price_reference"
+      ],
+      "labels": [
+        "Format",
+        "Durasi",
+        "Jam training",
+        "Harga public referensi (Rp)",
+        "Harga private/in-house referensi (Rp)"
+      ],
+      "select_options": {
+        "0": [
+          "Offline",
+          "Online",
+          "Hybrid",
+          "Kelas Malam"
+        ]
+      },
+      "schema_ambiguous": false,
+      "existing_rows": 1,
+      "add_button": "Tambah",
+      "client_side_probe_added": false
+    },
+    "target_audiences": {
+      "section": "Target peserta",
+      "row_selector": ".entry-row",
+      "semantic_keys": [
+        "audience",
+        "problem_solved"
+      ],
+      "labels": [
+        "Target peserta",
+        "Masalah yang diselesaikan"
+      ],
+      "select_options": {},
+      "schema_ambiguous": false,
+      "existing_rows": 15,
+      "add_button": "Tambah",
+      "client_side_probe_added": false
+    },
+    "certifications": {
+      "section": "Sertifikasi yang relate",
+      "row_selector": ".entry-row",
+      "semantic_keys": [
+        "name",
+        "level",
+        "exam_price",
+        "exam_duration",
+        "question_count",
+        "passing_score",
+        "open_book",
+        "retake_policy"
+      ],
+      "labels": [
+        "Nama sertifikat",
+        "Level",
+        "Biaya ujian referensi (Rp)",
+        "Durasi exam",
+        "Jumlah soal",
+        "Skor lulus minimal",
+        "Open book",
+        "Kebijakan retake exam"
+      ],
+      "select_options": {
+        "0": [
+          "— Belum diisi —",
+          "Ya",
+          "Tidak"
+        ]
+      },
+      "schema_ambiguous": false,
+      "existing_rows": 1,
+      "add_button": "Tambah",
+      "client_side_probe_added": false
+    },
+    "tools": {
+      "section": "Tools / perangkat",
+      "row_selector": ".entry-row",
+      "semantic_keys": [
+        "name",
+        "provided_by"
+      ],
+      "labels": [
+        "Nama tools / perangkat",
+        "Disiapkan oleh"
+      ],
+      "select_options": {
+        "0": [
+          "Disiapkan IDN",
+          "Disiapkan peserta"
+        ]
+      },
+      "schema_ambiguous": false,
+      "existing_rows": 1,
+      "add_button": "Tambah",
+      "client_side_probe_added": false
+    },
+    "next_classes": {
+      "section": "Kelas lanjutan",
+      "row_selector": ".entry-row",
+      "semantic_keys": [
+        "training_name",
+        "reason"
+      ],
+      "labels": [
+        "Produk lanjutan",
+        "Alasan"
+      ],
+      "select_options": {
+        "0": [
+          "— Pilih produk —",
+          "AI & Automation Tools (n8n)",
+          "AWS Solution Architect",
+          "Cisco CCIE Enterprise Infrastructure",
+          "Cisco CCNA 200 – 301 v1.1",
+          "Cisco CCNP Enterprise (ENCOR, ENARSI)",
+          "CompTIA Network+",
+          "Fortigate Firewall Security (NSE 4) / FortiGate Administrator (FCP)",
+          "Fortinet NSE 6 - FortiManager Administrator",
+          "Huawei HCIA Datacom",
+          "Juniper JNCIA Junos",
+          "Linux System Administrator",
+          "MikroTik MTCINE + Exam",
+          "MikroTik MTCNA + International Certification Exam",
+          "MikroTik MTCRE + Exam",
+          "Mikrotik MTCSE + Exam",
+          "MikroTik MTCTCE + Exam",
+          "MikroTik MTCUME + Exam",
+          "MikroTik MTCWE + Exam",
+          "RedHat System Administration",
+          "WINDOWS SERVER ADMIN 2019"
+        ]
+      },
+      "schema_ambiguous": false,
+      "existing_rows": 0,
+      "add_button": "Tambah",
+      "client_side_probe_added": true
+    }
+  }
+}
