@@ -1,4 +1,4 @@
-import hashlib,json
+import hashlib,json,time,re
 from dataclasses import dataclass,field
 from datetime import datetime,timezone,timedelta
 from enum import Enum
@@ -24,22 +24,41 @@ class SaveControlMissing(LivePublishError):pass
 class SaveControlAmbiguous(LivePublishError):pass
 
 class PublishState(str,Enum):
-    PREPARING="PREPARING";VALIDATING="VALIDATING";FORM_FILLED="FORM_FILLED";FINAL_VERIFICATION="FINAL_VERIFICATION";ARMED="ARMED";SUBMITTING="SUBMITTING";SUBMITTED="SUBMITTED";VERIFYING="VERIFYING";VERIFIED="VERIFIED"
+    PREPARING="PREPARING";VALIDATING="VALIDATING";FORM_FILLED="FORM_FILLED";FINAL_VERIFICATION="FINAL_VERIFICATION";ARMED="ARMED";SAVE_CLICK_ACTIVE="SAVE_CLICK_ACTIVE";SUBMITTING="SUBMITTING";SUBMITTED="SUBMITTED";VERIFYING="VERIFYING";VERIFIED="VERIFIED"
+
+@dataclass(frozen=True)
+class SaveRequestPolicy:
+    method:str;path_pattern:str;target_product_id:str|None;candidate_name:str;required_body_keys:frozenset[str]=frozenset({"name","short_name","category_id","seo_url","is_active","details"})
+    @classmethod
+    def update(cls,product_id,name):return cls("PUT",rf"^/api/trainings/{re.escape(product_id)}$",product_id,name)
+    @classmethod
+    def create(cls,name):return cls("POST",r"^/api/trainings$",None,name)
+    def validate(self,request):
+        url=urlsplit(request.url);method=request.method.upper();content_type=(request.headers.get("content-type","") if hasattr(request,"headers") else "").lower()
+        if method!=self.method or (url.hostname or "").lower()!="kb.idn.id" or not re.fullmatch(self.path_pattern,url.path) or "application/json" not in content_type:return False,{"keys":[],"candidate_identity_match":False}
+        try:body=request.post_data_json if not callable(request.post_data_json) else request.post_data_json()
+        except Exception:return False,{"keys":[],"candidate_identity_match":False}
+        keys=sorted(body) if isinstance(body,dict) else [];identity=isinstance(body,dict) and body.get("name")==self.candidate_name
+        return self.required_body_keys.issubset(keys) and identity,{"keys":keys,"candidate_identity_match":identity}
 
 @dataclass
 class PublisherWriteGuard:
+    policy:SaveRequestPolicy|None=None
     state:PublishState=PublishState.PREPARING
     allowed_host:str="kb.idn.id"
     save_requests:int=0
     blocked:list[dict]=field(default_factory=list)
     network_audit:list[dict]=field(default_factory=list)
+    save_window_deadline:float=0
     def install(self,context):
         def handler(route,request):
             host=(urlsplit(request.url).hostname or "").lower();method=request.method.upper()
             if host==self.allowed_host and method in MUTATING_METHODS:
                 item={"method":method,"host":host,"path":urlsplit(request.url).path}
-                if self.state==PublishState.ARMED and self.save_requests==0:
-                    self.save_requests=1;self.state=PublishState.SUBMITTING;self.network_audit.append(item);route.continue_();return
+                deny=bool(re.fullmatch(r"/api/articles/[^/]+/view",item["path"])) or any(x in item["path"].lower() for x in ("analytics","telemetry","beacon","track"))
+                valid,shape=(self.policy.validate(request) if self.policy else (False,{"keys":[],"candidate_identity_match":False}))
+                if not deny and self.state==PublishState.SAVE_CLICK_ACTIVE and time.monotonic()<=self.save_window_deadline and self.save_requests==0 and valid:
+                    self.save_requests=1;self.save_window_deadline=0;self.state=PublishState.SUBMITTING;item["body_shape"]=shape;self.network_audit.append(item);route.continue_();return
                 self.blocked.append(item);route.abort("blockedbyclient");return
             route.continue_()
         context.route("**/*",handler)
@@ -51,6 +70,9 @@ class PublisherWriteGuard:
     def arm(self):
         if self.state!=PublishState.FINAL_VERIFICATION:raise LivePublishError("WRITE_GUARD_NOT_FINAL")
         self.state=PublishState.ARMED
+    def begin_save_window(self,seconds=3):
+        if self.state!=PublishState.ARMED:raise LivePublishError("WRITE_GUARD_NOT_ARMED")
+        self.save_window_deadline=time.monotonic()+seconds;self.state=PublishState.SAVE_CLICK_ACTIVE
 
 def _sha(value):return hashlib.sha256(json.dumps(value,sort_keys=True,ensure_ascii=False).encode()).hexdigest()
 def _artifacts(slug):
@@ -92,7 +114,9 @@ def live_preflight(slug,supplied_hash,settings,refresh=True):
         if not _schema_compatible(load("data/publisher_models/live_form_schema.json"),schema):raise LivePublishError("SCHEMA_INCOMPATIBLE")
         _save_control(page)
         if guard.blocked:raise LivePublishError("UNEXPECTED_SERVER_MUTATION")
-        return {"product":payload["full_name"],"slug":slug,"mode":route["identity_decision"],"candidate_hash":supplied_hash,"candidate_age_seconds":int(age.total_seconds()),"hash_supplied":"MATCH","hash_recomputed":"MATCH","kb_product_id":route.get("kb_product_id"),"identity":"MATCH","duplicate_check":"PASS","stored_baseline_hash":stored_hash,"current_baseline_hash":current_hash,"baseline_match":True,"schema":"COMPATIBLE","round_trip":"PASS","regression":"NONE","effective_conflicts":0,"deferred_relations":a["candidate_report.json"]["deferred_relations_count"],"old_inventory_hash":a["baseline_hash.json"]["inventory_hash"],"new_inventory_hash":inventory["inventory_hash"],"result":"ARMED_CANDIDATE_READY","server_writes":0}
+        model=load("data/publisher_models/save_endpoint_model.json")
+        if model.get("confidence")!="HIGH":raise LivePublishError("LIVE_WRITE_NOT_SAFE")
+        return {"product":payload["full_name"],"slug":slug,"mode":route["identity_decision"],"candidate_hash":supplied_hash,"candidate_age_seconds":int(age.total_seconds()),"hash_supplied":"MATCH","hash_recomputed":"MATCH","kb_product_id":route.get("kb_product_id"),"identity":"MATCH","duplicate_check":"PASS","stored_baseline_hash":stored_hash,"current_baseline_hash":current_hash,"baseline_match":True,"schema":"COMPATIBLE","round_trip":"PASS","regression":"NONE","effective_conflicts":0,"deferred_relations":a["candidate_report.json"]["deferred_relations_count"],"save_request_policy":"READY","old_inventory_hash":a["baseline_hash.json"]["inventory_hash"],"new_inventory_hash":inventory["inventory_hash"],"result":"ARMED_CANDIDATE_READY","server_writes":0}
     finally:manager.stop()
 
 def _apply_candidate(page,baseline,candidate,diff,trainer_options):
@@ -117,7 +141,7 @@ def _apply_candidate(page,baseline,candidate,diff,trainer_options):
 def publish_live(slug,supplied_hash,confirm_write,settings):
     if not confirm_write:raise LivePublishError("EXPLICIT_WRITE_CONFIRMATION_REQUIRED")
     pre=live_preflight(slug,supplied_hash,settings,refresh=True);a=_artifacts(slug);route=a["candidate_route.json"];run_id=datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")+f"-{slug}-{supplied_hash[:8]}";folder=RUNS/slug/run_id
-    inventory=load(LIVE);manager=BrowserManager(settings.browser_profile_path,False);guard=PublisherWriteGuard();save_clicks=0
+    inventory=load(LIVE);policy=SaveRequestPolicy.update(route["kb_product_id"],a["candidate_payload.json"]["full_name"]) if route["identity_decision"]=="UPDATE_EXISTING" else SaveRequestPolicy.create(a["candidate_payload.json"]["full_name"]);manager=BrowserManager(settings.browser_profile_path,False);guard=PublisherWriteGuard(policy=policy);save_clicks=0
     try:
         manager.start();guard.install(manager.context);page=manager.new_page();_ensure(page,route["target_url"]);schema=discover_schema(page)
         if any(x["client_side_probe_added"] for x in schema["sections"].values()):_ensure(page,route["target_url"])
@@ -132,7 +156,7 @@ def publish_live(slug,supplied_hash,confirm_write,settings):
             if _has_removal(d["field"],baseline[d["field"]],final[d["field"]]):raise LivePublishError("UNEXPECTED_REMOVAL")
         guard.state=PublishState.FINAL_VERIFICATION;button=_save_control(page);guard.arm()
         print(f"LIVE WRITE ARMED\n\nProduct: {a['candidate_payload.json']['full_name']}\nMode: {route['identity_decision']}\nKB Product ID: {route.get('kb_product_id')}\nCandidate Hash: {supplied_hash}\nDeferred relations: {a['candidate_report.json']['deferred_relations_count']}\nCONFIRMATION FLAG: VALID",flush=True)
-        uncertain=False
+        uncertain=False;guard.begin_save_window()
         try:button.click();save_clicks=1
         except Exception:
             # A timeout after the request may still mean persistence succeeded.

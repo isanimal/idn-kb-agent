@@ -54,36 +54,54 @@ def test_write_guard_only_arms_from_final_verification():
     guard.state=service.PublishState.FINAL_VERIFICATION;guard.arm();assert guard.state==service.PublishState.ARMED
 
 
-def test_write_guard_allows_exactly_one_mutation_and_never_retries():
+def _guard_harness():
     handlers={}
     class Context:
         def route(self,pattern,handler):handlers["handler"]=handler
         def on(self,*args):pass
     class Request:
-        method="POST";url="https://kb.idn.id/kb/training/edit"
+        method="PUT";url="https://kb.idn.id/api/trainings/id-1";headers={"content-type":"application/json"};post_data_json={"name":"Product","short_name":"P","category_id":"c","seo_url":"u","is_active":True,"details":{}}
     class Route:
         def __init__(self):self.result=None
         def continue_(self):self.result="continued"
         def abort(self,*args):self.result="blocked"
-    guard=service.PublisherWriteGuard(state=service.PublishState.ARMED);guard.install(Context());first=Route();handlers["handler"](first,Request());second=Route();handlers["handler"](second,Request())
+    guard=service.PublisherWriteGuard(policy=service.SaveRequestPolicy.update("id-1","Product"));guard.install(Context());guard.state=service.PublishState.FINAL_VERIFICATION;guard.arm()
+    return guard,handlers["handler"],Request,Route
+
+
+def test_write_guard_allows_exactly_one_mutation_and_never_retries():
+    guard,handler,Request,Route=_guard_harness();guard.begin_save_window();first=Route();handler(first,Request());second=Route();handler(second,Request())
     assert first.result=="continued" and second.result=="blocked" and guard.save_requests==1
 
 
 def test_network_audit_is_sanitized():
-    guard=service.PublisherWriteGuard(state=service.PublishState.ARMED);handlers={}
-    class Context:
-        def route(self,p,h):handlers["h"]=h
-        def on(self,*args):pass
-    class Request:method="PATCH";url="https://kb.idn.id/kb/training/edit?id=secret"
-    class Route:
-        def continue_(self):pass
-        def abort(self,*args):pass
-    guard.install(Context());handlers["h"](Route(),Request())
-    assert guard.network_audit==[{"method":"PATCH","host":"kb.idn.id","path":"/kb/training/edit"}]
+    guard,handler,Request,Route=_guard_harness();guard.begin_save_window();handler(Route(),Request())
+    assert guard.network_audit[0]["method"]=="PUT"
+    assert guard.network_audit[0]["path"]=="/api/trainings/id-1"
+    assert set(guard.network_audit[0])=={"method","host","path","body_shape"}
+
+
+@pytest.mark.parametrize("method,path",[("POST","/api/articles/abc/view"),("POST","/api/random-resource"),("PATCH","/api/random-resource")])
+def test_background_and_unexpected_mutations_do_not_consume_save(method,path):
+    guard,handler,Request,Route=_guard_harness();guard.begin_save_window();wrong=Request();wrong.method=method;wrong.url="https://kb.idn.id"+path;blocked=Route();handler(blocked,wrong)
+    expected=Request();expected.method="PUT";expected.url="https://kb.idn.id/api/trainings/id-1";allowed=Route();handler(allowed,expected)
+    assert blocked.result=="blocked" and allowed.result=="continued" and guard.save_requests==1
+
+
+def test_expected_save_is_blocked_outside_click_window():
+    guard,handler,Request,Route=_guard_harness();result=Route();handler(result,Request())
+    assert result.result=="blocked" and guard.save_requests==0
+
+
+@pytest.mark.parametrize("change",["identity","shape"])
+def test_wrong_identity_or_body_shape_is_blocked(change):
+    guard,handler,Request,Route=_guard_harness();guard.begin_save_window();request=Request();request.post_data_json=dict(Request.post_data_json)
+    if change=="identity":request.post_data_json["name"]="Other"
+    else:request.post_data_json.pop("details")
+    result=Route();handler(result,request);assert result.result=="blocked" and guard.save_requests==0
 
 
 def test_update_identity_must_keep_same_target_id():
     route={"identity_decision":"UPDATE_EXISTING","kb_product_id":"expected"}
     inventory={"products":[{"kb_product_id":"other","name":"Product","normalized_name":"product","canonical_seo_url":None}]}
     with pytest.raises(service.IdentityChanged):service._identity("p",{"full_name":"Product","seo_url":"https://idn.id/missing"},inventory,route)
-

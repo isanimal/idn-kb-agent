@@ -1,0 +1,25 @@
+{
+  "schema_version": "save-endpoint-model-v1",
+  "generated_at": "2026-08-22T02:00:00Z",
+  "discovery": "Authenticated edit-page Next.js bundle static inspection using read-only GET requests",
+  "source_bundle": "/_next/static/chunks/app/(app)/kb/training/edit/page-b449f4b081d60911.js",
+  "update": {
+    "method": "PUT",
+    "path_pattern": "^/api/trainings/(?P<product_id>[^/]+)$"
+  },
+  "create": {
+    "method": "POST",
+    "path_pattern": "^/api/trainings$"
+  },
+  "content_type": "application/json",
+  "required_body_keys": [
+    "name",
+    "short_name",
+    "category_id",
+    "seo_url",
+    "is_active",
+    "details"
+  ],
+  "body_storage": "KEYS_ONLY",
+  "confidence": "HIGH"
+}
