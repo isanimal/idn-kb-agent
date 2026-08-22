@@ -2,9 +2,11 @@ import json
 from datetime import datetime,timezone,timedelta
 
 import pytest
+import inspect
 
 from app.candidate.service import candidate_hash
 from app.live_publish import service
+from app.live_publish import reconcile
 
 
 def _write(path,value):
@@ -105,3 +107,11 @@ def test_update_identity_must_keep_same_target_id():
     route={"identity_decision":"UPDATE_EXISTING","kb_product_id":"expected"}
     inventory={"products":[{"kb_product_id":"other","name":"Product","normalized_name":"product","canonical_seo_url":None}]}
     with pytest.raises(service.IdentityChanged):service._identity("p",{"full_name":"Product","seo_url":"https://idn.id/missing"},inventory,route)
+
+
+def test_reconciliation_is_read_only_and_checks_original_audit_immutability():
+    source=inspect.getsource(reconcile.reconcile_live_run)
+    assert "ReadOnlyGuard" in source
+    assert "ORIGINAL_AUDIT_MODIFIED" in source
+    assert "publish_live" not in source
+    assert "button.click" not in source

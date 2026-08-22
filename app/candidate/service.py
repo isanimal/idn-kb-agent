@@ -49,13 +49,27 @@ def _section(page,title):return page.get_by_text(title,exact=True).first.locator
 def _control_value(control):
     if control.evaluate("e=>e.tagName")=="SELECT":return control.locator("option:checked").inner_text().strip()
     return control.input_value()
-def _rows(page,key):
+PLACEHOLDER_VALUES={"— Pilih produk —","— Belum diisi —","— Pilih —"}
+def normalize_dynamic_state(field,rows):
+    normalized=[]
+    for original in rows:
+        row={k:("" if isinstance(v,str) and v.strip() in PLACEHOLDER_VALUES else v) for k,v in original.items()}
+        if field=="advertising_links":meaningful=bool(row.get("url") or row.get("label"))
+        elif field=="training_formats":meaningful=bool(row.get("duration") or row.get("schedule") or row.get("public_price_reference") not in (None,"","0","Rp 0") or row.get("private_price_reference") not in (None,"","0","Rp 0") or row.get("format") not in (None,"","Offline"))
+        elif field=="target_audiences":meaningful=bool(row.get("audience") or row.get("problem_solved"))
+        elif field=="certifications":meaningful=any(v not in (None,"") for v in row.values())
+        elif field=="tools":meaningful=bool(row.get("name"))
+        elif field=="next_classes":meaningful=bool(row.get("training_name") or row.get("reason"))
+        else:meaningful=any(v not in (None,"") for v in row.values())
+        if meaningful:normalized.append(row)
+    return normalized
+def _rows(page,key,normalize=True):
     title,keys=SECTIONS[key];section=_section(page,title);output=[]
     for row in section.locator(".entry-row").all():
         controls=row.locator("input,textarea,select").all();values={}
         for semantic,control in zip(keys,controls):values[semantic]=_control_value(control)
         output.append(values)
-    return output
+    return normalize_dynamic_state(key,output) if normalize else output
 def discover_schema(page):
     sections={}
     for key,(title,keys) in SECTIONS.items():
@@ -70,10 +84,10 @@ def discover_schema(page):
         expected=EXPECTED_LABELS[key];ambiguous=bool(labels and labels!=expected)
         sections[key]={"section":title,"row_selector":".entry-row","semantic_keys":keys,"labels":labels,"select_options":options,"schema_ambiguous":ambiguous,"existing_rows":section.locator('.entry-row').count()-(1 if probe_added else 0),"add_button":"Tambah","client_side_probe_added":probe_added}
     data={"schema_version":"publisher-live-form-v1","generated_at":datetime.now(timezone.utc).isoformat(),"sections":sections};save(MODELS/"live_form_schema.json",data);return data
-def parse_full(page,schema,trainer_options):
+def parse_full(page,schema,trainer_options,normalize_dynamic=True):
     state={}
     for key,(label,_) in PARITY.items():
-        if key in SECTIONS:state[key]=_rows(page,key)
+        if key in SECTIONS:state[key]=_rows(page,key,normalize_dynamic)
         elif key=="trainer_references":
             trigger=page.get_by_label("Trainer referensi",exact=False).first;text=trigger.inner_text().strip();names=[] if "Pilih trainer" in text else [x.strip() for x in text.split(",") if x.strip()];by_name={x["display_name"]:x["value"] for x in trainer_options};state[key]=[{"trainer_name":x,"kb_trainer_id":by_name.get(x)} for x in names]
         elif key=="active":state[key]=page.get_by_label(label,exact=False).first.is_checked()

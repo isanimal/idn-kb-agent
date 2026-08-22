@@ -23,6 +23,7 @@ from app.publisher.service import PublishReadinessViolation, dry_run as publishe
 from app.merge.service import merge_batch, merge_check, merge_report
 from app.candidate.service import candidate_preflight, candidate_report, dry_run as candidate_dry_run, parity_model
 from app.live_publish.service import LivePublishError, live_preflight, publish_live
+from app.live_publish.reconcile import ReconciliationError, live_run_report, reconcile_live_run
 
 
 def command_health() -> int:
@@ -320,19 +321,26 @@ def command_live_preflight(slug,candidate_hash)->int:
 def command_publish_live(slug,candidate_hash,confirm_write)->int:
     if not slug or not candidate_hash or not confirm_write:print("publish-live requires --slug, --candidate-hash, and --confirm-write",file=sys.stderr);return 2
     r=publish_live(slug,candidate_hash,confirm_write,get_settings());print(json.dumps(r,ensure_ascii=False,indent=2));return 0 if r["result"]=="PASS" else 2
+def command_reconcile_live_run(slug,run_id)->int:
+    if not slug or not run_id:print("--slug and --run-id are required",file=sys.stderr);return 2
+    r=reconcile_live_run(slug,run_id,get_settings());v=r["verification"];print(f"LIVE RUN RECONCILIATION\n\nRun.................... {run_id}\nOriginal result........ {r['original_result']}\nMatched................ {v['matched']}\nMismatched............. {v['mismatched']}\nDeferred............... {v['deferred']}\nNormalization fixes.... {len(r['normalization_corrections'])}\nAdditional writes...... 0\n\nEFFECTIVE RESULT....... {r['effective_publish_status']}");return 0 if r["result"]=="VERIFIED" else 2
+def command_live_run_report(slug,run_id)->int:
+    if not slug or not run_id:print("--slug and --run-id are required",file=sys.stderr);return 2
+    data=live_run_report(slug,run_id);o=data["original"];r=data["reconciliation"];v=r["verification"];print(f"FIRST LIVE WRITE\n\nProduct................ Basic Penetration Testing\nHTTP write............. {r['write']['method']} {r['write']['status']}\nServer writes.......... {o['server_write_count']}\nAdditional writes...... {r['additional_server_writes']}\n\nTarget ID.............. {r['target_id']}\nDuplicate check........ {r['duplicate_check']}\nCount.................. {r['count']['before']} -> {r['count']['after']}\n\nField verification:\nMatched................ {v['matched']}\nMismatch............... {v['mismatched']}\nDeferred............... {v['deferred']}\n\nOriginal result........ {r['original_result']}\nEffective result....... {r['effective_publish_status']}");return 0
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live", "reconcile-live-run", "live-run-report"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
     parser.add_argument("--slug")
     parser.add_argument("--candidate-hash")
     parser.add_argument("--confirm-write",action="store_true")
+    parser.add_argument("--run-id")
     parser.add_argument("--repair",action="store_true",help="Allow at most one cached/local Ollama quality repair call per product")
     parser.add_argument("--refresh",action="store_true",help="Refresh live read-only KB inventory before duplicate audit")
     mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
@@ -367,6 +375,8 @@ def main() -> int:
         if args.command=="candidate-report":return command_candidate_report(args.slug)
         if args.command=="live-preflight":return command_live_preflight(args.slug,args.candidate_hash)
         if args.command=="publish-live":return command_publish_live(args.slug,args.candidate_hash,args.confirm_write)
+        if args.command=="reconcile-live-run":return command_reconcile_live_run(args.slug,args.run_id)
+        if args.command=="live-run-report":return command_live_run_report(args.slug,args.run_id)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
@@ -378,7 +388,7 @@ def main() -> int:
             if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
             return command_kb_learn(args.limit)
         return commands[args.command]()
-    except LivePublishError as exc:
+    except (LivePublishError,ReconciliationError) as exc:
         print(str(exc),file=sys.stderr);return 2
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")

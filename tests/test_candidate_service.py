@@ -65,3 +65,24 @@ def test_dry_run_source_has_no_save_or_dynamic_delete_action():
     assert 'name="Hapus"' not in source
     assert 'name="Delete"' not in source
 
+
+def test_blank_dynamic_rows_have_canonical_empty_representation():
+    cases = {
+        "advertising_links": [{"url":"","label":""}],
+        "next_classes": [{"training_name":"— Pilih produk —","reason":""}],
+        "tools": [{"name":"","provided_by":"Disiapkan IDN"}],
+        "target_audiences": [{"audience":"","problem_solved":""}],
+        "training_formats": [{"format":"Offline","duration":"","schedule":"","public_price_reference":"0","private_price_reference":"0"}],
+        "certifications": [{"name":"","level":"","open_book":"— Belum diisi —"}],
+    }
+    for field,rows in cases.items():assert service.normalize_dynamic_state(field,rows)==[]
+
+
+def test_partially_populated_dynamic_row_is_preserved():
+    rows=[{"url":"https://example.com","label":""}]
+    assert service.normalize_dynamic_state("advertising_links",rows)==rows
+
+
+def test_meaningful_certification_survives_placeholder_normalization():
+    rows=[{"name":"Sertifikat Penyelesaian Training dari ID-Networkers","level":"","open_book":"— Belum diisi —"}]
+    assert service.normalize_dynamic_state("certifications",rows)==[{"name":"Sertifikat Penyelesaian Training dari ID-Networkers","level":"","open_book":""}]
