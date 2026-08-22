@@ -22,6 +22,7 @@ from app.identity.service import LIVE as KB_LIVE_INDEX, audit_duplicates, load a
 from app.publisher.service import PublishReadinessViolation, dry_run as publisher_dry_run, preflight as publisher_preflight_check, report as publisher_saved_report
 from app.merge.service import merge_batch, merge_check, merge_report
 from app.candidate.service import candidate_preflight, candidate_report, dry_run as candidate_dry_run, parity_model
+from app.live_publish.service import LivePublishError, live_preflight, publish_live
 
 
 def command_health() -> int:
@@ -313,17 +314,25 @@ def command_candidate_report(slug)->int:
     for k,v in d.items():print(f"{k:24} {v}")
     print(f"\nOriginal conflicts..... {r['original_conflicts']}\nResolved by preserve... {r['resolved_by_preserve']}\nEffective conflicts.... {r['effective_conflicts']}\n\nRound trip............. {r['round_trip']}\nContent regression..... {'YES' if r['content_regression'] else 'NO'}\nUnexpected removal..... {'YES' if r['unexpected_removal'] else 'NO'}\n\nCandidate hash......... {r['candidate_hash']}\nLive candidate......... {r['live_candidate_readiness']}\nServer writes.......... 0")
     return 0
+def command_live_preflight(slug,candidate_hash)->int:
+    if not slug or not candidate_hash:print("--slug and --candidate-hash are required",file=sys.stderr);return 2
+    r=live_preflight(slug,candidate_hash,get_settings());print(f"LIVE PUBLISH PREFLIGHT\n\nProduct................ {r['product']}\nMode................... {r['mode']}\n\nCandidate:\nReadiness.............. READY\nHash supplied.......... {r['hash_supplied']}\nHash recomputed........ {r['hash_recomputed']}\nAge.................... OK ({r['candidate_age_seconds']}s)\n\nIdentity:\nKB ID.................. {r['kb_product_id']}\nLive identity.......... {r['identity']}\nDuplicate check........ {r['duplicate_check']}\n\nBaseline:\nStored hash............ {r['stored_baseline_hash']}\nCurrent hash........... {r['current_baseline_hash']}\nMatch.................. {'YES' if r['baseline_match'] else 'NO'}\n\nSchema................. {r['schema']}\nRound trip............. {r['round_trip']}\nRegression............. {r['regression']}\nEffective conflicts.... {r['effective_conflicts']}\nDeferred relations..... {r['deferred_relations']}\n\nRESULT................. {r['result']}\nSERVER WRITES.......... 0");return 0
+def command_publish_live(slug,candidate_hash,confirm_write)->int:
+    if not slug or not candidate_hash or not confirm_write:print("publish-live requires --slug, --candidate-hash, and --confirm-write",file=sys.stderr);return 2
+    r=publish_live(slug,candidate_hash,confirm_write,get_settings());print(json.dumps(r,ensure_ascii=False,indent=2));return 0 if r["result"]=="PASS" else 2
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
     parser.add_argument("--slug")
+    parser.add_argument("--candidate-hash")
+    parser.add_argument("--confirm-write",action="store_true")
     parser.add_argument("--repair",action="store_true",help="Allow at most one cached/local Ollama quality repair call per product")
     parser.add_argument("--refresh",action="store_true",help="Refresh live read-only KB inventory before duplicate audit")
     mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
@@ -356,6 +365,8 @@ def main() -> int:
         if args.command=="candidate-preflight":return command_candidate_preflight(args.slug)
         if args.command=="candidate-dry-run":return command_candidate_dry_run(args.slug)
         if args.command=="candidate-report":return command_candidate_report(args.slug)
+        if args.command=="live-preflight":return command_live_preflight(args.slug,args.candidate_hash)
+        if args.command=="publish-live":return command_publish_live(args.slug,args.candidate_hash,args.confirm_write)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
@@ -367,6 +378,8 @@ def main() -> int:
             if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
             return command_kb_learn(args.limit)
         return commands[args.command]()
+    except LivePublishError as exc:
+        print(str(exc),file=sys.stderr);return 2
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")
         return 130
