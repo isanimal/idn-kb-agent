@@ -1,8 +1,8 @@
 {
   "schema_version": "quality-trace-v1",
-  "slug": "web-basic-programming",
-  "generated_at": "2026-08-22T02:57:50.246950+00:00",
-  "source_resolved_sha256": "45e229f4a352df26c1ae377a602571013107728fcd83c2ce468170d69c87874d",
+  "slug": "pemrograman-web-laravel",
+  "generated_at": "2026-08-22T02:50:53.660065+00:00",
+  "source_resolved_sha256": "db5cb151c8240a6ef883af47caac5894c28158d8bfdcec35c3ce296be5d03061",
   "deterministic_changes": [
     {
       "field": "short_description",
@@ -15,33 +15,25 @@
   ],
   "before": {
     "payload": {
-      "full_name": "Web Basic Programming",
-      "short_name": "Web Basic Programming",
-      "category": "Programming",
-      "seo_url": "https://www.idn.id/training/web-basic-programming/",
+      "full_name": "Pemrograman Web Laravel",
+      "short_name": "Pemrograman Web Laravel",
+      "category": "Lainnya",
+      "seo_url": "https://www.idn.id/training/pemrograman-web-laravel/",
       "advertising_links": [],
       "training_formats": [
         {
           "format": "UNKNOWN",
           "duration": "4 hari",
           "schedule": "09:00–17:00 WIB",
-          "public_price_reference": null,
+          "public_price_reference": 2500000,
           "private_price_reference": null,
-          "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
         }
       ],
       "target_audiences": [
         {
-          "audience": "Pemula yang ingin belajar programming dari nol",
-          "problem_solved": null
-        },
-        {
-          "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
-          "problem_solved": null
-        },
-        {
-          "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
-          "problem_solved": null
+          "audience": "Peserta yang ingin mempelajari Pemrograman Web Laravel",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
         }
       ],
       "certifications": [],
@@ -51,31 +43,37 @@
           "training_name": "Pemrograman Web Codeigniter",
           "canonical_source_url": "https://www.idn.id/training/web-development/",
           "reason": "Katalog IDN dalam keluarga training yang sama.",
-          "confidence": 0.7
+          "confidence": 0.8
         },
         {
-          "training_name": "Pemrograman Web Laravel",
-          "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "training_name": "Web Basic Programming",
+          "canonical_source_url": "https://www.idn.id/training/web-basic-programming/",
           "reason": "Katalog IDN dalam keluarga training yang sama.",
           "confidence": 0.7
         }
       ],
       "trainer_references": [
         {
+          "trainer_name": "Asadullah Al Hamasy",
+          "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Tubagus Adhitya Permana",
+          "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+          "match_type": "EXACT"
+        },
+        {
           "trainer_name": "Fahmi Nuradi",
           "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
           "match_type": "EXACT"
         }
       ],
-      "short_description": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming? Web Basic Programming adalah fondasi bagi siapa pun yang ingin belajar membuat situs web interaktif dan dinamis. Dalam training ini, Anda akan diperkenalkan dengan bahasa pemrograman dasar yang digunakan dalam pengembangan web, termasuk HTML, CSS, dan JavaScript.",
-      "learning_outcomes": [
-        "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
-      ],
+      "short_description": "Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien. Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Mengapa demikian ? Karena Laravel memberikan seperangkat alat dan sumber daya untuk membangun aplikasi berbasis PHP. Laravel memiliki ekosistem yang lengkap didukung oleh package dan ekstensi yang kompatibel. Laravel telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. Hal ini juga ditunjukan dengan semakin besarnya minat developer untuk menggunakan framework Laravel karena dapat menyederhanakan pengembangan aplikasi. Framework Laravel memiliki fitur yang kaya karena merupakan gabungan fitur dasar beberapa framework PHP populer seperti CodeIgniter, Yii, dan Ruby on Rails. Jika kamu sebelumnya sudah familiar dengan Core PHP atau Advance PHP, Laravel akan membuat proses pengembangan aplikasi web lebih efektif dan efisien, selain itu Laravel juga lebih aman dari berbagai jenis ancaman siber.",
+      "learning_outcomes": [],
       "prerequisites": [],
       "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
-      "practice_examples": [
-        "HTML Fundamental a. Memahami struktur dokumen html i. memahami Deklarasi <Doctype HTML> ii. Tag Head sebagai metadata, title dan pengenalan karakter iii. Struktur pada body b. Hirarki Informasi (Typography) i. Penggunaan judul bertingkat (h1 – h6) ii. Tag text paragraf iii. List paragraf (ul dan ol) c. Navigasi (pathing) i. hyperlink (a) internal dan eksternal ii. memahami atribut target dan title iii. jalur relatif (. /, . . /) dan jalur absolute d. HTML Multimedia i. Integrasi gambar (img) ii. Integrasi Video iii. Integrasi Audio e. Struktur Semantik Modern i. Penggunaan <header>, <nav>, <main>, <section>, <article>, <aside>, dan <footer>. ii. Best Practice HTML dengan semantic f. Formulir dan Input dasar i. <form>, <label>, dan <input> (type: text, email, password). ii. Attribute input: placeholder, required, dan value. iii. Form Method dan action CSS3 Fundamental a. Mekanisme CSS i. Internal css ii. external css iii. inline css (pada tag html) b. Sistem Pemilih i. Selector elemen class dan id ii. grouping dan nesting selector c. Tipografi digital i. Manajemen Font: font-family, font-size, font-weight. ii. Integrasi Google Fonts. iii. Pengaturan Teks: line-height, letter-spacing, text-align, text-decoration. d. Warna dan latar belakang i. Sistem warna: Hex Code, RGB, dan RGBA (transparansi). ii. Latar belakang: background-color, background-image, dan background-size. e. Box Model i. Memahami Content, Padding, Border, dan Margin. ii. Property box-sizing: border-box untuk kalkulasi ukuran yang akurat. f. Layout Modern dengan Flexbox: i. display: flex, flex-direction, justify-content, align-items. ii. Membuat grid kartu produk/profil yang sejajar otomatis. g. Dekorasi & Interaksi: i. Sudut lengkung (border-radius) dan bayangan (box-shadow). ii. Efek transisi (transition) dan perubahan saat kursor di atas elemen (:hover). h. CSS Animation i. Dasar css animation ii. penggunaan @keyframes pada animasi css i. CSS Media queries i. Penerapan media query pada halaman ii. media query untuk responsive UI. Javascript Fundamental a. Dasar Pemrograman i. Deklarasi variabel modern (let dan const) ii. Tipe data iii. Penggabungan text (concatenation) b. Struktur Logika i. Pengkondisian if, if else if dan else ii. Pengkondisian switch iii. Operator (Aritmatika, Perbandingan) c. Function i. Deklarasi function ii. argument dan parameter iii. Konsep return value d. DOM Selection i. document.getElementById() dan document.querySelector(). ii. Menyimpan elemen HTML ke dalam variabel JavaScript. e. DOM Manipulation i. Mengubah isi text ii. Mengubah style iii. Manipulasi class f. Event Handling i. saat click (onclick) ii. Ketikan (input) g. Modern JS i. Konsep Data json ii. Asynchronous Javascript. iii. Fetch API iv. Async / Await syntax v. Implementasi data ke UI"
-      ],
+      "practice_examples": [],
       "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
       "selling_points": [
         "Gratis Mengulang training kapanpun",
@@ -99,7 +97,7 @@
     },
     "quality": {
       "schema_version": "publish-quality-v1",
-      "slug": "web-basic-programming",
+      "slug": "pemrograman-web-laravel",
       "product_status": "REVIEW_REQUIRED",
       "completion": 95.24,
       "publish_readiness": "REVIEW_REQUIRED",
@@ -114,41 +112,76 @@
           "items": [
             {
               "field": "learning_outcomes",
-              "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+              "value": "Mampu introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views).",
               "evidence_topics": [
-                "efek",
-                "elemen",
-                "teks",
-                "transisi",
-                "video"
+                "and",
+                "basic",
+                "configuration",
+                "environtment",
+                "folder",
+                "installation",
+                "introduction",
+                "laravel"
               ],
               "grounded": true
             },
             {
               "field": "learning_outcomes",
-              "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+              "value": "Mampu blade & MVC Architecture blade template engine create simple model create simple views create simple controller.",
               "evidence_topics": [
-                "api",
-                "eksternal"
+                "architecture",
+                "blade",
+                "controller",
+                "create",
+                "engine",
+                "model",
+                "mvc",
+                "simple"
               ],
               "grounded": true
             },
             {
-              "field": "practice_examples",
-              "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+              "field": "learning_outcomes",
+              "value": "Mampu routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix).",
               "evidence_topics": [
-                "efek",
-                "teks",
-                "transisi",
-                "video"
+                "basic",
+                "groups",
+                "method",
+                "middleware",
+                "name",
+                "named",
+                "parameters",
+                "prefix"
               ],
               "grounded": true
             },
             {
-              "field": "practice_examples",
-              "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+              "field": "learning_outcomes",
+              "value": "Mampu database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship.",
               "evidence_topics": [
-                "api"
+                "create",
+                "database",
+                "introduction",
+                "many",
+                "migration",
+                "one",
+                "relationship",
+                "seeding"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link.",
+              "evidence_topics": [
+                "ckeditor",
+                "create",
+                "crud",
+                "data",
+                "datatables",
+                "delete",
+                "file",
+                "get"
               ],
               "grounded": true
             },
@@ -247,33 +280,25 @@
   },
   "after": {
     "payload": {
-      "full_name": "Web Basic Programming",
-      "short_name": "Web Basic Programming",
-      "category": "Programming",
-      "seo_url": "https://www.idn.id/training/web-basic-programming/",
+      "full_name": "Pemrograman Web Laravel",
+      "short_name": "Pemrograman Web Laravel",
+      "category": "Lainnya",
+      "seo_url": "https://www.idn.id/training/pemrograman-web-laravel/",
       "advertising_links": [],
       "training_formats": [
         {
           "format": "UNKNOWN",
           "duration": "4 hari",
           "schedule": "09:00–17:00 WIB",
-          "public_price_reference": null,
+          "public_price_reference": 2500000,
           "private_price_reference": null,
-          "price_note": "Observed price candidates: 2000000, 1500000; labels must be reviewed."
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
         }
       ],
       "target_audiences": [
         {
-          "audience": "Pemula yang ingin belajar programming dari nol",
-          "problem_solved": null
-        },
-        {
-          "audience": "Siapa pun yang tertarik untuk membangun website pribadi atau profesional",
-          "problem_solved": null
-        },
-        {
-          "audience": "Mahasiswa atau lulusan yang ingin memperkuat keterampilan di bidang teknologi informasi",
-          "problem_solved": null
+          "audience": "Peserta pemula sesuai bidang training",
+          "problem_solved": "Membantu peserta mempelajari dasar Pemrograman Web Laravel sesuai cakupan kurikulum."
         }
       ],
       "certifications": [],
@@ -283,33 +308,43 @@
           "training_name": "Pemrograman Web Codeigniter",
           "canonical_source_url": "https://www.idn.id/training/web-development/",
           "reason": "Katalog IDN dalam keluarga training yang sama.",
-          "confidence": 0.7
+          "confidence": 0.8
         },
         {
-          "training_name": "Pemrograman Web Laravel",
-          "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+          "training_name": "Web Basic Programming",
+          "canonical_source_url": "https://www.idn.id/training/web-basic-programming/",
           "reason": "Katalog IDN dalam keluarga training yang sama.",
           "confidence": 0.7
         }
       ],
       "trainer_references": [
         {
+          "trainer_name": "Asadullah Al Hamasy",
+          "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Tubagus Adhitya Permana",
+          "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+          "match_type": "EXACT"
+        },
+        {
           "trainer_name": "Fahmi Nuradi",
           "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
           "match_type": "EXACT"
         }
       ],
-      "short_description": "Selamat datang di Training Web Basic Programming, program yang dirancang untuk mempersiapkan Anda memasuki dunia pengembangan web dengan langka yang tepat! Di era digital saat ini, keterampilan programming adalah aset berharga yang dapat membuka banyak peluang karier. Apa itu Web Basic Programming?",
+      "short_description": "Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien.",
       "learning_outcomes": [
-        "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
-        "Mampu menghubungkan workflow dengan layanan eksternal melalui API."
+        "Mampu introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views).",
+        "Mampu blade & MVC Architecture blade template engine create simple model create simple views create simple controller.",
+        "Mampu routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix).",
+        "Mampu database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship.",
+        "Mampu simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link."
       ],
       "prerequisites": [],
       "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online.",
-      "practice_examples": [
-        "Menambahkan teks, musik, transisi, atau efek pada video.",
-        "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas."
-      ],
+      "practice_examples": [],
       "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
       "selling_points": [
         "Gratis Mengulang training kapanpun",
@@ -328,7 +363,7 @@
     },
     "quality": {
       "schema_version": "publish-quality-v1",
-      "slug": "web-basic-programming",
+      "slug": "pemrograman-web-laravel",
       "product_status": "REVIEW_REQUIRED",
       "completion": 95.24,
       "publish_readiness": "REVIEW_REQUIRED",
@@ -343,41 +378,76 @@
           "items": [
             {
               "field": "learning_outcomes",
-              "value": "Mampu menerapkan elemen teks, musik, transisi, dan efek pada video.",
+              "value": "Mampu introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views).",
               "evidence_topics": [
-                "efek",
-                "elemen",
-                "teks",
-                "transisi",
-                "video"
+                "and",
+                "basic",
+                "configuration",
+                "environtment",
+                "folder",
+                "installation",
+                "introduction",
+                "laravel"
               ],
               "grounded": true
             },
             {
               "field": "learning_outcomes",
-              "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+              "value": "Mampu blade & MVC Architecture blade template engine create simple model create simple views create simple controller.",
               "evidence_topics": [
-                "api",
-                "eksternal"
+                "architecture",
+                "blade",
+                "controller",
+                "create",
+                "engine",
+                "model",
+                "mvc",
+                "simple"
               ],
               "grounded": true
             },
             {
-              "field": "practice_examples",
-              "value": "Menambahkan teks, musik, transisi, atau efek pada video.",
+              "field": "learning_outcomes",
+              "value": "Mampu routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix).",
               "evidence_topics": [
-                "efek",
-                "teks",
-                "transisi",
-                "video"
+                "basic",
+                "groups",
+                "method",
+                "middleware",
+                "name",
+                "named",
+                "parameters",
+                "prefix"
               ],
               "grounded": true
             },
             {
-              "field": "practice_examples",
-              "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+              "field": "learning_outcomes",
+              "value": "Mampu database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship.",
               "evidence_topics": [
-                "api"
+                "create",
+                "database",
+                "introduction",
+                "many",
+                "migration",
+                "one",
+                "relationship",
+                "seeding"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link.",
+              "evidence_topics": [
+                "ckeditor",
+                "create",
+                "crud",
+                "data",
+                "datatables",
+                "delete",
+                "file",
+                "get"
               ],
               "grounded": true
             },
@@ -475,15 +545,11 @@
     }
   },
   "repair": {
-    "requested": true,
-    "attempted": true,
-    "calls": 1,
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
     "cache_hit": false,
-    "accepted": false,
-    "provider": "OLLAMA",
-    "model": "llama3.2:1b",
-    "prompt_version": "quality-repair-v1",
-    "created_at": "2026-08-22T02:57:50.223022+00:00"
+    "accepted": false
   },
   "kb_writes": 0
 }

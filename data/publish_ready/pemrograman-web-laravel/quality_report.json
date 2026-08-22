@@ -1,0 +1,182 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "pemrograman-web-laravel",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 95,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views).",
+          "evidence_topics": [
+            "and",
+            "basic",
+            "configuration",
+            "environtment",
+            "folder",
+            "installation",
+            "introduction",
+            "laravel"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu blade & MVC Architecture blade template engine create simple model create simple views create simple controller.",
+          "evidence_topics": [
+            "architecture",
+            "blade",
+            "controller",
+            "create",
+            "engine",
+            "model",
+            "mvc",
+            "simple"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix).",
+          "evidence_topics": [
+            "basic",
+            "groups",
+            "method",
+            "middleware",
+            "name",
+            "named",
+            "parameters",
+            "prefix"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship.",
+          "evidence_topics": [
+            "create",
+            "database",
+            "introduction",
+            "many",
+            "migration",
+            "one",
+            "relationship",
+            "seeding"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link.",
+          "evidence_topics": [
+            "ckeditor",
+            "create",
+            "crud",
+            "data",
+            "datatables",
+            "delete",
+            "file",
+            "get"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Gratis Mengulang training kapanpun",
+          "evidence_topics": [
+            "gratis",
+            "kapanpun",
+            "mengulang"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Video recording after training online",
+          "evidence_topics": [
+            "after",
+            "online",
+            "recording",
+            "video"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Sertifikat",
+          "evidence_topics": [
+            "sertifikat"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Kaos",
+          "evidence_topics": [
+            "kaos"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Modul",
+          "evidence_topics": [
+            "modul"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ]
+}

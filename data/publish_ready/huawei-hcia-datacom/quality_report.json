@@ -1,0 +1,133 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "huawei-hcia-datacom",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 100,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+          "evidence_topics": [
+            "konsep",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+          "evidence_topics": [
+            "konfigurasi",
+            "wlan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+          "evidence_topics": [
+            "bisa",
+            "idn",
+            "mendapat",
+            "menunjang",
+            "pekerjaan",
+            "selesai",
+            "sertifikat",
+            "setelah"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+          "evidence_topics": [
+            "dapat",
+            "dimanfaatkan",
+            "huawei",
+            "jaringan",
+            "khususnya",
+            "membangun",
+            "mendapat",
+            "skill"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+          "evidence_topics": [
+            "jaringan",
+            "mendapat",
+            "monitoring",
+            "skill",
+            "trobleshooting"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+          "evidence_topics": [
+            "artinya",
+            "kemampuan",
+            "mandiri",
+            "masalah",
+            "memecahkan",
+            "mendapat",
+            "problem",
+            "secara"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom",
+          "evidence_topics": [
+            "bekal",
+            "datacom",
+            "hcia",
+            "internasional",
+            "materi",
+            "mendapat",
+            "mengikuti",
+            "sertifikasi"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": true
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

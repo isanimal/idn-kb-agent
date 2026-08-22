@@ -1,0 +1,399 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "huawei-hcia-datacom",
+  "generated_at": "2026-08-22T02:50:45.485339+00:00",
+  "source_resolved_sha256": "c3688caefc990bc3f49faf65f2379e123b0cdba32420dd31d847522c9aa95e3f",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Huawei HCIA Datacom",
+      "short_name": "HCIA Datacom",
+      "category": "Networking",
+      "seo_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2800000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta yang ingin mempelajari Huawei HCIA Datacom",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [],
+      "trainer_references": [],
+      "short_description": "Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah. Training HCIA (Huawei Certified ICT Associate) Datacom ini adalah langkah pertama atau level dasar dari sertifikasi Huawei HCIA-Datacom. Dalam training ini, Anda akan mempelajari konsep-konsep dasar jaringan, termasuk routing dan switching, instalasi dan konfigurasi perangkat Huawei, hingga troubleshooting perangkat Huawei. Di IDN, kami tidak hanya fokus pada teori, tetapi juga memberikan pelatihan praktis yang mendalam sehingga Anda siap untuk menghadapi tantangan di dunia nyata. Dengan mengikuti training ini, Anda akan mendapatkan fondasi yang kuat untuk karier yang sukses di dunia jaringan, serta membuka peluang untuk melanjutkan ke level sertifikasi yang lebih tinggi seperti HCIP dan HCIE.",
+      "learning_outcomes": [
+        "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+        "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+      "practice_examples": [
+        "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+        "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri"
+      ],
+      "post_training_support": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan ketentuan yang berlaku.",
+      "selling_points": [
+        "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+        "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "huawei-hcia-datacom",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 100,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+              "evidence_topics": [
+                "konsep",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+              "evidence_topics": [
+                "konfigurasi",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+              "evidence_topics": [
+                "bisa",
+                "idn",
+                "mendapat",
+                "menunjang",
+                "pekerjaan",
+                "selesai",
+                "sertifikat",
+                "setelah"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+              "evidence_topics": [
+                "dapat",
+                "dimanfaatkan",
+                "huawei",
+                "jaringan",
+                "khususnya",
+                "membangun",
+                "mendapat",
+                "skill"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+              "evidence_topics": [
+                "jaringan",
+                "mendapat",
+                "monitoring",
+                "skill",
+                "trobleshooting"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+              "evidence_topics": [
+                "artinya",
+                "kemampuan",
+                "mandiri",
+                "masalah",
+                "memecahkan",
+                "mendapat",
+                "problem",
+                "secara"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom",
+              "evidence_topics": [
+                "bekal",
+                "datacom",
+                "hcia",
+                "internasional",
+                "materi",
+                "mendapat",
+                "mengikuti",
+                "sertifikasi"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Huawei HCIA Datacom",
+      "short_name": "HCIA Datacom",
+      "category": "Networking",
+      "seo_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2800000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta pemula sesuai bidang training",
+          "problem_solved": "Membantu peserta mempelajari dasar Huawei HCIA Datacom sesuai cakupan kurikulum."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [],
+      "trainer_references": [],
+      "short_description": "Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah.",
+      "learning_outcomes": [
+        "Memahami konsep RF, protokol 802.11, dan komponen WLAN."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+      "practice_examples": [
+        "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab."
+      ],
+      "post_training_support": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan ketentuan yang berlaku.",
+      "selling_points": [
+        "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+        "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+        "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+        "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+        "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "huawei-hcia-datacom",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 100,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Memahami konsep RF, protokol 802.11, dan komponen WLAN.",
+              "evidence_topics": [
+                "konsep",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Menganalisis parameter dasar RF dan konfigurasi WLAN pada lab.",
+              "evidence_topics": [
+                "konfigurasi",
+                "wlan"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+              "evidence_topics": [
+                "bisa",
+                "idn",
+                "mendapat",
+                "menunjang",
+                "pekerjaan",
+                "selesai",
+                "sertifikat",
+                "setelah"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+              "evidence_topics": [
+                "dapat",
+                "dimanfaatkan",
+                "huawei",
+                "jaringan",
+                "khususnya",
+                "membangun",
+                "mendapat",
+                "skill"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+              "evidence_topics": [
+                "jaringan",
+                "mendapat",
+                "monitoring",
+                "skill",
+                "trobleshooting"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+              "evidence_topics": [
+                "artinya",
+                "kemampuan",
+                "mandiri",
+                "masalah",
+                "memecahkan",
+                "mendapat",
+                "problem",
+                "secara"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom",
+              "evidence_topics": [
+                "bekal",
+                "datacom",
+                "hcia",
+                "internasional",
+                "materi",
+                "mendapat",
+                "mengikuti",
+                "sertifikasi"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": []
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

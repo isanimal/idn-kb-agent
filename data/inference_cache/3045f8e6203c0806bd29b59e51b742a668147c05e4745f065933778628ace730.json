@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "quality-repair-v1",
+    "created_at": "2026-08-22T02:55:21.928794+00:00",
+    "cache_hit": false,
+    "calls": 1
+  },
+  "output": {
+    "short_description": "CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA.",
+    "learning_outcomes": [
+      "Mampu lab 1. Konfig Dasar.",
+      "Mampu lab 2. Filtering – Distribute List.",
+      "Mampu lab 3. Filtering – Prefix List – In.",
+      "Mampu lab 4. Filtering – Prefix List – Out.",
+      "Mampu lab 5. Filtering ACL (Ganjil & Genap)."
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta pemula sesuai bidang training",
+        "problem_solved": "Membantu peserta mempelajari dasar CCNP Enterprise sesuai cakupan kurikulum."
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "Melakukan praktik lab 1. Konfig Dasar.",
+      "Melakukan praktik lab 2. Filtering – Distribute List.",
+      "Melakukan praktik lab 3. Filtering – Prefix List – In.",
+      "Melakukan praktik lab 4. Filtering – Prefix List – Out."
+    ],
+    "selling_points": [
+      "Kurikulum mencakup Lab 1. Konfig Dasar, Lab 2. Filtering – Distribute List, Lab 3. Filtering – Prefix List – In.",
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

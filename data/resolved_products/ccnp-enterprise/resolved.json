@@ -1,0 +1,523 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "ccnp-enterprise",
+  "source_url": "https://www.idn.id/training/ccnp-enterprise/",
+  "product_status": "RESOLVED",
+  "completion": 100.0,
+  "needs_review": false,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "CCNP Enterprise",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "Cisco CCNP Enterprise",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://kb.idn.id/kb/training/detail?id=5b451deb8975455b91f36b788c337c85",
+          "type": "KB_EXISTING_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Networking",
+      "confidence": 1.0,
+      "source_type": "INTERNAL_KB",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/ccnp-enterprise/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "format": "Offline",
+          "duration": "6 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 4000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari CCNP Enterprise",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "CCNP Enterprise SDWAN",
+          "canonical_source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        },
+        {
+          "training_name": "CCNA 200 – 301 Enterprise",
+          "canonical_source_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "Ikhwanul Kurnia Rahman",
+          "kb_trainer_id": "1ade341e21934189949bb0b73d91dbb5",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Miftahul Huda",
+          "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "At-Thoriq Firdaus Ramadhan",
+          "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Ferry Fajar Pratama",
+          "kb_trainer_id": "b214d87fd66d4c32ac0f6354e356c959",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA. Untuk saat ini CCNP sendiri terbagi menjadi 2 modul yaitu CCNP ENCOR (Enterprise Core) dengan kode ujian (350-401) dan CCNP ENARSI (Enterprise Advanced Routing and Services) dengan kode ujian (300-410), jika pada CCNP sebelumnya memiliki tiga modul yaitu Route, Switch dan TSHOOT (Troubleshooting) di track baru ini di kompres menjadi 2 modul saja. Dan di course ini 2 modul tersebut sudah include dalam 1 modul buku training ccnp idn Di IDN, kita tidak cuma belajar tentang konsep dan konfigurasi saja. Ada beberapa nilai tambah yang akan kita dapatkan di sini. Selain hard skill, kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Dengan begitu, harapannya ketika kita benar2 menghadapi trouble di real world, kita sudah punya gambarannya dulu, kira2 sikap dan action apa yg harus kita ambil untuk melakukan troubleshoot. Kelebihan lain dari mengikuti training ini di IDN adalah, ada materi tambahan yang sangat menarik, yaitu VXLAN. VXLAN ini merupakan teknologi yang pasti akan kita temui saat handle data center Network. Tidak menutup kemungkinan, kita akan dihadapkan untuk troubleshoot atau konfigurasi data center network. Dengan materi yg di dapat dari IDN, maka kita sudah siap. Syarat untuk bisa mengikuti kelas CCNP Enterprise ini adalah sudah pernah belajar Cisco CCNA 200-301 sebelumnya.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "Lab 1. Konfig Dasar",
+        "Lab 2. Filtering – Distribute List",
+        "Lab 3. Filtering – Prefix List – In",
+        "Lab 1. OSPF Virtual Link",
+        "Lab 2. OSPF Gre Tunnel",
+        "Lab 3. OSPF Standar Area",
+        "Lab 1. Dasar IPv6",
+        "Lab 2. IPv6 Routing Static",
+        "Lab 3. IPv6 RIPnG",
+        "Lab 1 iBGP Peering",
+        "Lab 2 iBGP Peering Loopback",
+        "Lab 3 eBGP Peering"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+      "confidence": 0.95,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "Lab 1. Konfig Dasar",
+        "Lab 2. Filtering – Distribute List",
+        "Lab 3. Filtering – Prefix List – In",
+        "Lab 1. OSPF Virtual Link"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme support ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat memanfaatkan fasilitas konsultasi setelah training sesuai mekanisme yang berlaku di ID-Networkers. Scope konsultasi tetap perlu wajar dan berkaitan dengan pembelajaran/kompetensi training. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan trainer pengampu saat kelas berlangsung. Pelaksanaan bergantung pada koordinasi, fasilitas, jadwal, dan ketersediaan yang berlaku.",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ccnp-enterprise/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "CCNP Enterprise",
+    "short_name": "Cisco CCNP Enterprise",
+    "category": "Networking",
+    "seo_url": "https://www.idn.id/training/ccnp-enterprise/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "Offline",
+        "duration": "6 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": 4000000,
+        "private_price_reference": null,
+        "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari CCNP Enterprise",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "CCNP Enterprise SDWAN",
+        "canonical_source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.8
+      },
+      {
+        "training_name": "CCNA 200 – 301 Enterprise",
+        "canonical_source_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.7
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "Ikhwanul Kurnia Rahman",
+        "kb_trainer_id": "1ade341e21934189949bb0b73d91dbb5",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Miftahul Huda",
+        "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "At-Thoriq Firdaus Ramadhan",
+        "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Ferry Fajar Pratama",
+        "kb_trainer_id": "b214d87fd66d4c32ac0f6354e356c959",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA. Untuk saat ini CCNP sendiri terbagi menjadi 2 modul yaitu CCNP ENCOR (Enterprise Core) dengan kode ujian (350-401) dan CCNP ENARSI (Enterprise Advanced Routing and Services) dengan kode ujian (300-410), jika pada CCNP sebelumnya memiliki tiga modul yaitu Route, Switch dan TSHOOT (Troubleshooting) di track baru ini di kompres menjadi 2 modul saja. Dan di course ini 2 modul tersebut sudah include dalam 1 modul buku training ccnp idn Di IDN, kita tidak cuma belajar tentang konsep dan konfigurasi saja. Ada beberapa nilai tambah yang akan kita dapatkan di sini. Selain hard skill, kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Dengan begitu, harapannya ketika kita benar2 menghadapi trouble di real world, kita sudah punya gambarannya dulu, kira2 sikap dan action apa yg harus kita ambil untuk melakukan troubleshoot. Kelebihan lain dari mengikuti training ini di IDN adalah, ada materi tambahan yang sangat menarik, yaitu VXLAN. VXLAN ini merupakan teknologi yang pasti akan kita temui saat handle data center Network. Tidak menutup kemungkinan, kita akan dihadapkan untuk troubleshoot atau konfigurasi data center network. Dengan materi yg di dapat dari IDN, maka kita sudah siap. Syarat untuk bisa mengikuti kelas CCNP Enterprise ini adalah sudah pernah belajar Cisco CCNA 200-301 sebelumnya.",
+    "learning_outcomes": [
+      "Lab 1. Konfig Dasar",
+      "Lab 2. Filtering – Distribute List",
+      "Lab 3. Filtering – Prefix List – In",
+      "Lab 1. OSPF Virtual Link",
+      "Lab 2. OSPF Gre Tunnel",
+      "Lab 3. OSPF Standar Area",
+      "Lab 1. Dasar IPv6",
+      "Lab 2. IPv6 Routing Static",
+      "Lab 3. IPv6 RIPnG",
+      "Lab 1 iBGP Peering",
+      "Lab 2 iBGP Peering Loopback",
+      "Lab 3 eBGP Peering"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+    "practice_examples": [
+      "Lab 1. Konfig Dasar",
+      "Lab 2. Filtering – Distribute List",
+      "Lab 3. Filtering – Prefix List – In",
+      "Lab 1. OSPF Virtual Link"
+    ],
+    "post_training_support": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme support ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat memanfaatkan fasilitas konsultasi setelah training sesuai mekanisme yang berlaku di ID-Networkers. Scope konsultasi tetap perlu wajar dan berkaitan dengan pembelajaran/kompetensi training. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan trainer pengampu saat kelas berlangsung. Pelaksanaan bergantung pada koordinasi, fasilitas, jadwal, dan ketersediaan yang berlaku.",
+    "selling_points": [],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

@@ -1,0 +1,311 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "web-development",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "BLOCKED",
+  "score": 60,
+  "checks": {
+    "semantic_separation": {
+      "passed": false,
+      "duplicates": [
+        {
+          "fields": [
+            "practice_examples",
+            "selling_points"
+          ],
+          "left": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+          "right": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+          "similarity": 1.0
+        },
+        {
+          "fields": [
+            "practice_examples",
+            "selling_points"
+          ],
+          "left": "Memahami dasar-dasar pemrograman web",
+          "right": "Memahami dasar-dasar pemrograman web",
+          "similarity": 1.0
+        },
+        {
+          "fields": [
+            "practice_examples",
+            "selling_points"
+          ],
+          "left": "dapat memahami bahasa pemrograman PHP",
+          "right": "dapat memahami bahasa pemrograman PHP",
+          "similarity": 1.0
+        }
+      ]
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu pengenalan codeigniter.",
+          "evidence_topics": [
+            "codeigniter",
+            "pengenalan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu persiapan dan Instalasi.",
+          "evidence_topics": [
+            "instalasi",
+            "persiapan"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu konsep MVC.",
+          "evidence_topics": [
+            "konsep",
+            "mvc"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu controller.",
+          "evidence_topics": [
+            "controller"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu model.",
+          "evidence_topics": [
+            "model"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Menguasai materi yang tersedia di curriculum",
+          "evidence_topics": [
+            "curriculum",
+            "materi",
+            "menguasai",
+            "tersedia"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+          "evidence_topics": [
+            "mengatasi",
+            "pemrograman",
+            "permasalahan",
+            "proses",
+            "web"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Memahami dasar-dasar pemrograman web",
+          "evidence_topics": [
+            "pemrograman",
+            "web"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "dapat memahami bahasa pemrograman PHP",
+          "evidence_topics": [
+            "bahasa",
+            "dapat",
+            "pemrograman",
+            "php"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+          "evidence_topics": [
+            "mengatasi",
+            "pemrograman",
+            "permasalahan",
+            "proses",
+            "web"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Memahami dasar-dasar pemrograman web",
+          "evidence_topics": [
+            "pemrograman",
+            "web"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "dapat memahami bahasa pemrograman PHP",
+          "evidence_topics": [
+            "bahasa",
+            "dapat",
+            "pemrograman",
+            "php"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Peserta dapat membuat project website sendiri secara mandiri",
+          "evidence_topics": [
+            "dapat",
+            "mandiri",
+            "project",
+            "secara",
+            "sendiri",
+            "website"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Gratis Mengulang training kapanpun",
+          "evidence_topics": [
+            "gratis",
+            "kapanpun",
+            "mengulang"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": false,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "GENERIC_LOW_INFORMATION",
+      "field": "practice_examples",
+      "message": "Konten terlalu generik.",
+      "blocking": false,
+      "value": "Menguasai materi yang tersedia di curriculum"
+    },
+    {
+      "code": "CROSS_FIELD_DUPLICATION",
+      "field": "practice_examples:selling_points",
+      "message": "Nilai sangat mirip di dua field.",
+      "blocking": false,
+      "value": {
+        "fields": [
+          "practice_examples",
+          "selling_points"
+        ],
+        "left": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+        "right": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+        "similarity": 1.0
+      }
+    },
+    {
+      "code": "CROSS_FIELD_DUPLICATION",
+      "field": "practice_examples:selling_points",
+      "message": "Nilai sangat mirip di dua field.",
+      "blocking": false,
+      "value": {
+        "fields": [
+          "practice_examples",
+          "selling_points"
+        ],
+        "left": "Memahami dasar-dasar pemrograman web",
+        "right": "Memahami dasar-dasar pemrograman web",
+        "similarity": 1.0
+      }
+    },
+    {
+      "code": "CROSS_FIELD_DUPLICATION",
+      "field": "practice_examples:selling_points",
+      "message": "Nilai sangat mirip di dua field.",
+      "blocking": false,
+      "value": {
+        "fields": [
+          "practice_examples",
+          "selling_points"
+        ],
+        "left": "dapat memahami bahasa pemrograman PHP",
+        "right": "dapat memahami bahasa pemrograman PHP",
+        "similarity": 1.0
+      }
+    },
+    {
+      "code": "FIELD_RELEVANCE",
+      "field": "practice_examples",
+      "message": "Practice tidak diawali verba aktivitas.",
+      "blocking": false,
+      "value": "Menguasai materi yang tersedia di curriculum"
+    },
+    {
+      "code": "FIELD_RELEVANCE",
+      "field": "practice_examples",
+      "message": "Practice tidak diawali verba aktivitas.",
+      "blocking": false,
+      "value": "Peserta mampu mengatasi permasalahan dalam proses pemrograman web"
+    },
+    {
+      "code": "FIELD_RELEVANCE",
+      "field": "practice_examples",
+      "message": "Practice tidak diawali verba aktivitas.",
+      "blocking": false,
+      "value": "Memahami dasar-dasar pemrograman web"
+    },
+    {
+      "code": "FIELD_RELEVANCE",
+      "field": "practice_examples",
+      "message": "Practice tidak diawali verba aktivitas.",
+      "blocking": false,
+      "value": "dapat memahami bahasa pemrograman PHP"
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ]
+}

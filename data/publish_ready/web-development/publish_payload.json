@@ -1,0 +1,77 @@
+{
+  "full_name": "Pemrograman Web Codeigniter",
+  "short_name": "Pemrograman Web Codeigniter",
+  "category": "Lainnya",
+  "seo_url": "https://www.idn.id/training/web-development/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2500000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta pemula sesuai bidang training",
+      "problem_solved": "Membantu peserta mempelajari dasar Pemrograman Web Codeigniter sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Pemrograman Web Laravel",
+      "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    },
+    {
+      "training_name": "Web Basic Programming",
+      "canonical_source_url": "https://www.idn.id/training/web-basic-programming/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Pemrograman Web merupakan istilah yang erat kaitannya dengan internet dan website . Memang benar, karena pemrograman web merupakan suatu proses pembuatan website untuk keperluan internet. Orang banyak mengenal web dengan istilah WWW atau World Wide Web .",
+  "learning_outcomes": [
+    "Mampu pengenalan codeigniter.",
+    "Mampu persiapan dan Instalasi.",
+    "Mampu konsep MVC.",
+    "Mampu controller.",
+    "Mampu model."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training.",
+  "practice_examples": [
+    "Menguasai materi yang tersedia di curriculum",
+    "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+    "Memahami dasar-dasar pemrograman web",
+    "dapat memahami bahasa pemrograman PHP"
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+    "Memahami dasar-dasar pemrograman web",
+    "dapat memahami bahasa pemrograman PHP",
+    "Peserta dapat membuat project website sendiri secara mandiri",
+    "Gratis Mengulang training kapanpun"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

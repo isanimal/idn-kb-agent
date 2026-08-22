@@ -1,0 +1,12 @@
+{
+  "match_status": "MATCHED",
+  "existing_kb_product": {
+    "name": "Huawei HCIA Datacom",
+    "short_name": "HCIA Datacom",
+    "url": "https://kb.idn.id/kb/training/detail?id=db9e9497e15049dcb4ac4e74a6f7e260",
+    "preview": "Huawei HCIA Datacom HCIA Datacom Training Huawei HCIA Datacom di ID-Networkers adalah program fundamental networking berbasis teknologi Huawei untuk peserta yang ingin memahami konsep data communication, routing, switching, network services, network management, security dasar, IPv6, serta pengenalan SDN dan automation. Peserta mempelajari konsep jaringan dan konfigurasi perangkat Huawei melalui penjelasan konsep, demonstrasi, pr Networking",
+    "source": "KB_INTERNAL",
+    "category": "Networking"
+  },
+  "conflicts": []
+}

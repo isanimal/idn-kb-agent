@@ -1,0 +1,195 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "ccnp-enterprise",
+  "product_status": "RESOLVED",
+  "completion": 100.0,
+  "publish_readiness": "REVIEW_REQUIRED",
+  "score": 80,
+  "checks": {
+    "semantic_separation": {
+      "passed": false,
+      "duplicates": [
+        {
+          "fields": [
+            "learning_outcomes",
+            "practice_examples"
+          ],
+          "left": "Mampu lab 4. Filtering – Prefix List – Out.",
+          "right": "Melakukan praktik lab 4. Filtering – Prefix List – Out.",
+          "similarity": 0.833
+        }
+      ]
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu lab 1. Konfig Dasar.",
+          "evidence_topics": [
+            "konfig",
+            "lab"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu lab 2. Filtering – Distribute List.",
+          "evidence_topics": [
+            "distribute",
+            "filtering",
+            "lab",
+            "list"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu lab 3. Filtering – Prefix List – In.",
+          "evidence_topics": [
+            "filtering",
+            "lab",
+            "list",
+            "prefix"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu lab 4. Filtering – Prefix List – Out.",
+          "evidence_topics": [
+            "filtering",
+            "lab",
+            "list",
+            "out",
+            "prefix"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu lab 5. Filtering ACL (Ganjil & Genap).",
+          "evidence_topics": [
+            "acl",
+            "filtering",
+            "ganjil",
+            "genap",
+            "lab"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik lab 1. Konfig Dasar.",
+          "evidence_topics": [
+            "konfig",
+            "lab"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik lab 2. Filtering – Distribute List.",
+          "evidence_topics": [
+            "distribute",
+            "filtering",
+            "lab",
+            "list"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik lab 3. Filtering – Prefix List – In.",
+          "evidence_topics": [
+            "filtering",
+            "lab",
+            "list",
+            "prefix"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan praktik lab 4. Filtering – Prefix List – Out.",
+          "evidence_topics": [
+            "filtering",
+            "lab",
+            "list",
+            "out",
+            "prefix"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Kurikulum mencakup Lab 1. Konfig Dasar, Lab 2. Filtering – Distribute List, Lab 3. Filtering – Prefix List – In.",
+          "evidence_topics": [
+            "distribute",
+            "filtering",
+            "konfig",
+            "kurikulum",
+            "lab",
+            "list",
+            "prefix"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "CROSS_FIELD_DUPLICATION",
+      "field": "learning_outcomes:practice_examples",
+      "message": "Nilai sangat mirip di dua field.",
+      "blocking": false,
+      "value": {
+        "fields": [
+          "learning_outcomes",
+          "practice_examples"
+        ],
+        "left": "Mampu lab 4. Filtering – Prefix List – Out.",
+        "right": "Melakukan praktik lab 4. Filtering – Prefix List – Out.",
+        "similarity": 0.833
+      }
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ]
+}

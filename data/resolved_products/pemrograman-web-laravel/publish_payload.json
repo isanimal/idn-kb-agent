@@ -1,0 +1,81 @@
+{
+  "full_name": "Pemrograman Web Laravel",
+  "short_name": "Pemrograman Web Laravel",
+  "category": "Lainnya",
+  "seo_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2500000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari Pemrograman Web Laravel",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Pemrograman Web Codeigniter",
+      "canonical_source_url": "https://www.idn.id/training/web-development/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    },
+    {
+      "training_name": "Web Basic Programming",
+      "canonical_source_url": "https://www.idn.id/training/web-basic-programming/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Asadullah Al Hamasy",
+      "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Tubagus Adhitya Permana",
+      "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien. Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Mengapa demikian ? Karena Laravel memberikan seperangkat alat dan sumber daya untuk membangun aplikasi berbasis PHP. Laravel memiliki ekosistem yang lengkap didukung oleh package dan ekstensi yang kompatibel. Laravel telah tumbuh pesat dan semakin besar dalam beberapa tahun terakhir. Hal ini juga ditunjukan dengan semakin besarnya minat developer untuk menggunakan framework Laravel karena dapat menyederhanakan pengembangan aplikasi. Framework Laravel memiliki fitur yang kaya karena merupakan gabungan fitur dasar beberapa framework PHP populer seperti CodeIgniter, Yii, dan Ruby on Rails. Jika kamu sebelumnya sudah familiar dengan Core PHP atau Advance PHP, Laravel akan membuat proses pengembangan aplikasi web lebih efektif dan efisien, selain itu Laravel juga lebih aman dari berbagai jenis ancaman siber.",
+  "learning_outcomes": [],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online Sertifikat Kaos Modul Goodie Bag",
+  "practice_examples": [],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Gratis Mengulang training kapanpun",
+    "Video recording after training online",
+    "Sertifikat",
+    "Kaos",
+    "Modul",
+    "Goodie Bag, Notebook, dll",
+    "pemberitahuan lowongan kerja kepada peserta",
+    "Materi akan diajarkan dari basic sehingga semua peserta diharapkan bisa mengikuti proses pembelajaran",
+    "Modul training disusun dalam bahasa Indonesia agar mudah dipahami oleh peserta training",
+    "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

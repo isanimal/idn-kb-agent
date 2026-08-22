@@ -1,0 +1,82 @@
+{
+  "full_name": "Pemrograman Web Codeigniter",
+  "short_name": "Pemrograman Web Codeigniter",
+  "category": "Lainnya",
+  "seo_url": "https://www.idn.id/training/web-development/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2500000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari Pemrograman Web Codeigniter",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Pemrograman Web Laravel",
+      "canonical_source_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    },
+    {
+      "training_name": "Web Basic Programming",
+      "canonical_source_url": "https://www.idn.id/training/web-basic-programming/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Pemrograman Web merupakan istilah yang erat kaitannya dengan internet dan website . Memang benar, karena pemrograman web merupakan suatu proses pembuatan website untuk keperluan internet. Orang banyak mengenal web dengan istilah WWW atau World Wide Web . World Wide Web adalah halaman-halaman website yang terkoneksi satu dengan lainnya atau disebut juga dengan hyperlink yang membentuk samudera informasi yang berjalan dengan protokol HyperText Transfer Protocol (HTTP). Dalam semua ilmu tentang pemrograman baik itu desktop , mobile, game maupun software atau aplikasi lainnya pasti selalu ada bahasa-bahasa pemrograman yang digunakan untuk membuat aplikasi tersebut yang berisi statement-statement , perintah, atau pun fungsi agar aplikasi yang dibuat sesuai dengan apa yang telah didesain oleh si programmer . Oleh karena itu pemrograman web pun memiliki banyak bahasa yang digunakan. Adapun dalam training web development di ID-Networkers bahasa pemrograman yang digunakan adalah PHP dengan rincian sbb: Framework : Codeigniter 3 / Bootstrap Bahasa Pemrograman : PHP 7 Database : MySQL (XAMPP) Code Editor : Visual Studio Code / Sublime Text",
+  "learning_outcomes": [
+    "Menguasai materi yang tersedia di curriculum",
+    "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+    "Memahami dasar-dasar pemrograman web",
+    "dapat memahami bahasa pemrograman PHP",
+    "Peserta dapat membuat project website sendiri secara mandiri"
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training Sertifikat Kaos Modul Goodie Bag",
+  "practice_examples": [
+    "Menguasai materi yang tersedia di curriculum",
+    "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+    "Memahami dasar-dasar pemrograman web",
+    "dapat memahami bahasa pemrograman PHP"
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Menguasai materi yang tersedia di curriculum",
+    "Peserta mampu mengatasi permasalahan dalam proses pemrograman web",
+    "Memahami dasar-dasar pemrograman web",
+    "dapat memahami bahasa pemrograman PHP",
+    "Peserta dapat membuat project website sendiri secara mandiri",
+    "Gratis Mengulang training kapanpun",
+    "Video recording after training",
+    "Sertifikat",
+    "Kaos",
+    "Modul"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

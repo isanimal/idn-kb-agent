@@ -1,0 +1,567 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "linux",
+  "generated_at": "2026-08-22T02:50:47.548770+00:00",
+  "source_resolved_sha256": "c88a6e41a086a1433be6d79b4852f75c296b69c22b83ca20f76b8e4ff3a1606e",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Linux System Administrator",
+      "short_name": "Linux System Administrator",
+      "category": "Sysadmin",
+      "seo_url": "https://www.idn.id/training/linux/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2500000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta yang ingin mempelajari Linux System Administrator",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "RedHat System Administration",
+          "canonical_source_url": "https://www.idn.id/training/redhat/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "Moch Rafi Riadi",
+          "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Deni Rismanto",
+          "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Bazigan Tsamara Sukamto",
+          "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Zakaria Ramadan",
+          "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Training Linux System Administrator adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk mengelola dan memelihara sistem operasi Linux di lingkungan server. Dalam era digital saat ini, Linux telah menjadi salah satu sistem operasi yang paling dominan, terutama dalam pengelolaan server, layanan cloud, dan pengembangan perangkat lunak. Oleh karena itu, pelatihan ini sangat relevan bagi mereka yang ingin mengejar karir di bidang teknologi informasi. Ubuntu adalah salah satu distro linux yang sangat terkenal di dunia yang banyak digunakan oleh perusahaan-perusahaan nasional dan internasional. Pada training linux system administrator, peserta akan belajar mengenai instalasi, konfigurasi, manajemen serta troubleshooting pada system Ubuntu Linux server. Training yang akan dilakukan selama 4 hari ini akan dijalani setiap peserta Bersama dengan trainer yang telah professional di bidangnya. Selain itu peserta juga akan mendapatkan sharing pengalaman mengenai penerapan atau implementasi kasus dan kebutuhan di lapangan. NOTE: Jika masih pemula di bidang linux, disarankan untuk mempelajari materi linux fundamentals terlebih dahulu melalui link berikut, Gratis! >>> https://lms.idn.id/courses/linux-dasar/",
+      "learning_outcomes": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "Apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+      "practice_examples": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+        "Gratis Mengulang training sebanyak 2x",
+        "Free konsultasi after training (kalo perlu tindak lanjut, ke project)",
+        "Update informasi bursa kerja untuk peserta training",
+        "Bebas nge-lab di IDN di luar jam training khusus peserta training",
+        "Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "linux",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 80,
+      "checks": {
+        "semantic_separation": {
+          "passed": false,
+          "duplicates": [
+            {
+              "fields": [
+                "learning_outcomes",
+                "practice_examples"
+              ],
+              "left": "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "right": "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "similarity": 0.989
+            }
+          ]
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "evidence_topics": [
+                "access",
+                "address",
+                "admin",
+                "anacron",
+                "and",
+                "anonymous",
+                "apache",
+                "arsitektur"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "evidence_topics": [
+                "access",
+                "address",
+                "admin",
+                "anacron",
+                "and",
+                "anonymous",
+                "apache",
+                "arsitektur"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+              "evidence_topics": [
+                "diharapkan",
+                "instalasi",
+                "konfigurasi",
+                "linux",
+                "operasi",
+                "server",
+                "service",
+                "setelah"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+              "evidence_topics": [
+                "dapat",
+                "langkah",
+                "linux",
+                "operasi",
+                "server",
+                "system",
+                "troubleshooting",
+                "ubuntu"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+              "evidence_topics": [
+                "ada",
+                "ataupun",
+                "bergabung",
+                "berkaitan",
+                "bertanya",
+                "dapat",
+                "grup",
+                "jika"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+              "evidence_topics": [
+                "berlangsung",
+                "dipinjami",
+                "laptop",
+                "mumpuni",
+                "selama",
+                "spesifikasi",
+                "traingin"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+              "evidence_topics": [
+                "bahasa",
+                "beberapa",
+                "indonesia",
+                "juga",
+                "mendapat",
+                "modul",
+                "pendukung",
+                "software"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "CROSS_FIELD_DUPLICATION",
+          "field": "learning_outcomes:practice_examples",
+          "message": "Nilai sangat mirip di dua field.",
+          "blocking": false,
+          "value": {
+            "fields": [
+              "learning_outcomes",
+              "practice_examples"
+            ],
+            "left": "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+            "right": "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+            "similarity": 0.989
+          }
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Linux System Administrator",
+      "short_name": "Linux System Administrator",
+      "category": "Sysadmin",
+      "seo_url": "https://www.idn.id/training/linux/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2500000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta pemula sesuai bidang training",
+          "problem_solved": "Membantu peserta mempelajari dasar Linux System Administrator sesuai cakupan kurikulum."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "RedHat System Administration",
+          "canonical_source_url": "https://www.idn.id/training/redhat/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "Moch Rafi Riadi",
+          "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Deni Rismanto",
+          "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Bazigan Tsamara Sukamto",
+          "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Zakaria Ramadan",
+          "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Training Linux System Administrator adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk mengelola dan memelihara sistem operasi Linux di lingkungan server.",
+      "learning_outcomes": [
+        "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut.",
+      "practice_examples": [
+        "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+        "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+        "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+        "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung."
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "linux",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 80,
+      "checks": {
+        "semantic_separation": {
+          "passed": false,
+          "duplicates": [
+            {
+              "fields": [
+                "learning_outcomes",
+                "practice_examples"
+              ],
+              "left": "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "right": "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "similarity": 0.989
+            }
+          ]
+        },
+        "claim_grounding": {
+          "passed": true,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "evidence_topics": [
+                "access",
+                "address",
+                "admin",
+                "anacron",
+                "and",
+                "anonymous",
+                "apache",
+                "arsitektur"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+              "evidence_topics": [
+                "access",
+                "address",
+                "admin",
+                "anacron",
+                "and",
+                "anonymous",
+                "apache",
+                "arsitektur"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta diharapkan setelah training mampu untuk melakukan instalasi dan konfigurasi service pada server dengan system operasi Ubuntu Linux Server.",
+              "evidence_topics": [
+                "diharapkan",
+                "instalasi",
+                "konfigurasi",
+                "linux",
+                "operasi",
+                "server",
+                "service",
+                "setelah"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta dapat memahami langkah-langkah troubleshooting pada server dengan system operasi Ubuntu Linux Server.",
+              "evidence_topics": [
+                "dapat",
+                "langkah",
+                "linux",
+                "operasi",
+                "server",
+                "system",
+                "troubleshooting",
+                "ubuntu"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta juga akan bergabung di grup WhatsApp Training Ubuntu. Sehingga peserta dapat bertanya jika ada kesulitan dalam memahami materi ataupun ada masalah dengan troubleshooting yang berkaitan dengan Ubuntu Linux Server.",
+              "evidence_topics": [
+                "ada",
+                "ataupun",
+                "bergabung",
+                "berkaitan",
+                "bertanya",
+                "dapat",
+                "grup",
+                "jika"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Selama training berlangsung, peserta akan dipinjami laptop dengan spesifikasi mumpuni selama traingin berlangsung.",
+              "evidence_topics": [
+                "berlangsung",
+                "dipinjami",
+                "laptop",
+                "mumpuni",
+                "selama",
+                "spesifikasi",
+                "traingin"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Peserta akan mendapat modul training dalam bahasa indonesia dan juga beberapa software pendukung.",
+              "evidence_topics": [
+                "bahasa",
+                "beberapa",
+                "indonesia",
+                "juga",
+                "mendapat",
+                "modul",
+                "pendukung",
+                "software"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "CROSS_FIELD_DUPLICATION",
+          "field": "learning_outcomes:practice_examples",
+          "message": "Nilai sangat mirip di dua field.",
+          "blocking": false,
+          "value": {
+            "fields": [
+              "learning_outcomes",
+              "practice_examples"
+            ],
+            "left": "Mampu apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+            "right": "Melakukan praktik apache Web Server 1. Installasi dan Konfigurasi 2. Access configuration 3. Secure APACHE (https) Database 4. Installasi dan Konfigurasi 5. MySQL 6. PHP MyAdmin Squid 7. proxy server 8. Installasi dan konfigurasi squid.conf 9. Konfigurasi browsers klien 10. Squid security 11. NGINX Proxy and Reverse Proxy Samba 12. Linux-Windows Sharing 13. Installasi dan Konfigurasi 14. konfigurasi SAMBA users 15. smbclient, smbstatus 16. Mengatur Windows filesystems 17. Mengakses Windows shares Domain Name Server 18. Cara kerja DNS 19. Tipe DNS Servers 20. Domain Name Space 21. Installasi dan konfigurasi DNS server 22. konfigurasi named.conf dan databases 23. DNS resource record formats 24. Pengujian DNS Server 25. Setting DNS Client Backup and recovery 26. file system backup 27. file backups 28. tipe dump levels 29. backup harian, mingguan, bulanan 30. strategi backup Automation 31. Cron dan Anacron 32. At dan Batch 33. Installasi dan konfigurasi 34. konfigurasi Jobs File transfer protocol 35. FTP server dan klien 36. anonymous users 37. download dan upload permissions 38. FTP user access 39. FTP security 40. Packet filtering 41. iptables 42. chains 43. rule targets 44. connection tracking 45. Network address translation (NAT) Zimbra Mail Server 46. Arsitektur Zimbra 47. Installasi dan konfigurasi Zimbra Collaboration 48. Zimbra Collaboration Suite 49. Zimbra Admin Console 50. Zimbra Collaboration System 51. Backup & Restore.",
+            "similarity": 0.989
+          }
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

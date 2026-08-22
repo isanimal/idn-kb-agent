@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "provider": "OLLAMA",
+    "model": "llama3.2:1b",
+    "prompt_version": "quality-repair-v1",
+    "created_at": "2026-08-22T02:53:13.657476+00:00",
+    "cache_hit": false,
+    "calls": 1
+  },
+  "output": {
+    "short_description": "Training Android (Kotlin) merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta.",
+    "learning_outcomes": [
+      "Mampu apa itu Kotlin.",
+      "Mampu manfaat Kotlin.",
+      "Mampu install Plugin Kotlin Pada Android Studio.",
+      "Mampu konfigurasi Gradle.",
+      "Mampu linear Layout."
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta pemula sesuai bidang training",
+        "problem_solved": "Membantu peserta mempelajari dasar Android Kotlin sesuai cakupan kurikulum."
+      }
+    ],
+    "prerequisites": [],
+    "practice_examples": [
+      "Melakukan praktik konfigurasi Gradle.",
+      "Melakukan praktik pengiriman data menggunakan intent.",
+      "Melakukan praktik pengambilan data dengan menggunakan intent.",
+      "Melakukan praktik konfigurasi Firebase."
+    ],
+    "selling_points": [
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami dasar-dasar coding",
+      "Dapat mengoperasikan android studio",
+      "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+      "Akses Internet"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ]
+  }
+}

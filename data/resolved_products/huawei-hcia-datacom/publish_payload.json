@@ -1,0 +1,58 @@
+{
+  "full_name": "Huawei HCIA Datacom",
+  "short_name": "HCIA Datacom",
+  "category": "Networking",
+  "seo_url": "https://www.idn.id/training/huawei-hcia-datacom/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2800000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari Huawei HCIA Datacom",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [],
+  "trainer_references": [],
+  "short_description": "Bagi rekan-rekan engineer yang perlu menguasai teknologi datacom di perangkat Huawei untuk skala jaringan kecil dan menengah, maka training ini sangat cocok untuk Anda. Training ini dirancang khusus untuk membekali Anda dengan keahlian dasar yang diperlukan dalam perencanaan, desain, implementasi, dan optimasi jaringan skala kecil hingga menengah. Training HCIA (Huawei Certified ICT Associate) Datacom ini adalah langkah pertama atau level dasar dari sertifikasi Huawei HCIA-Datacom. Dalam training ini, Anda akan mempelajari konsep-konsep dasar jaringan, termasuk routing dan switching, instalasi dan konfigurasi perangkat Huawei, hingga troubleshooting perangkat Huawei. Di IDN, kami tidak hanya fokus pada teori, tetapi juga memberikan pelatihan praktis yang mendalam sehingga Anda siap untuk menghadapi tantangan di dunia nyata. Dengan mengikuti training ini, Anda akan mendapatkan fondasi yang kuat untuk karier yang sukses di dunia jaringan, serta membuka peluang untuk melanjutkan ke level sertifikasi yang lebih tinggi seperti HCIP dan HCIE.",
+  "learning_outcomes": [
+    "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+    "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+    "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+    "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+    "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+  "practice_examples": [
+    "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+    "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+    "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+    "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri"
+  ],
+  "post_training_support": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan ketentuan yang berlaku.",
+  "selling_points": [
+    "Setelah selesai training peserta akan mendapat sertifikat training dari IDN bisa untuk menunjang pekerjaan",
+    "Peserta mendapat skill yang dapat dimanfaatkan untuk membangun jaringan, khususnya huawei",
+    "Peserta mendapat skill untuk melakukan monitoring dan trobleshooting jaringan",
+    "Peserta mendapat skill untuk self problem solve, artinya peserta akan mendapat kemampuan untuk memecahkan masalah secara mandiri",
+    "Peserta akan mendapat bekal materi untuk mengikuti ujian sertifikasi internasional HCIA Datacom"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

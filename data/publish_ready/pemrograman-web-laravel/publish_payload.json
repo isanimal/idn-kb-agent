@@ -1,0 +1,82 @@
+{
+  "full_name": "Pemrograman Web Laravel",
+  "short_name": "Pemrograman Web Laravel",
+  "category": "Lainnya",
+  "seo_url": "https://www.idn.id/training/pemrograman-web-laravel/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 2500000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta pemula sesuai bidang training",
+      "problem_solved": "Membantu peserta mempelajari dasar Pemrograman Web Laravel sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Pemrograman Web Codeigniter",
+      "canonical_source_url": "https://www.idn.id/training/web-development/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    },
+    {
+      "training_name": "Web Basic Programming",
+      "canonical_source_url": "https://www.idn.id/training/web-basic-programming/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Asadullah Al Hamasy",
+      "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Tubagus Adhitya Permana",
+      "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Fahmi Nuradi",
+      "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Training web programming dengan Laravel dirancang untuk memberikan pemahaman mendalam tentang pengembangan aplikasi web menggunakan framework Laravel. Program ini ditujukan bagi pengembang web pemula hingga menengah yang ingin memperluas kemampuan mereka dalam pengembangan aplikasi berbasis PHP dengan menggunakan metode yang modern dan efisien.",
+  "learning_outcomes": [
+    "Mampu introduction Laravel basic installation configuration environtment introduction structure (folder, routes and views).",
+    "Mampu blade & MVC Architecture blade template engine create simple model create simple views create simple controller.",
+    "Mampu routing Basic Routing Redirect Route method route resources Basic Routing Views Route Parameters Named Parameters Routing Groups (Middleware, prefix, name prefix).",
+    "Mampu database Introduction Migration create simple table migration create simple seeding table one to one relationship one to many relationship many to many relationship.",
+    "Mampu simple CRUD data simple create data simple update data simple delete data input data with other library (ckeditor) get data using datatables input file file storage link."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training kapanpun Video recording after training online.",
+  "practice_examples": [],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Gratis Mengulang training kapanpun",
+    "Video recording after training online",
+    "Sertifikat",
+    "Kaos",
+    "Modul"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

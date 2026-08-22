@@ -42,7 +42,7 @@ def discover(create_plan=True):
         if row not in selected:selected.append(row)
     result={"generated_at":datetime.now(timezone.utc).isoformat(),"groups":{g:[x for x in rows if x["group"]==g] for g in ("UPDATE_EXISTING","CREATE_NEW","REVIEW_REQUIRED","NOT_READY")},"selected":selected,"server_writes":0}
     if create_plan and selected:
-        inventory=load(LIVE);run_id=datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ-canary");products=[{"slug":x["slug"],"product":x["product"],"mode":x["mode"],"candidate_hash":x["candidate_hash"],"status":"READY"} for x in selected];digest=plan_hash(products,inventory["inventory_hash"]);plan={"schema_version":"canary-plan-v1","canary_run_id":run_id,"generated_at":result["generated_at"],"inventory_hash":inventory["inventory_hash"],"products":products,"canary_plan_hash":digest,"ttl_minutes":MAX_AGE_MINUTES};folder=ROOT/run_id;save(folder/"plan.json",plan);save(ROOT/"current.json",{"run_id":run_id,"plan_hash":digest});result["plan"]=plan
+        inventory=load(LIVE);run_id=datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ-canary");products=[{"slug":x["slug"],"product":x["product"],"mode":x["mode"],"candidate_hash":x["candidate_hash"],"status":"READY"} for x in selected];updates=sum(x["mode"]=="UPDATE_EXISTING" for x in products);creates=sum(x["mode"]=="CREATE_NEW" for x in products);digest=plan_hash(products,inventory["inventory_hash"]);plan={"schema_version":"canary-plan-v1","canary_run_id":run_id,"generated_at":result["generated_at"],"inventory_hash":inventory["inventory_hash"],"products":products,"population":{"updates":updates,"creates":creates,"minimum_updates":2,"minimum_creates":1,"sufficient":updates>=2 and creates>=1},"canary_plan_hash":digest,"ttl_minutes":MAX_AGE_MINUTES};folder=ROOT/run_id;save(folder/"plan.json",plan);save(ROOT/"current.json",{"run_id":run_id,"plan_hash":digest});result["plan"]=plan
     return result
 def _current_plan(supplied):
     pointer=load(ROOT/"current.json");plan=load(ROOT/pointer["run_id"]/"plan.json")
@@ -53,10 +53,12 @@ def preflight(supplied,settings):
     plan,folder=_current_plan(supplied);inventory=refresh_live_index(settings);results=[]
     for product in plan["products"]:
         validate_frozen(product["slug"],product["candidate_hash"]);r=live_preflight(product["slug"],product["candidate_hash"],settings,refresh=False);results.append({"slug":product["slug"],"product":product["product"],"mode":product["mode"],"candidate":"READY","identity":r["identity"],"baseline":r["baseline_match"],"duplicate_check":r["duplicate_check"],"result":r["result"]})
-    report={"canary_run_id":plan["canary_run_id"],"plan_hash":supplied,"generated_at":datetime.now(timezone.utc).isoformat(),"products":results,"inventory_hash":inventory["inventory_hash"],"result":"READY" if all(x["result"]=="ARMED_CANDIDATE_READY" for x in results) else "BLOCKED","server_writes":0};save(folder/"preflight.json",report);return report
+    product_ready=all(x["result"]=="ARMED_CANDIDATE_READY" for x in results);population=plan.get("population",{});sufficient=bool(population.get("sufficient"));report={"canary_run_id":plan["canary_run_id"],"plan_hash":supplied,"generated_at":datetime.now(timezone.utc).isoformat(),"products":results,"population":population,"inventory_hash":inventory["inventory_hash"],"result":"READY" if product_ready and sufficient else "POPULATION_INSUFFICIENT" if product_ready else "BLOCKED","server_writes":0};save(folder/"preflight.json",report);return report
 def execute(supplied,confirm_write,settings):
     if not confirm_write:raise CanaryError("EXPLICIT_WRITE_CONFIRMATION_REQUIRED")
-    plan,folder=_current_plan(supplied);preflight(supplied,settings);rows=[];writes=0
+    plan,folder=_current_plan(supplied);check=preflight(supplied,settings)
+    if check["result"]!="READY":raise CanaryError(check["result"])
+    rows=[];writes=0
     for product in plan["products"]: # Deliberately sequential; no executor/concurrency.
         result=publish_live(product["slug"],product["candidate_hash"],True,settings);writes+=result.get("server_write_count",0);verified=result.get("result")=="PASS"
         if not verified and result.get("publish_run_id"):

@@ -1,0 +1,12 @@
+{
+  "match_status": "MATCHED",
+  "existing_kb_product": {
+    "name": "Cisco CCNP Enterprise (ENCOR, ENARSI)",
+    "short_name": "Cisco CCNP Enterprise",
+    "url": "https://kb.idn.id/kb/training/detail?id=5b451deb8975455b91f36b788c337c85",
+    "preview": "Cisco CCNP Enterprise (ENCOR, ENARSI) Cisco CCNP Enterprise Training Cisco CCNP Enterprise di ID-Networkers adalah program enterprise networking tingkat lanjut yang menggabungkan materi ENCOR (Implementing and Operating Cisco Enterprise Network Core Technologies) dan ENARSI (Implementing Cisco Enterprise Advanced Routing and Services) dalam satu paket training. Networking · Offline · mulai Rp 4.000.000 (referensi)",
+    "source": "KB_INTERNAL",
+    "category": "Networking"
+  },
+  "conflicts": []
+}

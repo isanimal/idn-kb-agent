@@ -1,0 +1,541 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "android-kotlin",
+  "source_url": "https://www.idn.id/training/android-kotlin/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "Android Kotlin",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "Android Kotlin",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Programming",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/android-kotlin/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 2000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari Android Kotlin",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "Android Kotlin lanjutan",
+          "canonical_source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        },
+        {
+          "training_name": "Android Kotlin E-Commerce",
+          "canonical_source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "Asadullah Al Hamasy",
+          "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Tubagus Adhitya Permana",
+          "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Fahmi Nuradi",
+          "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Training Android (Kotlin) merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis kotlin level basic sampai bisa memahami materi lanjutan android kotlin, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya, jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "Dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "Apa itu Kotlin",
+        "Manfaat Kotlin",
+        "Install Plugin Kotlin Pada Android Studio",
+        "Linear Layout",
+        "Relative Layout",
+        "Table Layout",
+        "Pembuatan Project"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training android di Indonesia Free makan siang dan coffe break selama training Disediakan penginapan gratis bagi peserta training yang dari luar kota pemberitahuan lowongan kerja kepada peserta Gratis mengulang training sebanyak 2x Join group whatsapp setelah training",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "Dapat mengoperasikan android studio"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "RESOLVED",
+      "value": [
+        "Menguasai materi yang tersedia di curriculum",
+        "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+        "Memahami dasar-dasar coding",
+        "Dapat mengoperasikan android studio",
+        "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+        "Akses Internet",
+        "Gratis mengulang training sebanyak 2x",
+        "Lunch & Coffebreak",
+        "Penginapan Gratis bagi yang dari luar kota",
+        "Sertifikat"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/android-kotlin/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "Android Kotlin",
+    "short_name": "Android Kotlin",
+    "category": "Programming",
+    "seo_url": "https://www.idn.id/training/android-kotlin/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "4 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": 2000000,
+        "private_price_reference": null,
+        "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari Android Kotlin",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "Android Kotlin lanjutan",
+        "canonical_source_url": "https://www.idn.id/training/android-kotlin-lanjutan/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.8
+      },
+      {
+        "training_name": "Android Kotlin E-Commerce",
+        "canonical_source_url": "https://www.idn.id/training/training-android-kotlin-e-commerce/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.8
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "Asadullah Al Hamasy",
+        "kb_trainer_id": "16ffe3e2f0dc4592b191ece0cfdc2799",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Tubagus Adhitya Permana",
+        "kb_trainer_id": "106d2ed0414b4fb19e626dbf6d4eb7f4",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Fahmi Nuradi",
+        "kb_trainer_id": "6d40f9afa9904425b27c23c14227ad1c",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "Training Android (Kotlin) merupakan salah satu jenis training pemograman berbasis mobile yang ditawarkan oleh IDN sebagai tempat traning Android di jakarta. Pada training ini, peserta akan belajar tentang bagaimana belajar pemograman android berbasis kotlin level basic sampai bisa memahami materi lanjutan android kotlin, dengan materi-materi yang selalu update sesuai perkembangan zaman baik dari segi source codenya maupun dari segi tools/librarynya. Training di IDN juga ada layanan konsultasi dengan trainernya, jadi permasalahan yang berhubungan dengan materi training bisa dibahas pada saat training berlangsung. Adapun training Android di IDN dilaksanakan selama 4 hari. Selama training, peserta akan mendapat ilmu tentang bagaimana awal membuat aplikasi native baik itu untuk Android, kemudian peserta juga akan mengetahui solusi dari kesulitan saat ketika mengembangkan sebuah aplikasi",
+    "learning_outcomes": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami dasar-dasar coding",
+      "Dapat mengoperasikan android studio",
+      "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+      "Apa itu Kotlin",
+      "Manfaat Kotlin",
+      "Install Plugin Kotlin Pada Android Studio",
+      "Linear Layout",
+      "Relative Layout",
+      "Table Layout",
+      "Pembuatan Project"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Free Konsultasi kepada trainer after training, jika memang ada materi yang dirasa belum mengerti Biaya training termurah untuk sekelas training android di Indonesia Free makan siang dan coffe break selama training Disediakan penginapan gratis bagi peserta training yang dari luar kota pemberitahuan lowongan kerja kepada peserta Gratis mengulang training sebanyak 2x Join group whatsapp setelah training",
+    "practice_examples": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami dasar-dasar coding",
+      "Dapat mengoperasikan android studio"
+    ],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [
+      "Menguasai materi yang tersedia di curriculum",
+      "Peserta mampu mengatasi permasalahan dalam proses pemograman",
+      "Memahami dasar-dasar coding",
+      "Dapat mengoperasikan android studio",
+      "Peserta dapat membuat project aplikasi sendiri secara mandiri",
+      "Akses Internet",
+      "Gratis mengulang training sebanyak 2x",
+      "Lunch & Coffebreak",
+      "Penginapan Gratis bagi yang dari luar kota",
+      "Sertifikat"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

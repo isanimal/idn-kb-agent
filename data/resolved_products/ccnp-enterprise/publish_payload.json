@@ -1,0 +1,93 @@
+{
+  "full_name": "CCNP Enterprise",
+  "short_name": "Cisco CCNP Enterprise",
+  "category": "Networking",
+  "seo_url": "https://www.idn.id/training/ccnp-enterprise/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "Offline",
+      "duration": "6 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": 4000000,
+      "private_price_reference": null,
+      "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari CCNP Enterprise",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "CCNP Enterprise SDWAN",
+      "canonical_source_url": "https://www.idn.id/training/ccnp-enterprise-sdwan/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    },
+    {
+      "training_name": "CCNA 200 – 301 Enterprise",
+      "canonical_source_url": "https://www.idn.id/training/cisco-ccna-enterprise/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Ikhwanul Kurnia Rahman",
+      "kb_trainer_id": "1ade341e21934189949bb0b73d91dbb5",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Miftahul Huda",
+      "kb_trainer_id": "52bb1796d7a64132902b018abb11bee4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "At-Thoriq Firdaus Ramadhan",
+      "kb_trainer_id": "f383c4e05b14446782b391bf51c6604a",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Ferry Fajar Pratama",
+      "kb_trainer_id": "b214d87fd66d4c32ac0f6354e356c959",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "CCNP adalah salah satu track sertifikasi cisco yang sangat populer dikalangan para network engineer dan merupakan track sertifikasi tingkat advance / profesional. Pada track ini, peserta akan belajar lebih dalam dari materi yang dipelajari di track sebelumnya yaitu CCNA. Untuk saat ini CCNP sendiri terbagi menjadi 2 modul yaitu CCNP ENCOR (Enterprise Core) dengan kode ujian (350-401) dan CCNP ENARSI (Enterprise Advanced Routing and Services) dengan kode ujian (300-410), jika pada CCNP sebelumnya memiliki tiga modul yaitu Route, Switch dan TSHOOT (Troubleshooting) di track baru ini di kompres menjadi 2 modul saja. Dan di course ini 2 modul tersebut sudah include dalam 1 modul buku training ccnp idn Di IDN, kita tidak cuma belajar tentang konsep dan konfigurasi saja. Ada beberapa nilai tambah yang akan kita dapatkan di sini. Selain hard skill, kita juga akan belajar soft skill. Mulai dari membentuk mindset saat kita dihadapkan dengan case troubleshoot, mencari root cause masalahnya, kemudian step by step action yang perlu kita lakukan juga harus dilakukan secara sistematis. Dengan begitu, harapannya ketika kita benar2 menghadapi trouble di real world, kita sudah punya gambarannya dulu, kira2 sikap dan action apa yg harus kita ambil untuk melakukan troubleshoot. Kelebihan lain dari mengikuti training ini di IDN adalah, ada materi tambahan yang sangat menarik, yaitu VXLAN. VXLAN ini merupakan teknologi yang pasti akan kita temui saat handle data center Network. Tidak menutup kemungkinan, kita akan dihadapkan untuk troubleshoot atau konfigurasi data center network. Dengan materi yg di dapat dari IDN, maka kita sudah siap. Syarat untuk bisa mengikuti kelas CCNP Enterprise ini adalah sudah pernah belajar Cisco CCNA 200-301 sebelumnya.",
+  "learning_outcomes": [
+    "Lab 1. Konfig Dasar",
+    "Lab 2. Filtering – Distribute List",
+    "Lab 3. Filtering – Prefix List – In",
+    "Lab 1. OSPF Virtual Link",
+    "Lab 2. OSPF Gre Tunnel",
+    "Lab 3. OSPF Standar Area",
+    "Lab 1. Dasar IPv6",
+    "Lab 2. IPv6 Routing Static",
+    "Lab 3. IPv6 RIPnG",
+    "Lab 1 iBGP Peering",
+    "Lab 2 iBGP Peering Loopback",
+    "Lab 3 eBGP Peering"
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Peserta mendapatkan benefit gratis mengulang training hingga 2x. Repeat training mengikuti proses registrasi dan ketersediaan batch/seat yang berlaku di ID-Networkers.",
+  "practice_examples": [
+    "Lab 1. Konfig Dasar",
+    "Lab 2. Filtering – Distribute List",
+    "Lab 3. Filtering – Prefix List – In",
+    "Lab 1. OSPF Virtual Link"
+  ],
+  "post_training_support": "Grup WhatsApp alumni. Kesempatan konsultasi setelah training sesuai mekanisme support ID-Networkers. Benefit repeat training sesuai ketentuan yang berlaku. Peserta dapat memanfaatkan fasilitas konsultasi setelah training sesuai mekanisme yang berlaku di ID-Networkers. Scope konsultasi tetap perlu wajar dan berkaitan dengan pembelajaran/kompetensi training. Peserta dapat berkoordinasi untuk melakukan lab di IDN di luar jam training dengan trainer pengampu saat kelas berlangsung. Pelaksanaan bergantung pada koordinasi, fasilitas, jadwal, dan ketersediaan yang berlaku.",
+  "selling_points": [],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}
