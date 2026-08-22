@@ -1,0 +1,80 @@
+{
+  "full_name": "DevSecOps (Development Security Operations)",
+  "short_name": "DevSecOps (Development Security Operations)",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+  "advertising_links": [],
+  "training_formats": [],
+  "target_audiences": [
+    {
+      "audience": "Administrator jaringan",
+      "problem_solved": "Membantu peserta mempelajari dasar DevSecOps (Development Security Operations) sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Network engineer pemula",
+      "problem_solved": "Membantu peserta mempelajari dasar DevSecOps (Development Security Operations) sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Profesional IT yang mempelajari keamanan defensif",
+      "problem_solved": "Membantu peserta mempelajari dasar DevSecOps (Development Security Operations) sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Devops (Development & Operations)",
+      "canonical_source_url": "https://www.idn.id/training/devops/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.8
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Moch Rafi Riadi",
+      "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Deni Rismanto",
+      "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Bazigan Tsamara Sukamto",
+      "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "Zakaria Ramadan",
+      "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Training DevSecOps adalah program pelatihan yang dirancang untuk membantu peserta memahami cara mengintegrasikan aspek keamanan ke dalam setiap tahapan pengembangan aplikasi, mulai dari perencanaan, coding, testing, deployment, hingga monitoring.",
+  "learning_outcomes": [
+    "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+    "Mampu menghubungkan workflow dengan layanan eksternal melalui API."
+  ],
+  "prerequisites": [
+    "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu."
+  ],
+  "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training terjangkau dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan.",
+  "practice_examples": [
+    "Melakukan vulnerability assessment pada lingkungan lab.",
+    "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Kurikulum mencakup : Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning, : Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks, : CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft."
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+    "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

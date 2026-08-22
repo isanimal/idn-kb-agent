@@ -1,0 +1,19 @@
+{
+  "slug": "kubernetes-security-specialist-cks",
+  "name": "Kubernetes Security Specialist-CKS",
+  "source_url": "https://www.idn.id/training/kubernetes-security-specialist-cks/",
+  "source_category": "Orchestration",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "DETERMINISTIC_CLASSIFIER",
+  "mapping_confidence": 0.8,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "a6e0a328fe54a3a7446bee5fcf6c52d6bc94a3501f349b8b9a340f580cfb3c30",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

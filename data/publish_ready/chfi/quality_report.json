@@ -1,0 +1,129 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "chfi",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "READY",
+  "score": 95,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": true,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu computer Forensics in Today’s World.",
+          "evidence_topics": [
+            "computer",
+            "forensics",
+            "today",
+            "world"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu computer Forensics Investigation Process.",
+          "evidence_topics": [
+            "computer",
+            "forensics",
+            "investigation",
+            "process"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu understanding Hard Disks and File Systems.",
+          "evidence_topics": [
+            "and",
+            "disks",
+            "file",
+            "hard",
+            "systems",
+            "understanding"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu data Acquisition and Duplication.",
+          "evidence_topics": [
+            "acquisition",
+            "and",
+            "data",
+            "duplication"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu defeating Anti-Forensics Techniques.",
+          "evidence_topics": [
+            "anti",
+            "defeating",
+            "forensics",
+            "techniques"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Kurikulum mencakup Computer Forensics in Today’s World, Computer Forensics Investigation Process, Understanding Hard Disks and File Systems.",
+          "evidence_topics": [
+            "and",
+            "computer",
+            "disks",
+            "file",
+            "forensics",
+            "hard",
+            "investigation",
+            "kurikulum"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ],
+  "cyber_scoped_original_readiness": "REVIEW_REQUIRED",
+  "cyber_scoped_readiness": "READY_WITH_WARNINGS"
+}

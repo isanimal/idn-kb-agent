@@ -1,0 +1,19 @@
+{
+  "schema_version": "publish-route-v2",
+  "slug": "devsecops-development-security-operations",
+  "publish_readiness": "READY",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "match_method": "NO_CANDIDATE",
+  "confidence": 1.0,
+  "inventory_hash": "65d14d78b1cf4538887e0090f3f28e76dd20dacf5a372218f9b0074ebc943f5c",
+  "checked_against_live_kb_at": "2026-08-22T03:32:51.716078+00:00",
+  "route_ttl_seconds": 3600,
+  "warnings": [],
+  "candidate_matches": [],
+  "blocking_conflicts": [],
+  "dry_run_allowed": true,
+  "live_publish_allowed": true,
+  "publisher_allowed": true
+}

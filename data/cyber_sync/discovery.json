@@ -1,0 +1,130 @@
+{
+  "scope": "Cybersecurity",
+  "generated_at": "2026-08-22T03:31:34.998436+00:00",
+  "total_catalog": 96,
+  "cybersecurity_products": 10,
+  "excluded_pentest": 1,
+  "products": [
+    {
+      "slug": "web-pentesting",
+      "name": "Web Penetration Testing",
+      "source_url": "https://www.idn.id/training/web-pentesting/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "AMBIGUOUS",
+      "identity_decision": "REVIEW_REQUIRED",
+      "kb_product_id": null
+    },
+    {
+      "slug": "ceh",
+      "name": "Certified Ethical Hacker (CEH)",
+      "source_url": "https://www.idn.id/training/ceh/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "comptia-security",
+      "name": "CompTIA Security+ (Include Exam)",
+      "source_url": "https://www.idn.id/training/comptia-security/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "comptia-pentest",
+      "name": "CompTIA Pentest+ (Include Exam)",
+      "source_url": "https://www.idn.id/training/comptia-pentest/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "comptia-cysa-include-exam",
+      "name": "CompTIA CySA+ (Include Exam)",
+      "source_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "ics-iot-industial-security",
+      "name": "ICS/IOT Industrial Security",
+      "source_url": "https://www.idn.id/training/ics-iot-industial-security/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "wazuh-for-security-engineer",
+      "name": "Wazuh For Security Engineer",
+      "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "devsecops-development-security-operations",
+      "name": "DevSecOps (Development Security Operations)",
+      "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+      "source_category": "Devops",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "DETERMINISTIC_CLASSIFIER",
+      "mapping_confidence": 0.8,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "kubernetes-security-specialist-cks",
+      "name": "Kubernetes Security Specialist-CKS",
+      "source_url": "https://www.idn.id/training/kubernetes-security-specialist-cks/",
+      "source_category": "Orchestration",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "DETERMINISTIC_CLASSIFIER",
+      "mapping_confidence": 0.8,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    },
+    {
+      "slug": "chfi",
+      "name": "CHFI (Computer Hacking Forensic Investigator)",
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_category": "EC-Council",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "DETERMINISTIC_CLASSIFIER",
+      "mapping_confidence": 0.8,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null
+    }
+  ],
+  "server_writes": 0
+}

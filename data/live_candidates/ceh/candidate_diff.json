@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "field": "full_name",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Certified Ethical Hacker (CEH)"
+    },
+    {
+      "field": "short_name",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Certified Ethical Hacker (CEH)"
+    },
+    {
+      "field": "category",
+      "action": "REPLACE_WITH_NEW",
+      "before": "— Tanpa kategori —",
+      "after": "Cybersecurity"
+    },
+    {
+      "field": "seo_url",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "https://www.idn.id/training/ceh/"
+    },
+    {
+      "field": "advertising_links",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "training_formats",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "target_audiences",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        {
+          "audience": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+          "problem_solved": ""
+        }
+      ]
+    },
+    {
+      "field": "certifications",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "tools",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "next_classes",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "trainer_references",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "short_description",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Training Certified Ethical Hacker (CEH) membahas tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) ."
+    },
+    {
+      "field": "learning_outcomes",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+      ]
+    },
+    {
+      "field": "prerequisites",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "repeat_policy",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN."
+    },
+    {
+      "field": "practice_examples",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Melakukan vulnerability assessment pada lingkungan lab."
+      ]
+    },
+    {
+      "field": "post_training_support",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja."
+    },
+    {
+      "field": "selling_points",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Sertifikat",
+        "Modul",
+        "T-shirt",
+        "Makan siang",
+        "Coffee Break"
+      ]
+    },
+    {
+      "field": "claims_to_avoid",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ]
+    },
+    {
+      "field": "additional_notes",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan."
+    },
+    {
+      "field": "active",
+      "action": "UNCHANGED",
+      "before": true,
+      "after": true
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "ceh",
+  "source_url": "https://www.idn.id/training/ceh/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "Certified Ethical Hacker (CEH)",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "Certified Ethical Hacker (CEH)",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Cybersecurity",
+      "confidence": 0.95,
+      "source_type": "OBSERVED",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/ceh/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "9:00–17:00 None",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+          "problem_solved": null
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) . Pekerjaan ini juga sering menawarkan gaji yang menarik, dengan rata-rata gaji tahunan di Amerika Serikat sekitar $109,540 (Coursera ) . Gaji yang Kompetitif Profesional ethical hacker dihargai tinggi karena keahlian khusus mereka dalam keamanan siber. Gaji rata-rata untuk seorang ethical hacker di AS mencapai $121,875 per tahun ( Whizlabs ) . Bahkan bagi yang baru memulai karir, gaji entry-level bisa mencapai $112,000 per tahun ( Whizlabs ) . Meningkatnya Ancaman Siber Serangan siber semakin canggih dan beragam, mulai dari malware, ransomware, hingga serangan berbasis AI. Menguasai teknik ethical hacking memungkinkan seseorang untuk lebih siap menghadapi dan menangkal ancaman ini.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "confidence": 0.9,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "RESOLVED",
+      "value": [
+        "Sertifikat",
+        "Modul",
+        "T-shirt",
+        "Makan siang",
+        "Coffee Break",
+        "Goodie Bag",
+        "Notebook",
+        "Ruangan Ber AC",
+        "dll"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/ceh/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "Certified Ethical Hacker (CEH)",
+    "short_name": "Certified Ethical Hacker (CEH)",
+    "category": "Cybersecurity",
+    "seo_url": "https://www.idn.id/training/ceh/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "5 hari",
+        "schedule": "9:00–17:00 None",
+        "public_price_reference": null,
+        "private_price_reference": null,
+        "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+        "problem_solved": null
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [],
+    "trainer_references": [],
+    "short_description": "Tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) . Pekerjaan ini juga sering menawarkan gaji yang menarik, dengan rata-rata gaji tahunan di Amerika Serikat sekitar $109,540 (Coursera ) . Gaji yang Kompetitif Profesional ethical hacker dihargai tinggi karena keahlian khusus mereka dalam keamanan siber. Gaji rata-rata untuk seorang ethical hacker di AS mencapai $121,875 per tahun ( Whizlabs ) . Bahkan bagi yang baru memulai karir, gaji entry-level bisa mencapai $112,000 per tahun ( Whizlabs ) . Meningkatnya Ancaman Siber Serangan siber semakin canggih dan beragam, mulai dari malware, ransomware, hingga serangan berbasis AI. Menguasai teknik ethical hacking memungkinkan seseorang untuk lebih siap menghadapi dan menangkal ancaman ini.",
+    "learning_outcomes": [
+      "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+    "practice_examples": [
+      "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+    ],
+    "post_training_support": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+    "selling_points": [
+      "Sertifikat",
+      "Modul",
+      "T-shirt",
+      "Makan siang",
+      "Coffee Break",
+      "Goodie Bag",
+      "Notebook",
+      "Ruangan Ber AC",
+      "dll"
+    ],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi.",
+      "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+      "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

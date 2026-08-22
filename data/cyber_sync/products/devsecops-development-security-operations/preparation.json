@@ -1,0 +1,19 @@
+{
+  "slug": "devsecops-development-security-operations",
+  "name": "DevSecOps (Development Security Operations)",
+  "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+  "source_category": "Devops",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "DETERMINISTIC_CLASSIFIER",
+  "mapping_confidence": 0.8,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "038ebb7e7b861a43d4f98b4368817560569d6ec9977159f0210f861969e44cae",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

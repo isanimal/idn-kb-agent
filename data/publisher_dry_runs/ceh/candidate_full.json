@@ -1,0 +1,44 @@
+{
+  "full_name": "Certified Ethical Hacker (CEH)",
+  "short_name": "Certified Ethical Hacker (CEH)",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/ceh/",
+  "advertising_links": [],
+  "training_formats": [],
+  "target_audiences": [
+    {
+      "audience": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+      "problem_solved": ""
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [],
+  "trainer_references": [],
+  "short_description": "Training Certified Ethical Hacker (CEH) membahas tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) .",
+  "learning_outcomes": [
+    "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+  "practice_examples": [
+    "Melakukan vulnerability assessment pada lingkungan lab."
+  ],
+  "post_training_support": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+  "selling_points": [
+    "Sertifikat",
+    "Modul",
+    "T-shirt",
+    "Makan siang",
+    "Coffee Break"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+    "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

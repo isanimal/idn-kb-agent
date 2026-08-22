@@ -1,0 +1,12 @@
+{
+  "slug": "ceh",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "historical_route": "data/publish_routes/ceh/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "f75aed26ac20159350ed15c72bbcd2ceb913dcc0ab6509cd7f83f589006689ad",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

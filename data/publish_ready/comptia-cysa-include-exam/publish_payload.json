@@ -1,0 +1,83 @@
+{
+  "full_name": "CompTIA CySA+ (Include Exam)",
+  "short_name": "CompTIA CySA+ (Include Exam)",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+  "advertising_links": [],
+  "training_formats": [],
+  "target_audiences": [
+    {
+      "audience": "Administrator jaringan",
+      "problem_solved": "Membantu peserta mempelajari dasar CompTIA CySA+ (Include Exam) sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Network engineer pemula",
+      "problem_solved": "Membantu peserta mempelajari dasar CompTIA CySA+ (Include Exam) sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Profesional IT yang mempelajari keamanan defensif",
+      "problem_solved": "Membantu peserta mempelajari dasar CompTIA CySA+ (Include Exam) sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CompTIA CySA+ (Include Exam)",
+      "level": null,
+      "exam_fee_reference": null,
+      "exam_duration": null,
+      "exam_code": null,
+      "passing_score": null,
+      "relationship": "EXAM_INCLUDED",
+      "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+    }
+  ],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "CompTIA Security+ (Include Exam)",
+      "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.9
+    },
+    {
+      "training_name": "CompTIA Pentest+ (Include Exam)",
+      "canonical_source_url": "https://www.idn.id/training/comptia-pentest/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.9
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "ADITYA FIRMAN NUGROHO",
+      "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+      "match_type": "EXACT"
+    },
+    {
+      "trainer_name": "NURCHOLIS MAJID",
+      "kb_trainer_id": "c4defc97fa174eb895b19996bd831cea",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "CompTIA Cybersecurity Analyst (CySA+) merupakan sertifikasi untuk cyber profesional yang ditugaskan untuk mendeteksi, mencegah, dan merespons insiden melalui pemantauan keamanan berkelanjutan.",
+  "learning_outcomes": [
+    "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+  "practice_examples": [
+    "Melakukan vulnerability assessment pada lingkungan lab."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Kurikulum mencakup 1. Security Operations 1.1 Explain the importance of system and network architecture concepts in security operations 1.2 Given a scenario, analyze indicators of potentially malicious activity 1.3 Given a scenario, use appropriate tools or techniques to determine malicious activty 1.4 Compare and contrast threat-intelligence and threat-hunting concepts 1.5 Explain the importance of efficiency and process improvement in security operations 2. Vulnerability Management 2.1 Given a scenario, implement vulnerability scanning methods and concepts 2.2 Given a scenario, analyze output from vulnerability assessment tools 2.3 Given a scenario, analyze data to prioritize vulnerabilties 2.4 Given a scenario, recommend controls to mitigate attacks and software vulnerabilities 2.5 Explain concepts related to vulnerability response, handling and management 3. Incident Response and Management 3.1 Explain concepts related to attacks methodology frameworks 3.2 Given a scenario, perform incident response activites 3.3 Explain the preparation and post incident activity phase of the incident management life cycle 4. Reproting and Communication 4.1 Explain the importance of vulnerability management reporting and communication 4.2 explain the importance of incident response reporting and communication.",
+    "Pembelajaran menggunakan pendekatan praktik langsung sesuai materi training."
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "comptia-security",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "historical_route": "data/publish_routes/comptia-security/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "67113d66107c8bce14c7dd06e7b41c7eca573c7c098491652010d9b9fe24474b",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

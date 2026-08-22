@@ -1,0 +1,296 @@
+{
+  "total_cyber": 10,
+  "excluded_pentest": 1,
+  "products": [
+    {
+      "slug": "web-pentesting",
+      "name": "Web Penetration Testing",
+      "source_url": "https://www.idn.id/training/web-pentesting/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "AMBIGUOUS",
+      "identity_decision": "REVIEW_REQUIRED",
+      "kb_product_id": null,
+      "readiness": "REVIEW_REQUIRED",
+      "reasons": [
+        "IDENTITY_AMBIGUOUS"
+      ]
+    },
+    {
+      "slug": "ceh",
+      "name": "Certified Ethical Hacker (CEH)",
+      "source_url": "https://www.idn.id/training/ceh/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "f75aed26ac20159350ed15c72bbcd2ceb913dcc0ab6509cd7f83f589006689ad",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "comptia-security",
+      "name": "CompTIA Security+ (Include Exam)",
+      "source_url": "https://www.idn.id/training/comptia-security/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "67113d66107c8bce14c7dd06e7b41c7eca573c7c098491652010d9b9fe24474b",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "comptia-pentest",
+      "name": "CompTIA Pentest+ (Include Exam)",
+      "source_url": "https://www.idn.id/training/comptia-pentest/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "62e909fbf0bbc4b15731be4fd64ee60e04cdbfac5834857e237e563fca1d6148",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "comptia-cysa-include-exam",
+      "name": "CompTIA CySA+ (Include Exam)",
+      "source_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "8fe84ce0a0de67e0b89fad83747df6c08a72229e9f82c3f9ffa6db2ad70ae822",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "ics-iot-industial-security",
+      "name": "ICS/IOT Industrial Security",
+      "source_url": "https://www.idn.id/training/ics-iot-industial-security/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "c7e2bd0ca97584af21325a6d2ebc1200e36c3b68cbd87bfea0cabf65f8be67a1",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "wazuh-for-security-engineer",
+      "name": "Wazuh For Security Engineer",
+      "source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+      "source_category": "Cyber Security",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "OBSERVED",
+      "mapping_confidence": 0.95,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "0aa606fa8a73551461bd875a86103cd1efc320776f8b5e7f9c25425a983e8c77",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "devsecops-development-security-operations",
+      "name": "DevSecOps (Development Security Operations)",
+      "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+      "source_category": "Devops",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "DETERMINISTIC_CLASSIFIER",
+      "mapping_confidence": 0.8,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "038ebb7e7b861a43d4f98b4368817560569d6ec9977159f0210f861969e44cae",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "kubernetes-security-specialist-cks",
+      "name": "Kubernetes Security Specialist-CKS",
+      "source_url": "https://www.idn.id/training/kubernetes-security-specialist-cks/",
+      "source_category": "Orchestration",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "DETERMINISTIC_CLASSIFIER",
+      "mapping_confidence": 0.8,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "a6e0a328fe54a3a7446bee5fcf6c52d6bc94a3501f349b8b9a340f580cfb3c30",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    },
+    {
+      "slug": "chfi",
+      "name": "CHFI (Computer Hacking Forensic Investigator)",
+      "source_url": "https://www.idn.id/training/chfi/",
+      "source_category": "EC-Council",
+      "mapped_category": "Cybersecurity",
+      "mapping_method": "DETERMINISTIC_CLASSIFIER",
+      "mapping_confidence": 0.8,
+      "kb_status": "NOT_IN_KB",
+      "identity_decision": "CREATE_NEW",
+      "kb_product_id": null,
+      "mode": "CREATE_NEW",
+      "candidate_hash": "b40b1aab12a62d92ebb1599f8bab332b6d68ecf623a994284a4e36ff36ea2621",
+      "readiness": "READY_WITH_WARNINGS",
+      "warnings": [
+        "UNKNOWN_FORMAT_OMITTED"
+      ],
+      "status": "PREPARED"
+    }
+  ],
+  "manifest": {
+    "scope": "Cybersecurity",
+    "generated_at": "2026-08-22T03:33:26.847550+00:00",
+    "excluded": [
+      "pentest"
+    ],
+    "inventory_hash": "65d14d78b1cf4538887e0090f3f28e76dd20dacf5a372218f9b0074ebc943f5c",
+    "products": [
+      {
+        "slug": "ceh",
+        "name": "Certified Ethical Hacker (CEH)",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "f75aed26ac20159350ed15c72bbcd2ceb913dcc0ab6509cd7f83f589006689ad",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "chfi",
+        "name": "CHFI (Computer Hacking Forensic Investigator)",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "b40b1aab12a62d92ebb1599f8bab332b6d68ecf623a994284a4e36ff36ea2621",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "comptia-cysa-include-exam",
+        "name": "CompTIA CySA+ (Include Exam)",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "8fe84ce0a0de67e0b89fad83747df6c08a72229e9f82c3f9ffa6db2ad70ae822",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "comptia-pentest",
+        "name": "CompTIA Pentest+ (Include Exam)",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "62e909fbf0bbc4b15731be4fd64ee60e04cdbfac5834857e237e563fca1d6148",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "comptia-security",
+        "name": "CompTIA Security+ (Include Exam)",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "67113d66107c8bce14c7dd06e7b41c7eca573c7c098491652010d9b9fe24474b",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "devsecops-development-security-operations",
+        "name": "DevSecOps (Development Security Operations)",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "038ebb7e7b861a43d4f98b4368817560569d6ec9977159f0210f861969e44cae",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "ics-iot-industial-security",
+        "name": "ICS/IOT Industrial Security",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "c7e2bd0ca97584af21325a6d2ebc1200e36c3b68cbd87bfea0cabf65f8be67a1",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "kubernetes-security-specialist-cks",
+        "name": "Kubernetes Security Specialist-CKS",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "a6e0a328fe54a3a7446bee5fcf6c52d6bc94a3501f349b8b9a340f580cfb3c30",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      },
+      {
+        "slug": "wazuh-for-security-engineer",
+        "name": "Wazuh For Security Engineer",
+        "mode": "CREATE_NEW",
+        "candidate_hash": "0aa606fa8a73551461bd875a86103cd1efc320776f8b5e7f9c25425a983e8c77",
+        "readiness": "READY_WITH_WARNINGS",
+        "warnings": [
+          "UNKNOWN_FORMAT_OMITTED"
+        ]
+      }
+    ],
+    "cyber_manifest_hash": "a52dedc8ffdf69a3e4e7da2fb380be9787ee1faaa81bc113a6866ab5c6e1400a",
+    "ttl_minutes": 60
+  },
+  "server_writes": 0
+}

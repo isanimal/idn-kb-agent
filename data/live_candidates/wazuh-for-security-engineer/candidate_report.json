@@ -1,0 +1,142 @@
+{
+  "schema_version": "live-candidate-v1",
+  "slug": "wazuh-for-security-engineer",
+  "generated_at": "2026-08-22T03:32:50.062114+00:00",
+  "mode": "CREATE_NEW",
+  "quality": "READY",
+  "identity": "CREATE_NEW",
+  "merge": "NOT_REQUIRED",
+  "field_parity": {
+    "total": 21,
+    "implemented": 21,
+    "missing": []
+  },
+  "actions": [
+    {
+      "field": "full_name",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "short_name",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "category",
+      "action": "REPLACE_WITH_NEW"
+    },
+    {
+      "field": "seo_url",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "short_description",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "learning_outcomes",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "prerequisites",
+      "action": "UNCHANGED"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "practice_examples",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "post_training_support",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "selling_points",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "claims_to_avoid",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "additional_notes",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "target_audiences",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "target_audiences",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "target_audiences",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "certifications",
+      "action": "SKIPPED_EMPTY"
+    },
+    {
+      "field": "next_classes",
+      "action": "DEFERRED_RELATION"
+    },
+    {
+      "field": "next_classes",
+      "action": "DEFERRED_RELATION"
+    },
+    {
+      "field": "trainer_references",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "active",
+      "action": "UNCHANGED"
+    }
+  ],
+  "changes": {
+    "UNCHANGED": 6,
+    "FILL_EMPTY": 13,
+    "REPLACE_WITH_NEW": 1,
+    "AUGMENT": 0,
+    "PRESERVE_EXISTING": 0,
+    "DEFERRED_RELATION": 1,
+    "REVIEW_REQUIRED": 0
+  },
+  "dynamic": {
+    "advertising_links": "EMPTY",
+    "training_formats": "EMPTY",
+    "target_audiences": "PASS",
+    "certifications": "EMPTY",
+    "tools": "EMPTY",
+    "next_classes": "DEFERRED",
+    "trainer_references": "PASS",
+    "active": "PASS"
+  },
+  "original_conflicts": 0,
+  "resolved_by_preserve": 0,
+  "effective_conflicts": 0,
+  "round_trip": "PASS",
+  "content_regression": false,
+  "unexpected_removal": false,
+  "deferred_relations_count": 2,
+  "candidate_hash": "0aa606fa8a73551461bd875a86103cd1efc320776f8b5e7f9c25425a983e8c77",
+  "live_candidate_readiness": "READY",
+  "server_writes": 0,
+  "save_clicked": false,
+  "screenshots": [
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\01-baseline.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\02-static.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\03-training-formats.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\04-target-audiences.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\05-certifications.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\06-tools.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\07-next-classes.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\08-trainers.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\09-active.png",
+    "runtime\\screenshots\\candidates\\wazuh-for-security-engineer\\10-final-candidate.png"
+  ]
+}

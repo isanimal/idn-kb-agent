@@ -1,0 +1,80 @@
+{
+  "full_name": "ICS/IOT Industrial Security",
+  "short_name": "ICS/IOT Industrial Security",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/ics-iot-industial-security/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "{'raw': 'Promo Berlaku Dalam 00 Hari 00 Jam 00 Menit 00 Detik', 'days': 0.0, 'hours': 0.0, 'daily_schedule': None}",
+      "schedule": null,
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 4000000, 3500000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Profesional IT Termasuk engineer dan administrator sistem yang ingin memperdalam pemahaman tentang keamanan siber di environment ICS/OT. Manajer Keamanan Siber Mereka yang bertanggung jawab atas strategi keamanan siber di perusahaan industri. Engineer OT Para insinyur yang bekerja di sektor operasional dan ingin memahami aspek keamanan siber dalam sistem yang mereka kelola. Mahasiswa atau Pelajar Mereka yang ingin mempersiapkan diri untuk karir di bidang keamanan siber dan teknologi industri.",
+      "problem_solved": null
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "CompTIA Security+ (Include Exam)",
+      "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    },
+    {
+      "training_name": "Wazuh For Security Engineer",
+      "canonical_source_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [],
+  "short_description": "Training ICS /IOT Industrial Security adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk melindungi sistem kontrol industri ( ICS ) dan Internet of Things (IoT) dari berbagai ancaman siber. Dalam era digital yang semakin berkembang, keamanan siber telah menjadi prioritas utama, terutama di sektor-sektor yang mengandalkan infrastruktur kritis seperti energi, manufaktur, dan transportasi.",
+  "learning_outcomes": [
+    "Definisi OT, ICS, SCADA, dan IoT",
+    "Vendor-vendor OT populer (Schneider, Siemens, dll.)",
+    "Infrastruktur kritis menurut CISA",
+    "Definisi OT, ICS, SCADA, dan IoT",
+    "Vendor-vendor OT populer (Schneider, Siemens, dll.)",
+    "Infrastruktur kritis menurut CISA",
+    "Definisi OT, ICS, SCADA, dan IoT",
+    "Vendor-vendor OT populer (Schneider, Siemens, dll.)",
+    "Infrastruktur kritis menurut CISA",
+    "Definisi OT, ICS, SCADA, dan IoT",
+    "Vendor-vendor OT populer (Schneider, Siemens, dll.)",
+    "Infrastruktur kritis menurut CISA"
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+  "practice_examples": [
+    "Kerjakan proyek nyata untuk membangun portofolio Anda."
+  ],
+  "post_training_support": "Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+  "selling_points": [
+    "Sertifikat",
+    "Modul",
+    "T-shirt",
+    "Makan siang",
+    "Coffee Break",
+    "Goodie Bag",
+    "Notebook",
+    "Ruangan Ber AC",
+    "penginapan gratis"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

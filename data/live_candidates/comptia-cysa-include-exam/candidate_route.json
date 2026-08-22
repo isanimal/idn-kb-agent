@@ -1,0 +1,12 @@
+{
+  "slug": "comptia-cysa-include-exam",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "historical_route": "data/publish_routes/comptia-cysa-include-exam/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "8fe84ce0a0de67e0b89fad83747df6c08a72229e9f82c3f9ffa6db2ad70ae822",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

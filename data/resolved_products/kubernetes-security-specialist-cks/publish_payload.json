@@ -1,0 +1,61 @@
+{
+  "full_name": "Kubernetes Security Specialist-CKS",
+  "short_name": "Kubernetes Security Specialist-CKS",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/kubernetes-security-specialist-cks/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "4 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 5000000, 4000000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari Kubernetes Security Specialist-CKS",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "Kubernetes Administration-CKA",
+      "canonical_source_url": "https://www.idn.id/training/kubernetes-administration-cka/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    },
+    {
+      "training_name": "Kubernetes Application Developer – CKAD",
+      "canonical_source_url": "https://www.idn.id/training/kubernetes-application-developer-ckad/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "Moch Rafi Riadi",
+      "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Kubernetes adalah salah satu teknologi dengan tren tertinggi di Cloud Computing saat ini. Kubernetes memiliki pertumbuhan tercepat dalam pencarian pekerjaan, lebih dari 173% dari tahun sebelumnya seperti yang dilaporkan baru-baru ini oleh survei yang dilakukan oleh indeed. Mempelajari Kubernetes sangat penting untuk setiap profesional DevOps. Kubernetes adalah sistem open-source untuk mengotomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam container. Awalnya dirancang oleh Google dan sekarang dikelola oleh Cloud Native Computing Foundation. Kursus ini membantu Anda memperoleh pengetahuan yang diperlukan untuk merancang dan menerapkan aplikasi cloud native di cluster Kubernetes. Program Certified Kubernetes Security Specialist (CKS) memberikan jaminan bahwa CKS memiliki keterampilan, pengetahuan, dan kompetensi dalam berbagai praktik terbaik untuk mengamankan aplikasi berbasis container dan platform Kubernetes selama pembangunan, penerapan, dan runtime.",
+  "learning_outcomes": [],
+  "prerequisites": [],
+  "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Free join mailing list IDN, bisa cari info kerja dan diskusi di grup Biaya training murah dibanding tempat-tempat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis Mengulang training sebanyak 2x tanpa syarat",
+  "practice_examples": [],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

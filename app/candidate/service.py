@@ -44,7 +44,7 @@ def parity_check(payload):
 def _ensure(page,url):
     page.goto(url,wait_until="domcontentloaded",timeout=60_000);page.wait_for_timeout(700)
     if classify_auth_page(page.content(),page.url)!=AuthState.AUTHENTICATED and wait_for_manual_auth(page)!=AuthState.AUTH_RESTORED:raise PublisherPreflightViolation("AUTH_FAILED")
-    page.get_by_text(re.compile(r"(?:Ubah|Tambah) Produk Training"),exact=False).wait_for(timeout=20_000)
+    page.get_by_text(re.compile(r"(?:Ubah|Tambah Produk|Produk Training Baru).*Training|Produk Training Baru"),exact=False).wait_for(timeout=20_000)
 def _section(page,title):return page.get_by_text(title,exact=True).first.locator("xpath=../../..")
 def _control_value(control):
     if control.evaluate("e=>e.tagName")=="SELECT":return control.locator("option:checked").inner_text().strip()

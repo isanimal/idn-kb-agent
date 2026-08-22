@@ -1,0 +1,67 @@
+{
+  "full_name": "Wazuh For Security Engineer",
+  "short_name": "Wazuh For Security Engineer",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+  "advertising_links": [],
+  "training_formats": [],
+  "target_audiences": [
+    {
+      "audience": "Administrator jaringan",
+      "problem_solved": "Membantu peserta mempelajari dasar Wazuh For Security Engineer sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Network engineer pemula",
+      "problem_solved": "Membantu peserta mempelajari dasar Wazuh For Security Engineer sesuai cakupan kurikulum."
+    },
+    {
+      "audience": "Profesional IT yang mempelajari keamanan defensif",
+      "problem_solved": "Membantu peserta mempelajari dasar Wazuh For Security Engineer sesuai cakupan kurikulum."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "CompTIA Security+ (Include Exam)",
+      "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    },
+    {
+      "training_name": "ICS/IOT Industrial Security",
+      "canonical_source_url": "https://www.idn.id/training/ics-iot-industial-security/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "ADITYA FIRMAN NUGROHO",
+      "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Pelatihan Wazuh for Security Engineer merupakan program intensif selama 4 hari yang dirancang khusus bagi para engineer keamanan, analis, maupun profesional IT yang bertanggung jawab dalam penerapan dan pengelolaan sistem keamanan informasi.",
+  "learning_outcomes": [
+    "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut.",
+  "practice_examples": [
+    "Melakukan vulnerability assessment pada lingkungan lab."
+  ],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [
+    "Kurikulum mencakup – Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration, – Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration, – File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment.",
+    "Pembelajaran menggunakan pendekatan praktik langsung sesuai materi training."
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

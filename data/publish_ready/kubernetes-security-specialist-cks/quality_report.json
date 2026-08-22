@@ -1,0 +1,114 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "kubernetes-security-specialist-cks",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "READY",
+  "score": 70,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": false,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+          "evidence_topics": [],
+          "grounded": false
+        },
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu menghubungkan workflow dengan layanan eksternal melalui API.",
+          "evidence_topics": [
+            "api"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan vulnerability assessment pada lingkungan lab.",
+          "evidence_topics": [
+            "lab"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "practice_examples",
+          "value": "Mengonfigurasi HTTP Request untuk mengakses API yang dibahas.",
+          "evidence_topics": [
+            "api"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Kurikulum mencakup Network Policy, CIS Benchmark, Ingress + TLS.",
+          "evidence_topics": [
+            "benchmark",
+            "cis",
+            "ingress",
+            "network",
+            "policy",
+            "tls"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        },
+        {
+          "field": "repeat_policy",
+          "action": "REMOVE_FACILITY_CONTAMINATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": false
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "UNGROUNDED_SEMANTIC_ITEM",
+      "field": "learning_outcomes",
+      "message": "Tidak ditemukan topik pendukung pada facts.",
+      "blocking": false,
+      "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    },
+    {
+      "code": "GENERIC_NEXT_CLASS_REASON",
+      "field": "next_classes",
+      "message": "Alasan progresi kelas terlalu generik.",
+      "blocking": false,
+      "value": "Katalog IDN dalam keluarga training yang sama."
+    }
+  ],
+  "cyber_scoped_original_readiness": "BLOCKED",
+  "cyber_scoped_readiness": "READY_WITH_WARNINGS"
+}

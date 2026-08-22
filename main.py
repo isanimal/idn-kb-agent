@@ -25,6 +25,7 @@ from app.candidate.service import candidate_preflight, candidate_report, dry_run
 from app.live_publish.service import LivePublishError, live_preflight, publish_live
 from app.live_publish.reconcile import ReconciliationError, live_run_report, reconcile_live_run
 from app.canary.service import CanaryError, discover as canary_discover, execute as canary_execute, preflight as canary_preflight
+from app.cyber_sync.service import CyberSyncError, discover as cyber_discover, execute as cyber_execute, prepare as cyber_prepare, preflight as cyber_preflight
 
 
 def command_health() -> int:
@@ -345,13 +346,25 @@ def command_canary_preflight(plan_hash)->int:
 def command_canary_live(plan_hash,confirm_write)->int:
     if not plan_hash or not confirm_write:print("canary-live requires --plan-hash and --confirm-write",file=sys.stderr);return 2
     r=canary_execute(plan_hash,confirm_write,get_settings());print(json.dumps(r,ensure_ascii=False,indent=2));return 0 if r["result"]=="VERIFIED" else 2
+def command_cyber_discover()->int:
+    r=cyber_discover();print(f"CYBERSECURITY SYNC DISCOVERY\n\nTotal IDN catalog........ {r['total_catalog']}\nCybersecurity products... {r['cybersecurity_products']}\nExcluded pentest......... {r['excluded_pentest']}\n\nProducts:")
+    for x in r["products"]:print(f"{x['slug']:38} {x['name']:48} {x['kb_status']}")
+    print("\nSERVER WRITES............ 0");return 0
+def command_cyber_prepare()->int:
+    r=cyber_prepare(get_settings());rows=r["products"];counts={x:sum(p["readiness"]==x for p in rows) for x in ("READY","READY_WITH_WARNINGS","REVIEW_REQUIRED","BLOCKED")};pub=r["manifest"]["products"];print(f"CYBERSECURITY PREPARATION\n\nTotal cyber............. {r['total_cyber']}\nExcluded pentest........ {r['excluded_pentest']}\n\nREADY................... {counts['READY']}\nREADY_WITH_WARNINGS..... {counts['READY_WITH_WARNINGS']}\nREVIEW_REQUIRED......... {counts['REVIEW_REQUIRED']}\nBLOCKED................. {counts['BLOCKED']}\n\nUPDATE_EXISTING......... {sum(x['mode']=='UPDATE_EXISTING' for x in pub)}\nCREATE_NEW.............. {sum(x['mode']=='CREATE_NEW' for x in pub)}\n\nManifest hash........... {r['manifest']['cyber_manifest_hash']}\nSERVER WRITES........... 0");return 0
+def command_cyber_preflight(manifest_hash)->int:
+    if not manifest_hash:print("--manifest-hash is required",file=sys.stderr);return 2
+    r=cyber_preflight(manifest_hash,get_settings());p=r["products"];print(f"CYBERSECURITY LIVE PREFLIGHT\n\nProducts planned......... {len(p)}\nUPDATE_EXISTING.......... {sum(x['mode']=='UPDATE_EXISTING' for x in p)}\nCREATE_NEW............... {sum(x['mode']=='CREATE_NEW' for x in p)}\nREADY.................... {sum(x['readiness']=='READY' for x in p)}\nREADY_WITH_WARNINGS...... {sum(x['readiness']=='READY_WITH_WARNINGS' for x in p)}\nSkipped review........... {r['skipped_review']}\nBlocked.................. {r['blocked']}\nPreflight failures....... {r['preflight_failures']}\n\nRESULT................... {r['result']}\nSERVER WRITES............ 0");return 0 if r["result"]=="READY" else 2
+def command_cyber_sync_live(manifest_hash,confirm_write)->int:
+    if not manifest_hash or not confirm_write:print("cyber-sync-live requires --manifest-hash and --confirm-write",file=sys.stderr);return 2
+    r=cyber_execute(manifest_hash,confirm_write,get_settings());print(json.dumps(r,ensure_ascii=False,indent=2));return 0 if r["result"] in {"VERIFIED","VERIFIED_WITH_SKIPS"} else 2
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="IDN KB Agent runtime foundation")
     parser.add_argument("command", choices=("health", "db-test", "browser-test", "run", "idn-learn", "idn-report",
                                             "idn-extract", "extraction-report", "parser-audit", "kb-auth-test",
-                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live", "reconcile-live-run", "live-run-report", "canary-discover", "canary-preflight", "canary-live"))
+                                            "kb-learn", "kb-report", "kb-form-report", "resolver-preflight", "resolve-product", "resolve-batch", "resolve-report", "research-report", "ollama-check", "research-check", "quality-check", "quality-batch", "quality-report", "kb-product-index-refresh", "duplicate-audit", "dedup-check", "dedup-batch", "publisher-preflight", "publish-dry-run", "publisher-report", "merge-check", "merge-report", "merge-batch", "publisher-parity-report", "candidate-preflight", "candidate-dry-run", "candidate-report", "live-preflight", "publish-live", "reconcile-live-run", "live-run-report", "canary-discover", "canary-preflight", "canary-live", "cyber-discover", "cyber-prepare", "cyber-preflight", "cyber-sync-live"))
     parser.add_argument("--limit", type=int, default=None,
                         help="Maximum landing pages sampled by idn-learn (catalog remains complete)")
     parser.add_argument("--force", action="store_true", help="Re-extract completed products")
@@ -360,6 +373,7 @@ def main() -> int:
     parser.add_argument("--confirm-write",action="store_true")
     parser.add_argument("--run-id")
     parser.add_argument("--plan-hash")
+    parser.add_argument("--manifest-hash")
     parser.add_argument("--repair",action="store_true",help="Allow at most one cached/local Ollama quality repair call per product")
     parser.add_argument("--refresh",action="store_true",help="Refresh live read-only KB inventory before duplicate audit")
     mode=parser.add_mutually_exclusive_group();mode.add_argument("--offline",action="store_true");mode.add_argument("--local-ai",action="store_true");mode.add_argument("--research",action="store_true")
@@ -399,6 +413,10 @@ def main() -> int:
         if args.command=="canary-discover":return command_canary_discover()
         if args.command=="canary-preflight":return command_canary_preflight(args.plan_hash)
         if args.command=="canary-live":return command_canary_live(args.plan_hash,args.confirm_write)
+        if args.command=="cyber-discover":return command_cyber_discover()
+        if args.command=="cyber-prepare":return command_cyber_prepare()
+        if args.command=="cyber-preflight":return command_cyber_preflight(args.manifest_hash)
+        if args.command=="cyber-sync-live":return command_cyber_sync_live(args.manifest_hash,args.confirm_write)
         if args.command == "idn-learn":
             if args.limit is not None and args.limit < 0:
                 parser.error("--limit must be zero or greater")
@@ -410,7 +428,7 @@ def main() -> int:
             if args.limit is not None and args.limit < 0: parser.error("--limit must be zero or greater")
             return command_kb_learn(args.limit)
         return commands[args.command]()
-    except (LivePublishError,ReconciliationError,CanaryError) as exc:
+    except (LivePublishError,ReconciliationError,CanaryError,CyberSyncError) as exc:
         print(str(exc),file=sys.stderr);return 2
     except KeyboardInterrupt:
         logging.getLogger("main").info("Interrupted by user")

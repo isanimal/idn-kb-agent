@@ -1,0 +1,511 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "devsecops-development-security-operations",
+  "source_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "DevSecOps (Development Security Operations)",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "DevSecOps (Development Security Operations)",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Cybersecurity",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/devsecops-development-security-operations/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": 17000000,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari DevSecOps (Development Security Operations)",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "Devops (Development & Operations)",
+          "canonical_source_url": "https://www.idn.id/training/devops/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.8
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "Moch Rafi Riadi",
+          "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Deni Rismanto",
+          "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Bazigan Tsamara Sukamto",
+          "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "Zakaria Ramadan",
+          "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Training DevSecOps adalah program pelatihan yang dirancang untuk membantu peserta memahami cara mengintegrasikan aspek keamanan ke dalam setiap tahapan pengembangan aplikasi, mulai dari perencanaan, coding, testing, deployment, hingga monitoring. Melalui pendekatan DevSecOps, tim IT tidak hanya fokus pada kecepatan rilis aplikasi, tetapi juga memastikan bahwa keamanan menjadi bagian penting sejak awal proses development. Dalam training ini, peserta akan mempelajari konsep, tools, dan praktik terbaik dalam menerapkan keamanan pada pipeline DevOps, seperti secure coding, vulnerability scanning, automation security testing, container security, CI/CD security, hingga monitoring risiko keamanan. Setelah mengikuti training ini, peserta diharapkan mampu membangun proses pengembangan aplikasi yang lebih aman, efisien, dan sesuai dengan kebutuhan industri modern.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        ": Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning",
+        ": Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks",
+        ": CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft",
+        ": DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA",
+        ": Monitoring & Final Project – Monitoring with Prometheus & Grafana – Logging & alerting basics – Final DevSecOps pipeline projec"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "RESOLVED",
+      "value": [
+        "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu."
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training terjangkau dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        ": Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning",
+        ": Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks",
+        ": CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft",
+        ": DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/devsecops-development-security-operations/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "DevSecOps (Development Security Operations)",
+    "short_name": "DevSecOps (Development Security Operations)",
+    "category": "Cybersecurity",
+    "seo_url": "https://www.idn.id/training/devsecops-development-security-operations/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "5 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": 17000000,
+        "private_price_reference": null,
+        "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari DevSecOps (Development Security Operations)",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "Devops (Development & Operations)",
+        "canonical_source_url": "https://www.idn.id/training/devops/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.8
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "Moch Rafi Riadi",
+        "kb_trainer_id": "4c9867d1a0c44a2da8b4e1e1b5a36291",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Deni Rismanto",
+        "kb_trainer_id": "7aaeee1149d7403295c47a12f6c03cb2",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Bazigan Tsamara Sukamto",
+        "kb_trainer_id": "32cc6640c15e4f8e91ac68940bbea293",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "Zakaria Ramadan",
+        "kb_trainer_id": "eb685ab833fe4dd79bbc6880b3ab0943",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "Training DevSecOps adalah program pelatihan yang dirancang untuk membantu peserta memahami cara mengintegrasikan aspek keamanan ke dalam setiap tahapan pengembangan aplikasi, mulai dari perencanaan, coding, testing, deployment, hingga monitoring. Melalui pendekatan DevSecOps, tim IT tidak hanya fokus pada kecepatan rilis aplikasi, tetapi juga memastikan bahwa keamanan menjadi bagian penting sejak awal proses development. Dalam training ini, peserta akan mempelajari konsep, tools, dan praktik terbaik dalam menerapkan keamanan pada pipeline DevOps, seperti secure coding, vulnerability scanning, automation security testing, container security, CI/CD security, hingga monitoring risiko keamanan. Setelah mengikuti training ini, peserta diharapkan mampu membangun proses pengembangan aplikasi yang lebih aman, efisien, dan sesuai dengan kebutuhan industri modern.",
+    "learning_outcomes": [
+      ": Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning",
+      ": Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks",
+      ": CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft",
+      ": DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA",
+      ": Monitoring & Final Project – Monitoring with Prometheus & Grafana – Logging & alerting basics – Final DevSecOps pipeline projec"
+    ],
+    "prerequisites": [
+      "Sudah familiar dengan ubuntu server. Jika belum, disarankan ikut training ubuntu terlebih dahulu."
+    ],
+    "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project) Update informasi bursa kerja untuk peserta training Biaya training terjangkau dibanding tempat-tampat yang lain Bebas nge-lab di IDN di luar jam training khusus peserta training Disediakan Penginapan gratis untuk peserta yang berasal dari luar kota Trainer berpengalaman mengajar di dalam dan luar negeri Gratis mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+    "practice_examples": [
+      ": Fundamental & Version Control – DevSecOps & Secure SDLC – Git workflow & branching – Secure coding basics – Hands-on: repo setup & secret scanning",
+      ": Container & SAST – Docker fundamentals & secure image – SAST with SonarQube – Secret scanning with gitleaks",
+      ": CI/CD, SCA & SBOM – GitLab CI/CD pipeline – Vulnerability scanning with Trivy – SBOM generation with Syft",
+      ": DAST & Policy as Code – DAST using OWASP ZAP – API security basics – Policy enforcement with OPA"
+    ],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi.",
+      "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+      "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

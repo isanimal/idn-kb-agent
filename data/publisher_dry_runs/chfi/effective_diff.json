@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "field": "full_name",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "CHFI (Computer Hacking Forensic Investigator)"
+    },
+    {
+      "field": "short_name",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "CHFI (Computer Hacking Forensic Investigator)"
+    },
+    {
+      "field": "category",
+      "action": "REPLACE_WITH_NEW",
+      "before": "— Tanpa kategori —",
+      "after": "Cybersecurity"
+    },
+    {
+      "field": "seo_url",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "https://www.idn.id/training/chfi/"
+    },
+    {
+      "field": "advertising_links",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "training_formats",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "target_audiences",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        {
+          "audience": "Profesional IT yang mempelajari keamanan defensif",
+          "problem_solved": "Membantu peserta mempelajari dasar CHFI (Computer Hacking Forensic Investigator) sesuai cakupan kurikulum."
+        }
+      ]
+    },
+    {
+      "field": "certifications",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "tools",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "next_classes",
+      "action": "DEFERRED_RELATION",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "trainer_references",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        {
+          "trainer_name": "ADITYA FIRMAN NUGROHO",
+          "kb_trainer_id": "e7108827694444ce80c0b050e02847e4"
+        }
+      ]
+    },
+    {
+      "field": "short_description",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer."
+    },
+    {
+      "field": "learning_outcomes",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Mampu computer Forensics in Today’s World.",
+        "Mampu computer Forensics Investigation Process.",
+        "Mampu understanding Hard Disks and File Systems.",
+        "Mampu data Acquisition and Duplication.",
+        "Mampu defeating Anti-Forensics Techniques."
+      ]
+    },
+    {
+      "field": "prerequisites",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "repeat_policy",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota."
+    },
+    {
+      "field": "practice_examples",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "post_training_support",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku."
+    },
+    {
+      "field": "selling_points",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Kurikulum mencakup Computer Forensics in Today’s World, Computer Forensics Investigation Process, Understanding Hard Disks and File Systems."
+      ]
+    },
+    {
+      "field": "claims_to_avoid",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+      ]
+    },
+    {
+      "field": "additional_notes",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan."
+    },
+    {
+      "field": "active",
+      "action": "UNCHANGED",
+      "before": true,
+      "after": true
+    }
+  ]
+}

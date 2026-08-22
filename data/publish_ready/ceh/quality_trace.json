@@ -1,0 +1,352 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "ceh",
+  "generated_at": "2026-08-22T03:31:35.627290+00:00",
+  "source_resolved_sha256": "e804b9ab18906c609fc07ac5b5643cb869b74e48e9a14ab1be1eec0c6ef63851",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Certified Ethical Hacker (CEH)",
+      "short_name": "Certified Ethical Hacker (CEH)",
+      "category": "Cybersecurity",
+      "seo_url": "https://www.idn.id/training/ceh/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "9:00–17:00 None",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [],
+      "trainer_references": [],
+      "short_description": "Tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) . Pekerjaan ini juga sering menawarkan gaji yang menarik, dengan rata-rata gaji tahunan di Amerika Serikat sekitar $109,540 (Coursera ) . Gaji yang Kompetitif Profesional ethical hacker dihargai tinggi karena keahlian khusus mereka dalam keamanan siber. Gaji rata-rata untuk seorang ethical hacker di AS mencapai $121,875 per tahun ( Whizlabs ) . Bahkan bagi yang baru memulai karir, gaji entry-level bisa mencapai $112,000 per tahun ( Whizlabs ) . Meningkatnya Ancaman Siber Serangan siber semakin canggih dan beragam, mulai dari malware, ransomware, hingga serangan berbasis AI. Menguasai teknik ethical hacking memungkinkan seseorang untuk lebih siap menghadapi dan menangkal ancaman ini.",
+      "learning_outcomes": [
+        "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+      "practice_examples": [
+        "Introduction to Cyber Security Introduction to Cyber Security Cyber Security Profession About Penetration Testing System Hacking System Hacking Vulnerability Assessment Web Session Hacking and Hijacking Techniques Mengendus Lalu Lintas Data Bettercap and Hijacking Session Practice Network & Wireless Hacking Introduction Driver Installation Manual Linux Header Preparation Airmon-NG <br. Social Engineering What is The Social Engineering? How to prevent Social Engineering? Lab&Practice : Go Phish Hacking Web Applications Website Concept and Securities Concept and Implementation of SQL Injection Concept and Implementation of XSS Malware What is Malware? Creating Malware Denial of Service What is DoS? Lab : DoS Cryptography What is Cryptography? Lab&Practice"
+      ],
+      "post_training_support": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "selling_points": [
+        "Sertifikat",
+        "Modul",
+        "T-shirt",
+        "Makan siang",
+        "Coffee Break",
+        "Goodie Bag",
+        "Notebook",
+        "Ruangan Ber AC",
+        "dll"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "ceh",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 75,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": false,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+              "evidence_topics": [],
+              "grounded": false
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan vulnerability assessment pada lingkungan lab.",
+              "evidence_topics": [
+                "assessment",
+                "lab",
+                "vulnerability"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Modul",
+              "evidence_topics": [
+                "modul"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "T-shirt",
+              "evidence_topics": [
+                "shirt"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Makan siang",
+              "evidence_topics": [
+                "makan",
+                "siang"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Coffee Break",
+              "evidence_topics": [
+                "break",
+                "coffee"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "UNGROUNDED_SEMANTIC_ITEM",
+          "field": "learning_outcomes",
+          "message": "Tidak ditemukan topik pendukung pada facts.",
+          "blocking": false,
+          "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+        }
+      ]
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Certified Ethical Hacker (CEH)",
+      "short_name": "Certified Ethical Hacker (CEH)",
+      "category": "Cybersecurity",
+      "seo_url": "https://www.idn.id/training/ceh/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "9:00–17:00 None",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Harga referensi; konfirmasi harga dan jadwal terbaru ke IDN."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Pekerja IT yang ingin mengupgrade skills dan penghasilan Pekerja IT yang sudah familiar dengan Linux dan cyber security Engineer yang ingin mengupgrade jenjang karir dan scale up Professional yang ingin memajukan bisnis dan knowledge mereka di bidang IT",
+          "problem_solved": null
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [],
+      "trainer_references": [],
+      "short_description": "Training Certified Ethical Hacker (CEH) membahas tingginya Permintaan Tenaga Kerja Profesi ethical hacker sangat diminati dengan meningkatnya serangan siber. Berdasarkan laporan, permintaan untuk analis keamanan informasi diperkirakan tumbuh sebesar 32% dekade ini, jauh lebih cepat dari rata-rata pekerjaan lain (Coursera ) .",
+      "learning_outcomes": [
+        "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+      "practice_examples": [
+        "Melakukan vulnerability assessment pada lingkungan lab."
+      ],
+      "post_training_support": "After training peserta akan dimasukan ke group telegram atau whatsapp untuk diskusi seputar materi training, pemberitahuan info dan lowongan kerja.",
+      "selling_points": [
+        "Sertifikat",
+        "Modul",
+        "T-shirt",
+        "Makan siang",
+        "Coffee Break"
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit.",
+        "Jangan menjanjikan keluaran AI selalu benar atau bebas kesalahan."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "ceh",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "REVIEW_REQUIRED",
+      "score": 75,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": false,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+              "evidence_topics": [],
+              "grounded": false
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan vulnerability assessment pada lingkungan lab.",
+              "evidence_topics": [
+                "assessment",
+                "lab",
+                "vulnerability"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Sertifikat",
+              "evidence_topics": [
+                "sertifikat"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Modul",
+              "evidence_topics": [
+                "modul"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "T-shirt",
+              "evidence_topics": [
+                "shirt"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Makan siang",
+              "evidence_topics": [
+                "makan",
+                "siang"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Coffee Break",
+              "evidence_topics": [
+                "break",
+                "coffee"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": true
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "UNGROUNDED_SEMANTIC_ITEM",
+          "field": "learning_outcomes",
+          "message": "Tidak ditemukan topik pendukung pada facts.",
+          "blocking": false,
+          "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+        }
+      ]
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

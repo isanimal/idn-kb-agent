@@ -50,6 +50,12 @@ def test_baseline_hash_changes_when_server_state_changes():
     assert service._sha({"field":"old"})!=service._sha({"field":"new"})
 
 
+def test_create_target_id_is_taken_only_from_exact_edit_query():
+    assert service._product_id_from_url("https://kb.idn.id/kb/training/edit?id=new-id")=="new-id"
+    assert service._product_id_from_url("https://kb.idn.id/kb/training/edit?new=1") is None
+    assert service._product_id_from_url("https://kb.idn.id/kb/training") is None
+
+
 def test_write_guard_only_arms_from_final_verification():
     guard=service.PublisherWriteGuard()
     with pytest.raises(service.LivePublishError):guard.arm()

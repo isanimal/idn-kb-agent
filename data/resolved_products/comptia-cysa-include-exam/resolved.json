@@ -1,0 +1,505 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "comptia-cysa-include-exam",
+  "source_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "CompTIA CySA+ (Include Exam)",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "CompTIA CySA+ (Include Exam)",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Cybersecurity",
+      "confidence": 0.95,
+      "source_type": "OBSERVED",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/comptia-cysa-include-exam/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 20000000, 11000000; labels must be reviewed."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari CompTIA CySA+ (Include Exam)",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "name": "CompTIA CySA+ (Include Exam)",
+          "level": null,
+          "exam_fee_reference": null,
+          "exam_duration": null,
+          "exam_code": null,
+          "passing_score": null,
+          "relationship": "EXAM_INCLUDED",
+          "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+        }
+      ],
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "CompTIA Security+ (Include Exam)",
+          "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.9
+        },
+        {
+          "training_name": "CompTIA Pentest+ (Include Exam)",
+          "canonical_source_url": "https://www.idn.id/training/comptia-pentest/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "ADITYA FIRMAN NUGROHO",
+          "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+          "match_type": "EXACT"
+        },
+        {
+          "trainer_name": "NURCHOLIS MAJID",
+          "kb_trainer_id": "c4defc97fa174eb895b19996bd831cea",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "CompTIA Cybersecurity Analyst (CySA+) merupakan sertifikasi untuk cyber profesional yang ditugaskan untuk mendeteksi, mencegah, dan merespons insiden melalui pemantauan keamanan berkelanjutan. Training CompTIA Cybersecurity Analyst (CySA+) dirancang untuk membekali peserta dengan kemampuan mendeteksi, menganalisis, dan merespons ancaman keamanan siber secara proaktif. Melalui kombinasi teori dan praktik langsung, peserta akan belajar menggunakan berbagai tools seperti SIEM, melakukan threat hunting, analisis log, penilaian kerentanan, hingga penyusunan laporan insiden. Program ini sangat cocok bagi profesional IT, administrator jaringan, maupun calon security analyst yang ingin memperdalam keahlian di bidang threat detection dan incident response, sekaligus mempersiapkan diri menghadapi sertifikasi CompTIA CySA+ yang diakui secara internasional. Training ini sudah include sertifikasi international CompTIA CySA+",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "RESOLVED",
+      "value": [
+        "1. Security Operations 1.1 Explain the importance of system and network architecture concepts in security operations 1.2 Given a scenario, analyze indicators of potentially malicious activity 1.3 Given a scenario, use appropriate tools or techniques to determine malicious activty 1.4 Compare and contrast threat-intelligence and threat-hunting concepts 1.5 Explain the importance of efficiency and process improvement in security operations 2. Vulnerability Management 2.1 Given a scenario, implement vulnerability scanning methods and concepts 2.2 Given a scenario, analyze output from vulnerability assessment tools 2.3 Given a scenario, analyze data to prioritize vulnerabilties 2.4 Given a scenario, recommend controls to mitigate attacks and software vulnerabilities 2.5 Explain concepts related to vulnerability response, handling and management 3. Incident Response and Management 3.1 Explain concepts related to attacks methodology frameworks 3.2 Given a scenario, perform incident response activites 3.3 Explain the preparation and post incident activity phase of the incident management life cycle 4. Reproting and Communication 4.1 Explain the importance of vulnerability management reporting and communication 4.2 explain the importance of incident response reporting and communication"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "RESOLVED",
+      "value": [
+        "1. Security Operations 1.1 Explain the importance of system and network architecture concepts in security operations 1.2 Given a scenario, analyze indicators of potentially malicious activity 1.3 Given a scenario, use appropriate tools or techniques to determine malicious activty 1.4 Compare and contrast threat-intelligence and threat-hunting concepts 1.5 Explain the importance of efficiency and process improvement in security operations 2. Vulnerability Management 2.1 Given a scenario, implement vulnerability scanning methods and concepts 2.2 Given a scenario, analyze output from vulnerability assessment tools 2.3 Given a scenario, analyze data to prioritize vulnerabilties 2.4 Given a scenario, recommend controls to mitigate attacks and software vulnerabilities 2.5 Explain concepts related to vulnerability response, handling and management 3. Incident Response and Management 3.1 Explain concepts related to attacks methodology frameworks 3.2 Given a scenario, perform incident response activites 3.3 Explain the preparation and post incident activity phase of the incident management life cycle 4. Reproting and Communication 4.1 Explain the importance of vulnerability management reporting and communication 4.2 explain the importance of incident response reporting and communication"
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "CompTIA CySA+ (Include Exam)",
+    "short_name": "CompTIA CySA+ (Include Exam)",
+    "category": "Cybersecurity",
+    "seo_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "5 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": null,
+        "private_price_reference": null,
+        "price_note": "Observed price candidates: 20000000, 11000000; labels must be reviewed."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari CompTIA CySA+ (Include Exam)",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "CompTIA CySA+ (Include Exam)",
+        "level": null,
+        "exam_fee_reference": null,
+        "exam_duration": null,
+        "exam_code": null,
+        "passing_score": null,
+        "relationship": "EXAM_INCLUDED",
+        "notes": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+      }
+    ],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "CompTIA Security+ (Include Exam)",
+        "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.9
+      },
+      {
+        "training_name": "CompTIA Pentest+ (Include Exam)",
+        "canonical_source_url": "https://www.idn.id/training/comptia-pentest/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.9
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "ADITYA FIRMAN NUGROHO",
+        "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+        "match_type": "EXACT"
+      },
+      {
+        "trainer_name": "NURCHOLIS MAJID",
+        "kb_trainer_id": "c4defc97fa174eb895b19996bd831cea",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "CompTIA Cybersecurity Analyst (CySA+) merupakan sertifikasi untuk cyber profesional yang ditugaskan untuk mendeteksi, mencegah, dan merespons insiden melalui pemantauan keamanan berkelanjutan. Training CompTIA Cybersecurity Analyst (CySA+) dirancang untuk membekali peserta dengan kemampuan mendeteksi, menganalisis, dan merespons ancaman keamanan siber secara proaktif. Melalui kombinasi teori dan praktik langsung, peserta akan belajar menggunakan berbagai tools seperti SIEM, melakukan threat hunting, analisis log, penilaian kerentanan, hingga penyusunan laporan insiden. Program ini sangat cocok bagi profesional IT, administrator jaringan, maupun calon security analyst yang ingin memperdalam keahlian di bidang threat detection dan incident response, sekaligus mempersiapkan diri menghadapi sertifikasi CompTIA CySA+ yang diakui secara internasional. Training ini sudah include sertifikasi international CompTIA CySA+",
+    "learning_outcomes": [
+      "1. Security Operations 1.1 Explain the importance of system and network architecture concepts in security operations 1.2 Given a scenario, analyze indicators of potentially malicious activity 1.3 Given a scenario, use appropriate tools or techniques to determine malicious activty 1.4 Compare and contrast threat-intelligence and threat-hunting concepts 1.5 Explain the importance of efficiency and process improvement in security operations 2. Vulnerability Management 2.1 Given a scenario, implement vulnerability scanning methods and concepts 2.2 Given a scenario, analyze output from vulnerability assessment tools 2.3 Given a scenario, analyze data to prioritize vulnerabilties 2.4 Given a scenario, recommend controls to mitigate attacks and software vulnerabilities 2.5 Explain concepts related to vulnerability response, handling and management 3. Incident Response and Management 3.1 Explain concepts related to attacks methodology frameworks 3.2 Given a scenario, perform incident response activites 3.3 Explain the preparation and post incident activity phase of the incident management life cycle 4. Reproting and Communication 4.1 Explain the importance of vulnerability management reporting and communication 4.2 explain the importance of incident response reporting and communication"
+    ],
+    "prerequisites": [],
+    "repeat_policy": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN.",
+    "practice_examples": [
+      "1. Security Operations 1.1 Explain the importance of system and network architecture concepts in security operations 1.2 Given a scenario, analyze indicators of potentially malicious activity 1.3 Given a scenario, use appropriate tools or techniques to determine malicious activty 1.4 Compare and contrast threat-intelligence and threat-hunting concepts 1.5 Explain the importance of efficiency and process improvement in security operations 2. Vulnerability Management 2.1 Given a scenario, implement vulnerability scanning methods and concepts 2.2 Given a scenario, analyze output from vulnerability assessment tools 2.3 Given a scenario, analyze data to prioritize vulnerabilties 2.4 Given a scenario, recommend controls to mitigate attacks and software vulnerabilities 2.5 Explain concepts related to vulnerability response, handling and management 3. Incident Response and Management 3.1 Explain concepts related to attacks methodology frameworks 3.2 Given a scenario, perform incident response activites 3.3 Explain the preparation and post incident activity phase of the incident management life cycle 4. Reproting and Communication 4.1 Explain the importance of vulnerability management reporting and communication 4.2 explain the importance of incident response reporting and communication"
+    ],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi.",
+      "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

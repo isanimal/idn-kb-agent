@@ -1,0 +1,55 @@
+{
+  "full_name": "CHFI (Computer Hacking Forensic Investigator)",
+  "short_name": "CHFI (Computer Hacking Forensic Investigator)",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/chfi/",
+  "advertising_links": [],
+  "training_formats": [
+    {
+      "format": "UNKNOWN",
+      "duration": "5 hari",
+      "schedule": "09:00–17:00 WIB",
+      "public_price_reference": null,
+      "private_price_reference": null,
+      "price_note": "Observed price candidates: 21000000, 18000000; labels must be reviewed."
+    }
+  ],
+  "target_audiences": [
+    {
+      "audience": "Peserta yang ingin mempelajari CHFI (Computer Hacking Forensic Investigator)",
+      "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [
+    {
+      "training_name": "CSCU (Certified Secure Computer User)",
+      "canonical_source_url": "https://www.idn.id/training/cscu/",
+      "reason": "Katalog IDN dalam keluarga training yang sama.",
+      "confidence": 0.7
+    }
+  ],
+  "trainer_references": [
+    {
+      "trainer_name": "ADITYA FIRMAN NUGROHO",
+      "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+      "match_type": "EXACT"
+    }
+  ],
+  "short_description": "Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+  "learning_outcomes": [],
+  "prerequisites": [],
+  "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+  "practice_examples": [],
+  "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+  "selling_points": [],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

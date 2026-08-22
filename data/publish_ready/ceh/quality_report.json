@@ -1,0 +1,111 @@
+{
+  "schema_version": "publish-quality-v1",
+  "slug": "ceh",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "publish_readiness": "READY",
+  "score": 75,
+  "checks": {
+    "semantic_separation": {
+      "passed": true,
+      "duplicates": []
+    },
+    "claim_grounding": {
+      "passed": false,
+      "items": [
+        {
+          "field": "learning_outcomes",
+          "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+          "evidence_topics": [],
+          "grounded": false
+        },
+        {
+          "field": "practice_examples",
+          "value": "Melakukan vulnerability assessment pada lingkungan lab.",
+          "evidence_topics": [
+            "assessment",
+            "lab",
+            "vulnerability"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Sertifikat",
+          "evidence_topics": [
+            "sertifikat"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Modul",
+          "evidence_topics": [
+            "modul"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "T-shirt",
+          "evidence_topics": [
+            "shirt"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Makan siang",
+          "evidence_topics": [
+            "makan",
+            "siang"
+          ],
+          "grounded": true
+        },
+        {
+          "field": "selling_points",
+          "value": "Coffee Break",
+          "evidence_topics": [
+            "break",
+            "coffee"
+          ],
+          "grounded": true
+        }
+      ]
+    },
+    "language_quality": {
+      "passed": true
+    },
+    "duplication": {
+      "passed": true,
+      "removed": [
+        {
+          "field": "short_description",
+          "action": "SAFE_TRUNCATION"
+        }
+      ]
+    },
+    "field_relevance": {
+      "passed": true,
+      "violations": []
+    },
+    "commercial_safety": {
+      "passed": true
+    },
+    "cross_field_consistency": {
+      "passed": true
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "code": "UNGROUNDED_SEMANTIC_ITEM",
+      "field": "learning_outcomes",
+      "message": "Tidak ditemukan topik pendukung pada facts.",
+      "blocking": false,
+      "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+    }
+  ],
+  "cyber_scoped_original_readiness": "REVIEW_REQUIRED",
+  "cyber_scoped_readiness": "READY_WITH_WARNINGS"
+}

@@ -1,0 +1,397 @@
+{
+  "schema_version": "quality-trace-v1",
+  "slug": "wazuh-for-security-engineer",
+  "generated_at": "2026-08-22T03:32:39.611916+00:00",
+  "source_resolved_sha256": "8fdd7d85bb8056a0b1cee4c9f7621ec765ad9cca455bada6141d08a84e7d6a28",
+  "deterministic_changes": [
+    {
+      "field": "short_description",
+      "action": "SAFE_TRUNCATION"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "REMOVE_FACILITY_CONTAMINATION"
+    }
+  ],
+  "before": {
+    "payload": {
+      "full_name": "Wazuh For Security Engineer",
+      "short_name": "Wazuh For Security Engineer",
+      "category": "Cybersecurity",
+      "seo_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 5000000, 3500000; labels must be reviewed."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Peserta yang ingin mempelajari Wazuh For Security Engineer",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "CompTIA Security+ (Include Exam)",
+          "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        },
+        {
+          "training_name": "ICS/IOT Industrial Security",
+          "canonical_source_url": "https://www.idn.id/training/ics-iot-industial-security/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "ADITYA FIRMAN NUGROHO",
+          "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Pelatihan Wazuh for Security Engineer merupakan program intensif selama 4 hari yang dirancang khusus bagi para engineer keamanan, analis, maupun profesional IT yang bertanggung jawab dalam penerapan dan pengelolaan sistem keamanan informasi. Training ini akan membekali peserta dengan pemahaman mendalam mengenai Wazuh sebagai platform SIEM/HIDS open-source yang powerful. Melalui pendekatan kombinasi antara teori dan praktik langsung di lingkungan lab virtual, peserta akan mempelajari seluruh komponen inti dari Wazuh, mulai dari instalasi, konfigurasi, pembuatan custom rules dan decoders, hingga integrasi dengan berbagai sistem keamanan modern. Setiap peserta juga akan mendapatkan akses penuh ke lab hingga 24 jam setelah sesi pelatihan berakhir guna memperkuat pemahaman melalui eksplorasi mandiri.",
+      "learning_outcomes": [
+        "– Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration",
+        "– Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration",
+        "– File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment",
+        "– MITRE ATT&CK Techniques – Docker Integration – Tour of Amazon CloudTrail Integration – Osquery Integration – Sysmon Integration – Touring the Wazuh Manager Cluster"
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut",
+      "practice_examples": [
+        "– Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration",
+        "– Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration",
+        "– File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment",
+        "– MITRE ATT&CK Techniques – Docker Integration – Tour of Amazon CloudTrail Integration – Osquery Integration – Sysmon Integration – Touring the Wazuh Manager Cluster"
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "wazuh-for-security-engineer",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "BLOCKED",
+      "score": 70,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": false,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+              "evidence_topics": [],
+              "grounded": false
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan vulnerability assessment pada lingkungan lab.",
+              "evidence_topics": [
+                "assessment",
+                "lab",
+                "lingkungan",
+                "vulnerability"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Kurikulum mencakup – Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration, – Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration, – File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment.",
+              "evidence_topics": [
+                "active",
+                "advanced",
+                "agent",
+                "analysis",
+                "and",
+                "architecture",
+                "assessment",
+                "cdb"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Pembelajaran menggunakan pendekatan praktik langsung sesuai materi training.",
+              "evidence_topics": [
+                "langsung",
+                "pendekatan",
+                "praktik"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "UNGROUNDED_SEMANTIC_ITEM",
+          "field": "learning_outcomes",
+          "message": "Tidak ditemukan topik pendukung pada facts.",
+          "blocking": false,
+          "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "after": {
+    "payload": {
+      "full_name": "Wazuh For Security Engineer",
+      "short_name": "Wazuh For Security Engineer",
+      "category": "Cybersecurity",
+      "seo_url": "https://www.idn.id/training/wazuh-for-security-engineer/",
+      "advertising_links": [],
+      "training_formats": [
+        {
+          "format": "UNKNOWN",
+          "duration": "4 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 5000000, 3500000; labels must be reviewed."
+        }
+      ],
+      "target_audiences": [
+        {
+          "audience": "Administrator jaringan",
+          "problem_solved": "Membantu peserta mempelajari dasar Wazuh For Security Engineer sesuai cakupan kurikulum."
+        },
+        {
+          "audience": "Network engineer pemula",
+          "problem_solved": "Membantu peserta mempelajari dasar Wazuh For Security Engineer sesuai cakupan kurikulum."
+        },
+        {
+          "audience": "Profesional IT yang mempelajari keamanan defensif",
+          "problem_solved": "Membantu peserta mempelajari dasar Wazuh For Security Engineer sesuai cakupan kurikulum."
+        }
+      ],
+      "certifications": [],
+      "tools": [],
+      "next_classes": [
+        {
+          "training_name": "CompTIA Security+ (Include Exam)",
+          "canonical_source_url": "https://www.idn.id/training/comptia-security/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        },
+        {
+          "training_name": "ICS/IOT Industrial Security",
+          "canonical_source_url": "https://www.idn.id/training/ics-iot-industial-security/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "trainer_references": [
+        {
+          "trainer_name": "ADITYA FIRMAN NUGROHO",
+          "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+          "match_type": "EXACT"
+        }
+      ],
+      "short_description": "Pelatihan Wazuh for Security Engineer merupakan program intensif selama 4 hari yang dirancang khusus bagi para engineer keamanan, analis, maupun profesional IT yang bertanggung jawab dalam penerapan dan pengelolaan sistem keamanan informasi.",
+      "learning_outcomes": [
+        "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+      ],
+      "prerequisites": [],
+      "repeat_policy": "Gratis Mengulang training sebanyak 2x Free konsultasi after training (kalo perlu tindak lanjut.",
+      "practice_examples": [
+        "Melakukan vulnerability assessment pada lingkungan lab."
+      ],
+      "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "selling_points": [
+        "Kurikulum mencakup – Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration, – Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration, – File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment.",
+        "Pembelajaran menggunakan pendekatan praktik langsung sesuai materi training."
+      ],
+      "claims_to_avoid": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+      ],
+      "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "active": true
+    },
+    "quality": {
+      "schema_version": "publish-quality-v1",
+      "slug": "wazuh-for-security-engineer",
+      "product_status": "REVIEW_REQUIRED",
+      "completion": 95.24,
+      "publish_readiness": "BLOCKED",
+      "score": 70,
+      "checks": {
+        "semantic_separation": {
+          "passed": true,
+          "duplicates": []
+        },
+        "claim_grounding": {
+          "passed": false,
+          "items": [
+            {
+              "field": "learning_outcomes",
+              "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan.",
+              "evidence_topics": [],
+              "grounded": false
+            },
+            {
+              "field": "practice_examples",
+              "value": "Melakukan vulnerability assessment pada lingkungan lab.",
+              "evidence_topics": [
+                "assessment",
+                "lab",
+                "lingkungan",
+                "vulnerability"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Kurikulum mencakup – Introduction to Wazuh – Architecture and Secure Communication – Deployment and Agent Registration Methods – Wazuh Dashboard – Agent Push Upgrades – Wazuh Configuration, – Log Analysis – Wazuh Indexer and Dashboard – Wazuh Ruleset – Decoders and Rules – CDB Lists – Wazuh Ruleset Traversal – Indexer Advanced Pipeline Configuration, – File Integrity Monitoring – Agent Inventory Collection and Vulnerability Detection – Rootkit Detection – Wazuh Integration System – Active Response – Security Configuration Assessment.",
+              "evidence_topics": [
+                "active",
+                "advanced",
+                "agent",
+                "analysis",
+                "and",
+                "architecture",
+                "assessment",
+                "cdb"
+              ],
+              "grounded": true
+            },
+            {
+              "field": "selling_points",
+              "value": "Pembelajaran menggunakan pendekatan praktik langsung sesuai materi training.",
+              "evidence_topics": [
+                "langsung",
+                "pendekatan",
+                "praktik"
+              ],
+              "grounded": true
+            }
+          ]
+        },
+        "language_quality": {
+          "passed": true
+        },
+        "duplication": {
+          "passed": true,
+          "removed": [
+            {
+              "field": "short_description",
+              "action": "SAFE_TRUNCATION"
+            },
+            {
+              "field": "repeat_policy",
+              "action": "REMOVE_FACILITY_CONTAMINATION"
+            }
+          ]
+        },
+        "field_relevance": {
+          "passed": true,
+          "violations": []
+        },
+        "commercial_safety": {
+          "passed": true
+        },
+        "cross_field_consistency": {
+          "passed": false
+        }
+      },
+      "errors": [],
+      "warnings": [
+        {
+          "code": "UNGROUNDED_SEMANTIC_ITEM",
+          "field": "learning_outcomes",
+          "message": "Tidak ditemukan topik pendukung pada facts.",
+          "blocking": false,
+          "value": "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        },
+        {
+          "code": "GENERIC_NEXT_CLASS_REASON",
+          "field": "next_classes",
+          "message": "Alasan progresi kelas terlalu generik.",
+          "blocking": false,
+          "value": "Katalog IDN dalam keluarga training yang sama."
+        }
+      ]
+    }
+  },
+  "repair": {
+    "requested": false,
+    "attempted": false,
+    "calls": 0,
+    "cache_hit": false,
+    "accepted": false
+  },
+  "kb_writes": 0
+}

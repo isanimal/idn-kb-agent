@@ -1,0 +1,12 @@
+{
+  "slug": "wazuh-for-security-engineer",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "historical_route": "data/publish_routes/wazuh-for-security-engineer/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "0aa606fa8a73551461bd875a86103cd1efc320776f8b5e7f9c25425a983e8c77",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

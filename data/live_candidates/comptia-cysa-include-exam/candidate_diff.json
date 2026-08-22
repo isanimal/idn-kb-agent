@@ -1,0 +1,167 @@
+{
+  "fields": [
+    {
+      "field": "full_name",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "CompTIA CySA+ (Include Exam)"
+    },
+    {
+      "field": "short_name",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "CompTIA CySA+ (Include Exam)"
+    },
+    {
+      "field": "category",
+      "action": "REPLACE_WITH_NEW",
+      "before": "— Tanpa kategori —",
+      "after": "Cybersecurity"
+    },
+    {
+      "field": "seo_url",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "https://www.idn.id/training/comptia-cysa-include-exam/"
+    },
+    {
+      "field": "advertising_links",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "training_formats",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "target_audiences",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        {
+          "audience": "Profesional IT yang mempelajari keamanan defensif",
+          "problem_solved": "Membantu peserta mempelajari dasar CompTIA CySA+ (Include Exam) sesuai cakupan kurikulum."
+        }
+      ]
+    },
+    {
+      "field": "certifications",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        {
+          "name": "CompTIA CySA+ (Include Exam)",
+          "level": "",
+          "exam_price": "",
+          "exam_duration": "",
+          "question_count": "",
+          "passing_score": "",
+          "open_book": "",
+          "retake_policy": "Relationship derived directly from the IDN registry product title containing '+ Exam'."
+        }
+      ]
+    },
+    {
+      "field": "tools",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "next_classes",
+      "action": "DEFERRED_RELATION",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "trainer_references",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        {
+          "trainer_name": "ADITYA FIRMAN NUGROHO",
+          "kb_trainer_id": "e7108827694444ce80c0b050e02847e4"
+        },
+        {
+          "trainer_name": "NURCHOLIS MAJID",
+          "kb_trainer_id": "c4defc97fa174eb895b19996bd831cea"
+        }
+      ]
+    },
+    {
+      "field": "short_description",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "CompTIA Cybersecurity Analyst (CySA+) merupakan sertifikasi untuk cyber profesional yang ditugaskan untuk mendeteksi, mencegah, dan merespons insiden melalui pemantauan keamanan berkelanjutan."
+    },
+    {
+      "field": "learning_outcomes",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+      ]
+    },
+    {
+      "field": "prerequisites",
+      "action": "UNCHANGED",
+      "before": [],
+      "after": []
+    },
+    {
+      "field": "repeat_policy",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Kebijakan mengulang training perlu dikonfirmasi kepada admin IDN."
+    },
+    {
+      "field": "practice_examples",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Melakukan vulnerability assessment pada lingkungan lab."
+      ]
+    },
+    {
+      "field": "post_training_support",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku."
+    },
+    {
+      "field": "selling_points",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Kurikulum mencakup 1. Security Operations 1.1 Explain the importance of system and network architecture concepts in security operations 1.2 Given a scenario, analyze indicators of potentially malicious activity 1.3 Given a scenario, use appropriate tools or techniques to determine malicious activty 1.4 Compare and contrast threat-intelligence and threat-hunting concepts 1.5 Explain the importance of efficiency and process improvement in security operations 2. Vulnerability Management 2.1 Given a scenario, implement vulnerability scanning methods and concepts 2.2 Given a scenario, analyze output from vulnerability assessment tools 2.3 Given a scenario, analyze data to prioritize vulnerabilties 2.4 Given a scenario, recommend controls to mitigate attacks and software vulnerabilities 2.5 Explain concepts related to vulnerability response, handling and management 3. Incident Response and Management 3.1 Explain concepts related to attacks methodology frameworks 3.2 Given a scenario, perform incident response activites 3.3 Explain the preparation and post incident activity phase of the incident management life cycle 4. Reproting and Communication 4.1 Explain the importance of vulnerability management reporting and communication 4.2 explain the importance of incident response reporting and communication.",
+        "Pembelajaran menggunakan pendekatan praktik langsung sesuai materi training."
+      ]
+    },
+    {
+      "field": "claims_to_avoid",
+      "action": "FILL_EMPTY",
+      "before": [],
+      "after": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+      ]
+    },
+    {
+      "field": "additional_notes",
+      "action": "FILL_EMPTY",
+      "before": "",
+      "after": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan."
+    },
+    {
+      "field": "active",
+      "action": "UNCHANGED",
+      "before": true,
+      "after": true
+    }
+  ]
+}

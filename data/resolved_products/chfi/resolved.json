@@ -1,0 +1,435 @@
+{
+  "schema_version": "resolver-v1",
+  "slug": "chfi",
+  "source_url": "https://www.idn.id/training/chfi/",
+  "product_status": "REVIEW_REQUIRED",
+  "completion": 95.24,
+  "needs_review": true,
+  "fields": {
+    "full_name": {
+      "status": "RESOLVED",
+      "value": "CHFI (Computer Hacking Forensic Investigator)",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_name": {
+      "status": "RESOLVED",
+      "value": "CHFI (Computer Hacking Forensic Investigator)",
+      "confidence": 0.9,
+      "source_type": "KB_INTERNAL",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "INTERNAL_KB",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "category": {
+      "status": "RESOLVED",
+      "value": "Cybersecurity",
+      "confidence": 0.8,
+      "source_type": "DETERMINISTIC_CLASSIFIER",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "seo_url": {
+      "status": "RESOLVED",
+      "value": "https://www.idn.id/training/chfi/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "advertising_links": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "training_formats": {
+      "status": "REVIEW_REQUIRED",
+      "value": [
+        {
+          "format": "UNKNOWN",
+          "duration": "5 hari",
+          "schedule": "09:00–17:00 WIB",
+          "public_price_reference": null,
+          "private_price_reference": null,
+          "price_note": "Observed price candidates: 21000000, 18000000; labels must be reviewed."
+        }
+      ],
+      "confidence": 0.55,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": true,
+      "note": "Format is missing or multiple price values lack authoritative labels.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "target_audiences": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "audience": "Peserta yang ingin mempelajari CHFI (Computer Hacking Forensic Investigator)",
+          "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "certifications": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "tools": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "next_classes": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "training_name": "CSCU (Certified Secure Computer User)",
+          "canonical_source_url": "https://www.idn.id/training/cscu/",
+          "reason": "Katalog IDN dalam keluarga training yang sama.",
+          "confidence": 0.7
+        }
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "trainer_references": {
+      "status": "RESOLVED",
+      "value": [
+        {
+          "trainer_name": "ADITYA FIRMAN NUGROHO",
+          "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+          "match_type": "EXACT"
+        }
+      ],
+      "confidence": 0.98,
+      "source_type": "IDN_TRAINER_EXACT+KB_REGISTRY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": "Exact normalized name match only.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "short_description": {
+      "status": "RESOLVED",
+      "value": "Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "learning_outcomes": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "prerequisites": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "repeat_policy": {
+      "status": "RESOLVED",
+      "value": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "practice_examples": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "post_training_support": {
+      "status": "RESOLVED",
+      "value": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+      "confidence": 0.7,
+      "source_type": "SAFE_DEFAULT",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "selling_points": {
+      "status": "NOT_APPLICABLE",
+      "value": [],
+      "confidence": 1.0,
+      "source_type": "NONE",
+      "sources": [],
+      "method": "SAFE_DEFAULT",
+      "needs_review": false,
+      "note": "No authoritative value available; intentionally left empty.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "claims_to_avoid": {
+      "status": "RESOLVED",
+      "value": [
+        "Jangan menjanjikan harga referensi sebagai harga final.",
+        "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+        "Jangan menjanjikan kelulusan sertifikasi.",
+        "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+      ],
+      "confidence": 0.82,
+      "source_type": "IDN_FACTS",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DERIVED",
+      "needs_review": false,
+      "note": "Derived conservatively from extracted product facts and catalog.",
+      "conflict": false,
+      "alternatives": []
+    },
+    "additional_notes": {
+      "status": "RESOLVED",
+      "value": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    },
+    "active": {
+      "status": "RESOLVED",
+      "value": true,
+      "confidence": 0.95,
+      "source_type": "IDN_PRIMARY",
+      "sources": [
+        {
+          "url": "https://www.idn.id/training/chfi/",
+          "type": "IDN_PRODUCT",
+          "title": null
+        }
+      ],
+      "method": "DIRECT_FACT",
+      "needs_review": false,
+      "note": null,
+      "conflict": false,
+      "alternatives": []
+    }
+  },
+  "payload": {
+    "full_name": "CHFI (Computer Hacking Forensic Investigator)",
+    "short_name": "CHFI (Computer Hacking Forensic Investigator)",
+    "category": "Cybersecurity",
+    "seo_url": "https://www.idn.id/training/chfi/",
+    "advertising_links": [],
+    "training_formats": [
+      {
+        "format": "UNKNOWN",
+        "duration": "5 hari",
+        "schedule": "09:00–17:00 WIB",
+        "public_price_reference": null,
+        "private_price_reference": null,
+        "price_note": "Observed price candidates: 21000000, 18000000; labels must be reviewed."
+      }
+    ],
+    "target_audiences": [
+      {
+        "audience": "Peserta yang ingin mempelajari CHFI (Computer Hacking Forensic Investigator)",
+        "problem_solved": "Membangun pemahaman dan keterampilan sesuai kurikulum training."
+      }
+    ],
+    "certifications": [],
+    "tools": [],
+    "next_classes": [
+      {
+        "training_name": "CSCU (Certified Secure Computer User)",
+        "canonical_source_url": "https://www.idn.id/training/cscu/",
+        "reason": "Katalog IDN dalam keluarga training yang sama.",
+        "confidence": 0.7
+      }
+    ],
+    "trainer_references": [
+      {
+        "trainer_name": "ADITYA FIRMAN NUGROHO",
+        "kb_trainer_id": "e7108827694444ce80c0b050e02847e4",
+        "match_type": "EXACT"
+      }
+    ],
+    "short_description": "Pelatihan CHFI (Computer Hacking Forensic Investigator) adalah program sertifikasi yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan dalam melakukan investigasi forensik komputer. Pelatihan ini berfokus pada teknik dan metode yang digunakan untuk mengidentifikasi, mengumpulkan, menganalisis, dan menyajikan bukti digital dalam konteks insiden keamanan siber. CHFI fokus pada investigasi digital forensik , mengajarkan cara mengumpulkan, menganalisis, dan mendokumentasikan bukti digital yang dapat digunakan dalam proses hukum. NOTE: Jika masih pemula atau awam di bidang EC-Council, disarankan untuk mempelajari materi Cyber Security Dasar terlebih dahulu . Gratis melalui link berikut >>> https://lms.idn.id/courses/belajar-cyber-security-dari-nol/",
+    "learning_outcomes": [],
+    "prerequisites": [],
+    "repeat_policy": "Free konsultasi after training (kalo perlu tindak lanjut, ke project). Free join mailing list IDN, bisa cari info kerja dan diskusi di grup. Bebas nge-lab di IDN di luar jam training khusus peserta training. FREE Mengulang Training Sebanyak 2 kali Free menginap ditempat training untuk peserta yang berasal dari luar kota",
+    "practice_examples": [],
+    "post_training_support": "Support pasca-training mengikuti program dan kebijakan IDN yang berlaku.",
+    "selling_points": [],
+    "claims_to_avoid": [
+      "Jangan menjanjikan harga referensi sebagai harga final.",
+      "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+      "Jangan menjanjikan kelulusan sertifikasi.",
+      "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+    ],
+    "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+    "active": true
+  },
+  "warnings": [],
+  "source_conflicts": []
+}

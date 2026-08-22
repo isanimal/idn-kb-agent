@@ -14,7 +14,9 @@ def validate_resolved_product(result:ResolvedProduct,ctx,facts:dict)->list[str]:
         if url and urlparse(url).scheme not in {"http","https"}:errors.append("INVALID_URL")
     for f in p.training_formats:
         if any(x is not None and (not isinstance(x,int) or x<0) for x in (f.public_price_reference,f.private_price_reference)):errors.append("INVALID_PRICE")
-    semantic=SemanticEnrichment(short_description=p.short_description[:350],learning_outcomes=p.learning_outcomes[:5],target_audiences=[x.model_dump() for x in p.target_audiences[:3]],prerequisites=p.prerequisites[:4],practice_examples=p.practice_examples[:4],selling_points=p.selling_points[:5],claims_to_avoid=p.claims_to_avoid[:5])
+    clip=lambda value:str(value)[:350]
+    audiences=[{k:clip(v) if v is not None else None for k,v in x.model_dump().items()} for x in p.target_audiences[:3]]
+    semantic=SemanticEnrichment(short_description=clip(p.short_description),learning_outcomes=[clip(x) for x in p.learning_outcomes[:5]],target_audiences=audiences,prerequisites=[clip(x) for x in p.prerequisites[:4]],practice_examples=[clip(x) for x in p.practice_examples[:4]],selling_points=[clip(x) for x in p.selling_points[:5]],claims_to_avoid=[clip(x) for x in p.claims_to_avoid[:5]])
     if not indonesian_language_ok(semantic):errors.append("OUTPUT_LANGUAGE_MISMATCH")
     title=((facts.get("identity") or {}).get("full_name") or {}).get("value","")
     cert_evidence=((facts.get("certifications") or {}).get("evidence") or [])

@@ -1,0 +1,19 @@
+{
+  "slug": "comptia-cysa-include-exam",
+  "name": "CompTIA CySA+ (Include Exam)",
+  "source_url": "https://www.idn.id/training/comptia-cysa-include-exam/",
+  "source_category": "Cyber Security",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "OBSERVED",
+  "mapping_confidence": 0.95,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "8fe84ce0a0de67e0b89fad83747df6c08a72229e9f82c3f9ffa6db2ad70ae822",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

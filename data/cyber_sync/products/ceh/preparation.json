@@ -1,0 +1,19 @@
+{
+  "slug": "ceh",
+  "name": "Certified Ethical Hacker (CEH)",
+  "source_url": "https://www.idn.id/training/ceh/",
+  "source_category": "Cyber Security",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "OBSERVED",
+  "mapping_confidence": 0.95,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "f75aed26ac20159350ed15c72bbcd2ceb913dcc0ab6509cd7f83f589006689ad",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

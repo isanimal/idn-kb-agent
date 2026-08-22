@@ -1,0 +1,12 @@
+{
+  "slug": "chfi",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "historical_route": "data/publish_routes/chfi/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "b40b1aab12a62d92ebb1599f8bab332b6d68ecf623a994284a4e36ff36ea2621",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

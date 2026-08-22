@@ -3,7 +3,7 @@ from dataclasses import dataclass,field
 from datetime import datetime,timezone,timedelta
 from enum import Enum
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import parse_qs,urlsplit
 
 from app.browser.manager import BrowserManager
 from app.candidate.service import PARITY,SECTIONS,_add_row,_ensure,_fill_row,_has_removal,_section,candidate_hash,discover_schema,parse_full,save
@@ -22,6 +22,10 @@ class BaselineChanged(LivePublishError):pass
 class FinalDOMMismatch(LivePublishError):pass
 class SaveControlMissing(LivePublishError):pass
 class SaveControlAmbiguous(LivePublishError):pass
+
+def _product_id_from_url(url):
+    values=parse_qs(urlsplit(url).query).get("id",[])
+    return values[0] if len(values)==1 and values[0] else None
 
 class PublishState(str,Enum):
     PREPARING="PREPARING";VALIDATING="VALIDATING";FORM_FILLED="FORM_FILLED";FINAL_VERIFICATION="FINAL_VERIFICATION";ARMED="ARMED";SAVE_CLICK_ACTIVE="SAVE_CLICK_ACTIVE";SUBMITTING="SUBMITTING";SUBMITTED="SUBMITTED";VERIFYING="VERIFYING";VERIFIED="VERIFIED"
@@ -147,7 +151,8 @@ def publish_live(slug,supplied_hash,confirm_write,settings):
         if any(x["client_side_probe_added"] for x in schema["sections"].values()):_ensure(page,route["target_url"])
         trainers=load("data/kb_site_models/kb_training_form_schema.json").get("trainer_options",[]);baseline=parse_full(page,schema,trainers)
         if _sha(baseline)!=a["baseline_hash.json"]["baseline_hash"]:raise BaselineChanged("BASELINE_CHANGED")
-        for name,value in (("candidate_report.json",a["candidate_report.json"]),("candidate_payload.json",a["candidate_payload.json"]),("candidate_diff.json",a["candidate_diff.json"]),("pre_write_form.json",baseline),("pre_write_target_snapshot.json",next(x for x in inventory["products"] if x["kb_product_id"]==route["kb_product_id"])),("pre_write_inventory.json",inventory),("pre_write_hashes.json",a["baseline_hash.json"])):save(folder/name,{"publish_run_id":run_id,"data":value})
+        target_snapshot=next((x for x in inventory["products"] if x["kb_product_id"]==route.get("kb_product_id")),None)
+        for name,value in (("candidate_report.json",a["candidate_report.json"]),("candidate_payload.json",a["candidate_payload.json"]),("candidate_diff.json",a["candidate_diff.json"]),("pre_write_form.json",baseline),("pre_write_target_snapshot.json",target_snapshot),("pre_write_inventory.json",inventory),("pre_write_hashes.json",a["baseline_hash.json"])):save(folder/name,{"publish_run_id":run_id,"data":value})
         guard.state=PublishState.VALIDATING;_apply_candidate(page,baseline,a["candidate_payload.json"],a["candidate_diff.json"],trainers);guard.state=PublishState.FORM_FILLED
         final=parse_full(page,schema,trainers)
         for d in a["candidate_diff.json"]["fields"]:
@@ -163,15 +168,23 @@ def publish_live(slug,supplied_hash,confirm_write,settings):
             # Never click again; verification below is the only recovery path.
             save_clicks=1;uncertain=True
         page.wait_for_timeout(1500);guard.state=PublishState.SUBMITTED
-        guard.state=PublishState.VERIFYING;_ensure(page,route["target_url"]);actual=parse_full(page,discover_schema(page),trainers)
+        effective_product_id=route.get("kb_product_id") or _product_id_from_url(page.url)
+        if not effective_product_id:raise LivePublishError("CREATED_PRODUCT_ID_NOT_OBSERVED")
+        verification_url=f"{settings.kb_training_create_url.split('/edit?',1)[0]}/edit?id={effective_product_id}"
+        guard.state=PublishState.VERIFYING;_ensure(page,verification_url);actual=parse_full(page,discover_schema(page),trainers)
         post=[]
         for d in a["candidate_diff.json"]["fields"]:
             status="DEFERRED" if d["action"]=="DEFERRED_RELATION" else "PERSISTED" if actual[d["field"]]==d["after"] else "PRESERVED" if d["action"] in {"PRESERVE_EXISTING","UNCHANGED"} and actual[d["field"]]==d["before"] else "MISMATCH"
             post.append({"field":d["field"],"expected_before":d["before"],"expected_after":d["after"],"actual_after":actual[d["field"]],"status":status,"match":status!="MISMATCH"})
         save(folder/"post_write_diff.json",{"publish_run_id":run_id,"fields":post});guard.state=PublishState.VERIFIED if all(x["match"] for x in post) else PublishState.VERIFYING
-        manager.stop();post_inventory=refresh_live_index(settings);duplicate_report=audit_duplicates(post_inventory);target_rows=[x for x in post_inventory["products"] if x["kb_product_id"]==route.get("kb_product_id")];target_ok=len(target_rows)==1
-        duplicate_error=any(any(x["kb_product_id"]==route.get("kb_product_id") for x in group["products"]) for group in duplicate_report["duplicate_groups"]);count_ok=post_inventory["count"]==inventory["count"] if route["identity_decision"]=="UPDATE_EXISTING" else post_inventory["count"]==inventory["count"]+1
+        manager.stop();post_inventory=refresh_live_index(settings);duplicate_report=audit_duplicates(post_inventory);target_rows=[x for x in post_inventory["products"] if x["kb_product_id"]==effective_product_id];target_ok=len(target_rows)==1
+        duplicate_error=any(any(x["kb_product_id"]==effective_product_id for x in group["products"]) for group in duplicate_report["duplicate_groups"]);count_ok=post_inventory["count"]==inventory["count"] if route["identity_decision"]=="UPDATE_EXISTING" else post_inventory["count"]==inventory["count"]+1
         verified=guard.state==PublishState.VERIFIED and target_ok and not duplicate_error
         result="PASS" if verified else "VERIFIED_WITH_DUPLICATE_ERROR" if duplicate_error else "MANUAL_REVIEW_REQUIRED"
-        report={"publish_run_id":run_id,"slug":slug,"mode":route["identity_decision"],"candidate_hash":supplied_hash,"state":"VERIFIED" if verified else guard.state.value,"save_clicks":save_clicks,"submission":{"status":"SUCCESS" if verified else "SUBMISSION_UNCERTAIN" if uncertain else "MANUAL_REVIEW_REQUIRED","network":guard.network_audit},"verification":{"edit_form":"PASS" if all(x["match"] for x in post) else "FAIL","target_id":"PASS" if target_ok else "FAIL","duplicate_check":"PASS" if not duplicate_error else "FAIL","before_count":inventory["count"],"after_count":post_inventory["count"],"count_expectation":"PASS" if count_ok else "WARNING"},"server_write_count":guard.save_requests,"result":result};save(folder/"publish_report.json",report);return report
+        report={"publish_run_id":run_id,"slug":slug,"mode":route["identity_decision"],"kb_product_id":effective_product_id,"candidate_hash":supplied_hash,"state":"VERIFIED" if verified else guard.state.value,"save_clicks":save_clicks,"submission":{"status":"SUCCESS" if verified else "SUBMISSION_UNCERTAIN" if uncertain else "MANUAL_REVIEW_REQUIRED","network":guard.network_audit},"verification":{"edit_form":"PASS" if all(x["match"] for x in post) else "FAIL","target_id":"PASS" if target_ok else "FAIL","duplicate_check":"PASS" if not duplicate_error else "FAIL","before_count":inventory["count"],"after_count":post_inventory["count"],"count_expectation":"PASS" if count_ok else "WARNING"},"server_write_count":guard.save_requests,"result":result};save(folder/"publish_report.json",report);return report
+    except Exception as exc:
+        # Propagate whether the single guarded mutation was observed so batch
+        # orchestration can distinguish a safe pre-save skip from a mandatory stop.
+        setattr(exc,"server_write_count",guard.save_requests or save_clicks)
+        raise
     finally:manager.stop()

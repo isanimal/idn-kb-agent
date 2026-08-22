@@ -1,0 +1,12 @@
+{
+  "slug": "devsecops-development-security-operations",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "target_url": "https://kb.idn.id/kb/training/edit?new=1",
+  "historical_route": "data/publish_routes/devsecops-development-security-operations/route.json",
+  "effective_conflict_reconciliation": [],
+  "effective_conflicts": [],
+  "candidate_hash": "038ebb7e7b861a43d4f98b4368817560569d6ec9977159f0210f861969e44cae",
+  "live_candidate_readiness": "READY",
+  "live_publish_implemented": false
+}

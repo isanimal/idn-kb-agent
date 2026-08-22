@@ -1,0 +1,45 @@
+{
+  "full_name": "ICS/IOT Industrial Security",
+  "short_name": "ICS/IOT Industrial Security",
+  "category": "Cybersecurity",
+  "seo_url": "https://www.idn.id/training/ics-iot-industial-security/",
+  "advertising_links": [],
+  "training_formats": [],
+  "target_audiences": [
+    {
+      "audience": "Profesional IT Termasuk engineer dan administrator sistem yang ingin memperdalam pemahaman tentang keamanan siber di environment ICS/OT. Manajer Keamanan Siber Mereka yang bertanggung jawab atas strategi keamanan siber di perusahaan industri. Engineer OT Para insinyur yang bekerja di sektor operasional dan ingin memahami aspek keamanan siber dalam sistem yang mereka kelola. Mahasiswa atau Pelajar Mereka yang ingin mempersiapkan diri untuk karir di bidang keamanan siber dan teknologi industri.",
+      "problem_solved": ""
+    }
+  ],
+  "certifications": [],
+  "tools": [],
+  "next_classes": [],
+  "trainer_references": [],
+  "short_description": "Training ICS /IOT Industrial Security adalah program pelatihan yang dirancang untuk membekali peserta dengan pengetahuan dan keterampilan yang diperlukan untuk melindungi sistem kontrol industri ( ICS ) dan Internet of Things (IoT) dari berbagai ancaman siber.",
+  "learning_outcomes": [
+    "Mampu melakukan pemindaian port dalam ruang lingkup pengujian yang diotorisasi.",
+    "Mampu mengidentifikasi kerentanan dasar dan menyusun rekomendasi perbaikan."
+  ],
+  "prerequisites": [],
+  "repeat_policy": "Gratis Mengulang Training 2 Kali tanpa syarat.",
+  "practice_examples": [
+    "Melakukan port scanning menggunakan Nmap pada lingkungan lab yang diotorisasi.",
+    "Melakukan vulnerability assessment pada lingkungan lab."
+  ],
+  "post_training_support": "Ambil bagian dalam sesi interaktif dengan instruktur kami.",
+  "selling_points": [
+    "Sertifikat",
+    "Modul",
+    "T-shirt",
+    "Makan siang",
+    "Coffee Break"
+  ],
+  "claims_to_avoid": [
+    "Jangan menjanjikan harga referensi sebagai harga final.",
+    "Jangan menjanjikan trainer tertentu jika belum dikonfirmasi.",
+    "Jangan menjanjikan kelulusan sertifikasi.",
+    "Praktik keamanan hanya boleh dilakukan pada sistem yang memiliki izin eksplisit."
+  ],
+  "additional_notes": "Informasi komersial, jadwal, lokasi, trainer, dan fasilitas perlu dikonfirmasi sebelum ditawarkan.",
+  "active": true
+}

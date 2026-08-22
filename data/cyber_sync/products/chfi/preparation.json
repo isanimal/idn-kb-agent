@@ -1,0 +1,19 @@
+{
+  "slug": "chfi",
+  "name": "CHFI (Computer Hacking Forensic Investigator)",
+  "source_url": "https://www.idn.id/training/chfi/",
+  "source_category": "EC-Council",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "DETERMINISTIC_CLASSIFIER",
+  "mapping_confidence": 0.8,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "b40b1aab12a62d92ebb1599f8bab332b6d68ecf623a994284a4e36ff36ea2621",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

@@ -1,0 +1,150 @@
+{
+  "schema_version": "live-candidate-v1",
+  "slug": "devsecops-development-security-operations",
+  "generated_at": "2026-08-22T03:33:02.626345+00:00",
+  "mode": "CREATE_NEW",
+  "quality": "READY",
+  "identity": "CREATE_NEW",
+  "merge": "NOT_REQUIRED",
+  "field_parity": {
+    "total": 21,
+    "implemented": 21,
+    "missing": []
+  },
+  "actions": [
+    {
+      "field": "full_name",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "short_name",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "category",
+      "action": "REPLACE_WITH_NEW"
+    },
+    {
+      "field": "seo_url",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "short_description",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "learning_outcomes",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "prerequisites",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "repeat_policy",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "practice_examples",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "post_training_support",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "selling_points",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "claims_to_avoid",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "additional_notes",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "target_audiences",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "target_audiences",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "target_audiences",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "certifications",
+      "action": "SKIPPED_EMPTY"
+    },
+    {
+      "field": "next_classes",
+      "action": "DEFERRED_RELATION"
+    },
+    {
+      "field": "trainer_references",
+      "action": "FILL_EMPTY"
+    },
+    {
+      "field": "trainer_references",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "trainer_references",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "trainer_references",
+      "action": "AUGMENT"
+    },
+    {
+      "field": "active",
+      "action": "UNCHANGED"
+    }
+  ],
+  "changes": {
+    "UNCHANGED": 5,
+    "FILL_EMPTY": 14,
+    "REPLACE_WITH_NEW": 1,
+    "AUGMENT": 0,
+    "PRESERVE_EXISTING": 0,
+    "DEFERRED_RELATION": 1,
+    "REVIEW_REQUIRED": 0
+  },
+  "dynamic": {
+    "advertising_links": "EMPTY",
+    "training_formats": "EMPTY",
+    "target_audiences": "PASS",
+    "certifications": "EMPTY",
+    "tools": "EMPTY",
+    "next_classes": "DEFERRED",
+    "trainer_references": "PASS",
+    "active": "PASS"
+  },
+  "original_conflicts": 0,
+  "resolved_by_preserve": 0,
+  "effective_conflicts": 0,
+  "round_trip": "PASS",
+  "content_regression": false,
+  "unexpected_removal": false,
+  "deferred_relations_count": 1,
+  "candidate_hash": "038ebb7e7b861a43d4f98b4368817560569d6ec9977159f0210f861969e44cae",
+  "live_candidate_readiness": "READY",
+  "server_writes": 0,
+  "save_clicked": false,
+  "screenshots": [
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\01-baseline.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\02-static.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\03-training-formats.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\04-target-audiences.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\05-certifications.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\06-tools.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\07-next-classes.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\08-trainers.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\09-active.png",
+    "runtime\\screenshots\\candidates\\devsecops-development-security-operations\\10-final-candidate.png"
+  ]
+}

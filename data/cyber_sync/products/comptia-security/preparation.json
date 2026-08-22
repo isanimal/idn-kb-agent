@@ -1,0 +1,19 @@
+{
+  "slug": "comptia-security",
+  "name": "CompTIA Security+ (Include Exam)",
+  "source_url": "https://www.idn.id/training/comptia-security/",
+  "source_category": "Cyber Security",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "OBSERVED",
+  "mapping_confidence": 0.95,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "67113d66107c8bce14c7dd06e7b41c7eca573c7c098491652010d9b9fe24474b",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

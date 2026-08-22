@@ -1,0 +1,19 @@
+{
+  "slug": "ics-iot-industial-security",
+  "name": "ICS/IOT Industrial Security",
+  "source_url": "https://www.idn.id/training/ics-iot-industial-security/",
+  "source_category": "Cyber Security",
+  "mapped_category": "Cybersecurity",
+  "mapping_method": "OBSERVED",
+  "mapping_confidence": 0.95,
+  "kb_status": "NOT_IN_KB",
+  "identity_decision": "CREATE_NEW",
+  "kb_product_id": null,
+  "mode": "CREATE_NEW",
+  "candidate_hash": "c7e2bd0ca97584af21325a6d2ebc1200e36c3b68cbd87bfea0cabf65f8be67a1",
+  "readiness": "READY_WITH_WARNINGS",
+  "warnings": [
+    "UNKNOWN_FORMAT_OMITTED"
+  ],
+  "status": "PREPARED"
+}

@@ -1,0 +1,1 @@
+"""Cybersecurity-only synchronization workflow."""
